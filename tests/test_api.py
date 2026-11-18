@@ -1,0 +1,54 @@
+"""Plumbing only: /api/analyze records a run and returns the three picks."""
+import pytest
+from fastapi.testclient import TestClient
+
+
+@pytest.fixture
+def client(tmp_path, monkeypatch):
+    import shelfscout.trace as t
+    monkeypatch.setattr(t, "RUNS", tmp_path / "runs")
+    import shelfscout.api as api
+    return TestClient(api.app)
+
+
+CARDS = [
+    {"asin": "AD", "position": 1, "sponsored": True, "price": 9.0, "rating": 4.5, "n_ratings": 900, "badges": []},
+    {"asin": "CHEAP", "position": 2, "price": 2.0, "rating": 3.0, "n_ratings": 4, "badges": []},
+    {"asin": "VALUE", "position": 3, "price": 5.0, "rating": 4.6, "n_ratings": 800, "badges": []},
+    {"asin": "PRICEY", "position": 4, "price": 15.0, "rating": 4.7, "n_ratings": 3000, "badges": ["Overall Pick"]},
+    {"asin": "VALUE", "position": 5, "price": 5.0, "rating": 4.6, "n_ratings": 800, "badges": []},  # repeat
+    {"asin": "FREE", "position": 6, "price": 0.0, "rating": 4.0, "n_ratings": 10, "badges": []},
+]
+
+
+def test_analyze_picks(client):
+    r = client.post("/api/analyze", json={"url": "u", "keyword": "k", "products": CARDS}).json()
+    assert r["status"] == "ok"
+    assert r["stats"]["items"] == 4                      # repeat and $0 dropped
+    assert r["best_value"]["asin"] == "VALUE"
+    assert r["best_price"]["asin"] == "CHEAP" and r["best_price"]["warn"] == "few ratings"
+    assert r["amazon_pick"]["asin"] == "PRICEY" and r["amazon_pick"]["pick_reason"] == "badge"
+    assert client.get(f"/runs/{r['run_id']}").status_code == 200
+
+
+def test_export_xlsx(client):
+    import base64, io
+    from openpyxl import load_workbook
+    r = client.post("/api/analyze", json={"url": "u", "keyword": "k", "products": CARDS}).json()
+    x = client.post("/api/export", json={"keyword": "k", "result": r, "products": CARDS}).json()
+    wb = load_workbook(io.BytesIO(base64.b64decode(x["xlsx_b64"])))
+    assert wb.sheetnames == ["Shortlist", "Products", "Insights"]
+    sl = wb["Shortlist"]
+    assert sl["A2"].value.startswith("Best value") and sl["H2"].hyperlink.target.endswith("/dp/VALUE")
+    assert wb["Products"].max_row == 5  # header + 4 unique priced products
+
+
+def test_major_complaint_blocks_best_value(client):
+    feats = {"VALUE": {"features": [{"name": "durability", "mentions": 40, "positive": 20, "negative": 20}], "stars": {"1": 9}},
+             "PRICEY": {"features": [{"name": "quality", "mentions": 50, "positive": 48, "negative": 2}], "stars": {"1": 2}}}
+    r = client.post("/api/analyze", json={"url": "u", "keyword": "k", "products": CARDS, "features": feats,
+                                          "fetch_log": [{"asin": "VALUE", "status": "fetched"}], "phase": "features"}).json()
+    assert r["best_value"]["asin"] != "VALUE"                      # 50% negative durability rules it out
+    assert any("major complaint" in i["insight"] and "VALUE" in i["asins"] for i in r["insights"])
+    assert r["features_known"] == 2
+    assert client.get("/runs").status_code == 200 and client.get(f"/api/runs/{r['run_id']}").json()["name"] == "analyze"

@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "ShelfScout (dev)",
+  "version": "0.7.1",
+  "description": "Best value on any Amazon search, vs best price and Amazon's pick. Dev build: analysis runs on localhost.",
+  "permissions": [
+    "storage",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://www.amazon.com/*",
+    "http://localhost:8100/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.amazon.com/*"
+      ],
+      "js": [
+        "page-kind.js",
+        "parsers.js",
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "action": {
+    "default_title": "ShelfScout: open the panel on this Amazon page"
+  },
+  "options_page": "options.html"
+}

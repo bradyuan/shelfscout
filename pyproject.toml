@@ -1,0 +1,31 @@
+[project]
+name = "shelfscout"
+version = "0.1.0"
+description = "Agentic RAG competitor intelligence for Amazon sellers"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "chromadb>=1.5.9",
+    "fastapi>=0.115",
+    "langchain>=1.5.1",
+    "langchain-anthropic>=1.7.11",
+    "langchain-chroma>=1.1.0",
+    "langchain-google-genai>=4.5.0",
+    "langchain-openai>=1.8.2",
+    "langgraph>=1.2.22",
+    "lxml>=6.1.3",
+    "openpyxl>=3.1.5",
+    "selenium>=4.52.0",
+    "sentence-transformers>=6.3.0",
+    "uvicorn>=0.30",
+]
+
+[dependency-groups]
+dev = [
+    "httpx>=0.28.1",
+    "pytest>=8",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

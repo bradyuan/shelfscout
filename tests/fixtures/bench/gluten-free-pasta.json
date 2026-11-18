@@ -1,0 +1,1634 @@
+{
+ "query": "gluten free pasta",
+ "pattern": "without",
+ "key_terms": [
+  "gluten free|gluten-free"
+ ],
+ "url": "https://www.amazon.com/s?k=gluten+free+pasta",
+ "frozen_at": "2026-11-18 13:33",
+ "cards": [
+  {
+   "advertised": false,
+   "asin": "B00FE9LDI0",
+   "badges": [],
+   "bought_past_month": "5K+",
+   "n_ratings": 2625,
+   "organic_rank": 1,
+   "position": 5,
+   "price": 2.89,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Barilla Gluten Free Elbows Pasta, Non-GMO, 12oz."
+  },
+  {
+   "advertised": false,
+   "asin": "B00FE9LC3G",
+   "badges": [],
+   "bought_past_month": "800+",
+   "n_ratings": 2936,
+   "organic_rank": 2,
+   "position": 6,
+   "price": 2.67,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Barilla Gluten Free Penne Pasta, Non-GMO , 12oz."
+  },
+  {
+   "advertised": false,
+   "asin": "B00EDQB80S",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 225,
+   "organic_rank": 3,
+   "position": 7,
+   "price": 19.99,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Le Veneziane - Italian Fusilli (Eliche) Pasta [Gluten-Free], (4)- 8.8 oz. Pkgs"
+  },
+  {
+   "advertised": false,
+   "asin": "B00FE9LC0O",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 3452,
+   "organic_rank": 4,
+   "position": 8,
+   "price": 3.49,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Barilla Gluten Free Rotini Pasta, Non-GMO , 12oz."
+  },
+  {
+   "advertised": false,
+   "asin": "B00FE9LCYK",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 5547,
+   "organic_rank": 5,
+   "position": 9,
+   "price": 2.67,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Barilla Gluten Free Spaghetti Pasta, Non-GMO , 12oz."
+  },
+  {
+   "advertised": false,
+   "asin": "B00R0OAZDG",
+   "badges": [],
+   "bought_past_month": "900+",
+   "n_ratings": 873,
+   "organic_rank": 6,
+   "position": 10,
+   "price": 32.83,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Barilla Gluten Free Rotini Pasta, Non-GMO , 12oz. (8PK)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0BX5BNK5R",
+   "badges": [],
+   "bought_past_month": "6K+",
+   "n_ratings": 2063,
+   "organic_rank": 7,
+   "position": 11,
+   "price": 19.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Gluten Free Ramen Noodles 10 Healthy Rice GF Low Sodium Gluten Free Noodles"
+  },
+  {
+   "advertised": false,
+   "asin": "B07H2GQ1P5",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 1189,
+   "organic_rank": 8,
+   "position": 12,
+   "price": 2.89,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Barilla Gluten Free Fettuccine Pasta, Non-GMO , 12oz."
+  },
+  {
+   "advertised": false,
+   "asin": "B0DQ2BGN71",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 3,
+   "organic_rank": 9,
+   "position": 13,
+   "price": 4.19,
+   "rating": 5,
+   "sponsored": false,
+   "title": "DE CECCO PASTA Fusilli Pasta, 12 OZ"
+  },
+  {
+   "advertised": false,
+   "asin": "B08L8G4G8Z",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 65,
+   "organic_rank": 10,
+   "position": 14,
+   "price": 3.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Rummo Gluten Free Elbows Pasta N.160 - Elbow Macaroni Noodles, Made with Brown Rice & Corn, Whole Wheat Pasta, GF Pasta Noodles- 16 Ounce (Pack of 1)"
+  },
+  {
+   "advertised": false,
+   "asin": "B005K0K45Q",
+   "badges": [],
+   "bought_past_month": "8K+",
+   "n_ratings": 2055,
+   "organic_rank": 11,
+   "position": 15,
+   "price": 4.58,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Jovial, Organic Pasta Brown Rice Fusilli, 12 Ounce"
+  },
+  {
+   "advertised": false,
+   "asin": "B00CQ7T0UG",
+   "badges": [],
+   "bought_past_month": "2K+",
+   "n_ratings": 62,
+   "organic_rank": 12,
+   "position": 16,
+   "price": 4.83,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Jovial, Organic Pasta Brown Rice Caserecce, 12 Ounce"
+  },
+  {
+   "advertised": false,
+   "asin": "B0D8WSVSWM",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 56,
+   "organic_rank": 13,
+   "position": 21,
+   "price": 4.83,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Jovial Organic Brown Rice Bucatini Pasta - Gluten Free Whole Grain Bucatini, Dairy Free, Made with 2 Ingredients, Non GMO, Artisan Crafted in Italy - 10 Oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B00FR6XP3Q",
+   "badges": [],
+   "bought_past_month": "7K+",
+   "n_ratings": 2268,
+   "organic_rank": 14,
+   "position": 22,
+   "price": 2.99,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Barilla Protein+ (Plus) Elbows Pasta, Plant Based Protein, 14.5oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DT1GKGXV",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 46,
+   "organic_rank": 15,
+   "position": 23,
+   "price": 2.49,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "365 By Whole Foods Market Corn & Rice Fusilli Pasta, 8 Ounce"
+  },
+  {
+   "advertised": false,
+   "asin": "B0FFTMB7WD",
+   "badges": [],
+   "bought_past_month": "40K+",
+   "n_ratings": 2207,
+   "organic_rank": 16,
+   "position": 24,
+   "price": 10.49,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Momofuku Soy & Scallion Ramen Noodles by David Chang, 4 Pack of Restaurant Quality Instant Noodles Now with More Sauce & 10g of Protein"
+  },
+  {
+   "advertised": false,
+   "asin": "B0GHZP4LSK",
+   "badges": [],
+   "bought_past_month": "500+",
+   "n_ratings": 32,
+   "organic_rank": 17,
+   "position": 29,
+   "price": 30.5,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Rummo Gluten-Free Pasta Variety Pack \u2013 5 Pack Assortment (Spaghetti, Rigatoni, Penne Rigate, Fusilli, Elbows) \u2013 Premium Italian Dry Pasta"
+  },
+  {
+   "advertised": false,
+   "asin": "B0D42DM2CC",
+   "badges": [],
+   "bought_past_month": "2K+",
+   "n_ratings": 495,
+   "organic_rank": 18,
+   "position": 30,
+   "price": 27.07,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "Miracle Noodle Egg White Spaghetti Pasta, 3.5 Oz (Pack of 6)"
+  },
+  {
+   "advertised": false,
+   "asin": "B074H6G7GX",
+   "badges": [],
+   "bought_past_month": "30K+",
+   "n_ratings": 8377,
+   "organic_rank": 19,
+   "position": 31,
+   "price": 1.99,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "365 by Whole Foods Market, Organic Spaghetti, 16 Ounce"
+  },
+  {
+   "advertised": false,
+   "asin": "B07FTYX84V",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 345,
+   "organic_rank": 20,
+   "position": 32,
+   "price": 4.99,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Rummo Gluten Free Spaghetti Pasta N.3 - Corn & Rice Pasta Noodles, GF Spaghetti, Thin Pasta Noodles, Italian Pasta - 12 Ounce (Pack of 1)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0GCFBM5Z8",
+   "badges": [],
+   "bought_past_month": "4K+",
+   "n_ratings": 556,
+   "organic_rank": 21,
+   "position": 33,
+   "price": 34.5,
+   "rating": 3.8,
+   "sponsored": false,
+   "title": "Legendary Foods 47g Protein Pasta Gluten Free Easy Mac and Cheese Cup"
+  },
+  {
+   "advertised": false,
+   "asin": "B08P3T79QD",
+   "badges": [],
+   "bought_past_month": "2K+",
+   "n_ratings": 7977,
+   "organic_rank": 22,
+   "position": 34,
+   "price": null,
+   "rating": 3.9,
+   "sponsored": false,
+   "title": "It's Skinny Shirataki Konjac Low Carb Keto Pasta Variety Pack, 6 Pack"
+  },
+  {
+   "advertised": false,
+   "asin": "B07FW8NSQ5",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 2245,
+   "organic_rank": 23,
+   "position": 35,
+   "price": 2.49,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "365 by Whole Foods Market, Corn & Rice Penne Rigate, 12 Ounce"
+  },
+  {
+   "advertised": false,
+   "asin": "B074H5ZHFH",
+   "badges": [],
+   "bought_past_month": "30K+",
+   "n_ratings": 8848,
+   "organic_rank": 24,
+   "position": 36,
+   "price": 1.99,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "365 by Whole Foods Market, Organic Penne Rigate, 16 Ounce"
+  },
+  {
+   "advertised": false,
+   "asin": "B0CSS38TDD",
+   "badges": [],
+   "bought_past_month": "6K+",
+   "n_ratings": 1391,
+   "organic_rank": 25,
+   "position": 37,
+   "price": 3.62,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Velveeta Gluten Free Shells and Cheese Mac and Cheese Dinner, 12 oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B07D633ZWK",
+   "badges": [],
+   "bought_past_month": "6K+",
+   "n_ratings": 1905,
+   "organic_rank": 26,
+   "position": 38,
+   "price": 3.42,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Banza Gluten Free Cavatappi Pasta from Chickpeas - 8 oz Box"
+  },
+  {
+   "advertised": false,
+   "asin": "B077QPSCD6",
+   "badges": [],
+   "bought_past_month": "2K+",
+   "n_ratings": 540,
+   "organic_rank": 27,
+   "position": 39,
+   "price": 4.29,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Rummo Gluten Free Penne Rigate N.66 - Gluten Free Pasta, Made with Corn & Rice, Penne Pasta Noodles, Pasta from Italy - 12 Ounce (Pack of 1)"
+  },
+  {
+   "advertised": false,
+   "asin": "B006KZYT38",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 3042,
+   "organic_rank": 28,
+   "position": 40,
+   "price": 6.29,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Amy's Frozen Meals, Pasta Bowl, Broccoli and Cheddar Cheese Bake, 9.5 oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B0FQBYY6TQ",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 425,
+   "organic_rank": 29,
+   "position": 41,
+   "price": 22.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Gluten Free Ramen Noodles Chicken Soup Healthy Rice GF Gluten Free Noodles"
+  },
+  {
+   "advertised": false,
+   "asin": "B01FUZMVQ0",
+   "badges": [],
+   "bought_past_month": "7K+",
+   "n_ratings": 1804,
+   "organic_rank": 30,
+   "position": 42,
+   "price": 4.83,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Jovial Whole Grain Brown Rice Elbows Pasta -Whole Grain, 12 Oz, 1 Pack"
+  },
+  {
+   "advertised": false,
+   "asin": "B00EJXUNBK",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 2873,
+   "organic_rank": 31,
+   "position": 43,
+   "price": 5.51,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Jovial Whole Grain Brown Rice Egg Tagliatelle Pasta, Organic Pasta, 9 Oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B01MRYH92Z",
+   "badges": [],
+   "bought_past_month": "5K+",
+   "n_ratings": 735,
+   "organic_rank": 32,
+   "position": 44,
+   "price": 5.15,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Jovial Gluten Free Brown Rice Pasta Organic - Award-Winning Taste & Texture, Non-GMO, Free of Top 8 Allergens, Vegan Brown Rice Noodles, Made in Italy - Gluten Free Spaghetti, 12 oz"
+  },
+  {
+   "advertised": true,
+   "asin": "B06XZFNTPT",
+   "badges": [],
+   "bought_past_month": "600+",
+   "n_ratings": 799,
+   "organic_rank": 33,
+   "position": 45,
+   "price": 23.02,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Jovial Brown Rice Farfalle, Penne, & Elbows Pasta, 12 Oz, 3 Pack Variety"
+  },
+  {
+   "advertised": false,
+   "asin": "B07FWJ8HPY",
+   "badges": [],
+   "bought_past_month": "2K+",
+   "n_ratings": 1980,
+   "organic_rank": 34,
+   "position": 46,
+   "price": 2.51,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "365 by Whole Foods Market, Corn & Rice Spaghetti, 12 Ounce"
+  },
+  {
+   "advertised": false,
+   "asin": "B000RUP0JE",
+   "badges": [],
+   "bought_past_month": "20K+",
+   "n_ratings": 10568,
+   "organic_rank": 35,
+   "position": 47,
+   "price": 1.88,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Barilla Penne Pasta, Non-GMO Kosher Pasta, 16oz."
+  },
+  {
+   "advertised": false,
+   "asin": "B00EDQ97AQ",
+   "badges": [],
+   "bought_past_month": "200+",
+   "n_ratings": 322,
+   "organic_rank": 36,
+   "position": 48,
+   "price": 21.99,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Le Veneziane - Italian Penne Rigate Pasta [Gluten-Free], (4)- 8.8 oz. Pkgs"
+  },
+  {
+   "advertised": false,
+   "asin": "B077K235J3",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 95,
+   "organic_rank": 37,
+   "position": 49,
+   "price": 36.21,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Colavita Pasta - Gluten-Free Linguine, 12 oz - Pack of 12"
+  },
+  {
+   "advertised": false,
+   "asin": "B00HZY6VFM",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 171,
+   "organic_rank": 38,
+   "position": 50,
+   "price": 32.26,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Ronzoni Gluten Free Pasta 12oz Box (Pack of 6) Choose Shape Below (Spaghetti)"
+  },
+  {
+   "advertised": false,
+   "asin": "B00EBE831Y",
+   "badges": [],
+   "bought_past_month": "400+",
+   "n_ratings": 824,
+   "organic_rank": 39,
+   "position": 51,
+   "price": 20.15,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Le Venezian - Italian Fettucee [Gluten Free] (4) - 8.8 Oz Pkgs"
+  },
+  {
+   "advertised": false,
+   "asin": "B00DUFHNOS",
+   "badges": [],
+   "bought_past_month": "300+",
+   "n_ratings": 712,
+   "organic_rank": 40,
+   "position": 52,
+   "price": 18.93,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Le Veneziane - Italian Spaghetti [Gluten-Free], 8.8 Ounce (Pack of 4)"
+  },
+  {
+   "advertised": false,
+   "asin": "B088PNY791",
+   "badges": [],
+   "bought_past_month": "5K+",
+   "n_ratings": 2869,
+   "organic_rank": 41,
+   "position": 53,
+   "price": 3.29,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Kraft Gluten Free Mac and Cheese Dinner, Original Flavor, 6 oz Box"
+  },
+  {
+   "advertised": false,
+   "asin": "B074H4WS24",
+   "badges": [],
+   "bought_past_month": "30K+",
+   "n_ratings": 8612,
+   "organic_rank": 42,
+   "position": 54,
+   "price": 3.18,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "365 by Whole Foods Market, Organic Marinara Pasta Sauce, 25 Ounce"
+  },
+  {
+   "advertised": false,
+   "asin": "B001EQ4P00",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 545,
+   "organic_rank": 43,
+   "position": 55,
+   "price": 37.56,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Bionaturae Spaghetti Pasta Noodles, Rice & Lentil Pasta, 12 Oz, 6 Pack"
+  },
+  {
+   "advertised": false,
+   "asin": "B001A5RQ9C",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 3909,
+   "organic_rank": 44,
+   "position": 56,
+   "price": 2.88,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Barilla Protein+ (Plus) Penne Pasta, Plant Based Protein, 14.5oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B09PFC76G7",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 128,
+   "organic_rank": 45,
+   "position": 57,
+   "price": 23,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Rummo Gluten Free Rigatoni N.50 - Gluten Free Pasta, Made with Corn & Rice, Rigatoni Pasta Noodles, Pasta from Italy - 12 Ounce (Pack of 4)"
+  },
+  {
+   "advertised": false,
+   "asin": "B01IBIOMJ2",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 5222,
+   "organic_rank": 46,
+   "position": 58,
+   "price": 24.16,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Banza Gluten-Free Chickpea Pasta, Variety Pack 20g Protein | Lower Carb | High Fiber | High Protein | Plant Based Pasta | 8oz (Pack of 6)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0C59YHSVF",
+   "badges": [],
+   "bought_past_month": "500+",
+   "n_ratings": 96,
+   "organic_rank": 47,
+   "position": 59,
+   "price": 14.99,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Sanniti Artisanal Gluten Free Pasta di Gragnano Imported From Italy, 17.6 oz (Mafaldine)"
+  },
+  {
+   "advertised": false,
+   "asin": "B00EDQD1QC",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 235,
+   "organic_rank": 48,
+   "position": 60,
+   "price": 20.3,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Le Veneziane - Italian Pipe Rigate Pasta [Gluten-Free], (4)- 8.8 oz. Pkgs"
+  },
+  {
+   "advertised": true,
+   "asin": "B0FKPPBVJP",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 25,
+   "organic_rank": null,
+   "position": 1,
+   "price": 6.99,
+   "rating": 3.9,
+   "sponsored": true,
+   "title": "Artisanal Gluten Free Pasta - Penne - 8.8oz"
+  },
+  {
+   "advertised": true,
+   "asin": "B0FPDT3Q65",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 35,
+   "organic_rank": null,
+   "position": 2,
+   "price": 32.99,
+   "rating": 3.9,
+   "sponsored": true,
+   "title": "Felicia Chickpea Fusilli Gluten Free Pasta, 22G Protein, 8.8 Oz, 6 Pack"
+  },
+  {
+   "advertised": true,
+   "asin": "B0CQPLFTDY",
+   "badges": [],
+   "bought_past_month": "2K+",
+   "n_ratings": 98,
+   "organic_rank": null,
+   "position": 3,
+   "price": 8.29,
+   "rating": 3.5,
+   "sponsored": true,
+   "title": "Lazy Food Cacio e Pepe | High Protein Pasta Meal | Gluten Free Chickpea Pasta | Ready to Eat | 30g Protein Per Pack | 1 Pack (2 Servings)"
+  },
+  {
+   "advertised": true,
+   "asin": "B0FHVZ56MG",
+   "badges": [],
+   "bought_past_month": "200+",
+   "n_ratings": 50,
+   "organic_rank": null,
+   "position": 4,
+   "price": 32.99,
+   "rating": 4.3,
+   "sponsored": true,
+   "title": "Felicia Buckwheat Mezzi Rigatoni Gluten Free Pasta, 8.8 Oz, 6 Pack"
+  },
+  {
+   "advertised": true,
+   "asin": "B07JW7T9BB",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 22499,
+   "organic_rank": null,
+   "position": 17,
+   "price": 22.7,
+   "rating": 4,
+   "sponsored": true,
+   "title": "Palmini Linguine Hearts of Palm Pasta | Low Carb (4g Net Carbs), Low Calorie (20 Cal), Keto, Gluten Free, Vegan, Non-GMO | Healthy Plant-Based Noodles | As Seen on Shark Tank | 12oz Pack of 6"
+  },
+  {
+   "advertised": true,
+   "asin": "B0H3LT2HNN",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 1,
+   "organic_rank": null,
+   "position": 19,
+   "price": 24.99,
+   "rating": 5,
+   "sponsored": true,
+   "title": "Wellth Foods Organic Rotini Pasta Variety Pack, High Protein Grain Free Pasta, Gluten Free Yellow Pea Pastas Variety, Original Spinach & Beetroot, Vegan Kosher Halal, 340g Boxes - 3 Pack"
+  },
+  {
+   "advertised": true,
+   "asin": "B0C5YLP6PC",
+   "badges": [],
+   "bought_past_month": "600+",
+   "n_ratings": 519,
+   "organic_rank": null,
+   "position": 20,
+   "price": 21.99,
+   "rating": 4.4,
+   "sponsored": true,
+   "title": "L\u2019Oro Del Sud Gluten Free Potato Gnocchi, 1.1 lb (Pack of 3)"
+  },
+  {
+   "advertised": true,
+   "asin": "B0BXDCC4ZY",
+   "badges": [],
+   "bought_past_month": "200+",
+   "n_ratings": 100,
+   "organic_rank": null,
+   "position": 25,
+   "price": 19.54,
+   "rating": 4.4,
+   "sponsored": true,
+   "title": "Hethstia Shirataki Noodles, 10 Packs Konjac Noodles Pasta Angel Hair"
+  },
+  {
+   "advertised": true,
+   "asin": "B0BNW8L1CP",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 1870,
+   "organic_rank": null,
+   "position": 26,
+   "price": 29.92,
+   "rating": 4.2,
+   "sponsored": true,
+   "title": "Kaizen Low Carb Pasta, 20g High Protein, 6g Net Carb, Fusilli 8 Oz (3-Pack)"
+  },
+  {
+   "advertised": true,
+   "asin": "B0FHV7WWPT",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 39,
+   "organic_rank": null,
+   "position": 27,
+   "price": 31.95,
+   "rating": 3.8,
+   "sponsored": true,
+   "title": "Felicia Red Lentil Penne Gluten Free Pasta, 27G Protein, 8.8 Oz, 6 Pack"
+  },
+  {
+   "advertised": true,
+   "asin": "B075B1KKX8",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 51,
+   "organic_rank": null,
+   "position": 28,
+   "price": 29.99,
+   "rating": 4.5,
+   "sponsored": true,
+   "title": "Morelli Organic Gluten Free Corn Linguine Pasta Noodles - 8.8 oz, 2 Pack"
+  }
+ ],
+ "features": {
+  "B000RUP0JE": {
+   "features": [
+    {
+     "mentions": 147,
+     "name": "quality",
+     "negative": 5,
+     "positive": 142,
+     "quotes": [
+      "It's great and fantastic.",
+      "Good",
+      "Good Pasta, bad that Amazon packed the box upside down and UPS decided to drag the box behind their truck for 60 miles and break one of the packages...",
+      "Great pasta. Cheaper than in my local store. Good quality and taste. Doesn't take to long to cook"
+     ],
+     "summary": "Customers praise the pasta's quality, describing it as divine and perfect."
+    },
+    {
+     "mentions": 67,
+     "name": "value for money",
+     "negative": 4,
+     "positive": 63,
+     "quotes": [
+      "Great price..easy to use..can make different dishes... never soggy",
+      "this is a great product and a great value. I will purchase again.",
+      "Great deal on this pasta! Quality product that is easy to cook.",
+      "Good value penne pasta"
+     ],
+     "summary": "Customers find the pasta to be good value for money and say they will purchase it again."
+    },
+    {
+     "mentions": 58,
+     "name": "taste",
+     "negative": 0,
+     "positive": 58,
+     "quotes": [
+      "So chewy and delicious. Love the texture when cooked al dente. My favorite brand of pasta. Excellent quality for a great price",
+      "This product tastes good and the price was outstanding.",
+      "Yummy and Affordable",
+      "Perfect size. Cooks up well not mushy. Great flavor. I am never disappointed with Barilla."
+     ],
+     "summary": "Customers find the pasta tasty, with one customer noting it's not overly starchy and another describing it as chewy."
+    },
+    {
+     "mentions": 23,
+     "name": "versatility",
+     "negative": 1,
+     "positive": 22,
+     "quotes": [
+      "Barilla pasta is simy divine. My go to pasta. Great textra, holds the sauce well. Even great with Kerrygold butter and fresh grated parm.",
+      "I use these in salads and spaghetti sauce, stews . It's a versatile pasta a change from the regular thin flat pasta....",
+      "Best of all I can count on it to go with all the sauces we like, without it \u201cabsorbing\u201d it too quickly into the pasta....",
+      "Works good for all kinds of pasta sauces. Follow the box instructions for perfect al-dente pasta. No complaints here."
+     ],
+     "summary": "Customers find this pasta versatile, with one mentioning it works well with Alfredo sauce and shrimp, while another uses it for baked ziti."
+    },
+    {
+     "mentions": 21,
+     "name": "texture",
+     "negative": 0,
+     "positive": 21,
+     "quotes": [
+      "Very good quality pasta at an affordable price. The texture and the taste and the way it absorbs sauce is awesome.",
+      "I like Barilla pasta because it cooks up well, firm and not mushy. Nice packaging. Consistent flavor. Reasonable price.",
+      "Perfect size. Cooks up well not mushy. Great flavor. I am never disappointed with Barilla.",
+      "The pasta is good has good protein has good texture has a good cook time has good ease of use has good sturdiness."
+     ],
+     "summary": "Customers like the pasta's texture, noting it's not mushy or gummy, and one customer mentions it holds sauces well."
+    },
+    {
+     "mentions": 17,
+     "name": "ease of use",
+     "negative": 0,
+     "positive": 17,
+     "quotes": [
+      "Looks like pasta, tastes like pasta. Easy to cook, no problems with texture. It never argues with you or steals cash from your wallet.",
+      "Easy to use, it has a great color for corporate pasta, and cook time is 10-11 minutes, which is very standard. Texture is regular as well!",
+      "Good tasting. Very convenient and easy to prepare. Succulent. Good value for the price.",
+      "This pasta is very easy to cook to \u201cel dente,\u201d which is how I like it and is not gummy. While cooking, the pasta does not stick together...."
+     ],
+     "summary": "Customers find the pasta easy to use and cook, with one customer noting it takes less than 15 minutes to prepare."
+    },
+    {
+     "mentions": 15,
+     "name": "brand",
+     "negative": 1,
+     "positive": 14,
+     "quotes": [
+      "I had several people say, this is very good! I will buy this brand again.",
+      "A classic and my favorite brand! Everyone knows how good these are so not much else to say :)",
+      "This is the only brand pasta I purchase \ud83d\ude0b you know it's going to come out perfect every time and its not like other brands where it comes out pastey...",
+      "Love the texture when cooked al dente. My favorite brand of pasta. Excellent quality for a great price"
+     ],
+     "summary": "Customers love this brand of pasta and consider it one of the best in the market, with several mentioning they will purchase it again."
+    },
+    {
+     "mentions": 15,
+     "name": "cooking time",
+     "negative": 1,
+     "positive": 14,
+     "quotes": [
+      "At our house we love these for making vodka pasta. They always cook so perfectly and never seem to break apart like other brands....",
+      "Cooking times are 100 percent spot on, so you have to try really hard to mess up cooking times, for this NOT to turn out....",
+      "I like Barilla pasta because it cooks up well, firm and not mushy. Nice packaging. Consistent flavor. Reasonable price.",
+      "This penne pasta is a staple in my pantry! It cooks perfectly al dente every time, and the texture holds sauces well, making every dish delicious...."
+     ],
+     "summary": "Customers find that the pasta cooks up well, with cooking times that are spot on and result in perfect al dente texture."
+    }
+   ],
+   "stars": {
+    "1": 1,
+    "2": 0,
+    "3": 3,
+    "4": 8,
+    "5": 88
+   }
+  },
+  "B00FR6XP3Q": {
+   "features": [
+    {
+     "mentions": 105,
+     "name": "taste",
+     "negative": 6,
+     "positive": 99,
+     "quotes": [
+      "Delicious! Tastes like regular pasta but with added protein and fiber \ud83d\ude4c\ud83c\udffb I\u2019ll take it!",
+      "Taste great, overall its not a massive improvement over the same brands regular pasta but it does have more protein. Slightly less carbs, etc....",
+      "Great taste and doesn't get mushy like some",
+      "Yum. Definitely purchasing again. No issues from seller."
+     ],
+     "summary": "Customers enjoy the taste of this pasta, with one customer noting it's a great way to add protein without compromising flavor, though another mentions it's not as chewy as regular pasta."
+    },
+    {
+     "mentions": 78,
+     "name": "quality",
+     "negative": 2,
+     "positive": 76,
+     "quotes": [
+      "This is a great product. I do much better with this than regular pasta. Ordering it here, instead of in stores, also saves me over 1.00 per box!",
+      "Great pasta! If you are diabetic like me you won't see a difference in taste or texture than regular pasta . It's soo good!",
+      "Our little Italians love this pasta, and the extra protein is a real bonus.",
+      "It taste exactly like regular pasta! I highly recommend this if you need protein! I made tuna pasta salad using it and yum!..."
+     ],
+     "summary": "Customers find this pasta to be of good quality, describing it as their favorite protein pasta, with one customer noting it outperforms chickpea-made brands."
+    },
+    {
+     "mentions": 47,
+     "name": "protein content",
+     "negative": 1,
+     "positive": 46,
+     "quotes": [
+      "but I never liked them as the taste was terrible. These high protein, chickpea pastas are fabulous! It tastes the same as real pasta....",
+      "Has higher fiber and protein than whole wheat noodles. So while it isn't the best for diabetics/diet.... it is a perfect substitute....",
+      "This pasta tastes just like regular pasta and the extra protein is a plus. I just wish the price would come down\u2026.",
+      "takes pasta up a notch. That extra protein makes all the difference to me. Tasty, I add it to salads, soups, nice texture and taste."
+     ],
+     "summary": "Customers appreciate the pasta's protein content, noting that it is enriched and helps increase protein intake, with one customer mentioning that the extra protein makes it very satisfying."
+    },
+    {
+     "mentions": 20,
+     "name": "healthiness",
+     "negative": 1,
+     "positive": 19,
+     "quotes": [
+      "This is our families favorite pasta. It\u2019s healthy and tastes delicious....",
+      "are nearly indistinguishable from regular Barilla Elbows but so much better for you, and high in fiber so very filling",
+      "Tasty and Healthier",
+      "Cooks in 7 minutes. Does not spike my blood sugar and does not upset my hubby\u2019s tummy like products with inulin fiber do...."
+     ],
+     "summary": "Customers find this pasta healthy, noting that it doesn't spike glucose levels much."
+    },
+    {
+     "mentions": 20,
+     "name": "value for money",
+     "negative": 5,
+     "positive": 15,
+     "quotes": [
+      "Good value for money. Taste and texture are good. Only takes 5-7 minutes to cook (I use around 6). It's always good to have some in the house....",
+      "Really great price, will buy from Amazon again. Big fan of these but much higher in sodium then regular pasta.",
+      "The price increase on this is ridiculous! I purchased 1 box in May 2025 for $2.70, now in December 2025 its $4.37?! 60+% increase in half a year?!...",
+      "Great price, and high quality product. I can honestly vouch for this product, I am a firm believe of this pasta."
+     ],
+     "summary": "Customers find the pasta to be good value for money."
+    },
+    {
+     "mentions": 18,
+     "name": "texture",
+     "negative": 1,
+     "positive": 17,
+     "quotes": [
+      "Texture is good, and much closer to durum wheat than other high protein pasta. It\u2019s easily better than all of the chickpea made brands.",
+      "I love the taste and texture of these elbows. I use it to add additional protein to my meals. I find the texture is much like regular elbows.",
+      "Love the elbows for my (relatively) guilt free macaroni salad. Good texture and good flavor, but not good enough to pay $13.71 for one 14.5 ounce box...",
+      "Texture is pretty good, not as chewy as regular pasta but more supple than whole wheat pastas...."
+     ],
+     "summary": "Customers like the pasta's texture, with one customer noting it holds well and another mentioning it's more supple than whole wheat alternatives."
+    },
+    {
+     "mentions": 17,
+     "name": "pasta quality",
+     "negative": 0,
+     "positive": 17,
+     "quotes": [
+      "The best protein pasta out there!! Tastes so much like normal pasta!",
+      "Best pasta since pasta was invented",
+      "They taste great and the texture is perfect. Well done. It's my new pasta, if I'm not making it myself, for the lazy days. Amazing.",
+      "Food supply businesses are looting people out here. It's a fine pasta, does create problems for those sensitive to post chickpea bloating...."
+     ],
+     "summary": "Customers love this pasta, describing it as the best protein pasta with 17g of protein per 3.5oz serving, and one customer mentions it's great for pasta salads."
+    },
+    {
+     "mentions": 11,
+     "name": "performance",
+     "negative": 0,
+     "positive": 11,
+     "quotes": [
+      "takes pasta up a notch. That extra protein makes all the difference to me. Tasty, I add it to salads, soups, nice texture and taste.",
+      "Cost a tiny bit more than my grocery store but still worked out perfectly.",
+      "This is a great product. I do much better with this than regular pasta. Ordering it here, instead of in stores, also saves me over 1.00 per box!",
+      "Taste great! My kids didn\u2019t know any difference and are eating more healthy! Our health is always worth the money!..."
+     ],
+     "summary": "Customers find that the pasta performs well, with one customer noting it works perfectly in all pasta dishes, while another mentions it performs better than regular pasta."
+    }
+   ],
+   "stars": {
+    "1": 1,
+    "2": 0,
+    "3": 3,
+    "4": 8,
+    "5": 88
+   }
+  },
+  "B00R0OAZDG": {
+   "features": [
+    {
+     "mentions": 66,
+     "name": "quality",
+     "negative": 4,
+     "positive": 62,
+     "quotes": [
+      "Five Stars",
+      "Ordered again, great buy and best GF pasta my celiac family have found so far .",
+      "This is a great pasta! I cook itna little longer than recommended and it tastes great! Works well for pasta salad too",
+      "Great"
+     ],
+     "summary": "Customers praise the quality of this gluten-free pasta, describing it as their favorite and giving it five stars."
+    },
+    {
+     "mentions": 61,
+     "name": "taste",
+     "negative": 6,
+     "positive": 55,
+     "quotes": [
+      "Delicious. Gluten Free. Consistency is the same as the original wheat product. Thank you Barilla!",
+      "It cooks fast, tastes great, isn\u2019t gummy, and doesn\u2019t fall apart as easily as many do. It\u2019s also affordable....",
+      "This is the best tasting gluten free pasta I've ever purchased, and I've tried most of them.",
+      "Yummy"
+     ],
+     "summary": "Customers enjoy the taste of this gluten-free pasta, particularly when paired with homemade sauce, and one customer notes it maintains its texture without becoming too starchy when cooked."
+    },
+    {
+     "mentions": 46,
+     "name": "gluten-free",
+     "negative": 0,
+     "positive": 46,
+     "quotes": [
+      "Best gluten free pasta I have found so far. I buy in bulk since I cannot always find at my store.",
+      "Delicious. Gluten Free. Consistency is the same as the original wheat product. Thank you Barilla!",
+      "This is my favorite gluten free pasta. It cooks up perfectly.",
+      "Finally, a gluten free pasta that tastes like the real thing!"
+     ],
+     "summary": "Customers find this pasta to be a great gluten-free option that even their non-gluten-free family members enjoy, with one customer noting it's suitable for those allergic to wheat."
+    },
+    {
+     "mentions": 21,
+     "name": "cook time",
+     "negative": 4,
+     "positive": 17,
+     "quotes": [
+      "This is the next best to the real wheat pasta. It takes about 1/3 longer to cook and the texture still isn't like the real thing but it's close....",
+      "It cooks fast, tastes great, isn\u2019t gummy, and doesn\u2019t fall apart as easily as many do. It\u2019s also affordable....",
+      "These cook up well and taste great. No clumping like some others do. My go to noodles. Kids love them too.",
+      "I would have given it a 5 if it came in 1 lb boxes. I'm cooked it with no issues, unlike regular pasta which gets mushy \u00ect it is over cooked...."
+     ],
+     "summary": "Customers find the pasta easy to cook, taking only 8-10 minutes, and one customer notes it cooks al dente like regular pasta."
+    },
+    {
+     "mentions": 18,
+     "name": "texture",
+     "negative": 5,
+     "positive": 13,
+     "quotes": [
+      "These gluten free noodles have excellent taste and texture. I am very pleased!",
+      "Delicious. Gluten Free. Consistency is the same as the original wheat product. Thank you Barilla!",
+      "Overcooks and turns to mush easily, so it won't be a replacement for the Ronzoni GF rotini that we've lived on for years....",
+      "Best gluten free pasta on the market, tast and texture are great."
+     ],
+     "summary": "Customers praise the pasta's texture, noting that it has the same consistency as the original wheat product, and one customer mentions it's not mushy."
+    },
+    {
+     "mentions": 15,
+     "name": "value for money",
+     "negative": 4,
+     "positive": 11,
+     "quotes": [
+      "This is an excellent buy....",
+      "Best deal",
+      "Humans can't digest corn much like cats can't digest peanuts. Won't be buying ever again. Complete waste of money.",
+      "Ordered again, great buy and best GF pasta my celiac family have found so far ."
+     ],
+     "summary": "Customers find the pasta to be a good value, describing it as the best deal on gluten-free pasta."
+    },
+    {
+     "mentions": 10,
+     "name": "versatility",
+     "negative": 0,
+     "positive": 10,
+     "quotes": [
+      "It is a good quality gluten free pasta that works well in everything I tried this far. Family does not even notice its gluten free.",
+      "The texture seems to always be al dente and makes a great pasta salad. Thanks to covid I'd, I developed an intolerance to wheat; as such no pasta....",
+      "great start for the gluten free. goes with tomato sauce/spaghetti sauce, white sauce, tuna, or as part of a bigger dish combo....",
+      "This pasta is great for a cold pasta salad. We love it. You can store leftovers in the fridge and it stays nice...."
+     ],
+     "summary": "Customers find this gluten-free pasta versatile, using it successfully in pasta salads and with various sauces, with one customer noting it behaves like regular pasta."
+    },
+    {
+     "mentions": 15,
+     "name": "durability",
+     "negative": 7,
+     "positive": 8,
+     "quotes": [
+      "Doesn't fall apart, and holds up surprisingly well after being refrigerated over night. My husband has never had a Celiacs episode with these....",
+      "Family did not like these at all, very chewy and tough.",
+      "It stands up to a sauces and doesn't disintegrate when boiled. I've served them to non gluten sensitive friends and they can't tell the difference.",
+      "However, we cooked it just 7 minutes and it immediately started falling apart and got super mushy...."
+     ],
+     "summary": "Customers have mixed experiences with the pasta's durability: while some say it holds up well and stands up to sauces, others report that it immediately starts falling apart."
+    }
+   ],
+   "stars": {
+    "1": 1,
+    "2": 1,
+    "3": 3,
+    "4": 7,
+    "5": 88
+   }
+  },
+  "B00EBE831Y": {
+   "features": [
+    {
+     "mentions": 157,
+     "name": "gluten-free",
+     "negative": 2,
+     "positive": 155,
+     "quotes": [
+      "This pasta by far is one of the best if not the best gluten free pasta out there. One would never know that this is not semolina pasta....",
+      "It tastes really good, and is gluten free. I wish it wasn\u2019t so expensive, but it\u2019s worth it because it doesn\u2019t contain rice....",
+      "Hands down, the best GF pasta we've ever had. A local Italian restaurant steered us to this brand, and while it is pricey, it is worth every cent.",
+      "The best gluten free pasta!! You wouldn\u2019t know it was GF unless you saw the packaging. Delicious"
+     ],
+     "summary": "Customers praise this gluten-free pasta, noting it's indistinguishable from regular pasta and perfect for those with gluten intolerance."
+    },
+    {
+     "mentions": 148,
+     "name": "taste",
+     "negative": 3,
+     "positive": 145,
+     "quotes": [
+      "They are delicious and my husband always ask me, \"are you sure these are gluten-free?\" Easy go cook, hold its shape and delicious!",
+      "Tastes great, my family and friends can't believe it's gluten free. This brand also offers the most pasta shapes for any dish I want to make....",
+      "Quick cooking time, great taste! I love to use in Alfredo pasta dishes or a simple stroganoff.",
+      "These hold up well for sauces and taste great. As close as you can get to a wheat taste but Gluten free. Well worth the money."
+     ],
+     "summary": "Customers enjoy the taste of this gluten-free pasta, finding it feels and tastes like real pasta, with one customer noting it has a toothsome bite."
+    },
+    {
+     "mentions": 63,
+     "name": "texture",
+     "negative": 3,
+     "positive": 60,
+     "quotes": [
+      "This has a wonderful flavor and texture and is the only pasta for us gluten free folks!",
+      "My family and I enjoy this pasta. It has a great texture and consistency and tastes delicious in the sauces that I cook it in.",
+      "Great consistency, taste and ability to stay in one piece. Sauce sticks to it very well, just like conventional Fettucine.",
+      "I\u2019ve tried them all and this is the best. What I like is the good texture and it doesn\u2019t fall apart."
+     ],
+     "summary": "Customers like the texture of this gluten-free pasta, noting it has a good mouth feel similar to regular pasta and isn't mushy or gummy."
+    },
+    {
+     "mentions": 32,
+     "name": "durability",
+     "negative": 3,
+     "positive": 29,
+     "quotes": [
+      "This is by far the best gluten-free pasta I have tried. It doesn't fall apart, holds the sauce and tastes great....",
+      "I use these in soups and sauces and they hold up very well. I usually make a large batch and jar up quarts of soup for later and they hold up great!...",
+      "These hold up well for sauces and taste great. As close as you can get to a wheat taste but Gluten free. Well worth the money.",
+      "Cooks beautifully, does not break into little pieces, reheats like a champ. There is a reason this is the number one gluten free pasta in Italy...."
+     ],
+     "summary": "Customers praise the pasta's durability, noting that it holds up beautifully in any sauce, maintains its shape after cooking, and stays fresh in the fridge for up to 3 days."
+    },
+    {
+     "mentions": 30,
+     "name": "cooking time",
+     "negative": 2,
+     "positive": 28,
+     "quotes": [
+      "Quick and easy to cook. The taste and texture are close to regular pasta noodles.",
+      "Cooks beautifully, does not break into little pieces, reheats like a champ. There is a reason this is the number one gluten free pasta in Italy....",
+      "So delicious you forget you're not eating real pasta. It cooks very quickly so keep your eye on the pot so it doesn't get mushy.",
+      "I found the cooking time to be spot on as well which can be hit and miss with other brands of gluten free pasta including ones made with corn...."
+     ],
+     "summary": "Customers find that the fettuccine cooks well in 10-11 minutes and reheats well in casseroles."
+    },
+    {
+     "mentions": 20,
+     "name": "family enjoyment",
+     "negative": 0,
+     "positive": 20,
+     "quotes": [
+      "And OMG you wouldn't know its gluten free! I'm in love LOL. The difference between Le Venezian Italian Fettucee and wheat semolina noodles?...",
+      "This GF pasta is better than any other out there. My husband even enjoys this pasta and I\u2019ve served it to friends who didn\u2019t realize it was GF pasta...",
+      "Delicious! New to gluten free. Couldn\u2019t even tell! Delicious, my 11 year old also loved it",
+      "My family and I enjoy this pasta. It has a great texture and consistency and tastes delicious in the sauces that I cook it in."
+     ],
+     "summary": "Customers report that their families love this pasta, with one mentioning that their husband even enjoys it, and another noting that their family can enjoy egg noodles again."
+    },
+    {
+     "mentions": 17,
+     "name": "versatility",
+     "negative": 0,
+     "positive": 17,
+     "quotes": [
+      "Great for multiple uses! Since I can't find GF wide egg noodles for Kugel or Turkey Tragliatella these are a fabulous substitute!",
+      "I've tried just about every gluten free pasta and this one is closest to real pasta....",
+      "It's a bit expensive, but gave me that more authentic pasta dinner experience.",
+      "No one could tell the difference in my recipe and I got rave reviews at my party. Hoorah for these \"good tasting gluten-free noodles\"!"
+     ],
+     "summary": "Customers find this gluten-free pasta versatile, preferring it over regular pasta, with one customer noting it performs excellently in homemade chicken noodle soup."
+    },
+    {
+     "mentions": 51,
+     "name": "value for money",
+     "negative": 20,
+     "positive": 31,
+     "quotes": [
+      "Delicious gluten free pasta. Holds up to any topping. I will buy this again. Package instructions were missing from outside of package....",
+      "They are a little pricey, but you cannot tell they are gluten-free, so it's worth the extra money.",
+      "This brand is , by far, THE best gluten free pasta on the market. Worth every penny. As good as any high quality pasta ( gluten or not).",
+      "A little expensive but worth it because the noodles absolutely do not taste or have the mouthfeel of gluten free...."
+     ],
+     "summary": "Customers have mixed opinions about the fettuccine's value for money, with some finding it well priced and worth the splurge, while others consider it a little pricey."
+    }
+   ],
+   "stars": {
+    "1": 1,
+    "2": 0,
+    "3": 1,
+    "4": 6,
+    "5": 92
+   }
+  },
+  "B074H6G7GX": {
+   "features": [
+    {
+     "mentions": 68,
+     "name": "quality",
+     "negative": 4,
+     "positive": 64,
+     "quotes": [
+      "Good",
+      "Good pasta - Good quality, thick spaghetti, perfect cooking time and healthy brand",
+      "Great!",
+      "Which is to bad, because it's a good product. I have no problems with the other pastas I have bought of that brand."
+     ],
+     "summary": "Customers find this pasta to be excellent, with one customer noting it matches the quality of famous brands."
+    },
+    {
+     "mentions": 42,
+     "name": "taste",
+     "negative": 0,
+     "positive": 42,
+     "quotes": [
+      "Tasty and good texture. Just as good, if not better than a more expensive import I had been purchasing.",
+      "Great flavor. Only noodles I will purchase now. Have added them to my monthly subscribe and save.",
+      "I\u2019m not crazy about pasta but this is so yummy.",
+      "Delicious, organic, and cheap!"
+     ],
+     "summary": "Customers enjoy the taste of this spaghetti, with one customer noting it has a decent bite and another describing it as nutty."
+    },
+    {
+     "mentions": 34,
+     "name": "value for money",
+     "negative": 2,
+     "positive": 32,
+     "quotes": [
+      "The quality and taste is just as good and for a great price. We lived in Italy for decades and still choose this one over the Barilla.",
+      "Nice and for a good price.",
+      "Great value",
+      "Good value"
+     ],
+     "summary": "Customers find the pasta to be well worth its price, particularly noting that it offers great value for imported pasta."
+    },
+    {
+     "mentions": 15,
+     "name": "ingredients",
+     "negative": 2,
+     "positive": 13,
+     "quotes": [
+      "love this spaghetti! and its organic for a great price",
+      "I like this organic Spaghetti. It tastes good for its price....",
+      "This pasta is very well-made, crafted from high-quality wheat that gives it a beautiful, vibrant yellow color typical of premium semolina....",
+      "Great flavor and you would never know it's organic."
+     ],
+     "summary": "Customers love that the spaghetti is organic, with one customer noting it's made from high-quality Italian durum wheat."
+    },
+    {
+     "mentions": 14,
+     "name": "texture",
+     "negative": 1,
+     "positive": 13,
+     "quotes": [
+      "It is made in Italy and has a great texture. It\u2019s a great price for imported pasta. I will definitely be buying more. I highly recommend this pasta.",
+      "Very easy to cook, does not stick to pot or to each other. Smooth texture, good slip, and fragrant in being neutral when making pairings with...",
+      "It is easy to make and has a decent bite ( I bring my water to boil, add pasta, shut off heat and allow to cook for about 10 minutes)....",
+      "Tasty and good texture. Just as good, if not better than a more expensive import I had been purchasing."
+     ],
+     "summary": "Customers enjoy the pasta's texture, with one noting that it holds sauces perfectly without becoming mushy."
+    },
+    {
+     "mentions": 9,
+     "name": "cooking time",
+     "negative": 1,
+     "positive": 8,
+     "quotes": [
+      "Nothing to envy to the most famous pasta brands, fresh, it cooks in minutes, excellent flavor and very cheap.",
+      "Good flavor and cooks nicely. Not too starchy. I like 365 products and that they are organic",
+      "Now it's the only spaghetti I'll use. Cooks perfectly and tastes great.",
+      "Cooks up nicely, tender"
+     ],
+     "summary": "Customers like the cooking time of these spaghetti noodles, noting they cook perfectly."
+    }
+   ],
+   "stars": {
+    "1": 1,
+    "2": 0,
+    "3": 4,
+    "4": 11,
+    "5": 84
+   }
+  }
+ },
+ "fetch_log": [
+  {
+   "asin": "B000RUP0JE",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 2086
+  },
+  {
+   "asin": "B00FR6XP3Q",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 2084
+  },
+  {
+   "asin": "B00R0OAZDG",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 1822
+  },
+  {
+   "asin": "B00EBE831Y",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 1979
+  },
+  {
+   "asin": "B074H6G7GX",
+   "status": "fetched",
+   "n_features": 6,
+   "ms": 1916
+  }
+ ],
+ "result": {
+  "best_value": {
+   "advertised": false,
+   "asin": "B000RUP0JE",
+   "badges": [],
+   "bought_past_month": "20K+",
+   "n_ratings": 10568,
+   "organic_rank": 35,
+   "position": 47,
+   "price": 1.88,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Barilla Penne Pasta, Non-GMO Kosher Pasta, 16oz.",
+   "features": [
+    {
+     "mentions": 147,
+     "name": "quality",
+     "negative": 5,
+     "positive": 142,
+     "quotes": [
+      "It's great and fantastic.",
+      "Good",
+      "Good Pasta, bad that Amazon packed the box upside down and UPS decided to drag the box behind their truck for 60 miles and break one of the packages...",
+      "Great pasta. Cheaper than in my local store. Good quality and taste. Doesn't take to long to cook"
+     ],
+     "summary": "Customers praise the pasta's quality, describing it as divine and perfect."
+    },
+    {
+     "mentions": 67,
+     "name": "value for money",
+     "negative": 4,
+     "positive": 63,
+     "quotes": [
+      "Great price..easy to use..can make different dishes... never soggy",
+      "this is a great product and a great value. I will purchase again.",
+      "Great deal on this pasta! Quality product that is easy to cook.",
+      "Good value penne pasta"
+     ],
+     "summary": "Customers find the pasta to be good value for money and say they will purchase it again."
+    },
+    {
+     "mentions": 58,
+     "name": "taste",
+     "negative": 0,
+     "positive": 58,
+     "quotes": [
+      "So chewy and delicious. Love the texture when cooked al dente. My favorite brand of pasta. Excellent quality for a great price",
+      "This product tastes good and the price was outstanding.",
+      "Yummy and Affordable",
+      "Perfect size. Cooks up well not mushy. Great flavor. I am never disappointed with Barilla."
+     ],
+     "summary": "Customers find the pasta tasty, with one customer noting it's not overly starchy and another describing it as chewy."
+    },
+    {
+     "mentions": 23,
+     "name": "versatility",
+     "negative": 1,
+     "positive": 22,
+     "quotes": [
+      "Barilla pasta is simy divine. My go to pasta. Great textra, holds the sauce well. Even great with Kerrygold butter and fresh grated parm.",
+      "I use these in salads and spaghetti sauce, stews . It's a versatile pasta a change from the regular thin flat pasta....",
+      "Best of all I can count on it to go with all the sauces we like, without it \u201cabsorbing\u201d it too quickly into the pasta....",
+      "Works good for all kinds of pasta sauces. Follow the box instructions for perfect al-dente pasta. No complaints here."
+     ],
+     "summary": "Customers find this pasta versatile, with one mentioning it works well with Alfredo sauce and shrimp, while another uses it for baked ziti."
+    },
+    {
+     "mentions": 21,
+     "name": "texture",
+     "negative": 0,
+     "positive": 21,
+     "quotes": [
+      "Very good quality pasta at an affordable price. The texture and the taste and the way it absorbs sauce is awesome.",
+      "I like Barilla pasta because it cooks up well, firm and not mushy. Nice packaging. Consistent flavor. Reasonable price.",
+      "Perfect size. Cooks up well not mushy. Great flavor. I am never disappointed with Barilla.",
+      "The pasta is good has good protein has good texture has a good cook time has good ease of use has good sturdiness."
+     ],
+     "summary": "Customers like the pasta's texture, noting it's not mushy or gummy, and one customer mentions it holds sauces well."
+    },
+    {
+     "mentions": 17,
+     "name": "ease of use",
+     "negative": 0,
+     "positive": 17,
+     "quotes": [
+      "Looks like pasta, tastes like pasta. Easy to cook, no problems with texture. It never argues with you or steals cash from your wallet.",
+      "Easy to use, it has a great color for corporate pasta, and cook time is 10-11 minutes, which is very standard. Texture is regular as well!",
+      "Good tasting. Very convenient and easy to prepare. Succulent. Good value for the price.",
+      "This pasta is very easy to cook to \u201cel dente,\u201d which is how I like it and is not gummy. While cooking, the pasta does not stick together...."
+     ],
+     "summary": "Customers find the pasta easy to use and cook, with one customer noting it takes less than 15 minutes to prepare."
+    },
+    {
+     "mentions": 15,
+     "name": "brand",
+     "negative": 1,
+     "positive": 14,
+     "quotes": [
+      "I had several people say, this is very good! I will buy this brand again.",
+      "A classic and my favorite brand! Everyone knows how good these are so not much else to say :)",
+      "This is the only brand pasta I purchase \ud83d\ude0b you know it's going to come out perfect every time and its not like other brands where it comes out pastey...",
+      "Love the texture when cooked al dente. My favorite brand of pasta. Excellent quality for a great price"
+     ],
+     "summary": "Customers love this brand of pasta and consider it one of the best in the market, with several mentioning they will purchase it again."
+    },
+    {
+     "mentions": 15,
+     "name": "cooking time",
+     "negative": 1,
+     "positive": 14,
+     "quotes": [
+      "At our house we love these for making vodka pasta. They always cook so perfectly and never seem to break apart like other brands....",
+      "Cooking times are 100 percent spot on, so you have to try really hard to mess up cooking times, for this NOT to turn out....",
+      "I like Barilla pasta because it cooks up well, firm and not mushy. Nice packaging. Consistent flavor. Reasonable price.",
+      "This penne pasta is a staple in my pantry! It cooks perfectly al dente every time, and the texture holds sauces well, making every dish delicious...."
+     ],
+     "summary": "Customers find that the pasta cooks up well, with cooking times that are spot on and result in perfect al dente texture."
+    }
+   ],
+   "complaints": [],
+   "neg_share": 0.033,
+   "low_star_pct": 4,
+   "fair_rating": 4.795,
+   "why": "Best fair rating among well-reviewed products (4.79\u2605), $5.76 under the median price. No major complaints across 8 review features.",
+   "warn": null
+  },
+  "best_price": {
+   "advertised": false,
+   "asin": "B000RUP0JE",
+   "badges": [],
+   "bought_past_month": "20K+",
+   "n_ratings": 10568,
+   "organic_rank": 35,
+   "position": 47,
+   "price": 1.88,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Barilla Penne Pasta, Non-GMO Kosher Pasta, 16oz.",
+   "features": [
+    {
+     "mentions": 147,
+     "name": "quality",
+     "negative": 5,
+     "positive": 142,
+     "quotes": [
+      "It's great and fantastic.",
+      "Good",
+      "Good Pasta, bad that Amazon packed the box upside down and UPS decided to drag the box behind their truck for 60 miles and break one of the packages...",
+      "Great pasta. Cheaper than in my local store. Good quality and taste. Doesn't take to long to cook"
+     ],
+     "summary": "Customers praise the pasta's quality, describing it as divine and perfect."
+    },
+    {
+     "mentions": 67,
+     "name": "value for money",
+     "negative": 4,
+     "positive": 63,
+     "quotes": [
+      "Great price..easy to use..can make different dishes... never soggy",
+      "this is a great product and a great value. I will purchase again.",
+      "Great deal on this pasta! Quality product that is easy to cook.",
+      "Good value penne pasta"
+     ],
+     "summary": "Customers find the pasta to be good value for money and say they will purchase it again."
+    },
+    {
+     "mentions": 58,
+     "name": "taste",
+     "negative": 0,
+     "positive": 58,
+     "quotes": [
+      "So chewy and delicious. Love the texture when cooked al dente. My favorite brand of pasta. Excellent quality for a great price",
+      "This product tastes good and the price was outstanding.",
+      "Yummy and Affordable",
+      "Perfect size. Cooks up well not mushy. Great flavor. I am never disappointed with Barilla."
+     ],
+     "summary": "Customers find the pasta tasty, with one customer noting it's not overly starchy and another describing it as chewy."
+    },
+    {
+     "mentions": 23,
+     "name": "versatility",
+     "negative": 1,
+     "positive": 22,
+     "quotes": [
+      "Barilla pasta is simy divine. My go to pasta. Great textra, holds the sauce well. Even great with Kerrygold butter and fresh grated parm.",
+      "I use these in salads and spaghetti sauce, stews . It's a versatile pasta a change from the regular thin flat pasta....",
+      "Best of all I can count on it to go with all the sauces we like, without it \u201cabsorbing\u201d it too quickly into the pasta....",
+      "Works good for all kinds of pasta sauces. Follow the box instructions for perfect al-dente pasta. No complaints here."
+     ],
+     "summary": "Customers find this pasta versatile, with one mentioning it works well with Alfredo sauce and shrimp, while another uses it for baked ziti."
+    },
+    {
+     "mentions": 21,
+     "name": "texture",
+     "negative": 0,
+     "positive": 21,
+     "quotes": [
+      "Very good quality pasta at an affordable price. The texture and the taste and the way it absorbs sauce is awesome.",
+      "I like Barilla pasta because it cooks up well, firm and not mushy. Nice packaging. Consistent flavor. Reasonable price.",
+      "Perfect size. Cooks up well not mushy. Great flavor. I am never disappointed with Barilla.",
+      "The pasta is good has good protein has good texture has a good cook time has good ease of use has good sturdiness."
+     ],
+     "summary": "Customers like the pasta's texture, noting it's not mushy or gummy, and one customer mentions it holds sauces well."
+    },
+    {
+     "mentions": 17,
+     "name": "ease of use",
+     "negative": 0,
+     "positive": 17,
+     "quotes": [
+      "Looks like pasta, tastes like pasta. Easy to cook, no problems with texture. It never argues with you or steals cash from your wallet.",
+      "Easy to use, it has a great color for corporate pasta, and cook time is 10-11 minutes, which is very standard. Texture is regular as well!",
+      "Good tasting. Very convenient and easy to prepare. Succulent. Good value for the price.",
+      "This pasta is very easy to cook to \u201cel dente,\u201d which is how I like it and is not gummy. While cooking, the pasta does not stick together...."
+     ],
+     "summary": "Customers find the pasta easy to use and cook, with one customer noting it takes less than 15 minutes to prepare."
+    },
+    {
+     "mentions": 15,
+     "name": "brand",
+     "negative": 1,
+     "positive": 14,
+     "quotes": [
+      "I had several people say, this is very good! I will buy this brand again.",
+      "A classic and my favorite brand! Everyone knows how good these are so not much else to say :)",
+      "This is the only brand pasta I purchase \ud83d\ude0b you know it's going to come out perfect every time and its not like other brands where it comes out pastey...",
+      "Love the texture when cooked al dente. My favorite brand of pasta. Excellent quality for a great price"
+     ],
+     "summary": "Customers love this brand of pasta and consider it one of the best in the market, with several mentioning they will purchase it again."
+    },
+    {
+     "mentions": 15,
+     "name": "cooking time",
+     "negative": 1,
+     "positive": 14,
+     "quotes": [
+      "At our house we love these for making vodka pasta. They always cook so perfectly and never seem to break apart like other brands....",
+      "Cooking times are 100 percent spot on, so you have to try really hard to mess up cooking times, for this NOT to turn out....",
+      "I like Barilla pasta because it cooks up well, firm and not mushy. Nice packaging. Consistent flavor. Reasonable price.",
+      "This penne pasta is a staple in my pantry! It cooks perfectly al dente every time, and the texture holds sauces well, making every dish delicious...."
+     ],
+     "summary": "Customers find that the pasta cooks up well, with cooking times that are spot on and result in perfect al dente texture."
+    }
+   ],
+   "complaints": [],
+   "neg_share": 0.033,
+   "low_star_pct": 4,
+   "fair_rating": 4.795,
+   "warn": null
+  },
+  "amazon_pick": {
+   "advertised": true,
+   "asin": "B0FKPPBVJP",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 25,
+   "organic_rank": null,
+   "position": 1,
+   "price": 6.99,
+   "rating": 3.9,
+   "sponsored": true,
+   "title": "Artisanal Gluten Free Pasta - Penne - 8.8oz",
+   "fair_rating": 4.451,
+   "warn": "few ratings",
+   "pick_reason": "shown first"
+  },
+  "stats": {
+   "items": 58,
+   "avg_rating": 4.55,
+   "median_price": 7.64,
+   "ads": 12
+  }
+ }
+}
