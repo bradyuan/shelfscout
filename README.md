@@ -98,15 +98,21 @@ The panel never appears on cart, checkout, sign-in or account pages.
 
 You need Python 3.11+, [uv](https://docs.astral.sh/uv/) and Chrome.
 
-```bash
-git clone https://github.com/bradyuan/shelfscout && cd shelfscout
-uv sync
-uv run uvicorn shelfscout.api:app --port 8100
-```
-
-1. Open `chrome://extensions`, turn on **Developer mode**, click **Load unpacked** and pick the `extension/` folder.
-2. Search Amazon for anything. Click the green **ShelfScout** pill, then **Find best value**.
-3. *(Optional, for the AI filter)* Open settings: right-click the ShelfScout toolbar icon → **Options** (or the
+1. **Get the code:**
+   ```bash
+   git clone https://github.com/bradyuan/shelfscout && cd shelfscout
+   uv sync
+   pwd   # the extension is in this folder's extension/ subfolder
+   ```
+2. **Load the extension:** open `chrome://extensions`, turn on **Developer mode**, click **Load unpacked** and pick
+   the `extension` folder. (On a Mac, Cmd+Shift+G in the file picker lets you paste the path `pwd` printed, plus
+   `/extension`.)
+3. **Start the backend**, and leave this terminal open while you use ShelfScout:
+   ```bash
+   uv run uvicorn shelfscout.api:app --port 8100
+   ```
+4. **Use it:** search Amazon for anything. Click the green **ShelfScout** pill, then **Find best value**.
+5. *(Optional, for the AI filter)* Open settings: right-click the ShelfScout toolbar icon → **Options** (or the
    **settings** link under the filter button after a run). Pick a provider and paste a key. Gemini has a free tier:
    **Get a free Gemini key** opens Google AI Studio. The key is tested when you paste it. The first filter run
    downloads the small embedding model (about 90 MB) from Hugging Face.
