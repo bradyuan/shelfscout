@@ -19,6 +19,64 @@ MAJOR_NEG_SHARE = 0.30   # ... and at least this share negative to be a "major c
 FETCH_N = 10             # products whose feature data the extension reads
 
 
+# ---------- input hygiene: the extension's parsers can misread a field; one bad product must not break a page ----------
+
+def _num(x, kind=float, lo=None, hi=None):
+    """A finite number in [lo, hi] (numeric strings like "$1,299.00" count), else None."""
+    if isinstance(x, bool):
+        return None
+    if isinstance(x, str):
+        try:
+            x = float(x.replace(",", "").replace("$", "").strip())
+        except ValueError:
+            return None
+    if not isinstance(x, (int, float)) or x != x or x in (float("inf"), float("-inf")):
+        return None
+    if (lo is not None and x < lo) or (hi is not None and x > hi):
+        return None
+    return kind(x)
+
+
+def sanitize_products(products) -> list[dict]:
+    """Coerce every field to its type (or None); drop rows without a usable ASIN."""
+    out = []
+    for p in products if isinstance(products, list) else []:
+        if not isinstance(p, dict) or not isinstance(p.get("asin"), str) or not p["asin"].strip():
+            continue
+        out.append({**{k: v for k, v in p.items() if isinstance(v, (str, int, float, bool)) or v is None},
+                    "asin": p["asin"].strip()[:20],
+                    "title": p["title"][:500] if isinstance(p.get("title"), str) else "",
+                    "price": _num(p.get("price"), float, 0),
+                    "rating": _num(p.get("rating"), float, 0, 5),
+                    "n_ratings": _num(p.get("n_ratings"), int, 0),
+                    "position": _num(p.get("position"), int, 0),
+                    "organic_rank": _num(p.get("organic_rank"), int, 0),
+                    "sponsored": p.get("sponsored") is True, "advertised": p.get("advertised") is True,
+                    "badges": [b for b in p.get("badges") or [] if isinstance(b, str)] if isinstance(p.get("badges"), list) else []})
+    return out
+
+
+def sanitize_features(features) -> dict:
+    """{asin: {features: [{name, mentions, positive, negative}], stars: {"1".."5": pct}}} with bad entries dropped."""
+    out = {}
+    for asin, f in (features.items() if isinstance(features, dict) else []):
+        if not isinstance(f, dict):
+            continue
+        feats = []
+        for a in f.get("features") or [] if isinstance(f.get("features"), list) else []:
+            if not isinstance(a, dict) or not isinstance(a.get("name"), str):
+                continue
+            m = _num(a.get("mentions"), int, 0)
+            neg, pos = _num(a.get("negative"), int, 0), _num(a.get("positive"), int, 0)
+            if m is None or neg is None or neg > m:
+                continue
+            feats.append({**a, "mentions": m, "negative": neg, "positive": pos if pos is not None and pos <= m else max(0, m - neg)})
+        stars = f.get("stars") if isinstance(f.get("stars"), dict) else {}
+        stars = {k: v for k, v in ((str(k), _num(v, float, 0, 100)) for k, v in stars.items()) if k in "12345" and len(k) == 1 and v is not None}
+        out[asin] = {**f, "features": feats, "stars": stars}
+    return out
+
+
 def clean(products: list[dict]) -> list[dict]:
     """One row per ASIN (ads repeat products), and no $0 / missing prices."""
     seen, out = set(), []

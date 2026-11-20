@@ -24,7 +24,7 @@ from .trace import Run, StageFailed
 class Page(BaseModel):
     url: str
     keyword: str | None = None
-    products: list[dict]
+    products: list                                  # sanitized server-side; one bad row is dropped, not a 422
     features: dict = Field(default_factory=dict)    # asin -> {features: [...], stars: {...}}
     fetch_log: list[dict] = Field(default_factory=list)  # the extension's page reads: asin, status, ms
     phase: str = "cards"                           # "cards" (instant), "features" (after page reads), "ai"
@@ -37,19 +37,23 @@ class Page(BaseModel):
 @app.post("/api/analyze")
 def analyze(page: Page):
     run = Run("analyze", notes=f'{page.phase} · search "{page.keyword}" · {page.url}')
+    page.products, page.features = value.sanitize_products(page.products), value.sanitize_features(page.features)
+    page.relevance = {a: v for a, v in page.relevance.items() if isinstance(v, bool)}
+    page.judgments = [{**j, "reason": j.get("reason") if isinstance(j.get("reason"), str) else ""}
+                      for j in page.judgments if isinstance(j, dict) and isinstance(j.get("asin"), str)]
     try:
         items = run.stage("page_products", lambda _: page.products, [], allow_empty=True,
                           metric=lambda i, o: ("products on page", len(o)))
         clean = run.stage("cleaned", value.clean, items, allow_empty=True,
                           metric=lambda i, o: ("unique, priced", f"{len(o)}/{len(i)}"))
         if page.phase == "features":
-            run.stage("feature_reads", lambda _: page.fetch_log, [],
+            run.stage("feature_reads", lambda _: page.fetch_log, [], allow_empty=True,   # 0 reads: all cached, or limit 0
                       metric=lambda i, o: ("read / cached / failed",
                                            "/".join(str(sum(r.get("status") == s for r in o)) for s in ("fetched", "cached", "failed"))))
             run.stage("features", lambda c: [
                 {"asin": p["asin"], "title": (p.get("title") or "")[:60], "features": len(p["features"]),
                  "complaints": p["complaints"], "neg_share": p["neg_share"], "low_star_pct": p["low_star_pct"]}
-                for p in value.with_features(c, page.features) if "features" in p], clean,
+                for p in value.with_features(c, page.features) if "features" in p], clean, allow_empty=True,
                 metric=lambda i, o: ("major complaints", f"{sum(bool(r['complaints']) for r in o)} of {len(o)}"))
         rated = run.stage("fair_ratings", value.fair_ratings, clean, allow_empty=True,
                           metric=lambda i, o: ("rated", f"{len(o)}/{len(i)}"))
@@ -74,12 +78,12 @@ def analyze(page: Page):
 class ExportReq(BaseModel):
     keyword: str | None = None
     result: dict
-    products: list[dict]
+    products: list                                  # sanitized server-side; one bad row is dropped, not a 422
 
 
 @app.post("/api/export")
 def export_xlsx(req: ExportReq):
-    items = req.result.get("products") or value.clean(req.products)
+    items = req.result.get("products") or value.clean(value.sanitize_products(req.products))  # result rows are already clean
     return {"xlsx_b64": base64.b64encode(export.build(req.result, items, req.keyword)).decode()}
 
 
@@ -108,12 +112,14 @@ class JudgeReq(BaseModel):
     key: str
     query: str
     notes: str = ""
-    products: list[dict]
+    products: list                                  # sanitized server-side; one bad row is dropped, not a 422
 
 
 @app.post("/api/ai/judge")
 async def ai_judge(r: JudgeReq):
     run = Run("ai", notes=f'AI mode ({r.provider}) · "{r.query}"' + (f' + "{r.notes}"' if r.notes else ""))
+    feats = value.sanitize_features({p.get("asin"): {"features": p.get("features")} for p in r.products if isinstance(p, dict)})
+    r.products = [{**p, "features": feats.get(p["asin"], {}).get("features", [])} for p in value.sanitize_products(r.products)]
     try:
         run.stage("shortlist", lambda _: [{"asin": p["asin"], "title": (p.get("title") or "")[:80],
                                            "features": len(p.get("features") or [])} for p in r.products], [],

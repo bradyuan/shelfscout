@@ -12,6 +12,7 @@ globalThis.SSParsers ??= (() => {  // ??= : safe if the script is injected twice
     const path = (() => { try { return new URL(url, location.origin).pathname; } catch { return ""; } })();
     if (doc.querySelector('form[action*="validateCaptcha"], #captchacharacters') || /robot check/i.test(doc.title || "")) return "captcha";
     if (/\/checkpoint\//.test(path)) return "bot_check";
+    if (doc.querySelector('a[href*="cs_503"], a[href*="cs_404"]') && !doc.querySelector('[data-component-type="s-search-result"]')) return "error_page";
     if (/^\/ap\/(signin|mfa|cvf)/.test(path) || doc.querySelector('form[name="signIn"], #ap_email')) return "signin";
     return null;
   }

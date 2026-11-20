@@ -94,3 +94,20 @@ def test_edge_cases_never_fail_and_export(client, name):
     if name == "filter: only some checked":
         assert [p["unchecked"] for p in r["ranked"]] == [False, True, True]
     assert client.post("/api/export", json={"keyword": "k", "result": r, "products": extra["products"]}).status_code == 200
+
+
+def test_malformed_fields_never_break_a_page(client):
+    # what a broken parser could send: text numbers, lists, missing asin, out-of-range ratings, junk features
+    junk = [{"asin": "OK1", "price": "$1,299.00", "rating": "4.5", "n_ratings": "1,234", "badges": "x"},
+            {"asin": "OK2", "price": 12.5, "rating": 9, "n_ratings": [], "organic_rank": [], "title": {"a": 1}},
+            {"price": 3, "rating": 4, "n_ratings": 99}, {"asin": ["x"]}, "not a dict", {"asin": "  "}]
+    feats = {"OK1": {"features": [{"name": "fit", "mentions": "20", "negative": 15}, {"name": 5}, "junk"], "stars": {"1": "x", "9": 3}},
+             "OK2": "junk"}
+    r = client.post("/api/analyze", json={"url": "u", "keyword": None, "products": junk, "features": feats,
+                                          "phase": "features", "fetch_log": []}).json()
+    assert r["status"] == "ok", r.get("error")
+    assert sorted(p["asin"] for p in r["products"]) == ["OK1", "OK2"]
+    ok1 = next(p for p in r["products"] if p["asin"] == "OK1")
+    assert ok1["price"] == 1299.0 and ok1["n_ratings"] == 1234 and ok1["complaints"]   # "fit 75% negative (15/20)"
+    assert next(p for p in r["products"] if p["asin"] == "OK2")["rating"] is None      # 9★ is impossible
+    assert client.post("/api/export", json={"keyword": None, "result": r, "products": junk}).status_code == 200

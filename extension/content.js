@@ -327,6 +327,12 @@
     runs = []; fetchLog = [];
     status("Reading this page…");
     cards = await readSearchPages(limits.products);
+    const blk = !cards.length && SSParsers.blockKind(document, location.href);
+    if (blk) {  // Amazon served an error / robot-check page instead of results
+      status(blk === "error_page" ? "Amazon showed an error page instead of results. Reload the page and try again."
+             : "Amazon wants to check you're not a robot. Complete it on the page, then try again.", true);
+      $(".start").disabled = false; return;
+    }
     const quick = await analyze({ phase: "cards", feature_n: limits.featurePages, ai_n: aiN() });
     if (!quick) { $(".start").disabled = false; return; }
     last = quick; runs.push({ phase: "cards", run_id: quick.run_id });
