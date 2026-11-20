@@ -56,3 +56,41 @@ def test_major_complaint_blocks_best_value(client):
     assert any("major complaint" in i["insight"] and "VALUE" in i["asins"] for i in r["insights"])
     assert r["features_known"] == 2
     assert client.get("/runs").status_code == 200 and client.get(f"/api/runs/{r['run_id']}").json()["name"] == "analyze"
+
+
+def test_only_untrusted_matches_is_not_a_failure(client):
+    # real case: the filter kept 3 necklaces, all under 50 ratings; the run used to fail at "contenders"
+    rel = {"AD": False, "CHEAP": True, "VALUE": False, "PRICEY": False}
+    r = client.post("/api/analyze", json={"url": "u", "keyword": "k", "products": CARDS, "phase": "ai",
+                                          "relevance": rel}).json()
+    assert r["status"] == "ok" and r["best_value"] is None
+    assert r["ranked"][0]["asin"] == "CHEAP" and r["ranked"][0]["risk"]
+
+
+def _p(a, price=5.0, rating=4.5, n=500):
+    return {"asin": a, "position": 1, "price": price, "rating": rating, "n_ratings": n, "badges": []}
+
+
+GOOD = [_p("A", 5, 4.6, 800), _p("B", 9, 4.7, 3000), _p("C", 3, 4.0, 200)]
+EDGES = {  # name: (request extras, expected best value, expected ranked asins)
+    "no products": (dict(products=[]), None, []),
+    "all unpriced": (dict(products=[_p("A", 0), _p("B", None)]), None, []),
+    "no ratings yet": (dict(products=[_p("A", rating=None, n=None), _p("B", rating=None, n=0)]), None, ["A", "B"]),
+    "all under 50 ratings": (dict(products=[_p("A", n=3), _p("B", n=10)]), None, ["A", "B"]),
+    "filter: everything off-topic": (dict(products=GOOD, phase="ai", relevance={a: False for a in "ABC"}), None, []),
+    "filter: only some checked": (dict(products=GOOD, phase="ai", relevance={"A": True}), "A", ["A", "B", "C"]),
+}
+
+
+@pytest.mark.parametrize("name", EDGES)
+def test_edge_cases_never_fail_and_export(client, name):
+    extra, best, ranked = EDGES[name]
+    r = client.post("/api/analyze", json={"url": "u", "keyword": "k", **extra}).json()
+    assert r["status"] == "ok", r.get("error")
+    assert (r["best_value"] or {}).get("asin") == best
+    assert [p["asin"] for p in r["ranked"]] == ranked
+    if name == "no ratings yet":
+        assert all(p["risk"] == ["no ratings"] for p in r["ranked"])
+    if name == "filter: only some checked":
+        assert [p["unchecked"] for p in r["ranked"]] == [False, True, True]
+    assert client.post("/api/export", json={"keyword": "k", "result": r, "products": extra["products"]}).status_code == 200

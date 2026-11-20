@@ -210,7 +210,7 @@ def build(result: dict, products: list[dict], keyword: str | None) -> bytes:
                 c.font = F(color=RED, size=10, bold=True)
         ws.row_dimensions[row].height = _height([(p.get("title"), 54), (vals["_risk"], 34), (vals["_complaints"], 30), (vals["_ai"], 32)])
 
-    last = len(ranked) + 2
+    last = max(len(ranked), 1) + 2   # an Excel table needs at least one (blank) data row
     ref = f"A2:{get_column_letter(len(cols))}{last}"
     tbl = Table(displayName="Products", ref=ref)
     tbl.tableStyleInfo = TableStyleInfo(name="TableStyleMedium7", showRowStripes=True)

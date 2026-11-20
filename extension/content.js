@@ -260,7 +260,9 @@
       last = ai; runs.push({ phase: "ai picks", run_id: ai.run_id });
       const off = Object.values(judgments).filter((j) => j.relevant === false).length;
       render(last, false);
-      status(`Removed ${off} off-topic of ${Object.keys(judgments).length} checked · best value updated`);
+      const failed = Object.values(judgments).filter((j) => j.relevant === null).length;
+      status(`Removed ${off} off-topic of ${Object.keys(judgments).length} checked` + (failed ? ` · ${failed} couldn't be checked` : "")
+             + (last.best_value ? " · best value updated" : " · no best value"));
     }
     $(".filt").disabled = false; $(".start").disabled = false;
   };
@@ -296,6 +298,7 @@
     const shortlist = base.ai_shortlist || [];
     const byAsin = Object.fromEntries(cards.map((c) => [c.asin, c]));
     const products = shortlist.map((a) => ({ ...byAsin[a], features: features[a]?.features || [] })).filter((p) => p.asin);
+    if (!products.length) { status("Nothing to filter on this page.", true); return null; }
     status(`Filtering: AI checking ${products.length} products…`);
     const res = await api("/api/ai/judge", "POST", { provider: aiCfg.use, key: aiCfg.keys[aiCfg.use],
       query: page.keyword || "", notes: $(".notes").value.trim(), products });
@@ -305,6 +308,11 @@
       return null;
     }
     runs.push({ phase: "ai", run_id: res.data.run_id });
+    const errs = res.data.judgments.filter((j) => j.relevant === null);
+    if (errs.length === res.data.judgments.length) {  // every check failed: don't pretend we filtered
+      status(`Filter failed: no product could be checked (${(errs[0]?.reason || "").replace(/^error:\s*/, "").slice(0, 120)}). Showing regular results.`, true);
+      return null;
+    }
     judgments = Object.fromEntries(res.data.judgments.map((j) => [j.asin, j]));
     const relevance = Object.fromEntries(res.data.judgments.filter((j) => j.relevant !== null).map((j) => [j.asin, j.relevant]));
     return analyze({ phase: "ai", features, fetch_log: fetchLog, relevance, judgments: res.data.judgments,
@@ -330,7 +338,7 @@
     last = full; lastFull = full; lastFeatures = features;
     runs.push({ phase: "features", run_id: full.run_id });
     render(last, false);
-    $(".ai").hidden = false;  // optional next step
+    $(".ai").hidden = !full.stats.items;  // optional next step (nothing to filter on an empty page)
     $(".start").disabled = false;
   }
 
@@ -346,12 +354,17 @@
     const risky = (r.ranked || []).filter((p) => p.risk?.length).length;
     $(".find").textContent = r.best_value
       ? `💡 Best value found${risky ? ` · ${risky} high risk flagged` : ""}`
-      : filtered ? "Nothing on this page matches your search" : "No product here has enough ratings to trust";
+      : !s.items ? "No products with a price on this page"
+      : !filtered ? "No product here has enough ratings to trust"
+      : Object.values(judgments).some((j) => j.relevant)
+        ? `${Object.values(judgments).filter((j) => j.relevant).length} match your search, but none has enough ratings to trust`
+        : "Nothing on this page matches your search";
     $(".find").hidden = false;
 
     const tags = (p) => [
       ...(p.risk?.length ? [el("span", { className: "risk" }, el("b", { textContent: "HIGH RISK" }), ` ${p.risk.join(" · ")}`)] : []),
       ...(p.ad ? [el("span", { className: "adtag", textContent: "ad" })] : []),
+      ...(p.unchecked ? [el("span", { className: "adtag", textContent: "not checked by AI" })] : []),
       ...(judgments[p.asin] ? [el("span", { className: "rel" }, `✓ ${judgments[p.asin].reason}`,
           ...(judgments[p.asin].quote ? [" ", el("q", { textContent: judgments[p.asin].quote })] : []))] : []),
     ];
@@ -366,7 +379,8 @@
 
     const shown = showAll ? rest : rest.slice(0, 15);
     $(".ins").replaceChildren(
-      el("div", { className: "lh" }, filtered ? `Also matching your search · ${rest.length}` : `Ranked by value · ${rest.length} more`),
+      el("div", { className: "lh" }, !filtered ? `Ranked by value · ${rest.length} more`
+        : `Also matching your search · ${rest.filter((p) => !p.unchecked).length}` + (rest.some((p) => p.unchecked) ? ` · ${rest.filter((p) => p.unchecked).length} not checked` : "")),
       ...shown.map((p, i) => el("a", { className: `li${p.risk?.length ? " hr" : ""}`, href: `/dp/${p.asin}`, target: "_blank", title: p.title || "" },
         el("span", { className: "rk", textContent: i + 2 }),
         el("span", { className: "t", textContent: p.title || p.asin }),

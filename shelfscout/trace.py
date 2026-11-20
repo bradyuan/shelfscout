@@ -35,7 +35,7 @@ class Run:
         self._save()
 
     def stage(self, name: str, fn: Callable[[list], Iterable], items: list,
-              metric: Metric | None = None, one_to_one: bool = False) -> list:
+              metric: Metric | None = None, one_to_one: bool = False, allow_empty: bool = False) -> list:
         """Run fn(items), save its output rows, record counts/time/metric/flags."""
         idx = len(self.stages) + 1
         file = f"{idx:02d}_{name}.jsonl"
@@ -55,7 +55,7 @@ class Run:
         if err:
             flags.append("error")
         elif not out:
-            flags.append("empty output")
+            flags.append("empty" if allow_empty else "empty output")
         elif one_to_one and len(out) < len(items):
             flags.append(f"lost {len(items) - len(out)} items")
 

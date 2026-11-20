@@ -38,9 +38,9 @@ class Page(BaseModel):
 def analyze(page: Page):
     run = Run("analyze", notes=f'{page.phase} · search "{page.keyword}" · {page.url}')
     try:
-        items = run.stage("page_products", lambda _: page.products, [],
+        items = run.stage("page_products", lambda _: page.products, [], allow_empty=True,
                           metric=lambda i, o: ("products on page", len(o)))
-        clean = run.stage("cleaned", value.clean, items,
+        clean = run.stage("cleaned", value.clean, items, allow_empty=True,
                           metric=lambda i, o: ("unique, priced", f"{len(o)}/{len(i)}"))
         if page.phase == "features":
             run.stage("feature_reads", lambda _: page.fetch_log, [],
@@ -51,18 +51,19 @@ def analyze(page: Page):
                  "complaints": p["complaints"], "neg_share": p["neg_share"], "low_star_pct": p["low_star_pct"]}
                 for p in value.with_features(c, page.features) if "features" in p], clean,
                 metric=lambda i, o: ("major complaints", f"{sum(bool(r['complaints']) for r in o)} of {len(o)}"))
-        rated = run.stage("fair_ratings", value.fair_ratings, clean,
+        rated = run.stage("fair_ratings", value.fair_ratings, clean, allow_empty=True,
                           metric=lambda i, o: ("rated", f"{len(o)}/{len(i)}"))
         result = value.analyze(page.products, page.features, page.relevance, page.feature_n, page.ai_n)
         why = {j["asin"]: j.get("reason") for j in page.judgments}
         for i in result["insights"]:
             if i.get("kind") in ("matches", "off_topic"):
                 i["notes"] = {a: why.get(a) for a in i["asins"] if why.get(a)}
-        run.stage("contenders", lambda _: result["contenders"], rated,
+        # empty is a real answer (e.g. every match has under 50 ratings), not a failure
+        run.stage("contenders", lambda _: result["contenders"], rated, allow_empty=True,
                   metric=lambda i, o: ("not beaten on price + rating", len(o)))
         run.stage("picks", lambda _: [{"pick": k, **{f: result[k].get(f) for f in ("asin", "title", "price", "rating", "n_ratings",
                                                                                   "fair_rating", "warn", "why", "complaints")}}
-                                      for k in ("best_value", "best_price", "amazon_pick") if result[k]], [],
+                                      for k in ("best_value", "best_price", "amazon_pick") if result[k]], [], allow_empty=True,
                   metric=lambda i, o: ("best value", f"${result['best_value']['price']:.2f}" if result["best_value"] else "none"))
         run.finish("ok")
     except StageFailed as e:

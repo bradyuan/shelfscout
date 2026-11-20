@@ -140,9 +140,14 @@ def analyze(products: list[dict], features: dict | None = None, relevance: dict 
         n = p.get("n_ratings") or 0
         warn = ("not what you searched for" if p["asin"] in off else "few ratings" if n < MIN_RATINGS
                 else p["complaints"][0] if p.get("complaints") else "ad" if p.get("sponsored") else None)
-        risk = list(p.get("complaints") or []) + ([f"only {n} rating{'s' if n != 1 else ''}"] if n < MIN_RATINGS else [])
+        risk = list(p.get("complaints") or []) + (["no ratings"] if not n else [f"only {n} rating{'s' if n != 1 else ''}"] if n < MIN_RATINGS else [])
         return {**p, "fair_rating": fair.get(p["asin"]), "warn": warn, "risk": risk,
-                "ad": bool(p.get("sponsored") or p.get("advertised")), **extra}
+                "ad": bool(p.get("sponsored") or p.get("advertised")),
+                "unchecked": bool(relevance) and p["asin"] not in relevance, **extra}
+
+    # the rest of the list: matches with no ratings yet, then (after filtering) products the AI didn't check
+    unrated = [p for p in items if p["asin"] not in fair and (not relevance or relevance.get(p["asin"]) is True)]
+    unchecked = [p for p in items if relevance and p["asin"] not in relevance]
 
     return {
         "stats": {"items": len(items), "avg_rating": _avg([p.get("rating") for p in items]),
@@ -152,7 +157,7 @@ def analyze(products: list[dict], features: dict | None = None, relevance: dict 
         "amazon_pick": tag(amazon, pick_reason="badge" if badged else "shown first"),
         "contenders": front,
         "insights": _insights_with_best(items, rated, med, amazon, relevance, value),
-        "ranked": [tag(p) for p in _ranked(rated, value)],   # one list: best value, then by fair rating
+        "ranked": [tag(p) for p in _ranked(rated, value) + unrated + unchecked],   # best value, then by fair rating
         "fetch_targets": fetch_targets(products, feature_n),
         "ai_shortlist": ai_shortlist(products, ai_n, feature_n),
         "features_known": sum(1 for p in items if "features" in p),
