@@ -69,20 +69,24 @@ def with_features(items: list[dict], features: dict) -> list[dict]:
     return out
 
 
-def fetch_targets(products: list[dict]) -> list[str]:
-    """Products worth reading feature data for: the contenders, then the best fair ratings, up to FETCH_N."""
+def fetch_targets(products: list[dict], n: int = FETCH_N) -> list[str]:
+    """Products worth reading feature data for: the contenders, then the best fair ratings, up to n."""
     rated = [p for p in fair_ratings(clean(products)) if p["n_ratings"] >= MIN_RATINGS]
     ranked = [p["asin"] for p in contenders(rated)] + [p["asin"] for p in sorted(rated, key=lambda p: -p["fair_rating"])]
-    return list(dict.fromkeys(ranked))[:FETCH_N]
+    return list(dict.fromkeys(ranked))[:n]
 
 
-AI_SHORTLIST = 20  # products AI mode checks for relevance
+AI_SHORTLIST = 100  # products the off-topic filter checks (default: all analyzed)
 
 
-def ai_shortlist(products: list[dict], n: int = AI_SHORTLIST) -> list[str]:
-    """What AI mode checks: the feature-read targets, then the next best fair ratings among well-reviewed products."""
-    rated = [p for p in fair_ratings(clean(products)) if p["n_ratings"] >= MIN_RATINGS]
-    ranked = fetch_targets(products) + [p["asin"] for p in sorted(rated, key=lambda p: -p["fair_rating"])]
+def ai_shortlist(products: list[dict], n: int = AI_SHORTLIST, feature_n: int = FETCH_N) -> list[str]:
+    """What the off-topic filter checks, best candidates first: feature-read targets, then well-reviewed products
+    by fair rating, then everything else."""
+    items = clean(products)
+    rated = fair_ratings(items)
+    trusted = [p["asin"] for p in sorted(rated, key=lambda p: -p["fair_rating"]) if p["n_ratings"] >= MIN_RATINGS]
+    rest = [p["asin"] for p in sorted(rated, key=lambda p: -p["fair_rating"]) if p["n_ratings"] < MIN_RATINGS]
+    ranked = fetch_targets(products, feature_n) + trusted + rest + [p["asin"] for p in items]
     return list(dict.fromkeys(ranked))[:n]
 
 
@@ -105,7 +109,8 @@ def top_picks(products: list[dict], features: dict | None = None, n: int = 5, re
     return out[:n]
 
 
-def analyze(products: list[dict], features: dict | None = None, relevance: dict | None = None) -> dict:
+def analyze(products: list[dict], features: dict | None = None, relevance: dict | None = None,
+            feature_n: int = FETCH_N, ai_n: int = AI_SHORTLIST) -> dict:
     """relevance: {asin: True/False} from AI mode; products marked False can't be best value or contenders."""
     items = with_features(clean(products), features or {})
     off = {a for a, v in (relevance or {}).items() if v is False}
@@ -135,7 +140,9 @@ def analyze(products: list[dict], features: dict | None = None, relevance: dict 
         n = p.get("n_ratings") or 0
         warn = ("not what you searched for" if p["asin"] in off else "few ratings" if n < MIN_RATINGS
                 else p["complaints"][0] if p.get("complaints") else "ad" if p.get("sponsored") else None)
-        return {**p, "fair_rating": fair.get(p["asin"]), "warn": warn, **extra}
+        risk = list(p.get("complaints") or []) + ([f"only {n} rating{'s' if n != 1 else ''}"] if n < MIN_RATINGS else [])
+        return {**p, "fair_rating": fair.get(p["asin"]), "warn": warn, "risk": risk,
+                "ad": bool(p.get("sponsored") or p.get("advertised")), **extra}
 
     return {
         "stats": {"items": len(items), "avg_rating": _avg([p.get("rating") for p in items]),
@@ -144,12 +151,36 @@ def analyze(products: list[dict], features: dict | None = None, relevance: dict 
         "best_price": tag(best_price),
         "amazon_pick": tag(amazon, pick_reason="badge" if badged else "shown first"),
         "contenders": front,
-        "insights": insights(items, rated, med, amazon, relevance),
-        "fetch_targets": fetch_targets(products),
-        "ai_shortlist": ai_shortlist(products),
+        "insights": _insights_with_best(items, rated, med, amazon, relevance, value),
+        "ranked": [tag(p) for p in _ranked(rated, value)],   # one list: best value, then by fair rating
+        "fetch_targets": fetch_targets(products, feature_n),
+        "ai_shortlist": ai_shortlist(products, ai_n, feature_n),
         "features_known": sum(1 for p in items if "features" in p),
         "products": items,
     }
+
+
+def _ranked(rated, best):
+    """ShelfScout's order: best value, then well-reviewed without complaints, then with complaints, then the rest."""
+    by_fair = sorted(rated, key=lambda p: (-p["fair_rating"], p["price"]))
+    tiers = ([p for p in by_fair if p["n_ratings"] >= MIN_RATINGS and not p.get("complaints")],
+             [p for p in by_fair if p["n_ratings"] >= MIN_RATINGS and p.get("complaints")],
+             [p for p in by_fair if p["n_ratings"] < MIN_RATINGS])
+    order = ([next(p for p in rated if p["asin"] == best["asin"])] if best and any(p["asin"] == best["asin"] for p in rated) else [])
+    seen, out = set(), []
+    for p in order + [p for t in tiers for p in t]:
+        if p["asin"] not in seen:
+            seen.add(p["asin"])
+            out.append(p)
+    return out
+
+
+def _insights_with_best(items, rated, med, amazon, relevance, best):
+    insights._best = best["asin"] if best else None
+    try:
+        return insights(items, rated, med, amazon, relevance)
+    finally:
+        insights._best = None
 
 
 def insights(items, rated, med, amazon, relevance=None) -> list[dict]:
@@ -172,9 +203,16 @@ def insights(items, rated, med, amazon, relevance=None) -> list[dict]:
     ]
     if judged:
         off = [a for a, v in judged.items() if v is False]
-        out.insert(0, {"priority": "HIGH" if off else "LOW", "insight": f"{len(off)} of {len(judged)} checked products aren't what you searched for",
-                       "detail": "AI mode read each product's title, review features and quotes", "action":
-                       "Left out of best value" if off else "All checked products match", "asins": off})
+        # matches first, in ShelfScout's order: best value, then well-reviewed by fair rating, then the rest
+        rank = {p["asin"]: i for i, p in enumerate(sorted(rated, key=lambda p: (p["n_ratings"] < MIN_RATINGS, -p["fair_rating"], p["price"])))}
+        best = getattr(insights, "_best", None)
+        ok = sorted((a for a, v in judged.items() if v is True), key=lambda a: (a != best, rank.get(a, 1e9)))
+        out.insert(0, {"priority": "MEDIUM", "insight": f"{len(off)} of {len(judged)} checked products aren't what you searched for",
+                       "detail": "AI read each product's title, review features and quotes", "action": "Left out of best value",
+                       "asins": off, "kind": "off_topic"})
+        out.insert(0, {"priority": "HIGH", "insight": f"{len(ok)} match your search",
+                       "detail": "Ranked by value: best value first, then by fair rating", "action": "These are the real options",
+                       "asins": ok, "kind": "matches", "open": True})
     known = [p for p in items if "features" in p]
     if known:
         bad = [p for p in known if p["complaints"]]

@@ -37,10 +37,14 @@ def test_export_xlsx(client):
     r = client.post("/api/analyze", json={"url": "u", "keyword": "k", "products": CARDS}).json()
     x = client.post("/api/export", json={"keyword": "k", "result": r, "products": CARDS}).json()
     wb = load_workbook(io.BytesIO(base64.b64decode(x["xlsx_b64"])))
-    assert wb.sheetnames == ["Shortlist", "Products", "Insights"]
+    assert wb.sheetnames == ["Summary", "Shortlist", "Products"]
     sl = wb["Shortlist"]
-    assert sl["A2"].value.startswith("Best value") and sl["H2"].hyperlink.target.endswith("/dp/VALUE")
-    assert wb["Products"].max_row == 5  # header + 4 unique priced products
+    assert sl["B2"].value.startswith("💡") and sl["B2"].hyperlink.target.endswith("/dp/VALUE")
+    assert sl["C2"].number_format == '"$"#,##0.00'
+    pr = wb["Products"]
+    assert pr.max_row == 6 and pr.max_column == 16      # bands + headers + 4 products; every column kept
+    assert "Products" in pr.tables and pr["B3"].hyperlink is not None
+    assert pr.column_dimensions["O"].outlineLevel == 1   # detail columns are collapsible, not removed
 
 
 def test_major_complaint_blocks_best_value(client):

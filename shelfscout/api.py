@@ -16,7 +16,7 @@ from pydantic import BaseModel, Field
 
 import asyncio
 
-from . import ai, bench_view, export, jury, value  # noqa: F401  (bench_view registers /bench routes)
+from . import ai, bench_view, export, value  # noqa: F401  (bench_view registers /bench routes)
 from .factory import app  # factory view routes live on the same app
 from .trace import Run, StageFailed
 
@@ -29,6 +29,8 @@ class Page(BaseModel):
     fetch_log: list[dict] = Field(default_factory=list)  # the extension's page reads: asin, status, ms
     phase: str = "cards"                           # "cards" (instant), "features" (after page reads), "ai"
     relevance: dict = Field(default_factory=dict)   # asin -> True/False from AI mode
+    feature_n: int = 10                            # limits (extension settings): product pages read for features
+    ai_n: int = 100                                #   ... and products the off-topic filter checks
     judgments: list[dict] = Field(default_factory=list)
 
 
@@ -51,10 +53,10 @@ def analyze(page: Page):
                 metric=lambda i, o: ("major complaints", f"{sum(bool(r['complaints']) for r in o)} of {len(o)}"))
         rated = run.stage("fair_ratings", value.fair_ratings, clean,
                           metric=lambda i, o: ("rated", f"{len(o)}/{len(i)}"))
-        result = value.analyze(page.products, page.features, page.relevance)
+        result = value.analyze(page.products, page.features, page.relevance, page.feature_n, page.ai_n)
         why = {j["asin"]: j.get("reason") for j in page.judgments}
         for i in result["insights"]:
-            if "aren't what you searched for" in i["insight"]:
+            if i.get("kind") in ("matches", "off_topic"):
                 i["notes"] = {a: why.get(a) for a in i["asins"] if why.get(a)}
         run.stage("contenders", lambda _: result["contenders"], rated,
                   metric=lambda i, o: ("not beaten on price + rating", len(o)))
@@ -141,28 +143,3 @@ def _plain_error(e: Exception) -> str:
     if "429" in s or "quota" in s.lower() or "rate" in s.lower():
         return "This key hit its rate limit or quota. Wait a minute and try again."
     return s.splitlines()[0][:200]
-
-
-class BenchReq(BaseModel):
-    ai: KeyReq
-    judges: list[KeyReq]
-
-
-_bench_tasks: set = set()
-
-
-@app.post("/api/bench/run")
-async def bench_run(b: BenchReq):
-    """Start AI mode + jury on the frozen searches in the background. Keys stay in memory for this run only."""
-    judges = [j.model_dump() for j in b.judges if j.provider != b.ai.provider]  # empty -> same-provider jury
-    holder: list = []
-    task = asyncio.create_task(jury.run(b.ai.model_dump(), judges, holder))
-    _bench_tasks.add(task)
-    task.add_done_callback(_bench_tasks.discard)
-    for _ in range(50):  # wait for the run id (model lookups happen first)
-        if holder or task.done():
-            break
-        await asyncio.sleep(0.2)
-    if task.done() and task.exception():
-        return {"ok": False, "error": _plain_error(task.exception())}
-    return {"ok": True, "run_id": holder[0] if holder else None}

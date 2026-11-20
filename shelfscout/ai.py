@@ -12,6 +12,7 @@ import asyncio
 import hashlib
 import json
 import re
+import time
 import urllib.request
 from functools import lru_cache
 
@@ -258,18 +259,21 @@ async def judge_one(model, store, product: dict, query: str, notes: str) -> dict
             "fallback": fallback}
 
 
-async def judge(provider: str, key: str, query: str, notes: str, products: list[dict], model: str | None = None) -> dict:
+async def judge(provider: str, key: str, query: str, notes: str, products: list[dict], model: str | None = None,
+                limiter: "AdaptiveLimiter | None" = None) -> dict:
     model = model or pick_model(provider, key)
     llm = chat_model(provider, key, model)
     store = build_store(products)
-    lim = limiter_for(provider, key)
+    lim = limiter or limiter_for(provider, key)
 
     async def one(p):
         err = None
         for attempt in range(6):
             async with lim:
                 try:
+                    t0 = time.perf_counter()
                     r = await judge_one(llm, store, p, query, notes)
+                    r["ms"] = round((time.perf_counter() - t0) * 1000)
                     await lim.success()
                     return r
                 except Exception as e:

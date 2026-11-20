@@ -73,6 +73,8 @@
     .sw span::before{content:"";position:absolute;width:20px;height:20px;left:2px;top:2px;background:#fff;border-radius:50%;transition:.15s}
     .sw input:checked+span{background:#34c759}.sw input:checked+span::before{transform:translateX(16px)}
     .sw input:disabled+span{opacity:.45;cursor:default}
+    .filt{background:#3d8fe0;color:#fff;border:0;border-radius:10px;padding:11px;font-weight:700;font-size:14px;cursor:pointer}
+    .filt:disabled{opacity:.55;cursor:default}
     .gear{margin-left:auto;background:none;border:0;color:#aab0b6;cursor:pointer;font-size:12px;text-decoration:underline}
     .rel{grid-column:1/3;font-size:12px;color:#c7e9d4}.rel q{color:#e8eaed}
     .go{background:linear-gradient(90deg,#5cb85c,#3f9a52);color:#fff;border:0;border-radius:10px;padding:14px;font-weight:700;font-size:16px;cursor:pointer}
@@ -90,6 +92,20 @@
     .debug .bad{color:#f4a99a}.debug .ok{color:#9fe0b9}
     .debug a{color:#9cc4ff}
     .note{color:#f2c94c;font-size:11px;margin-top:-4px}
+    .note.ok{color:#9fe0b9}
+    .lh{font-size:11px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:#aab0b6;margin:2px 2px 0}
+    .li{display:grid;grid-template-columns:20px minmax(0,1fr) auto;gap:2px 8px;background:#363d47;border-radius:10px;padding:8px 10px;text-decoration:none;color:inherit;font-size:12.5px}
+    .li:hover{background:#3e4651}.li.hr{box-shadow:inset 3px 0 0 #e5534b}
+    .li .rk{color:#8a9097;font-variant-numeric:tabular-nums}
+    .li .t{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-weight:600}
+    .li .n{color:#d0d4d8;font-variant-numeric:tabular-nums;white-space:nowrap;font-size:12px}
+    .tags{grid-column:2/4;display:flex;flex-wrap:wrap;gap:4px 8px;font-size:11px}
+    .pick .tags{grid-column:1/3}
+    .risk{color:#f4a99a}.risk b{background:#7a2a22;color:#ffd9d3;border-radius:4px;padding:0 5px;margin-right:3px;font-size:10px}
+    .adtag{background:#4a515b;color:#c4c8cc;border-radius:4px;padding:0 5px;font-size:10px}
+    .tags .rel{color:#9fe0b9}
+    .more{background:none;border:1px solid #4a515b;color:#c4c8cc;border-radius:8px;padding:7px;cursor:pointer;font-size:12px}
+    details.matches{outline:1px solid #3f9a52;background:#2b3d33}
     [hidden]{display:none!important}
   </style>
   <button class="pill-open">ShelfScout</button>
@@ -105,14 +121,13 @@
       <div class="find" hidden></div>
       <div class="picks" hidden></div>
       <div class="ins" hidden></div>
-      <div class="ai">
-        <input type="text" class="notes" placeholder="Add details (optional): no plastic, for a large dog…">
-        <div class="airow"><label class="sw"><input type="checkbox" class="ai-on"><span></span></label>
-          <div><b>AI relevance</b><br><small class="ai-sub">checks each product is what you searched for</small></div>
-          <button class="gear">settings</button></div>
-      </div>
       <div class="status"></div>
       <button class="go start">▶&nbsp; Find best value</button>
+      <div class="ai" hidden>
+        <button class="filt">Filter off-topic results</button>
+        <input type="text" class="notes" placeholder="Specific instructions (optional): no plastic, for a large dog…">
+        <div class="airow"><small class="ai-sub"></small><button class="gear">settings</button></div>
+      </div>
       <div class="row"><button class="sec xl" disabled>Excel</button><button class="sec csv" disabled>CSV</button><button class="sec json" disabled>JSON</button></div>
       <div class="debug" hidden></div>
       <div class="foot"><span class="ver"></span><label class="dbg"><input type="checkbox" class="dbg-on"> Debug</label></div>
@@ -184,7 +199,7 @@
 
   async function readFeatures(targets) {
     const features = await cached(targets);
-    fetchLog = targets.filter((a) => features[a]).map((asin) => ({ asin, status: "cached" }));
+    fetchLog.push(...targets.filter((a) => features[a]).map((asin) => ({ asin, status: "cached" })));
     const todo = targets.filter((a) => !features[a]);
     for (const [i, asin] of todo.entries()) {
       status(`Reading review features ${i + 1}/${todo.length}…`);
@@ -215,109 +230,151 @@
     return res.data;
   }
 
-  // ---------- AI mode: the user's own key, from the settings page ----------
+  // ---------- limits (settings page) and the user's own AI key ----------
+  // 0 = default: products -> the first page only; aiChecks -> every product analyzed
+  const DEFAULT_LIMITS = { products: 0, featurePages: 10, aiChecks: 0 };
+  const aiN = () => limits.aiChecks || cards.length;
+  let limits = { ...DEFAULT_LIMITS };
   let aiCfg = null;
-  async function loadAi() {
-    try { aiCfg = (await chrome.storage.local.get("ai")).ai || null; } catch { aiCfg = null; }
+  async function loadSettings() {
+    try {
+      const got = await chrome.storage.local.get(["ai", "limits"]);
+      aiCfg = got.ai || null;
+      limits = { ...DEFAULT_LIMITS, ...(got.limits || {}) };
+    } catch { aiCfg = null; }
     const ready = !!(aiCfg && aiCfg.use && aiCfg.keys?.[aiCfg.use]);
-    $(".ai-on").disabled = !ready;
-    if (!ready) $(".ai-on").checked = false;
-    $(".ai-sub").textContent = ready ? `uses your ${aiCfg.use} key · checks each product is what you searched for`
-                                     : "add your AI key in settings to turn this on";
+    $(".filt").textContent = ready ? "Filter off-topic results" : "Filter off-topic results · add your AI key";
+    $(".ai-sub").textContent = ready ? `AI · uses your ${aiCfg.use} key · ${limits.aiChecks ? `checks up to ${limits.aiChecks} products` : "checks every product"}`
+                                     : "AI · needs your own key (Gemini has a free tier)";
     return ready;
   }
-  loadAi().then((ready) => chrome.storage.local.get("aiOn").then(({ aiOn }) => { $(".ai-on").checked = ready && aiOn !== false; }).catch(() => {}));
-  chrome.storage.onChanged?.addListener((ch) => { if (ch.ai) loadAi(); });
-  $(".ai-on").onchange = () => chrome.storage.local.set({ aiOn: $(".ai-on").checked }).catch(() => {});
+  loadSettings();
+  chrome.storage.onChanged?.addListener((ch) => { if (ch.ai || ch.limits) loadSettings(); });
   $(".gear").onclick = () => chrome.runtime.sendMessage({ type: "open-options" });
-  $(".airow small").onclick = () => { if ($(".ai-on").disabled) chrome.runtime.sendMessage({ type: "open-options" }); };
+  $(".filt").onclick = async () => {
+    if (!(await loadSettings())) return chrome.runtime.sendMessage({ type: "open-options" });
+    if (!lastFull) return;
+    $(".filt").disabled = true; $(".start").disabled = true;
+    const ai = await aiPass(lastFull, lastFeatures);
+    if (ai) {
+      last = ai; runs.push({ phase: "ai picks", run_id: ai.run_id });
+      const off = Object.values(judgments).filter((j) => j.relevant === false).length;
+      render(last, false);
+      status(`Removed ${off} off-topic of ${Object.keys(judgments).length} checked · best value updated`);
+    }
+    $(".filt").disabled = false; $(".start").disabled = false;
+  };
+
+  // ---------- more search pages until the product limit (like clicking Next) ----------
+  async function readSearchPages(limit) {
+    const all = SSParsers.searchCards(document);
+    if (!limit) return all;  // default: just the page you're on
+    const seen = new Set(all.map((c) => c.asin));
+    let organic = Math.max(0, ...all.map((c) => c.organic_rank || 0));
+    for (let n = 2; all.length < limit && n <= 8; n++) {
+      status(`Reading search results page ${n}… (${all.length}/${limit} products)`);
+      await sleep(1500 + Math.random() * 1500);
+      const url = new URL(location.href);
+      url.searchParams.set("page", n);
+      let doc, resp;
+      try {
+        resp = await fetch(url, { credentials: "include" });
+        doc = new DOMParser().parseFromString(await resp.text(), "text/html");
+      } catch { break; }
+      if (SSParsers.blockKind(doc, resp.url)) { fetchLog.push({ asin: `search page ${n}`, status: "failed", reason: "Amazon block" }); break; }
+      const more = SSParsers.searchCards(doc).filter((c) => !seen.has(c.asin));
+      if (!more.length) break;  // no more results
+      for (const c of more) {
+        seen.add(c.asin);
+        all.push({ ...c, position: all.length + 1, organic_rank: c.organic_rank ? ++organic : null, page: n });
+      }
+    }
+    return all.slice(0, limit);
+  }
 
   async function aiPass(base, features) {
     const shortlist = base.ai_shortlist || [];
     const byAsin = Object.fromEntries(cards.map((c) => [c.asin, c]));
     const products = shortlist.map((a) => ({ ...byAsin[a], features: features[a]?.features || [] })).filter((p) => p.asin);
-    status(`AI checking ${products.length} products…`);
+    status(`Filtering: AI checking ${products.length} products…`);
     const res = await api("/api/ai/judge", "POST", { provider: aiCfg.use, key: aiCfg.keys[aiCfg.use],
       query: page.keyword || "", notes: $(".notes").value.trim(), products });
     if (!res || !res.ok || res.data.status !== "ok") {
-      status(`AI mode failed: ${res?.data?.error || "server not reachable"}. Showing regular results.`, true);
+      status(`Filter failed: ${res?.data?.error || "server not reachable"}. Showing regular results.`, true);
       if (res?.data?.run_id) runs.push({ phase: "ai (failed)", run_id: res.data.run_id });
       return null;
     }
     runs.push({ phase: "ai", run_id: res.data.run_id });
     judgments = Object.fromEntries(res.data.judgments.map((j) => [j.asin, j]));
     const relevance = Object.fromEntries(res.data.judgments.filter((j) => j.relevant !== null).map((j) => [j.asin, j.relevant]));
-    return analyze({ phase: "ai", features, fetch_log: fetchLog, relevance, judgments: res.data.judgments });
+    return analyze({ phase: "ai", features, fetch_log: fetchLog, relevance, judgments: res.data.judgments,
+                     feature_n: limits.featurePages, ai_n: aiN() });
   }
 
-  let judgments = {};
+  let judgments = {}, lastFull = null, lastFeatures = {};
   async function run() {
-    judgments = {};
-    $(".start").disabled = true;
-    status("Reading this page…");
-    cards = SSParsers.searchCards(document);
+    judgments = {}; lastFull = null; showAll = false;
+    $(".start").disabled = true; $(".ai").hidden = true;
+    await loadSettings();
     runs = []; fetchLog = [];
-    const quick = await analyze({ phase: "cards" });
+    status("Reading this page…");
+    cards = await readSearchPages(limits.products);
+    const quick = await analyze({ phase: "cards", feature_n: limits.featurePages, ai_n: aiN() });
     if (!quick) { $(".start").disabled = false; return; }
     last = quick; runs.push({ phase: "cards", run_id: quick.run_id });
     render(last, true);
 
     const features = await readFeatures(quick.fetch_targets || []);
-    const full = await analyze({ phase: "features", features, fetch_log: fetchLog });
+    const full = await analyze({ phase: "features", features, fetch_log: fetchLog, feature_n: limits.featurePages, ai_n: aiN() });
     if (!full) { $(".start").disabled = false; return; }
-    last = full; runs.push({ phase: "features", run_id: full.run_id });
-    const useAi = $(".ai-on").checked && await loadAi();
-    render(last, useAi);
-    if (useAi) {
-      const ai = await aiPass(full, features);
-      if (ai) { last = ai; runs.push({ phase: "ai picks", run_id: ai.run_id }); }
-      render(last, false);
-    }
+    last = full; lastFull = full; lastFeatures = features;
+    runs.push({ phase: "features", run_id: full.run_id });
+    render(last, false);
+    $(".ai").hidden = false;  // optional next step
     $(".start").disabled = false;
   }
 
+  let showAll = false;
   function render(r, preliminary) {
     const s = r.stats;
     $(".s-items").textContent = s.items;
     $(".s-rating").textContent = s.avg_rating ?? "–";
     $(".s-price").textContent = money(s.median_price);
 
-    const deals = r.insights.find((i) => i.insight.includes("good deal"));
+    const filtered = Object.keys(judgments).length > 0;
+    const rest = (r.ranked || []).filter((p) => !r.best_value || p.asin !== r.best_value.asin);
+    const risky = (r.ranked || []).filter((p) => p.risk?.length).length;
     $(".find").textContent = r.best_value
-      ? `💡 Best value found${deals && deals.asins.length ? ` · ${deals.asins.length} good deals` : ""}`
-      : "No product here has enough ratings to trust";
+      ? `💡 Best value found${risky ? ` · ${risky} high risk flagged` : ""}`
+      : filtered ? "Nothing on this page matches your search" : "No product here has enough ratings to trust";
     $(".find").hidden = false;
 
-    const pick = (k, label, p, best = false) => p && el("a", { className: `pick${best ? " best" : ""}`, href: `/dp/${p.asin}`, target: "_blank", title: p.title || "" },
-      el("span", { className: "k", textContent: label }),
-      el("span", { className: "t", textContent: p.title || p.asin }),
-      el("span", { className: "n" }, facts(p), p.warn ? el("div", { className: "warn", textContent: `⚠ ${p.warn}` }) : ""),
-      ...(best && p.why ? [el("span", { className: "why", textContent: p.why })] : []),
-      ...(judgments[p.asin] ? [el("span", { className: "rel" }, `${judgments[p.asin].relevant ? "✓ Relevant" : "✗ Not relevant"}: ${judgments[p.asin].reason}`,
-          ...(judgments[p.asin].quote ? [" ", el("q", { textContent: judgments[p.asin].quote })] : []))] : []));
-    $(".picks").replaceChildren(...[
-      pick("best_value", "💡 Best value", r.best_value, true),
-      pick("best_price", "Best price", r.best_price),
-      pick("amazon_pick", "Amazon's pick", r.amazon_pick)].filter(Boolean));
-    $(".picks").hidden = false;
+    const tags = (p) => [
+      ...(p.risk?.length ? [el("span", { className: "risk" }, el("b", { textContent: "HIGH RISK" }), ` ${p.risk.join(" · ")}`)] : []),
+      ...(p.ad ? [el("span", { className: "adtag", textContent: "ad" })] : []),
+      ...(judgments[p.asin] ? [el("span", { className: "rel" }, `✓ ${judgments[p.asin].reason}`,
+          ...(judgments[p.asin].quote ? [" ", el("q", { textContent: judgments[p.asin].quote })] : []))] : []),
+    ];
+    const v = r.best_value;
+    $(".picks").replaceChildren(...(v ? [el("a", { className: "pick best", href: `/dp/${v.asin}`, target: "_blank", title: v.title || "" },
+      el("span", { className: "k", textContent: "💡 Best value" }),
+      el("span", { className: "t", textContent: v.title || v.asin }),
+      el("span", { className: "n" }, facts(v)),
+      ...(v.why ? [el("span", { className: "why", textContent: v.why })] : []),
+      el("span", { className: "tags" }, ...tags(v)))] : []));
+    $(".picks").hidden = !v;
 
-    const byAsin = Object.fromEntries(cards.map((c) => [c.asin, c]));
-    const open = new Set([...root.querySelectorAll("details[open]")].map((d) => d.dataset.k));
-    $(".ins").replaceChildren(...r.insights.map((i) => {
-      const items = (i.asins || []).map((a) => byAsin[a]).filter(Boolean);
-      const notes = i.notes || {};
-      const d = el("details", {},
-        el("summary", {}, el("span", { className: `pr ${i.priority}`, textContent: i.priority }), el("b", { textContent: i.insight })),
-        el("div", { className: "dt" }, el("span", { textContent: `${i.detail}. ${i.action}.` }),
-          ...items.slice(0, 25).flatMap((p) => [el("a", { href: `/dp/${p.asin}`, target: "_blank", title: p.title || "" },
-            el("span", { textContent: p.title || p.asin }), el("span", { textContent: facts(p) })),
-            ...(notes[p.asin] ? [el("span", { className: "note", textContent: `⚠ ${notes[p.asin]}` })] : [])]),
-          ...(items.length > 25 ? [el("span", { textContent: `+${items.length - 25} more in the Excel export` })] : [])));
-      d.dataset.k = i.insight.replace(/^\d+( of \d+)? /, "");
-      d.open = open.has(d.dataset.k);
-      return d;
-    }));
-    $(".ins").hidden = !r.insights.length;
+    const shown = showAll ? rest : rest.slice(0, 15);
+    $(".ins").replaceChildren(
+      el("div", { className: "lh" }, filtered ? `Also matching your search · ${rest.length}` : `Ranked by value · ${rest.length} more`),
+      ...shown.map((p, i) => el("a", { className: `li${p.risk?.length ? " hr" : ""}`, href: `/dp/${p.asin}`, target: "_blank", title: p.title || "" },
+        el("span", { className: "rk", textContent: i + 2 }),
+        el("span", { className: "t", textContent: p.title || p.asin }),
+        el("span", { className: "n", textContent: facts(p) }),
+        el("span", { className: "tags" }, ...tags(p)))),
+      ...(rest.length > shown.length ? [Object.assign(el("button", { className: "more", textContent: `Show all ${rest.length}` }),
+          { onclick: () => { showAll = true; render(last, false); } })] : []));
+    $(".ins").hidden = !rest.length;
 
     if (!preliminary) {
       const known = r.features_known || 0;

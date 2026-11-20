@@ -54,12 +54,20 @@
   </section>
 
   <section class="card">
-    <h2>Developer: relevance benchmark</h2>
-    <div class="note">Runs AI mode on the 30 frozen searches, then has a jury of your other saved providers label
-      every pick (a provider never grades itself). Results appear on the benchmark page.</div>
-    <div class="row"><button id="bench" class="sec">Run benchmark</button><a href="http://localhost:8100/bench" target="_blank">Open benchmark page ↗</a></div>
-    <div class="msg" id="benchmsg"></div>
+    <h2>Limits</h2>
+    <label>Products to analyze
+      <input id="lim-products" type="number" min="1" max="500" placeholder="First page only (default, about 50)">
+    </label>
+    <div class="note">More than the first page reads the next search pages in your tab, one every 1.5-3 seconds.</div>
+    <label>Product pages to read for review features
+      <input id="lim-features" type="number" min="0" max="100" placeholder="10 (default)">
+    </label>
+    <label>Products the off-topic filter checks
+      <input id="lim-ai" type="number" min="1" max="500" placeholder="Every product analyzed (default)">
+    </label>
+    <div class="row"><button id="lim-reset" class="sec">Reset to defaults</button><span class="msg" id="limmsg"></span></div>
   </section>
+
 </main>
 <script src="options.js"></script>
 </body>

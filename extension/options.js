@@ -51,19 +51,25 @@ $("save").onclick = async () => {
 };
 $("use").onchange = async () => { const ai = await load(); ai.use = $("use").value; await store(ai); };
 
-$("bench").onclick = async () => {
-  const ai = await load();
-  if (!ai.use) { $("benchmsg").className = "msg bad"; $("benchmsg").textContent = "Add a key first."; return; }
-  const judges = Object.keys(ai.keys).filter((p) => p !== ai.use).map((p) => ({ provider: p, key: ai.keys[p] }));
-  $("bench").disabled = true; $("benchmsg").className = "msg"; $("benchmsg").textContent = "Starting…";
-  const r = await api("/api/bench/run", "POST", { ai: { provider: ai.use, key: ai.keys[ai.use] }, judges });
-  $("bench").disabled = false;
-  $("benchmsg").className = r?.data?.ok ? "msg ok" : "msg bad";
-  $("benchmsg").textContent = r?.data?.ok
-    ? `Running in the background (run ${r.data.run_id}). Takes a few minutes; refresh the benchmark page.` +
-      (judges.length ? "" : ` Only ${NAMES[ai.use]} is saved, so its stronger model is the judge (a weaker test than an independent jury).`)
-    : (r?.data?.error || "Couldn't start the benchmark.");
-};
+// ---------- limits (blank = default) ----------
+const LIM = { "lim-products": "products", "lim-features": "featurePages", "lim-ai": "aiChecks" };
+async function loadLimits() {
+  const { limits = {} } = await chrome.storage.local.get("limits");
+  for (const [id, k] of Object.entries(LIM)) $(id).value = limits[k] ? limits[k] : (k === "featurePages" && limits[k] === 0 ? 0 : "");
+}
+async function saveLimits() {
+  const limits = {};
+  for (const [id, k] of Object.entries(LIM)) {
+    const v = $(id).value.trim();
+    if (v !== "") limits[k] = Math.max(0, Math.round(+v));
+  }
+  await chrome.storage.local.set({ limits });
+  $("limmsg").className = "msg ok"; $("limmsg").textContent = "Saved";
+  setTimeout(() => ($("limmsg").textContent = ""), 1200);
+}
+Object.keys(LIM).forEach((id) => ($(id).onchange = saveLimits));
+$("lim-reset").onclick = async () => { await chrome.storage.local.set({ limits: {} }); loadLimits(); $("limmsg").className = "msg ok"; $("limmsg").textContent = "Defaults restored"; };
 
 showKeyLink();
 render();
+loadLimits();
