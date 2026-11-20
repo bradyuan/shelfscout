@@ -288,5 +288,5 @@ async def judge(provider: str, key: str, query: str, notes: str, products: list[
                         "reason": f"error: {str(e)[:120]}", "quote": None, "quote_check": "none", "searches": []}
 
     results = await asyncio.gather(*(one(p) for p in products))
-    return {"model": f"{provider}:{model}", "judgments": results, "backoffs": lim.backoffs, "final_limit": lim.limit,
+    return {"model": f"{provider}:{model}", "judgments": results, "backoffs": lim.backoffs, "final_limit": None if lim.limit == float("inf") else lim.limit,
             "evidence_docs": sum(len(evidence(p)) for p in products)}

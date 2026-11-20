@@ -94,7 +94,7 @@ def ai_test(k: KeyReq):
     try:
         out = ai.test_key(k.provider, k.key.strip())
     except Exception as e:
-        out = {"ok": False, "error": _plain_error(e), "raw": str(e).splitlines()[0][:200]}
+        out = {"ok": False, "error": _plain_error(e), "raw": str(e).splitlines()[0][:200].replace(k.key.strip(), "[key]")}
     run.stage("result", lambda _: [{"provider": k.provider, **{x: out.get(x) for x in ("ok", "model", "error", "raw")}}], [],
               metric=lambda i, o: ("result", out.get("model") or "failed"))
     run.finish("ok" if out.get("ok") else "failed")

@@ -1,6 +1,6 @@
 # ShelfScout
 
-**Find the best value on any Amazon search: not the cheapest, not the sponsored pick, and actually what you searched for.**
+**Find the best value on any Amazon search: not just the cheapest or the most promoted, and actually what you searched for.**
 
 A Chrome extension with a Python backend. One click ranks every product on the page by value. A second click
 has an AI agent remove what you didn't ask for.
@@ -8,7 +8,8 @@ has an AI agent remove what you didn't ask for.
 ![Before and after: "sugar free gummy bears". Left, the math alone picks regular Albanese gummy bears. Right, after the AI filter, the best value is an actual sugar-free bag](docs/0-before-after.png)
 
 *Searching "sugar free gummy bears": the math alone picks **regular** gummy bears (left). One click on
-"Filter off-topic results" removes 39 of 58 off-topic products, and the best value becomes an actual sugar-free bag (right).*
+"Filter off-topic results" checks all 58 products, removes the 39 that aren't sugar-free gummy bears, and the best value
+becomes an actual sugar-free bag (right).*
 
 ## How it works
 
@@ -31,7 +32,8 @@ ShelfScout reads the products already on the page and scores them with plain mat
 The math can't tell that regular gummy bears aren't sugar-free. The filter can. Click **Filter off-topic results**
 and add instructions if you like ("make sure they are sugar free", "no plastic, for a large dog").
 An AI agent checks each product against your search. Off-topic products drop out, the best value is recalculated,
-and every match shows its reason, quoting the listing or a customer review.
+and every match shows a one-line reason, plus a supporting quote from the listing or a customer review when one is
+found. (On the gummy bear search: 19 of 58 kept, 24 quotes cited, all 24 verified as real.)
 
 <img src="docs/2-filtering.png" width="380" alt="Filtering with instructions"> <img src="docs/3-filter-done.png" width="380" alt="Removed 39 off-topic of 58">
 
@@ -57,8 +59,8 @@ flowchart LR
 |---|---|---|
 | Extension | Chrome MV3, plain JS | Reads the page, fetches product pages in your tab, shows the panel, exports |
 | Backend | FastAPI (async) | Scoring, the AI filter, Excel export, run recording |
-| Agent | LangGraph ReAct agent (LangChain `create_agent`) | One per product: looks up evidence only when the title doesn't settle it, returns relevant / not + reason + quote |
-| RAG | sentence-transformers on PyTorch + ChromaDB | Searches a product's title, Amazon review-feature summaries and customer quotes by meaning ("no mess" finds "peeled off clean") |
+| Agent | LangGraph ReAct agent (LangChain `create_agent`, which compiles to a LangGraph graph) | One per product: decides when to look up evidence (it's told to when the title doesn't settle it), returns relevant / not + reason + optional quote |
+| RAG | sentence-transformers embeddings (PyTorch, inference only) + ChromaDB | Searches a product's title, Amazon review-feature summaries and customer quotes by meaning ("no mess" finds "peeled off clean"). The vector store is in memory, built fresh for each request |
 | LLM | Gemini, OpenAI or Claude via LangChain | Bring your own key; the model is picked automatically from what the key can use |
 | Guardrails | code | Every cited quote is checked word for word against the evidence (invented quotes are dropped); agents that loop get one "decide now" fallback; a shared AIMD rate limiter backs off when the provider complains |
 | Observability | run recorder | Every request is saved stage by stage (items in/out, timing, flags); open it in the factory view or the extension's **Debug** panel |
@@ -72,8 +74,14 @@ The off-topic filter on 150 products (30 saved searches × 5), `gemini-3.8-flash
 | One at a time | 1,276 s (21 min) | 6.3 s / 23.2 s | 0.12 / s | 0 |
 | All at once | **46 s** | 5.9 s / 20.0 s | 3.24 / s | 0 |
 
-**27.6× faster**, with no slowdown per check and no rate-limit backoffs. Across the two runs, 98% of products got
-the same verdict. Rerun it with `GEMINI_API_KEY=... uv run python -m shelfscout.latency`.
+**27.6× faster**, with no slowdown per check and no rate-limit backoffs. Other numbers from the same run:
+
+- **Consistency:** 147 of 150 products (98%) got the same verdict in both runs (sequential and concurrent).
+- **Fallbacks:** 5 of 300 checks (1.7%) needed the "decide now" fallback after the agent looped without answering.
+- **Errors:** 0 of 300.
+
+Rerun it with `GEMINI_API_KEY=... uv run python -m shelfscout.latency --per-search 5` (the default is 10 products
+per search; results are recorded as a run in the factory view).
 
 ## Permissions
 
@@ -98,8 +106,10 @@ uv run uvicorn shelfscout.api:app --port 8100
 
 1. Open `chrome://extensions`, turn on **Developer mode**, click **Load unpacked** and pick the `extension/` folder.
 2. Search Amazon for anything. Click the green **ShelfScout** pill, then **Find best value**.
-3. *(Optional, for the AI filter)* Open the panel's **settings**, pick a provider and paste a key.
-   Gemini has a free tier: **Get a free Gemini key** opens Google AI Studio. The key is tested when you paste it.
+3. *(Optional, for the AI filter)* Open settings: right-click the ShelfScout toolbar icon → **Options** (or the
+   **settings** link under the filter button after a run). Pick a provider and paste a key. Gemini has a free tier:
+   **Get a free Gemini key** opens Google AI Studio. The key is tested when you paste it. The first filter run
+   downloads the small embedding model (about 90 MB) from Hugging Face.
 
 <img src="docs/settings.png" width="420" alt="Settings: your AI key and limits">
 
