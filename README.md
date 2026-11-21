@@ -67,7 +67,8 @@ flowchart LR
 
 ### Benchmark: latency
 
-The off-topic filter on 145 products (29 saved Amazon searches × 5), `gemini-3.8-flash`, one at a time vs all at once:
+The off-topic filter run two ways, one at a time vs all at once, on the same products with `gemini-3.8-flash`:
+29 saved Amazon searches × 5 products each = 145 checks each mode.
 
 ![Bar race: all at once finishes in 72 s while one at a time takes 19 min](docs/latency-race.svg)
 
