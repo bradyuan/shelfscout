@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "ShelfScout (dev)",
-  "version": "0.9.4",
+  "version": "0.9.5",
   "description": "Best value on any Amazon search, vs best price and Amazon's pick. Dev build: analysis runs on localhost.",
   "permissions": [
     "storage",

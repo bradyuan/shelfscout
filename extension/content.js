@@ -424,7 +424,8 @@
 
     if (!preliminary) {
       const known = r.features_known || 0;
-      status(`✓ Ready to download ${s.items} products · review features read for ${known}`);
+      const fromCache = fetchLog.filter((f) => f.status === "cached").length;
+      status(`✓ Ready to download ${s.items} products · review features read for ${known}` + (fromCache ? ` (${fromCache} saved from earlier)` : ""));
       root.querySelectorAll(".sec").forEach((b) => (b.disabled = false));
     }
     showDebug();

@@ -78,7 +78,8 @@ def matches(title, terms):
 def driver():
     from selenium import webdriver
     o = webdriver.ChromeOptions()
-    o.add_argument("--headless=new")
+    if not __import__("os").environ.get("BENCH_HEADED"):  # BENCH_HEADED=1 shows a browser window instead of headless
+        o.add_argument("--headless=new")
     o.add_argument("--window-size=1280,1000")
     o.add_argument("--lang=en-US")
     o.add_argument(f"--user-agent={UA}")
