@@ -260,7 +260,8 @@ async def judge_one(model, store, product: dict, query: str, notes: str) -> dict
 
 
 async def judge(provider: str, key: str, query: str, notes: str, products: list[dict], model: str | None = None,
-                limiter: "AdaptiveLimiter | None" = None) -> dict:
+                limiter: "AdaptiveLimiter | None" = None, on_done=None) -> dict:
+    """on_done() is called as each product finishes, for the panel's progress bar."""
     model = model or pick_model(provider, key)
     llm = chat_model(provider, key, model)
     store = build_store(products)
@@ -287,6 +288,12 @@ async def judge(provider: str, key: str, query: str, notes: str, products: list[
                 return {"asin": p["asin"], "title": (p.get("title") or "")[:80], "relevant": None,
                         "reason": f"error: {str(e)[:120]}", "quote": None, "quote_check": "none", "searches": []}
 
-    results = await asyncio.gather(*(one(p) for p in products))
+    async def tracked(p):
+        r = await one(p)
+        if on_done:
+            on_done()
+        return r
+
+    results = await asyncio.gather(*(tracked(p) for p in products))
     return {"model": f"{provider}:{model}", "judgments": results, "backoffs": lim.backoffs, "final_limit": None if lim.limit == float("inf") else lim.limit,
             "evidence_docs": sum(len(evidence(p)) for p in products)}

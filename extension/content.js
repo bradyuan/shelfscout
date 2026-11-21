@@ -62,6 +62,9 @@
     .dt a:hover span:first-child{text-decoration:underline}
     .status{display:flex;gap:8px;justify-content:center;align-items:center;background:#33493d;color:#a8dcb9;border-radius:10px;padding:11px;font-size:13px}
     .status.err{background:#4a2f2a;color:#f4b3a5}
+    .live{position:sticky;bottom:0;z-index:3;display:grid;gap:6px;background:#2b313a;margin:0 -16px;padding:8px 16px;box-shadow:0 -8px 12px -8px rgba(0,0,0,.45)}
+    .prog{height:5px;background:#3a4048;border-radius:3px;overflow:hidden}
+    .prog i{display:block;height:100%;width:0;background:#6fcf97;border-radius:3px;transition:width .4s}
     .ai{display:grid;gap:8px;background:#363d47;border-radius:10px;padding:10px 11px}
     .ai input[type=text]{width:100%;background:#2b313a;border:1px solid #4a515b;border-radius:8px;color:#e8eaed;padding:8px 10px;font:13px inherit}
     .ai input[type=text]::placeholder{color:#8a9097}
@@ -121,7 +124,7 @@
       <div class="find" hidden></div>
       <div class="picks" hidden></div>
       <div class="ins" hidden></div>
-      <div class="status"></div>
+      <div class="live"><div class="status"></div><div class="prog" hidden><i></i></div></div>
       <button class="go start">▶&nbsp; Find best value</button>
       <div class="ai" hidden>
         <button class="filt">Filter off-topic results</button>
@@ -145,6 +148,20 @@
   const money = (n) => (n == null ? "–" : `$${Number(n).toFixed(2)}`);
   const count = (n) => (n == null ? "?" : n >= 1000 ? `${(n / 1000).toFixed(1)}k` : String(n));
   const facts = (p) => `${money(p.price)} · ${p.rating ?? "?"}★ (${count(p.n_ratings)})`;
+  let progTimer = null, progStart = 0, progLabel = null;
+  function progress(label, done = 0, total = 0) {
+    clearInterval(progTimer);
+    if (!label) { progLabel = null; $(".prog").hidden = true; return; }
+    if (label !== progLabel) { progLabel = label; progStart = performance.now(); }
+    const draw = () => {
+      const secs = Math.round((performance.now() - progStart) / 1000);
+      status(`${label}${total ? ` ${done}/${total}` : ""} · ${secs}s`);
+      $(".prog i").style.width = total ? `${Math.round((100 * done) / total)}%` : "0%";
+    };
+    $(".prog").hidden = !total;
+    draw();
+    progTimer = setInterval(draw, 1000);
+  }
   const status = (msg, err = false) => { const s = $(".status"); s.className = "status" + (err ? " err" : ""); s.textContent = msg; };
 
   if (page.kind !== "search") {
@@ -202,7 +219,7 @@
     fetchLog.push(...targets.filter((a) => features[a]).map((asin) => ({ asin, status: "cached" })));
     const todo = targets.filter((a) => !features[a]);
     for (const [i, asin] of todo.entries()) {
-      status(`Reading review features ${i + 1}/${todo.length}…`);
+      progress("Reading reviews", i, todo.length);
       if (i) await sleep(1500 + Math.random() * 1500);  // one page every 1.5-3 s
       const t0 = performance.now();
       try {
@@ -219,6 +236,7 @@
         fetchLog.push({ asin, status: "failed", reason: String(e) });
       }
     }
+    progress(null);
     return features;
   }
 
@@ -274,7 +292,7 @@
     const seen = new Set(all.map((c) => c.asin));
     let organic = Math.max(0, ...all.map((c) => c.organic_rank || 0));
     for (let n = 2; all.length < limit && n <= 8; n++) {
-      status(`Reading search results page ${n}… (${all.length}/${limit} products)`);
+      progress("Reading more search results", all.length, limit);
       await sleep(1500 + Math.random() * 1500);
       const url = new URL(location.href);
       url.searchParams.set("page", n);
@@ -299,9 +317,16 @@
     const byAsin = Object.fromEntries(cards.map((c) => [c.asin, c]));
     const products = shortlist.map((a) => ({ ...byAsin[a], features: features[a]?.features || [] })).filter((p) => p.asin);
     if (!products.length) { status("Nothing to filter on this page.", true); return null; }
-    status(`Filtering: AI checking ${products.length} products…`);
+    const job = crypto.randomUUID();
+    progress("AI checking products", 0, products.length);
+    const poll = setInterval(async () => {
+      const p = await api(`/api/ai/progress/${job}`, "GET");
+      if (p?.ok && p.data?.total && progLabel) progress("AI checking products", p.data.done, p.data.total);
+    }, 1000);
     const res = await api("/api/ai/judge", "POST", { provider: aiCfg.use, key: aiCfg.keys[aiCfg.use],
-      query: page.keyword || "", notes: $(".notes").value.trim(), products });
+      query: page.keyword || "", notes: $(".notes").value.trim(), products, job });
+    clearInterval(poll);
+    progress(null);
     if (!res || !res.ok || res.data.status !== "ok") {
       status(`Filter failed: ${res?.data?.error || "server not reachable"}. Showing regular results.`, true);
       if (res?.data?.run_id) runs.push({ phase: "ai (failed)", run_id: res.data.run_id });
@@ -327,6 +352,7 @@
     runs = []; fetchLog = [];
     status("Reading this page…");
     cards = await readSearchPages(limits.products);
+    progress(null);
     const blk = !cards.length && SSParsers.blockKind(document, location.href);
     if (blk) {  // Amazon served an error / robot-check page instead of results
       status(blk === "error_page" ? "Amazon showed an error page instead of results. Reload the page and try again."

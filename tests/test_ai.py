@@ -75,3 +75,17 @@ def test_limiter_backs_off_and_recovers():
         await lim.success()
         assert lim.limit == 51
     asyncio.run(main())
+
+
+def test_progress_counts_every_finished_check(monkeypatch):
+    async def fake_one(llm, store, p, query, notes):
+        await asyncio.sleep(0.01)
+        return {"asin": p["asin"], "relevant": True, "reason": "ok", "quote": None, "quote_check": "none", "searches": []}
+    monkeypatch.setattr(ai, "pick_model", lambda *a, **k: "fake")
+    monkeypatch.setattr(ai, "chat_model", lambda *a, **k: None)
+    monkeypatch.setattr(ai, "build_store", lambda products: None)
+    monkeypatch.setattr(ai, "judge_one", fake_one)
+    seen = []
+    out = asyncio.run(ai.judge("gemini", "k", "q", "", [{"asin": f"A{i}"} for i in range(7)],
+                               limiter=ai.AdaptiveLimiter(), on_done=lambda: seen.append(1)))
+    assert len(seen) == 7 and len(out["judgments"]) == 7

@@ -113,6 +113,15 @@ class JudgeReq(BaseModel):
     query: str
     notes: str = ""
     products: list                                  # sanitized server-side; one bad row is dropped, not a 422
+    job: str | None = Field(default=None, max_length=64)  # the panel polls /api/ai/progress/{job} for its progress bar
+
+
+PROGRESS: dict[str, dict] = {}  # job -> {done, total}, only while a filter runs
+
+
+@app.get("/api/ai/progress/{job}")
+def ai_progress(job: str):
+    return PROGRESS.get(job) or {"done": 0, "total": 0}
 
 
 @app.post("/api/ai/judge")
@@ -124,7 +133,9 @@ async def ai_judge(r: JudgeReq):
         run.stage("shortlist", lambda _: [{"asin": p["asin"], "title": (p.get("title") or "")[:80],
                                            "features": len(p.get("features") or [])} for p in r.products], [],
                   metric=lambda i, o: ("products to check", len(o)))
-        out = await ai.judge(r.provider, r.key.strip(), r.query, r.notes, r.products)
+        prog = PROGRESS.setdefault(r.job, {"done": 0, "total": len(r.products)}) if r.job else {"done": 0}
+        out = await ai.judge(r.provider, r.key.strip(), r.query, r.notes, r.products,
+                             on_done=lambda: prog.__setitem__("done", prog["done"] + 1))
         run.stage("rate_limits", lambda _: [{"backoffs": out.get("backoffs", 0), "final_limit": out.get("final_limit")}], [],
                   metric=lambda i, o: ("backoffs · final concurrency", f"{out.get('backoffs', 0)} · {out.get('final_limit') or 'no limit'}"))
         run.stage("evidence", lambda _: [{"asin": p["asin"], "docs": len(ai.evidence(p))} for p in r.products], r.products,
@@ -140,6 +151,8 @@ async def ai_judge(r: JudgeReq):
     except Exception as e:
         run.finish("failed")
         return {"run_id": run.id, "status": "failed", "error": _plain_error(e)}
+    finally:
+        PROGRESS.pop(r.job, None)
     return {"run_id": run.id, "status": "ok", "model": out["model"], "judgments": out["judgments"]}
 
 
