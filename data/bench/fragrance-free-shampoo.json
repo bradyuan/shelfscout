@@ -1,0 +1,1707 @@
+{
+ "query": "fragrance free shampoo",
+ "pattern": "without",
+ "key_terms": [
+  "fragrance free|fragrance-free|unscented"
+ ],
+ "url": "https://www.amazon.com/s?k=fragrance+free+shampoo",
+ "frozen_at": "2026-11-21 17:48",
+ "cards": [
+  {
+   "advertised": false,
+   "asin": "B0DV42H38H",
+   "badges": [
+    "Overall Pick"
+   ],
+   "bought_past_month": "30K+",
+   "n_ratings": 7979,
+   "organic_rank": 1,
+   "position": 5,
+   "price": 8.97,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "CeraVe Gentle Hydrating Shampoo with Hyaluronic Acid for Hair & Scalp, 12oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B0BM5CN59F",
+   "badges": [],
+   "bought_past_month": "2K+",
+   "n_ratings": 135,
+   "organic_rank": 2,
+   "position": 6,
+   "price": 8.18,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "365 by Whole Foods Market, Shampoo, Fragrance Free, 32 Fl Oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B072QXWXS6",
+   "badges": [],
+   "bought_past_month": "20K+",
+   "n_ratings": 47626,
+   "organic_rank": 3,
+   "position": 7,
+   "price": 9.99,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "The Honest Company Shampoo & Body Wash, Tear-Free, Fragrance-Free, 10 fl oz EWG Verified"
+  },
+  {
+   "advertised": false,
+   "asin": "B0BYL22CPP",
+   "badges": [],
+   "bought_past_month": "2K+",
+   "n_ratings": 4014,
+   "organic_rank": 4,
+   "position": 8,
+   "price": 19.99,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Ginger Lily Farms Club & Fitness Shampoo, 128oz, Fragrance Free"
+  },
+  {
+   "advertised": false,
+   "asin": "B0GL99LBMZ",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "400+",
+   "n_ratings": 27166,
+   "organic_rank": 5,
+   "position": 9,
+   "price": 21.24,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Unscented Shampoo and Conditioner Set - Fragrance Free, Sulfate Free, Paraben Free - Moisturizing Hair and Scalp Care - Hydrating Salon Formula for Women and Men - 16 Fl Oz (Set of 2)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0B2QHS72Y",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "3K+",
+   "n_ratings": 1409,
+   "organic_rank": 6,
+   "position": 10,
+   "price": 25.6,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "SEEN Shampoo, Fragrance Free - Non-Comedogenic Hair Shampoo- Dermatologist-Developed - Safe for Sensitive, Eczema & Acne Prone Skin"
+  },
+  {
+   "advertised": false,
+   "asin": "B0006FMK98",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 14699,
+   "organic_rank": 7,
+   "position": 15,
+   "price": 10.99,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Vanicream Shampoo, Helps Remove Oil, Flaking and Build-Up, 12 Fl Oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B0C7BPB2CL",
+   "badges": [],
+   "bought_past_month": "200+",
+   "n_ratings": 38,
+   "organic_rank": 8,
+   "position": 16,
+   "price": 9.99,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "HASK Sensitive Care Shampoo | Fragrance Free for Sensitive Scalp | 12oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B08HJFFH7S",
+   "badges": [],
+   "bought_past_month": "400+",
+   "n_ratings": 813,
+   "organic_rank": 9,
+   "position": 17,
+   "price": 24.99,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Ginger Lily Farms ZeroDerm Shampoo, 128oz, Fragrance Free"
+  },
+  {
+   "advertised": false,
+   "asin": "B0G4HKS58S",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "2K+",
+   "n_ratings": 254,
+   "organic_rank": 10,
+   "position": 18,
+   "price": 13.99,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "California Naturals Sensitive Scalp Shampoo & Conditioner Set, Unscented, Soothing & Gentle, Fragrance Free, Colloidal Oat & Chamomile, Paraben, Sulfate Free, NEA Accepted, 16.5 oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DHLPX5X7",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "3K+",
+   "n_ratings": 675,
+   "organic_rank": 11,
+   "position": 23,
+   "price": 51.2,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "SEEN Shampoo & Conditioner Bundle, Fragrance-Free - Non-Comedogenic Hair Care Set, Dermatologist-Developed, Safe for Sensitive, Eczema & Acne-Prone Skin"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DH532LB8",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "2K+",
+   "n_ratings": 350,
+   "organic_rank": 12,
+   "position": 24,
+   "price": 19.18,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Odele Ultra-Sensitive Sulfate-Free Shampoo & Conditioner Set, 13 fl oz Each"
+  },
+  {
+   "advertised": false,
+   "asin": "B0CT6JR8P9",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "700+",
+   "n_ratings": 325,
+   "organic_rank": 13,
+   "position": 25,
+   "price": 12.76,
+   "rating": 4.1,
+   "sponsored": false,
+   "title": "Boldly Basic Fragrance Free Shampoo - Unscented - Dermatologist Tested"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DT7JPMFH",
+   "badges": [],
+   "bought_past_month": "800+",
+   "n_ratings": 5082,
+   "organic_rank": 14,
+   "position": 26,
+   "price": 14.99,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Head & Shoulders Anti-Dandruff Shampoo, BARE Sensitive Scalp Care Twin Pack, with 1% Pyrithione Zinc, Fragrance-Free, Free of Sulfates, Silicones, Gentle, 13.5 Fl Oz Each"
+  },
+  {
+   "advertised": false,
+   "asin": "B0GFXY6VX8",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 5310,
+   "organic_rank": 15,
+   "position": 27,
+   "price": 24.99,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Ginger Lily Farms Botanicals Shampoo, 128oz, Fragrance Free"
+  },
+  {
+   "advertised": false,
+   "asin": "B01NAFQIJ9",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 10739,
+   "organic_rank": 16,
+   "position": 28,
+   "price": 12.97,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Aquaphor Baby Body Wash and Shampoo, 25.4 FL OZ"
+  },
+  {
+   "advertised": false,
+   "asin": "B0FWVCMG63",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 1455,
+   "organic_rank": 17,
+   "position": 29,
+   "price": 8.97,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "CeraVe Oil Control Shampoo, Clarifying Shampoo with Hyaluronic Acid, 12oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B0BRQX9Z6H",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 1010,
+   "organic_rank": 18,
+   "position": 30,
+   "price": 32,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "N\u00e9cessaire The Shampoo. Hyaluronic Acid + Vitamin B Complex Shampoo for Women & Men."
+  },
+  {
+   "advertised": false,
+   "asin": "B0019GZCYI",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 705,
+   "organic_rank": 19,
+   "position": 31,
+   "price": 11.49,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Desert Essence Fragrance Free Shampoo with Jojoba and Green Tea, 8 fl oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B0F5ZBYNXS",
+   "badges": [],
+   "bought_past_month": "700+",
+   "n_ratings": 220,
+   "organic_rank": 20,
+   "position": 32,
+   "price": 20,
+   "rating": 3.9,
+   "sponsored": false,
+   "title": "Paul Mitchell Clear Essential Shampoo, Fragrance Free, For Sensitive Scalp + Skin"
+  },
+  {
+   "advertised": false,
+   "asin": "B001339RX4",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 377,
+   "organic_rank": 21,
+   "position": 33,
+   "price": 9.99,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "Shampoo-Oil & Fragrance Free - 16 oz."
+  },
+  {
+   "advertised": false,
+   "asin": "B0DDYCX9CD",
+   "badges": [],
+   "bought_past_month": "900+",
+   "n_ratings": 703,
+   "organic_rank": 22,
+   "position": 34,
+   "price": 64,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "N\u00e9cessaire The Hair Duo Fragrance Free. Shampoo and Conditioner Set. 250ml"
+  },
+  {
+   "advertised": false,
+   "asin": "B07NF994VJ",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 4185,
+   "organic_rank": 23,
+   "position": 35,
+   "price": 12.95,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "ATTITUDE Volumizing Shampoo for Sensitive Scalp, Unscented, 16 Fl Oz EWG Verified"
+  },
+  {
+   "advertised": false,
+   "asin": "B0756548HD",
+   "badges": [],
+   "bought_past_month": "5K+",
+   "n_ratings": 2903,
+   "organic_rank": 24,
+   "position": 36,
+   "price": 20,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Babo Botanicals Sensitive Baby Fragrance-Free 2-in-1 Shampoo & Wash - Shea Butter, Calendula & Aloe Vera - EWG Verified - Cruelty-Free - Vegan - Pediatrician Tested - For Babies & Kids EWG Verified"
+  },
+  {
+   "advertised": false,
+   "asin": "B09K4RF26B",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "500+",
+   "n_ratings": 8002,
+   "organic_rank": 25,
+   "position": 37,
+   "price": 15.19,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "The Earthling Co. Gentle Fragrance-Free Shampoo for Sensitive Scalp & Sensitive Skin - SLS, Sulfate, Silicone, Paraben Free - Made in USA (Unscented Shampoo, 3oz)"
+  },
+  {
+   "advertised": false,
+   "asin": "B07D37PQGL",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 84508,
+   "organic_rank": 26,
+   "position": 38,
+   "price": 34,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "OLAPLEX N\u00b0.4 Bond Maintenance\u2122 Strengthening Shampoo | Bond Repair"
+  },
+  {
+   "advertised": false,
+   "asin": "B0BP8BXZ8M",
+   "badges": [],
+   "bought_past_month": "50K+",
+   "n_ratings": 10274,
+   "organic_rank": 27,
+   "position": 39,
+   "price": 23.57,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Nizoral Anti-Dandruff Shampoo with 1% Ketoconazole, Fresh Scent, 14 Fl Oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B0GV2JH3D9",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "500+",
+   "n_ratings": 101,
+   "organic_rank": 28,
+   "position": 40,
+   "price": 28.8,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "SEEN Scalp Clarifying Shampoo, Fragrance Free - Gentle Deep Cleansing Hair Shampoo- Dermatologist-Developed - Safe for Sensitive, Eczema & Acne Prone Skin"
+  },
+  {
+   "advertised": false,
+   "asin": "B07NSBTZ22",
+   "badges": [],
+   "bought_past_month": "30K+",
+   "n_ratings": 38214,
+   "organic_rank": 29,
+   "position": 41,
+   "price": 19.47,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Aveeno Baby Daily Moisture Body Wash & Shampoo with Oat Extract, 33 fl. oz ECOLOGO"
+  },
+  {
+   "advertised": false,
+   "asin": "B004LTBCJO",
+   "badges": [],
+   "bought_past_month": "200+",
+   "n_ratings": 1619,
+   "organic_rank": 30,
+   "position": 42,
+   "price": 12.83,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "DHS Clear Shampoo - Women\u2019s and Men\u2019s Shampoo for Sensitive Skin/Unscented, Cleans Hair and Treats Dry Scalp/Irritant-free, Paraben-free, Fragrance-free, and Dye-free / 8oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B08T9HD2LT",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "50+",
+   "n_ratings": 1755,
+   "organic_rank": 31,
+   "position": 43,
+   "price": 23.94,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "No Nothing Repair Shampoo for Damaged Hair, Fragrance Free, 10.1 Fl Oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B01MRWRAKD",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 270,
+   "organic_rank": 32,
+   "position": 44,
+   "price": 24.97,
+   "rating": 4,
+   "sponsored": false,
+   "title": "Hydrating Sensitive Skin Shampoo 12 oz - Sulfate-Free, Fragrance-Free, Paraben-Free, Color-Safe, Hypoallergenic, Mild Hair Cleanser - Gluten-Free, Vegan, Cruelty-Free, With Natural Cucumber"
+  },
+  {
+   "advertised": false,
+   "asin": "B0BHD3JKTL",
+   "badges": [],
+   "bought_past_month": "600+",
+   "n_ratings": 213,
+   "organic_rank": 33,
+   "position": 45,
+   "price": 30,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "INNERSENSE Organic Beauty - Clarity Hairbath Shampoo (10oz)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0061WOUFM",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 227,
+   "organic_rank": 34,
+   "position": 46,
+   "price": 13.46,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "STONEY BROOK SHAMPOO,UNSCENTED, 16 FZ, EA-1"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DV43L7J8",
+   "badges": [],
+   "bought_past_month": "30K+",
+   "n_ratings": 6930,
+   "organic_rank": 35,
+   "position": 47,
+   "price": 9.97,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "CeraVe Hydrating Anti Dandruff Shampoo, Itchy Scalp Treatment, 12oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B00AINMFAC",
+   "badges": [],
+   "bought_past_month": "100K+",
+   "n_ratings": 114329,
+   "organic_rank": 36,
+   "position": 48,
+   "price": 16.88,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Nizoral Anti-Dandruff Shampoo with 1% Ketoconazole, Fresh Scent, 7 Fl Oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B002C74898",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 221,
+   "organic_rank": 37,
+   "position": 49,
+   "price": 39.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Earth Science Fragrance Free Shampoo, 12-Ounce Bottles (Pack of 3)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0019FLYP0",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 386,
+   "organic_rank": 38,
+   "position": 50,
+   "price": 12.48,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Earth Science Shampoo for Sensitive Hair & Scalp - Fragrance Free - 12 oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B009LQI3D0",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "700+",
+   "n_ratings": 13914,
+   "organic_rank": 39,
+   "position": 51,
+   "price": 13.58,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Burt's Bees Baby Sensitive Shampoo and Wash, Fragrance Free, Tear Free, Pediatrician Tested, 98.7% Natural Origin, 21 Fluid Ounces"
+  },
+  {
+   "advertised": false,
+   "asin": "B08FCNLQ52",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 414,
+   "organic_rank": 40,
+   "position": 52,
+   "price": 20.99,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "Theorie PURE Ultra Gentle Hypoallergenic Shampoo \u2013 Plant-Based & Vegan \u2013 Fragrance-Free \u2013 Designed for Delicate Scalp Care \u2013 Pump Bottle \u2013 400mL"
+  },
+  {
+   "advertised": false,
+   "asin": "B097MLYG5F",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 10776,
+   "organic_rank": 41,
+   "position": 53,
+   "price": 17.85,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "ATTITUDE Fragrance-Free Shampoo for Sensitive Scalp, EWG Verified, 16 Fl Oz EWG Verified"
+  },
+  {
+   "advertised": false,
+   "asin": "B000052XYQ",
+   "badges": [],
+   "bought_past_month": "200+",
+   "n_ratings": 419,
+   "organic_rank": 42,
+   "position": 54,
+   "price": 16.45,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "DHS Clear Shampoo For Daily Cleasing Of Hair And Shampoo, 8 Fl Oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B07HMJTH7G",
+   "badges": [],
+   "bought_past_month": "6K+",
+   "n_ratings": 9858,
+   "organic_rank": 43,
+   "position": 55,
+   "price": 17.48,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Aveeno Oat Milk Blend Moisturizing Shampoo, For Dry, Damaged Hair, 12 fl oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B09LZXHT6J",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 712,
+   "organic_rank": 44,
+   "position": 56,
+   "price": 21.99,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Cleure Fragrance Free Shampoo, Hypoallergenic Shampoo for Scalp (12oz)"
+  },
+  {
+   "advertised": false,
+   "asin": "B008OL3UYK",
+   "badges": [],
+   "bought_past_month": "6K+",
+   "n_ratings": 14854,
+   "organic_rank": 45,
+   "position": 57,
+   "price": 20.98,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "Avalon Organics Therapy Biotin B-Complex Thickening Shampoo, 32 oz EWG Verified"
+  },
+  {
+   "advertised": true,
+   "asin": "B0H83PVLMZ",
+   "badges": [],
+   "bought_past_month": "200+",
+   "n_ratings": 26,
+   "organic_rank": 46,
+   "position": 58,
+   "price": 18.83,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Desert Essence Fragrance Free Shampoo, 24 fl oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B00JF3S29Y",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 15500,
+   "organic_rank": 47,
+   "position": 59,
+   "price": 8.97,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "CeraVe Baby 2-in-1 Wash & Shampoo with Vitamin E for Hair & Skin, 8oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B00UOL93CG",
+   "badges": [],
+   "bought_past_month": "30K+",
+   "n_ratings": 21207,
+   "organic_rank": 48,
+   "position": 60,
+   "price": 7.79,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Neutrogena T/Sal Shampoo, Therapeutic Dandruff Control, 4.5 Fl. Oz"
+  },
+  {
+   "advertised": true,
+   "asin": "B09KDKWPLX",
+   "badges": [],
+   "bought_past_month": "700+",
+   "n_ratings": 2434,
+   "organic_rank": null,
+   "position": 2,
+   "price": 66,
+   "rating": 4.6,
+   "sponsored": true,
+   "title": "INNERSENSE Hydrating Cream Hairbath for Medium-Thick, Dry Damaged Hair"
+  },
+  {
+   "advertised": true,
+   "asin": "B074PXJ31W",
+   "badges": [],
+   "bought_past_month": "200+",
+   "n_ratings": 219,
+   "organic_rank": null,
+   "position": 3,
+   "price": 72,
+   "rating": 4.7,
+   "sponsored": true,
+   "title": "INNERSENSE Hydrating Cream Hairbath for Medium-Thick, Dry Damaged Hair"
+  },
+  {
+   "advertised": true,
+   "asin": "B0C4F3YNZ6",
+   "badges": [],
+   "bought_past_month": "800+",
+   "n_ratings": 646,
+   "organic_rank": null,
+   "position": 4,
+   "price": 38,
+   "rating": 4.4,
+   "sponsored": true,
+   "title": "Bumble and bumble. Seaweed Hydrating Shampoo | Gently Cleanses Without Stripping |Improves Scalp Hydration| Sulfate Cleanser Free | For Fine to Medium Curly Wavy Straight Hair"
+  },
+  {
+   "advertised": true,
+   "asin": "B0H5M6SLNG",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "2K+",
+   "n_ratings": 113,
+   "organic_rank": null,
+   "position": 11,
+   "price": 23.09,
+   "rating": 4.8,
+   "sponsored": true,
+   "title": "California Naturals Curly Kiddo Shampoo & Conditioner Set with Argan Oil, Enriched Rice Water and Shea Butter, Sulfate Free, For Kids with Curly Hair, 20 oz"
+  },
+  {
+   "advertised": true,
+   "asin": "B08QSTBTVZ",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "1K+",
+   "n_ratings": 348,
+   "organic_rank": null,
+   "position": 12,
+   "price": 31.45,
+   "rating": 4.4,
+   "sponsored": true,
+   "title": "Maria Nila Head & Hair Heal Capixyl Shampoo \u2013 Calms Dry, Itchy, Flaky Scalp"
+  },
+  {
+   "advertised": true,
+   "asin": "B0H6GM2MS8",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 30,
+   "organic_rank": null,
+   "position": 13,
+   "price": 18.83,
+   "rating": 4.9,
+   "sponsored": true,
+   "title": "Desert Essence Fragrance Free Conditioner, Sensitive Scalp,24 fl oz"
+  },
+  {
+   "advertised": true,
+   "asin": "B002RX2QFA",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 1074,
+   "organic_rank": null,
+   "position": 14,
+   "price": 30,
+   "rating": 4.6,
+   "sponsored": true,
+   "title": "INNERSENSE Organic Beauty - Color Awakening Hairbath Shampoo (10oz)"
+  },
+  {
+   "advertised": true,
+   "asin": "B09YYYFRXH",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "200+",
+   "n_ratings": 1436,
+   "organic_rank": null,
+   "position": 19,
+   "price": 79.1,
+   "rating": 4.6,
+   "sponsored": true,
+   "title": "Bumble and bumble. Hairdresser's Invisible Oil Hydrating Shampoo | Anti Frizz, Softening, Color Safe | For All Curly, Wavy, Straight Hair Types | With Argan, Coconut + Grapeseed Oil"
+  },
+  {
+   "advertised": true,
+   "asin": "B001RYPD3M",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 115,
+   "organic_rank": null,
+   "position": 20,
+   "price": 58.49,
+   "rating": 4.4,
+   "sponsored": true,
+   "title": "NutriBiotic \u2013 Fragrance-Free Super Shower Gel, 1 Gallon | Whole-Body Moisturizing Shampoo with GSE & Botanical Extracts | Non-Soap, pH Balanced & Free of Gluten, Parabens, Sulfates, Dyes & Colorings"
+  },
+  {
+   "advertised": true,
+   "asin": "B001EO5WYU",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 8953,
+   "organic_rank": null,
+   "position": 21,
+   "price": 24.52,
+   "rating": 4.4,
+   "sponsored": true,
+   "title": "Nexxus Color Assure Vibrancy Shampoo for Color Treated Hair, 33.8 fl oz"
+  },
+  {
+   "advertised": true,
+   "asin": "B0D1VYVRBG",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 15,
+   "organic_rank": null,
+   "position": 22,
+   "price": 8,
+   "rating": 3.7,
+   "sponsored": true,
+   "title": "Oars + Alps Men's Sulfate Free Hair Shampoo and Conditioner Set, Infused with Kelp and Algae Extracts, Fresh Ocean Splash, Travel Size 3.4oz Each"
+  }
+ ],
+ "features": {
+  "B00UOL93CG": {
+   "features": [
+    {
+     "mentions": 1165,
+     "name": "effectiveness",
+     "negative": 312,
+     "positive": 853,
+     "quotes": [
+      "I've had this shampoo for a week and used it 3 times and it works. No more scratching or bumps. I highly recommend this shampool",
+      "Bought this to help with the bumps on the back of my head. Works great, got rid of the bumps. Lathers nicely.",
+      "Didn't work for me, but at least it didn't smell. It could still work for someone else, so I'd recommend trying it.",
+      "I use it every other wash, not cheap but works and no awful smell like some products."
+     ],
+     "summary": "Customers find the shampoo effective, noting that a little bit goes a long way."
+    },
+    {
+     "mentions": 927,
+     "name": "dandruff relief",
+     "negative": 230,
+     "positive": 697,
+     "quotes": [
+      "It removes buildup and helps with dry scalp but you will need a moisturizer to help with it or it will just get back dry....",
+      "No dandruff but itchy scalp. This stuff worked for me.",
+      "This stuff saved my scalp! I have tried a few different shampoos for psoriasis and never had much relief until I tried this....",
+      "Next day I woke up with scalp pimples, dandruff and discomfort! This shampoo will give u everything that the shampoo supposed to cure\u2026 big no!..."
+     ],
+     "summary": "Customers report positive results with this shampoo, noting that it completely eliminates flaky and dry scalp, cleanses effectively, and provides immediate relief."
+    },
+    {
+     "mentions": 802,
+     "name": "quality",
+     "negative": 113,
+     "positive": 689,
+     "quotes": [
+      "Great product for occasional use to give a great deep clean. My kids get oily buildup with regular shampoo - so this is a good balance....",
+      "Good product, nice smell, they need larger size bottle. I personally didn't feel it done as good as the original T/Gel.",
+      "Good",
+      "Great shampoo, doesn\u2019t dry out my hair or make the texture feel straw-like after 2-3 washes...."
+     ],
+     "summary": "Customers find this shampoo to be fantastic and worth trying, as advertised."
+    },
+    {
+     "mentions": 373,
+     "name": "skin irritation",
+     "negative": 110,
+     "positive": 263,
+     "quotes": [
+      "Have used it 3 times so far and my scalp feels a lot better. Plus no more itching! My hair feels soft and clean.",
+      "The first time I used this, I noticed a difference, no itch, flakes, and inflammation on my scalp....",
+      "No dandruff but itchy scalp. This stuff worked for me.",
+      "Use once a week and you'll be as happy as i am. No more flakes, no more itchy scalp. Fantastic product, and its under $10!!!!!"
+     ],
+     "summary": "Customers report that the shampoo effectively controls dandruff and itchiness, with significant improvements in flakey patches, and one customer mentions it helps with oiliness."
+    },
+    {
+     "mentions": 154,
+     "name": "hair softness",
+     "negative": 26,
+     "positive": 128,
+     "quotes": [
+      "It leaves my hair shiny and soft. It does well with build up and i have itchy scalp but after just one use, i noticed a huge difference",
+      "It is gentle and still effective on my scalp and doesnt dry out my hair near scalp like nizoral....",
+      "There is no scent - which I like. Makes my hair really soft, but be careful how often you use it....",
+      "It also makes my hair super soft which I love. It does have a weird smell but it\u2019s not strong and doesn\u2019t linger after rinsing...."
+     ],
+     "summary": "Customers report that the shampoo leaves their hair soft, shiny, and their scalp smooth after use."
+    },
+    {
+     "mentions": 351,
+     "name": "fragrance",
+     "negative": 132,
+     "positive": 219,
+     "quotes": [
+      "Smells bad, works great",
+      "Too oily. No scent. It's like putting veggie oil in your hair. Does not lather. It does stop the itch for a couple hours.",
+      "It works, no smell but i wish i could get more product since is a small bottle but did the job and help with my psoriasis",
+      "This is supposed to be scent free, but it has an odd odor to it. I didn\u2019t feel like it helped my scalp at all, even with following directions...."
+     ],
+     "summary": "Customers have mixed opinions about the shampoo's fragrance, with some noting that it doesn't have an intense smell, while others find it unpleasant."
+    },
+    {
+     "mentions": 285,
+     "name": "value for money",
+     "negative": 110,
+     "positive": 175,
+     "quotes": [
+      "Got rid of dandruff, great price",
+      "Expensive but works well. I use it a few times a week and my normal shampoo the other days so I don\u2019t go through it as fast....",
+      "This helps my son\u2019s dry, flaky scalp so much. No weird smell and a good price compared to other retailers. We\u2019ve bought it many times.",
+      "It costs a little more than my anti dandruff shampoo, but is worth it, because....it works!"
+     ],
+     "summary": "Customers have mixed opinions about the shampoo's value for money, with some finding it worth the price while others feel they get very little for what they pay."
+    },
+    {
+     "mentions": 143,
+     "name": "oiliness",
+     "negative": 68,
+     "positive": 75,
+     "quotes": [
+      "This product does not dry out my hair and I do not get any sort of buildup. After about 5-10 minutes, I thoroughly wash it out and towel dry my hair....",
+      "Too oily. No scent. It's like putting veggie oil in your hair. Does not lather. It does stop the itch for a couple hours.",
+      "Doesn\u2019t smell medicated, doesn\u2019t dry you out, and although the bottle is small, it\u2019s plenty for a few months.",
+      "Shampoo barely lathers. Very oily and viscous. Not a pleasant feel. Odor is off-putting. Much better the DHS shampoo from another vendor."
+     ],
+     "summary": "Customers have mixed experiences with the shampoo's effect on oiliness: while some report it neither dries nor makes their hair oily, others mention it makes their scalp dry and flaky, particularly affecting curly hair."
+    }
+   ],
+   "stars": {
+    "1": 3,
+    "2": 2,
+    "3": 6,
+    "4": 14,
+    "5": 75
+   }
+  },
+  "B00JF3S29Y": {
+   "features": [
+    {
+     "mentions": 637,
+     "name": "effectiveness",
+     "negative": 76,
+     "positive": 561,
+     "quotes": [
+      "Great product for a kid with eczema and allergies. It cleans hair and body well with no film, greasiness or residue....",
+      "A good, mild, scent free soap. Perfect for my newborn.",
+      "Five stars",
+      "If your baby has sensitive skin or eczema, this is a good product because it's gentle and doesn't have any irritants or fragrance."
+     ],
+     "summary": "Customers find the shampoo effective and love it, with one customer specifically mentioning they are very happy with the results."
+    },
+    {
+     "mentions": 310,
+     "name": "skin compatibility",
+     "negative": 28,
+     "positive": 282,
+     "quotes": [
+      "Great for sensitive skin for my newborn and helped with cradle cap. Small amount for the price but the upside is a little goes a long way",
+      "Good for sensitive skin. Cleans well, hydrates, and smells good. Will buy in a larger size next time.",
+      "Great for eczema but it is extremely watery so it takes a lot to wash a toddler body and hair.",
+      "The fragrance-free aspect is perfect for sensitive skin, and knowing it's free of parabens and sulfates gives peace of mind...."
+     ],
+     "summary": "Customers find the shampoo effective for sensitive skin, particularly for rashes and eczema-prone areas, noting that it significantly helps control eczema and dry skin."
+    },
+    {
+     "mentions": 247,
+     "name": "fragrance-free",
+     "negative": 46,
+     "positive": 201,
+     "quotes": [
+      "I use it to shower my newborn because it's fragrance free and tear free. It is worth the amount I paid for it. Keeps her clean.",
+      "This formula is gentle even for my daughter's sensitive skin. There is no scent, and the formula lathers very quickly....",
+      "This works great for my little one. No fragrance, no skin or eye irritation. Works as a shampoo and body wash so its a 2 in 1.",
+      "Lather really good. Tear free and unscented! It also leaves my son\u2019s skin soft. It\u2019s kinda pricey though."
+     ],
+     "summary": "Customers appreciate that the shampoo is fragrance-free and unscented."
+    },
+    {
+     "mentions": 174,
+     "name": "gentle",
+     "negative": 3,
+     "positive": 171,
+     "quotes": [
+      "Our son has eczema and this helps eliminate flare ups. It\u2019s gentle and does not have a scent that would irritate skin.",
+      "Very gentle, just enough surfactant to lift the crusties without stinging me my eyes....",
+      "I am fungal acne prone (little bumps on forehead) and this soap is so gentle it doesn\u2019t irritate my very sensitive face....",
+      "There is no fragrance and it is gentle on skin. Cleans and refreshes skin. Used on bald head after chemotherapy"
+     ],
+     "summary": "Customers find the shampoo gentle and soft, keeping babies' skin moisturized and sweet."
+    },
+    {
+     "mentions": 150,
+     "name": "moisturizing",
+     "negative": 31,
+     "positive": 119,
+     "quotes": [
+      "This baby shampoo does not dry out my son's skin like Johnson and Johnson did. His pediatrician recommended it.",
+      "The scent isn\u2019t really strong which is great. Seems to be very moisturizing because dry skin is no longer an issue. This is worth it.",
+      "The lotion leaves my skin soft and moisturized, it get absorbed rather quickly in the skin....",
+      "Gets the job done, but left my son's skin pretty dry and the lotion didn't help much either."
+     ],
+     "summary": "Customers praise the shampoo's moisturizing properties, noting that it helps with dry skin and keeps it hydrated, with one customer mentioning it provides long-lasting relief for dry spots."
+    },
+    {
+     "mentions": 105,
+     "name": "cleaning performance",
+     "negative": 17,
+     "positive": 88,
+     "quotes": [
+      "I like that my baby is nice and clean and doesn\u2019t get rashes anymore like from the other baby washes I\u2019ve tried....",
+      "It cleans and leaves my skin feeling normal. I rarely breakout. I don't have babies anymore, but I'd imagine it would be great for babies.",
+      "The wash lathers softly and rinses easily, leaving the skin and hair feeling clean, calm, and hydrated without any residue....",
+      "Doesn't dry out the skin and cleans very well. A little soap goes a long way, so lasts awhile!"
+     ],
+     "summary": "Customers find the shampoo effective, describing it as a delicate yet efficient wash that leaves skin and hair clean without causing dryness."
+    },
+    {
+     "mentions": 97,
+     "name": "skin irritation",
+     "negative": 23,
+     "positive": 74,
+     "quotes": [
+      "one of the few products that was recommend by the doctor and does not irritate the skin! Little no fragrance, keeps skin so smooth and moisturized!",
+      "Great for very itchy sensitive skin. I am allergic to alot of things in general soaps, this stops all the itching.",
+      "It's unscented, doesn't irritate his skin, and he likes it. The bottle is a bit small for the price, but that's the brand...",
+      "This irritated my toddler's skin and BLEACHED a dark washcloth. Totally unacceptable!!! Something sold for babies should not bleach fabric."
+     ],
+     "summary": "Customers report that the shampoo is gentle and effective for sensitive skin, particularly noting that it doesn't irritate babies' skin or trigger allergies, with one customer mentioning it helps reduce itchiness after washing hair."
+    },
+    {
+     "mentions": 95,
+     "name": "suitable for babies",
+     "negative": 5,
+     "positive": 90,
+     "quotes": [
+      "Good baby wash. No fragrance, so fragrance free advertising is spot on. Smaller bottle but has lasted us a good while....",
+      "Best thing for my baby (together with Vanicream). Pediatrician recommended both and I'm so glad we followed through; eczema is completely gone!!",
+      "This baby wash is great for babies. It is gentle and has no fragrance, which is great for babies with more sensitive skin....",
+      "Great for kids and baby with skin eczema"
+     ],
+     "summary": "Customers find the shampoo suitable for babies and toddlers, with many noting it's pediatrician-recommended and their children enjoy using it."
+    }
+   ],
+   "stars": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 8,
+    "5": 86
+   }
+  },
+  "B072QXWXS6": {
+   "features": [
+    {
+     "mentions": 2128,
+     "name": "effectiveness",
+     "negative": 289,
+     "positive": 1839,
+     "quotes": [
+      "Great product, but the new pump has no force so the product drips before it reaches your hand, thus the 3 stars.",
+      "We have used this on all our newborns & love it! The smell is gentle and keeps them moisturized....",
+      "My husband and I love this product the smell is great and it\u2019s very gentle. We like the orange and vanilla scented much more than the Lavender....",
+      "Five Stars"
+     ],
+     "summary": "Customers find the shampoo effective."
+    },
+    {
+     "mentions": 1620,
+     "name": "fragrance",
+     "negative": 287,
+     "positive": 1333,
+     "quotes": [
+      "Smells great (like an orange creamsicle), lathers well, but super drying. My 3yo's skin and my hands feel really dry after bath time....",
+      "Smells good but burns my kids\u2019 eyes despite being tear free. I no longer use any of the Honest Co shampoos for this reason.",
+      "I love the smell and feel of the body wash but my skin did not react well to this. I have mild psoriasis and my skin immediately flared up....",
+      "This wash is very mild and smells amazing. I noticed my daughter's hair gets less tangled and is a bit softer since I started using this...."
+     ],
+     "summary": "Customers like the shampoo's fragrance, describing it as nice and pleasant."
+    },
+    {
+     "mentions": 616,
+     "name": "skin-friendly",
+     "negative": 130,
+     "positive": 486,
+     "quotes": [
+      "It has no scent and no added fragrance, which is great for sensitive skin. After using it, my baby\u2019s skin feels clean but never dry....",
+      "Good for sensitive skin. My daughter has sensitive skin and has no issues with this product.",
+      "Perfect for sensitive skin. No perfume smell and lasts a very long time. You only need a little bit per bath!",
+      "And it is definitely not for sensitive skin."
+     ],
+     "summary": "Customers find the shampoo and body wash gentle on their skin, particularly noting it works well for newborns and doesn't cause rashes or irritation."
+    },
+    {
+     "mentions": 602,
+     "name": "moisturizing",
+     "negative": 166,
+     "positive": 436,
+     "quotes": [
+      "It clears up any rash that she may be developing since it is moisturizing. It lathers super well and has lasted me long time....",
+      "My son\u2019s hair comes out clean, moisturized and minimal tangles. This is probably our 30th bottle and definitely not our last.",
+      "It seems to be very drying for my daughter's skin and hair. I stopped using after the 2nd time.",
+      "It\u2019s gentle on the skin and doesn\u2019t dry it out, which is important for kids. The scent is light and not overwhelming...."
+     ],
+     "summary": "Customers find the shampoo and body wash moisturizing, leaving skin and hair feeling clean without being rough or dry."
+    },
+    {
+     "mentions": 436,
+     "name": "gentle",
+     "negative": 14,
+     "positive": 422,
+     "quotes": [
+      "Love this for our kids, it's gentle and kind to their skin, you can even wash their face and it doesn't sting their eyes and it lathers up very well....",
+      "Great for my hair. I use it once a week to clarify, very gentle but cleans thoroughly. Followed with a good conditioner, my hair is shiny and full....",
+      "So gentle yet cleans hair and body. Helped to eliminate dry skin on 2 yr. old granddaughter.",
+      "It\u2019s gentle on the skin and doesn\u2019t dry it out, which is important for kids. The scent is light and not overwhelming...."
+     ],
+     "summary": "Customers find the shampoo gentle on both hair and skin, noting it's suitable for babies and makes the scalp feel amazing."
+    },
+    {
+     "mentions": 251,
+     "name": "lathering",
+     "negative": 68,
+     "positive": 183,
+     "quotes": [
+      "Smells great (like an orange creamsicle), lathers well, but super drying. My 3yo's skin and my hands feel really dry after bath time....",
+      "Moisturizing, great lather and softens! My kiddo has long fine hair and lots of it!...",
+      "Smells good but doesn\u2019t lather very well and scent isn\u2019t strong",
+      "It lathers nicely and cleans well, without any harsh chemicals. The scent is subtle and not overpowering, which is great for kids...."
+     ],
+     "summary": "Customers like the shampoo's lathering properties, noting that it creates a good amount of foam without being overly soapy."
+    },
+    {
+     "mentions": 245,
+     "name": "ingredients",
+     "negative": 15,
+     "positive": 230,
+     "quotes": [
+      "It does not burn your eyes, it smells fresh and clean, clean ingredients, and it is smooth on the skin.",
+      "Great Body wash, no harsh chemicals HOWEVER if you are using this as a shampoo for your baby as well PLEASE BE CAREFUL WITH THE EYES....",
+      "Great for kids and with good quality and safe ingredients. Lasts long and worth the price. The foaming is good as well and it rinses out really good.",
+      "I wanted a product with natural ingredients and 0 sulfates so I bought this. Made such a difference on his skin!..."
+     ],
+     "summary": "Customers appreciate that the shampoo contains no harmful ingredients and is chemical-free, making it safe for babies."
+    },
+    {
+     "mentions": 466,
+     "name": "value for money",
+     "negative": 180,
+     "positive": 286,
+     "quotes": [
+      "No scent and works as marketed. Will buy again.",
+      "Expensive but great for daughters sensitive skin",
+      "Great value! I love the scent and feel confident that the product is safe and good for my kiddo....",
+      "This is the only soap I can use for my kiddo who has skin allergies. Great price when purchased through Amazon!"
+     ],
+     "summary": "Customers have mixed opinions about the shampoo's value for money, with some finding it worth the price while others don't see the value for the cost."
+    }
+   ],
+   "stars": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 9,
+    "5": 84
+   }
+  },
+  "B01NAFQIJ9": {
+   "features": [
+    {
+     "mentions": 468,
+     "name": "effectiveness",
+     "negative": 28,
+     "positive": 440,
+     "quotes": [
+      "Great product! But very heavy bottle. The smooth surface and weight make it prone to slipping from our hands, which can be a safety concern....",
+      "Use this every day! Love it, doesn't smell bad, moisturizing, and good for my eczema.",
+      "This shampoo/soap is great. It is the only soap that doesn\u2019t flare up my little ones Eczema....",
+      "Very nice and good. I bought it for my children, to stop the hair loss because of the water quality. I use it too."
+     ],
+     "summary": "Customers find the body wash and shampoo effective."
+    },
+    {
+     "mentions": 279,
+     "name": "moisturizing",
+     "negative": 36,
+     "positive": 243,
+     "quotes": [
+      "Great for eczema",
+      "This is the only wash we've found that keeps his skin hydrated and moisturized. The scent isn't the best but a good lotion fixes that.",
+      "This has always been my favorite go to for my babies. It's perfect for sensitive skin.",
+      "Use this every day! Love it, doesn't smell bad, moisturizing, and good for my eczema."
+     ],
+     "summary": "Customers find the body wash and shampoo moisturizing and beneficial for their babies' skin, helping with eczema. One customer mentions it even helped their own dry skin heal after one night of use."
+    },
+    {
+     "mentions": 208,
+     "name": "gentle",
+     "negative": 14,
+     "positive": 194,
+     "quotes": [
+      "It\u2019s great for sensitive skin and we haven\u2019t had any skin problems with my LO and she is 2 years old, now I\u2019m using it with my new baby too.",
+      "My little one has eczema pretty bad. This stuff is gentle and does not make his skin worse. Have seen a lot of improvement once I started using this.",
+      "Doctor recommended for babies. Good for sensitive skin",
+      "Best fragrance free baby wash! Very gentle yet cleans my son! Although we did accidentally get it in his eyes one time and it is NOT tear proof!..."
+     ],
+     "summary": "Customers find the body wash and shampoo gentle on sensitive skin, noting it doesn't irritate babies and helps prevent itching."
+    },
+    {
+     "mentions": 200,
+     "name": "fragrance-free",
+     "negative": 31,
+     "positive": 169,
+     "quotes": [
+      "It cleans well and is unscented. I buy this for my dad for skin (not hair) and it is gentle and does a good job.",
+      "It is gentle on the skin and no scent. It doesn't really dry out the baby skin but would have liked it to be a bit more moisturizing.",
+      "Fragrance free and very gentle on our daughter\u2019s skin. In addition, when bathing, does not seem to irritate her eyes when rinsed....",
+      "Came same day and wasn\u2019t damaged. Easy to pump and no fragrance which is perfect for my children. Good lather too."
+     ],
+     "summary": "Customers appreciate that the body wash is fragrance-free and has no harsh scents."
+    },
+    {
+     "mentions": 103,
+     "name": "suitable for babies",
+     "negative": 8,
+     "positive": 95,
+     "quotes": [
+      "Great for adults too!",
+      "Great for my baby that gets eczema due to a dairy allergy.",
+      "Aquaphor Baby Wash & Shampoo has been a total game-changer for my son, who has sensitive skin and eczema....",
+      "this is great for babies and for anyone with sensitive skin."
+     ],
+     "summary": "Customers find this body wash and shampoo suitable for babies and infants, with one customer noting it's 100% recommended by pediatricians and another mentioning it caters to the unique needs of little ones."
+    },
+    {
+     "mentions": 86,
+     "name": "value for money",
+     "negative": 16,
+     "positive": 70,
+     "quotes": [
+      "The bottle size is generous for the price, making it a great value....",
+      "Arrived on time. Item as described. Great price and value for the size. Love this for our son. It\u2019s gentle on the skin. Love aquaphor.",
+      "So smooth, non irritant, moisturizing, just overall awesome! Would buy again!!",
+      "Worth every penny! Leaving baby feeling clean and smooth - no scent, not itching"
+     ],
+     "summary": "Customers find the body wash and shampoo to be worth the price, appreciating its value for the size."
+    },
+    {
+     "mentions": 50,
+     "name": "cleansing",
+     "negative": 3,
+     "positive": 47,
+     "quotes": [
+      "After ONE bath, his skin was soft, smooth, and clean! His rash cleared up almost instantly and his dry skin/cradle cap disappeared....",
+      "It rinses off easily and doesn\u2019t leave any residue. I also appreciate that it\u2019s unscented and feels very baby-approved....",
+      "2 of my 3 babies have had sensitive skin and this is my go-to baby wash for the first two years when their skin is most sensitive!",
+      "It\u2019s gentle, washes well, and doesn\u2019t leave his skin feeling dry or stripped afterward...."
+     ],
+     "summary": "Customers find this baby wash effective, noting that it rinses clean and doesn't dry the skin, with one customer mentioning it doesn't leave any residue."
+    },
+    {
+     "mentions": 71,
+     "name": "skin irritation",
+     "negative": 22,
+     "positive": 49,
+     "quotes": [
+      "Good stuff especially if you have sensitive eyes cuz it doesn't burn it's meant for babies \u263a\ufe0f",
+      "She has very sensitive skin and this was the only product that didn\u2019t aggravate it. Would recommend for babies who have skin issues....",
+      "Used this on my 2 months old baby and it gave him a horrible rash and his eyes turned red after just one use....",
+      "I use this for my infant daughter head to toe. Skin is soft, not streaky, not sticky and light/ clean scent...."
+     ],
+     "summary": "Customers have mixed experiences with the body wash's effect on skin, with some reporting it doesn't cause irritation while others mention it causes rashes."
+    }
+   ],
+   "stars": {
+    "1": 1,
+    "2": 0,
+    "3": 3,
+    "4": 8,
+    "5": 88
+   }
+  },
+  "B07NSBTZ22": {
+   "features": [
+    {
+     "mentions": 1392,
+     "name": "quality",
+     "negative": 90,
+     "positive": 1302,
+     "quotes": [
+      "Five stars! \u2b50\u2b50\u2b50\u2b50\u2b50",
+      "This is a good, simple lotion to provide some gentle moisturizing for baby's skin. The lotion itself is pretty thin but does a good job....",
+      "I purchased this product for my new born. It is a great product. It has a nice smell to it, and the product lathers to the skin nicely....",
+      "Used this with all 3 of my kiddos. Love it because it is gentle enough to clean them but does not irritate their eyes or skin."
+     ],
+     "summary": "Customers highly recommend this shampoo, with many describing it as one of their favorites."
+    },
+    {
+     "mentions": 636,
+     "name": "fragrance",
+     "negative": 76,
+     "positive": 560,
+     "quotes": [
+      "Ive used this on my son since he was born. Smells good and he has eczema and this works wonders",
+      "Smells great and our baby has had no skin reactions using it",
+      "Love the smell and quality, a bit pricey but better than Johnson and Johnson on my babies' skin.",
+      "It smells nice and clean (not too strong), and I love that it works as both a body wash and shampoo. It makes bath time way easier...."
+     ],
+     "summary": "Customers like the shampoo's fragrance, particularly its lavender scent."
+    },
+    {
+     "mentions": 378,
+     "name": "moisturizing",
+     "negative": 54,
+     "positive": 324,
+     "quotes": [
+      "This formula is particularly nice because it's very rich and moisturizing. Doesn't leave my eye area feeling dry or tight....",
+      "I use this on my son every bath! Keeps his skin super soft and moisturized!",
+      "This gently moisturizing wash is great for dry skin, regardless of age. Yes it's pricey, but worth it to gently clean & hydrate my skin & hair....",
+      "perfect for dry skin"
+     ],
+     "summary": "Customers find the shampoo effective for dry skin, keeping it moisturized and helping with eczema-type issues, with one customer noting it doesn't leave a drying film on the face."
+    },
+    {
+     "mentions": 378,
+     "name": "skin compatibility",
+     "negative": 46,
+     "positive": 332,
+     "quotes": [
+      "Great for sensitive skin and it\u2019s pretty much unscented I can never smell it, but I love it because my baby doesn\u2019t rash up.",
+      "we will not be using another soap for our LO. this is perfect for sensitive skin and we will be repurchasing once we run out!",
+      "Smells great and is light weight. Good for sensitive skin.",
+      "Leaves skin soft and clean. Love that it\u2019s lightly scented and soothing. Highly recommend!"
+     ],
+     "summary": "Customers find the shampoo suitable for sensitive skin, noting it doesn't irritate or break out in rashes."
+    },
+    {
+     "mentions": 374,
+     "name": "gentleness",
+     "negative": 8,
+     "positive": 366,
+     "quotes": [
+      "Gentle. Cleans without drying. Hasn't triggered any reaction on my baby's sensitive eczema prone skin. Love the light and delicate scent....",
+      "Been using it on my kids and it's very gentle. Especially when one of your littles has eczema it keeps outbreaks to a minimum.",
+      "The scent is really nice, soft and non invasive. I know it's for babies but my boys are 10, 7 and 3 years old and they all use it....",
+      "No tears, gentle on skin (hasn't caused any excessive dryness, although it doesn't \"solve\" dry skin, either), and gets just sudsy enough."
+     ],
+     "summary": "Customers find the shampoo gentle on their babies' skin, making their hair and skin soft."
+    },
+    {
+     "mentions": 303,
+     "name": "effectiveness",
+     "negative": 29,
+     "positive": 274,
+     "quotes": [
+      "I use this for my hound dog who gets very itchy skin. Works great! And she smells great after a bath....",
+      "Works well and smells delish. Gentle on baby scalp that was peeling from a condition he has and it was very gentle on him. Would recommend",
+      "Always reliable and priced just right. This saves me a ton of time not having to go to the store.",
+      "This baby wash is gentle, cleans well, and leaves my baby\u2019s skin and hair feeling soft. The tear-free formula is a big plus...."
+     ],
+     "summary": "Customers find the shampoo effective, working well for babies and causing no problems, with one customer noting immediate improvement after the first use."
+    },
+    {
+     "mentions": 301,
+     "name": "value for money",
+     "negative": 48,
+     "positive": 253,
+     "quotes": [
+      "This is a great price and my kids have very sensitive skin and I have use this on my baby since Birth and never had any issues",
+      "It's great for dry skin or sensitive like mine. Good price for the amount of product that you get.",
+      "Gentle on their eyes and nice smell. I use it too as a body wash. Great value for a not \"top of the line\" organic product....",
+      "Leaves my baby\u2019s skin soft and hair clean. Great size and good value."
+     ],
+     "summary": "Customers find the shampoo offers good value for money, describing it as economical to use and saying they would buy it again."
+    },
+    {
+     "mentions": 230,
+     "name": "suitable for babies",
+     "negative": 12,
+     "positive": 218,
+     "quotes": [
+      "I love this product, even though it's good for my baby, it helped me a lot. This is the second bottle of shampoo I've bought for my baby.",
+      "good for baby, used it as shampoo, and my baby's hair turned smooth and soft, highly recommended.",
+      "Light scent. Great for babies.",
+      "Not just for babies. Dry skin on adults too"
+     ],
+     "summary": "Customers find this shampoo suitable for babies and kids, with one customer noting it's a go-to bath product for little ones."
+    }
+   ],
+   "stars": {
+    "1": 1,
+    "2": 0,
+    "3": 3,
+    "4": 8,
+    "5": 88
+   }
+  }
+ },
+ "fetch_log": [
+  {
+   "asin": "B00UOL93CG",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 1950
+  },
+  {
+   "asin": "B00JF3S29Y",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 2128
+  },
+  {
+   "asin": "B072QXWXS6",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 2010
+  },
+  {
+   "asin": "B01NAFQIJ9",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 2143
+  },
+  {
+   "asin": "B07NSBTZ22",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 1916
+  }
+ ],
+ "result": {
+  "best_value": {
+   "advertised": false,
+   "asin": "B00JF3S29Y",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 15500,
+   "organic_rank": 47,
+   "position": 59,
+   "price": 8.97,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "CeraVe Baby 2-in-1 Wash & Shampoo with Vitamin E for Hair & Skin, 8oz",
+   "features": [
+    {
+     "mentions": 637,
+     "name": "effectiveness",
+     "negative": 76,
+     "positive": 561,
+     "quotes": [
+      "Great product for a kid with eczema and allergies. It cleans hair and body well with no film, greasiness or residue....",
+      "A good, mild, scent free soap. Perfect for my newborn.",
+      "Five stars",
+      "If your baby has sensitive skin or eczema, this is a good product because it's gentle and doesn't have any irritants or fragrance."
+     ],
+     "summary": "Customers find the shampoo effective and love it, with one customer specifically mentioning they are very happy with the results."
+    },
+    {
+     "mentions": 310,
+     "name": "skin compatibility",
+     "negative": 28,
+     "positive": 282,
+     "quotes": [
+      "Great for sensitive skin for my newborn and helped with cradle cap. Small amount for the price but the upside is a little goes a long way",
+      "Good for sensitive skin. Cleans well, hydrates, and smells good. Will buy in a larger size next time.",
+      "Great for eczema but it is extremely watery so it takes a lot to wash a toddler body and hair.",
+      "The fragrance-free aspect is perfect for sensitive skin, and knowing it's free of parabens and sulfates gives peace of mind...."
+     ],
+     "summary": "Customers find the shampoo effective for sensitive skin, particularly for rashes and eczema-prone areas, noting that it significantly helps control eczema and dry skin."
+    },
+    {
+     "mentions": 247,
+     "name": "fragrance-free",
+     "negative": 46,
+     "positive": 201,
+     "quotes": [
+      "I use it to shower my newborn because it's fragrance free and tear free. It is worth the amount I paid for it. Keeps her clean.",
+      "This formula is gentle even for my daughter's sensitive skin. There is no scent, and the formula lathers very quickly....",
+      "This works great for my little one. No fragrance, no skin or eye irritation. Works as a shampoo and body wash so its a 2 in 1.",
+      "Lather really good. Tear free and unscented! It also leaves my son\u2019s skin soft. It\u2019s kinda pricey though."
+     ],
+     "summary": "Customers appreciate that the shampoo is fragrance-free and unscented."
+    },
+    {
+     "mentions": 174,
+     "name": "gentle",
+     "negative": 3,
+     "positive": 171,
+     "quotes": [
+      "Our son has eczema and this helps eliminate flare ups. It\u2019s gentle and does not have a scent that would irritate skin.",
+      "Very gentle, just enough surfactant to lift the crusties without stinging me my eyes....",
+      "I am fungal acne prone (little bumps on forehead) and this soap is so gentle it doesn\u2019t irritate my very sensitive face....",
+      "There is no fragrance and it is gentle on skin. Cleans and refreshes skin. Used on bald head after chemotherapy"
+     ],
+     "summary": "Customers find the shampoo gentle and soft, keeping babies' skin moisturized and sweet."
+    },
+    {
+     "mentions": 150,
+     "name": "moisturizing",
+     "negative": 31,
+     "positive": 119,
+     "quotes": [
+      "This baby shampoo does not dry out my son's skin like Johnson and Johnson did. His pediatrician recommended it.",
+      "The scent isn\u2019t really strong which is great. Seems to be very moisturizing because dry skin is no longer an issue. This is worth it.",
+      "The lotion leaves my skin soft and moisturized, it get absorbed rather quickly in the skin....",
+      "Gets the job done, but left my son's skin pretty dry and the lotion didn't help much either."
+     ],
+     "summary": "Customers praise the shampoo's moisturizing properties, noting that it helps with dry skin and keeps it hydrated, with one customer mentioning it provides long-lasting relief for dry spots."
+    },
+    {
+     "mentions": 105,
+     "name": "cleaning performance",
+     "negative": 17,
+     "positive": 88,
+     "quotes": [
+      "I like that my baby is nice and clean and doesn\u2019t get rashes anymore like from the other baby washes I\u2019ve tried....",
+      "It cleans and leaves my skin feeling normal. I rarely breakout. I don't have babies anymore, but I'd imagine it would be great for babies.",
+      "The wash lathers softly and rinses easily, leaving the skin and hair feeling clean, calm, and hydrated without any residue....",
+      "Doesn't dry out the skin and cleans very well. A little soap goes a long way, so lasts awhile!"
+     ],
+     "summary": "Customers find the shampoo effective, describing it as a delicate yet efficient wash that leaves skin and hair clean without causing dryness."
+    },
+    {
+     "mentions": 97,
+     "name": "skin irritation",
+     "negative": 23,
+     "positive": 74,
+     "quotes": [
+      "one of the few products that was recommend by the doctor and does not irritate the skin! Little no fragrance, keeps skin so smooth and moisturized!",
+      "Great for very itchy sensitive skin. I am allergic to alot of things in general soaps, this stops all the itching.",
+      "It's unscented, doesn't irritate his skin, and he likes it. The bottle is a bit small for the price, but that's the brand...",
+      "This irritated my toddler's skin and BLEACHED a dark washcloth. Totally unacceptable!!! Something sold for babies should not bleach fabric."
+     ],
+     "summary": "Customers report that the shampoo is gentle and effective for sensitive skin, particularly noting that it doesn't irritate babies' skin or trigger allergies, with one customer mentioning it helps reduce itchiness after washing hair."
+    },
+    {
+     "mentions": 95,
+     "name": "suitable for babies",
+     "negative": 5,
+     "positive": 90,
+     "quotes": [
+      "Good baby wash. No fragrance, so fragrance free advertising is spot on. Smaller bottle but has lasted us a good while....",
+      "Best thing for my baby (together with Vanicream). Pediatrician recommended both and I'm so glad we followed through; eczema is completely gone!!",
+      "This baby wash is great for babies. It is gentle and has no fragrance, which is great for babies with more sensitive skin....",
+      "Great for kids and baby with skin eczema"
+     ],
+     "summary": "Customers find the shampoo suitable for babies and toddlers, with many noting it's pediatrician-recommended and their children enjoy using it."
+    }
+   ],
+   "complaints": [],
+   "neg_share": 0.126,
+   "low_star_pct": 6,
+   "fair_rating": 4.699,
+   "why": "4.70\u2605 fair rating vs 4.80\u2605 for the top-rated, for $10.50 less, $10.50 under the median price. No major complaints across 8 review features.",
+   "warn": null,
+   "risk": [],
+   "ad": false,
+   "unchecked": false
+  },
+  "best_price": {
+   "advertised": false,
+   "asin": "B00UOL93CG",
+   "badges": [],
+   "bought_past_month": "30K+",
+   "n_ratings": 21207,
+   "organic_rank": 48,
+   "position": 60,
+   "price": 7.79,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Neutrogena T/Sal Shampoo, Therapeutic Dandruff Control, 4.5 Fl. Oz",
+   "features": [
+    {
+     "mentions": 1165,
+     "name": "effectiveness",
+     "negative": 312,
+     "positive": 853,
+     "quotes": [
+      "I've had this shampoo for a week and used it 3 times and it works. No more scratching or bumps. I highly recommend this shampool",
+      "Bought this to help with the bumps on the back of my head. Works great, got rid of the bumps. Lathers nicely.",
+      "Didn't work for me, but at least it didn't smell. It could still work for someone else, so I'd recommend trying it.",
+      "I use it every other wash, not cheap but works and no awful smell like some products."
+     ],
+     "summary": "Customers find the shampoo effective, noting that a little bit goes a long way."
+    },
+    {
+     "mentions": 927,
+     "name": "dandruff relief",
+     "negative": 230,
+     "positive": 697,
+     "quotes": [
+      "It removes buildup and helps with dry scalp but you will need a moisturizer to help with it or it will just get back dry....",
+      "No dandruff but itchy scalp. This stuff worked for me.",
+      "This stuff saved my scalp! I have tried a few different shampoos for psoriasis and never had much relief until I tried this....",
+      "Next day I woke up with scalp pimples, dandruff and discomfort! This shampoo will give u everything that the shampoo supposed to cure\u2026 big no!..."
+     ],
+     "summary": "Customers report positive results with this shampoo, noting that it completely eliminates flaky and dry scalp, cleanses effectively, and provides immediate relief."
+    },
+    {
+     "mentions": 802,
+     "name": "quality",
+     "negative": 113,
+     "positive": 689,
+     "quotes": [
+      "Great product for occasional use to give a great deep clean. My kids get oily buildup with regular shampoo - so this is a good balance....",
+      "Good product, nice smell, they need larger size bottle. I personally didn't feel it done as good as the original T/Gel.",
+      "Good",
+      "Great shampoo, doesn\u2019t dry out my hair or make the texture feel straw-like after 2-3 washes...."
+     ],
+     "summary": "Customers find this shampoo to be fantastic and worth trying, as advertised."
+    },
+    {
+     "mentions": 373,
+     "name": "skin irritation",
+     "negative": 110,
+     "positive": 263,
+     "quotes": [
+      "Have used it 3 times so far and my scalp feels a lot better. Plus no more itching! My hair feels soft and clean.",
+      "The first time I used this, I noticed a difference, no itch, flakes, and inflammation on my scalp....",
+      "No dandruff but itchy scalp. This stuff worked for me.",
+      "Use once a week and you'll be as happy as i am. No more flakes, no more itchy scalp. Fantastic product, and its under $10!!!!!"
+     ],
+     "summary": "Customers report that the shampoo effectively controls dandruff and itchiness, with significant improvements in flakey patches, and one customer mentions it helps with oiliness."
+    },
+    {
+     "mentions": 154,
+     "name": "hair softness",
+     "negative": 26,
+     "positive": 128,
+     "quotes": [
+      "It leaves my hair shiny and soft. It does well with build up and i have itchy scalp but after just one use, i noticed a huge difference",
+      "It is gentle and still effective on my scalp and doesnt dry out my hair near scalp like nizoral....",
+      "There is no scent - which I like. Makes my hair really soft, but be careful how often you use it....",
+      "It also makes my hair super soft which I love. It does have a weird smell but it\u2019s not strong and doesn\u2019t linger after rinsing...."
+     ],
+     "summary": "Customers report that the shampoo leaves their hair soft, shiny, and their scalp smooth after use."
+    },
+    {
+     "mentions": 351,
+     "name": "fragrance",
+     "negative": 132,
+     "positive": 219,
+     "quotes": [
+      "Smells bad, works great",
+      "Too oily. No scent. It's like putting veggie oil in your hair. Does not lather. It does stop the itch for a couple hours.",
+      "It works, no smell but i wish i could get more product since is a small bottle but did the job and help with my psoriasis",
+      "This is supposed to be scent free, but it has an odd odor to it. I didn\u2019t feel like it helped my scalp at all, even with following directions...."
+     ],
+     "summary": "Customers have mixed opinions about the shampoo's fragrance, with some noting that it doesn't have an intense smell, while others find it unpleasant."
+    },
+    {
+     "mentions": 285,
+     "name": "value for money",
+     "negative": 110,
+     "positive": 175,
+     "quotes": [
+      "Got rid of dandruff, great price",
+      "Expensive but works well. I use it a few times a week and my normal shampoo the other days so I don\u2019t go through it as fast....",
+      "This helps my son\u2019s dry, flaky scalp so much. No weird smell and a good price compared to other retailers. We\u2019ve bought it many times.",
+      "It costs a little more than my anti dandruff shampoo, but is worth it, because....it works!"
+     ],
+     "summary": "Customers have mixed opinions about the shampoo's value for money, with some finding it worth the price while others feel they get very little for what they pay."
+    },
+    {
+     "mentions": 143,
+     "name": "oiliness",
+     "negative": 68,
+     "positive": 75,
+     "quotes": [
+      "This product does not dry out my hair and I do not get any sort of buildup. After about 5-10 minutes, I thoroughly wash it out and towel dry my hair....",
+      "Too oily. No scent. It's like putting veggie oil in your hair. Does not lather. It does stop the itch for a couple hours.",
+      "Doesn\u2019t smell medicated, doesn\u2019t dry you out, and although the bottle is small, it\u2019s plenty for a few months.",
+      "Shampoo barely lathers. Very oily and viscous. Not a pleasant feel. Odor is off-putting. Much better the DHS shampoo from another vendor."
+     ],
+     "summary": "Customers have mixed experiences with the shampoo's effect on oiliness: while some report it neither dries nor makes their hair oily, others mention it makes their scalp dry and flaky, particularly affecting curly hair."
+    }
+   ],
+   "complaints": [
+    "fragrance 38% negative (132/351)",
+    "value for money 39% negative (110/285)",
+    "oiliness 48% negative (68/143)"
+   ],
+   "neg_share": 0.262,
+   "low_star_pct": 11,
+   "fair_rating": 4.501,
+   "warn": "fragrance 38% negative (132/351)",
+   "risk": [
+    "fragrance 38% negative (132/351)",
+    "value for money 39% negative (110/285)",
+    "oiliness 48% negative (68/143)"
+   ],
+   "ad": false,
+   "unchecked": false
+  },
+  "amazon_pick": {
+   "advertised": false,
+   "asin": "B0DV42H38H",
+   "badges": [
+    "Overall Pick"
+   ],
+   "bought_past_month": "30K+",
+   "n_ratings": 7979,
+   "organic_rank": 1,
+   "position": 5,
+   "price": 8.97,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "CeraVe Gentle Hydrating Shampoo with Hyaluronic Acid for Hair & Scalp, 12oz",
+   "fair_rating": 4.6,
+   "warn": null,
+   "risk": [],
+   "ad": false,
+   "unchecked": false,
+   "pick_reason": "badge"
+  },
+  "stats": {
+   "items": 59,
+   "avg_rating": 4.46,
+   "median_price": 19.47,
+   "ads": 12
+  }
+ }
+}

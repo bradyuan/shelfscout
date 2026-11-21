@@ -1,0 +1,1397 @@
+{
+ "query": "toddler toothbrush",
+ "pattern": "size_fit",
+ "key_terms": [
+  "toddler|kids|baby"
+ ],
+ "url": "https://www.amazon.com/s?k=toddler+toothbrush",
+ "frozen_at": "2026-11-21 17:55",
+ "cards": [
+  {
+   "advertised": false,
+   "asin": "B0DLH6Q19H",
+   "badges": [
+    "Overall Pick",
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "6K+",
+   "n_ratings": 9490,
+   "organic_rank": 1,
+   "position": 5,
+   "price": 7.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Soft Toddler Toothbrushes, Efficient 3 Sided Toothbrush, Patent"
+  },
+  {
+   "advertised": false,
+   "asin": "B09M4BKYK2",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 16809,
+   "organic_rank": 2,
+   "position": 6,
+   "price": 7.97,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Dr. Brown's Toddler Toothbrush, Green and Orange Dinos, Ages 1-4, 2-Pack"
+  },
+  {
+   "advertised": false,
+   "asin": "B07WCBD6YC",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 53184,
+   "organic_rank": 3,
+   "position": 7,
+   "price": 4.47,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Dr. Brown's Infant-to-Toddler Toothbrush, Giraffe"
+  },
+  {
+   "advertised": false,
+   "asin": "B0GXX8N5G2",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "9K+",
+   "n_ratings": 368,
+   "organic_rank": 4,
+   "position": 8,
+   "price": 16.97,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Dr. Noah Microplastic-Free Bamboo Baby Toothbrush, Dentist Designed, 4 Pack"
+  },
+  {
+   "advertised": false,
+   "asin": "B0C4VXPKGL",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 4178,
+   "organic_rank": 5,
+   "position": 9,
+   "price": 2.99,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "GuruNanda Kids Toothbrush with Suction Cup & Tongue Cleaner, Ages 3+, 4 ct"
+  },
+  {
+   "advertised": false,
+   "asin": "B0GKJF76K2",
+   "badges": [],
+   "bought_past_month": "5K+",
+   "n_ratings": 267,
+   "organic_rank": 6,
+   "position": 10,
+   "price": 8.75,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Brush Buddies Paw Patrol Kids Toothbrush Set of 6 Pack Soft Bristle Toothbrushes for Toddlers Ages 2+, Extra Gentle Bristles, Small Head, Easy Grip Handle, Fun Paw Patrol Characters, Kids Oral Care"
+  },
+  {
+   "advertised": false,
+   "asin": "B013W6CC3Q",
+   "badges": [],
+   "bought_past_month": "7K+",
+   "n_ratings": 53184,
+   "organic_rank": 7,
+   "position": 15,
+   "price": 4.49,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Dr. Brown's Infant-to-Toddler Toothbrush, Pink Elephant, 0-3 Years"
+  },
+  {
+   "advertised": false,
+   "asin": "B0FLKLY8LQ",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "2K+",
+   "n_ratings": 513,
+   "organic_rank": 8,
+   "position": 16,
+   "price": 49.99,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Oral-B iO Kids Limited Rechargeable Electric Powered Toothbrush, Spiderman with 1 Gentle Care Brush Head - Automatic Pressure Sensor to Protect Gums - 3 Cleaning Settings - 2 Min Music Timer"
+  },
+  {
+   "advertised": false,
+   "asin": "B0CSTC2V3M",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 2046,
+   "organic_rank": 9,
+   "position": 17,
+   "price": 3.99,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "GuruNanda Kids Toothbrush, Butter On Gums Ultra Soft Bristles, Ages 3+, 4ct"
+  },
+  {
+   "advertised": false,
+   "asin": "B0BBPWW6TN",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 1302,
+   "organic_rank": 10,
+   "position": 18,
+   "price": 9.99,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Oral-B Baby Manual Toothbrush, Pooh Characters, 0-3 Years Old, Extra Soft (Characters Vary) - Pack of 4"
+  },
+  {
+   "advertised": false,
+   "asin": "B0895BHXQ2",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 7961,
+   "organic_rank": 11,
+   "position": 23,
+   "price": 4.95,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Brush Buddies Hot Wheels Toothbrush for Kids, Kids Toothbrushes, Toothbrush Pack, Soft Bristles for Kids, Toddler Ages 2-4, 6PK"
+  },
+  {
+   "advertised": false,
+   "asin": "B0866RV9SM",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 53184,
+   "organic_rank": 12,
+   "position": 24,
+   "price": 7.97,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Dr. Brown's Infant-to-Toddler Toothbrush and Toothpaste Set, Giraffe"
+  },
+  {
+   "advertised": false,
+   "asin": "B0BVMZW47T",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 2434,
+   "organic_rank": 13,
+   "position": 25,
+   "price": 6.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Dr. Brown's ToothScrubber Toothbrush, Three-Sided Toddler Training Toothbrush for Ages 1-4 Years with Suction Cup Base and Color Changing Bristles"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DMDPL11B",
+   "badges": [],
+   "bought_past_month": "4K+",
+   "n_ratings": 890,
+   "organic_rank": 14,
+   "position": 26,
+   "price": 4.48,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Brush Buddies Sesame Street Toothbrushes for Kids, Soft Bristle Toddler Toothbrushes Ages 2-4, Fun Sesame Street Designs, 6-Count Set"
+  },
+  {
+   "advertised": false,
+   "asin": "B00ZKLLYH2",
+   "badges": [],
+   "bought_past_month": "7K+",
+   "n_ratings": 459,
+   "organic_rank": 15,
+   "position": 27,
+   "price": 5.49,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Oral-B Kid's Toothbrush Featuring Disney's Frozen II, Soft Bristles, for Children and Toddlers 3+, 2 Count"
+  },
+  {
+   "advertised": false,
+   "asin": "B0F1WN7Q14",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 1352,
+   "organic_rank": 16,
+   "position": 28,
+   "price": 4.99,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Dr. Brown's Infant-to-Toddler Toothbrush Set, BPA-Free, 0-3 Years, 4-Pack"
+  },
+  {
+   "advertised": false,
+   "asin": "B07Y9L2N5Z",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "7K+",
+   "n_ratings": 4865,
+   "organic_rank": 17,
+   "position": 29,
+   "price": 10.98,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Kids Toothbrush 4 Pack - Soft Bristles with Suction Cup - Toothbrush Kids, Child Sized Brush Heads, 3-10 Year Old Kid Toothbrush with Easy Storage - Toddler, Girl and Boy Set (4-Pack, Multi-Color)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0F1W3Y17S",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 1352,
+   "organic_rank": 18,
+   "position": 30,
+   "price": 4.99,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Dr. Brown's Infant-to-Toddler Toothbrush Set, BPA-Free, 0-3 Years, 4-Pack"
+  },
+  {
+   "advertised": true,
+   "asin": "B0CPXNBR4H",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "1K+",
+   "n_ratings": 4610,
+   "organic_rank": 19,
+   "position": 31,
+   "price": 20.18,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "DYCROL Kids U Shaped Electric Toothbrush,4 Heads,Dinosaur Design Ages 2-6"
+  },
+  {
+   "advertised": false,
+   "asin": "B001G8Z3U2",
+   "badges": [],
+   "bought_past_month": "7K+",
+   "n_ratings": 8944,
+   "organic_rank": 20,
+   "position": 32,
+   "price": 3.97,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Orajel Naturals Fluoride-Free Toothpaste and Toothbrush for Ages 0-3, 1 Oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B08QWYFP2R",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "10K+",
+   "n_ratings": 3575,
+   "organic_rank": 21,
+   "position": 33,
+   "price": 7.03,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Amazon Basics Kids Battery Powered Toothbrush, 2 Count, 1 Pack, Packaging May Vary"
+  },
+  {
+   "advertised": false,
+   "asin": "B08273JDYC",
+   "badges": [],
+   "bought_past_month": "7K+",
+   "n_ratings": 5403,
+   "organic_rank": 22,
+   "position": 34,
+   "price": 4.45,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Brush Buddies 6 Pack Barbie Toothbrushes for Kids, Children's Toothbrushes Soft Bristle Toothbrushes for Kids"
+  },
+  {
+   "advertised": false,
+   "asin": "B07FKQ59TR",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "2K+",
+   "n_ratings": 6760,
+   "organic_rank": 23,
+   "position": 35,
+   "price": 13.29,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Papablic Baby Sonic Electric Toothbrush for Aged 0-3 Toddler, Blue Global Recycled Standard"
+  },
+  {
+   "advertised": false,
+   "asin": "B0H4XDFRPB",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 72,
+   "organic_rank": 24,
+   "position": 36,
+   "price": 7.75,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Brush Buddies Disney Pixar Cars Kids Toothbrushes 6 Pack Soft Bristles Ages 2+ Lightning McQueen Mater Jackson Storm Cruz Ramirez Kids Toothbrush Set Small Head Easy Grip Handle Manual Oral Care"
+  },
+  {
+   "advertised": false,
+   "asin": "B0BP5X3RST",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 27370,
+   "organic_rank": 25,
+   "position": 37,
+   "price": 7.97,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Oral-B Kid's Battery Toothbrush Featuring Marvel's Spiderman, Soft Bristles, for Kids 3+"
+  },
+  {
+   "advertised": false,
+   "asin": "B0BRXDCHQ4",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "2K+",
+   "n_ratings": 2883,
+   "organic_rank": 26,
+   "position": 38,
+   "price": 15.19,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Papablic Toddler Sonic Electric Kids Toothbrush for Ages 1-3, Dinosaur(Max) Global Recycled Standard"
+  },
+  {
+   "advertised": false,
+   "asin": "B0F8QGDRHN",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "1K+",
+   "n_ratings": 517,
+   "organic_rank": 27,
+   "position": 39,
+   "price": 6.63,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Kids Bamboo Toothbrushes, BPA-Free Soft Bristles, Eco-Friendly Natural Wooden Toddler Toothbrush, 6-Pack Travel Toothbrushes Set for Children"
+  },
+  {
+   "advertised": false,
+   "asin": "B07WLWHW42",
+   "badges": [],
+   "bought_past_month": "2K+",
+   "n_ratings": 16809,
+   "organic_rank": 28,
+   "position": 40,
+   "price": 4.49,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Dr. Brown's Baby and Toddler Toothbrush - Crocodile, BPA Free - Age 1-4Y"
+  },
+  {
+   "advertised": false,
+   "asin": "B089B3Q78S",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "2K+",
+   "n_ratings": 10433,
+   "organic_rank": 29,
+   "position": 41,
+   "price": 11.04,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "GREENZLA 6 Pack Kids Bamboo Toothbrush | Soft Charcoal Bristles"
+  },
+  {
+   "advertised": false,
+   "asin": "B07W985NFV",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 16809,
+   "organic_rank": 30,
+   "position": 42,
+   "price": 4.49,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Dr. Brown's Baby and Toddler Toothbrush, Flamingo 1-Pack, 1-4 Years"
+  },
+  {
+   "advertised": false,
+   "asin": "B0062ELFFW",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "2K+",
+   "n_ratings": 1416,
+   "organic_rank": 31,
+   "position": 43,
+   "price": 12.79,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "NIMBUS Nimby Kids Extra Soft Toothbrushes, Microfine Bristles (4 Pack)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0BRXDCGWH",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "800+",
+   "n_ratings": 2229,
+   "organic_rank": 32,
+   "position": 44,
+   "price": 18.04,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Papablic Toddler Sonic Electric Toothbrush Kids for Ages 1-3, Green Dino Global Recycled Standard"
+  },
+  {
+   "advertised": false,
+   "asin": "B0BRXFK24T",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "300+",
+   "n_ratings": 2229,
+   "organic_rank": 33,
+   "position": 45,
+   "price": 18.04,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Papablic Toddler Sonic Electric Toothbrush Kids for Ages 1-3, Dinosaur(Jo) Global Recycled Standard"
+  },
+  {
+   "advertised": false,
+   "asin": "B07YY5G2V1",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "2K+",
+   "n_ratings": 6760,
+   "organic_rank": 34,
+   "position": 46,
+   "price": 13.29,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Papablic BabyHandy 2-Stage Sonic Electric Toothbrush for Babies and Toddlers Ages 0-3 Years, Pink Global Recycled Standard"
+  },
+  {
+   "advertised": false,
+   "asin": "B07HCY9LKF",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 3521,
+   "organic_rank": 35,
+   "position": 47,
+   "price": 11.67,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Colgate My First Baby and Toddler Toothbrushes, Extra Soft, 3 Pack"
+  },
+  {
+   "advertised": false,
+   "asin": "B07S7CRRRX",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "50+",
+   "n_ratings": 1430,
+   "organic_rank": 36,
+   "position": 48,
+   "price": 16.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Brilliant Oral Care Child Toothbrush with Soft Bristles and Round Head, for a Kid Approved, Easy to Use All-Around Clean Mouth, Ages 2-5 Years, Pink Lime Lilac, 3 Pack"
+  },
+  {
+   "advertised": false,
+   "asin": "B07QJ93QXJ",
+   "badges": [],
+   "bought_past_month": "600+",
+   "n_ratings": 2270,
+   "organic_rank": 37,
+   "position": 49,
+   "price": 12.3,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "RADIUS Tiny Totz Toothbrush, Toddler Toothbrush for Ages 1+ Years, Extra Soft Plant Based Bristles, Cornerless Head, BPA Free, ADA Accepted, Made in USA, Blue/Green/Yellow, Pack of 3"
+  },
+  {
+   "advertised": false,
+   "asin": "B09CRVGSVB",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 12191,
+   "organic_rank": 38,
+   "position": 50,
+   "price": 11.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Frida Triple-Angle Toothhugger Toddler Toothbrush, 2 Years and Up"
+  },
+  {
+   "advertised": false,
+   "asin": "B08GNSFTT8",
+   "badges": [],
+   "bought_past_month": "700+",
+   "n_ratings": 12191,
+   "organic_rank": 39,
+   "position": 51,
+   "price": 8.67,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Frida Baby Triple-Angle Toothhugger Toddler Toothbrush, 2 Years & Up, Blue"
+  },
+  {
+   "advertised": false,
+   "asin": "B09HP3TCX6",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "2K+",
+   "n_ratings": 775,
+   "organic_rank": 40,
+   "position": 52,
+   "price": 5.99,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "Sea Turtle Plant-Based Bristles, Bamboo Toothbrushes, Soft Natural Toothbrush for Kids (4 Pack)"
+  },
+  {
+   "advertised": false,
+   "asin": "B07GFJJLDD",
+   "badges": [],
+   "bought_past_month": "500+",
+   "n_ratings": 154,
+   "organic_rank": 41,
+   "position": 53,
+   "price": 6.4,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Radius, Toothbrush Totz Plus Extra Soft, 1 Count"
+  },
+  {
+   "advertised": false,
+   "asin": "B0759XFFYK",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 238,
+   "organic_rank": 42,
+   "position": 54,
+   "price": 14.17,
+   "rating": 3.7,
+   "sponsored": false,
+   "title": "Oral-B Kids Spider Man Toothbrush for Little Children Ages 3+ Years Old, Extra Soft, Pack of 6"
+  },
+  {
+   "advertised": false,
+   "asin": "B013W6CCGI",
+   "badges": [],
+   "bought_past_month": "5K+",
+   "n_ratings": 53184,
+   "organic_rank": 43,
+   "position": 55,
+   "price": 7.97,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Dr. Brown's Infant-to-Toddler Toothbrush and Toothpaste Set, Pink Elephant"
+  },
+  {
+   "advertised": true,
+   "asin": "B085731SF3",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "3K+",
+   "n_ratings": 6097,
+   "organic_rank": 44,
+   "position": 56,
+   "price": 7.13,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "8 Packs Kids Toothbrush,Lovely Deer Soft Toddler Toothbrush for 2-8 Years Old(Pink&Orange&Blue&Green)"
+  },
+  {
+   "advertised": false,
+   "asin": "B01AAG017K",
+   "badges": [],
+   "bought_past_month": "900+",
+   "n_ratings": 284,
+   "organic_rank": 45,
+   "position": 57,
+   "price": 5.51,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Kid's Oral-B Sparkle Fun Manual Toothbrush, 2 ct. Soft"
+  },
+  {
+   "advertised": false,
+   "asin": "B01GQWED8K",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "700+",
+   "n_ratings": 2829,
+   "organic_rank": 46,
+   "position": 58,
+   "price": 15.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Brilliant Oral Care Baby Toothbrush with Soft Bristles and Round Head, for a Toddler Approved, Easy to Use All-Around Clean Mouth, 4-24 Months, When Front Teeth Appear, Blue Mint Yellow, 3 Pack"
+  },
+  {
+   "advertised": false,
+   "asin": "B003KJBK3E",
+   "badges": [],
+   "bought_past_month": "400+",
+   "n_ratings": 4205,
+   "organic_rank": 47,
+   "position": 59,
+   "price": 9.41,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "RADIUS Totz Toothbrush, Assorted, 18 months and up, 183 Count, (Pack of 3)"
+  },
+  {
+   "advertised": false,
+   "asin": "B08VW1CRT9",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "300+",
+   "n_ratings": 1524,
+   "organic_rank": 48,
+   "position": 60,
+   "price": 10.46,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "RADIUS Children's Toothbrush, Totz Plus Brush, Extra Soft Bristles, White/Green/Lightblue, BPA Free & ADA Accepted, for Delicate Teeth & Gums for Children 3 Years & Up, Pack of 3"
+  },
+  {
+   "advertised": true,
+   "asin": "B0BW8FHMZ4",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 209,
+   "organic_rank": null,
+   "position": 1,
+   "price": 85.99,
+   "rating": 4.7,
+   "sponsored": true,
+   "title": "Gerrii 400 Pcs Kids Toothbrushes Bulk Soft Kangaroo Shape with Covers"
+  },
+  {
+   "advertised": true,
+   "asin": "B0CWKCHN9L",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 416,
+   "organic_rank": null,
+   "position": 2,
+   "price": 23.99,
+   "rating": 4.4,
+   "sponsored": true,
+   "title": "36 Pack Toddler Toothbrush Bulk, Soft Bristle for Sensitive Teeth"
+  },
+  {
+   "advertised": true,
+   "asin": "B0F1Y454MW",
+   "badges": [],
+   "bought_past_month": "300+",
+   "n_ratings": 68,
+   "organic_rank": null,
+   "position": 3,
+   "price": 37.99,
+   "rating": 4.8,
+   "sponsored": true,
+   "title": "100 Pack Kids Toothbrush Soft bristles Toddler Lovely Toothbrush with Suction Cup Bulk, Includes Travel Covers, Individually Wrapped Toothbrushes for Kid Home School Daycare Camp (Candy)"
+  },
+  {
+   "advertised": true,
+   "asin": "B0CJ311FC8",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "1K+",
+   "n_ratings": 2883,
+   "organic_rank": null,
+   "position": 11,
+   "price": 15.19,
+   "rating": 4.6,
+   "sponsored": true,
+   "title": "Papablic Toddler Sonic Electric Kids Toothbrush for Ages 1-3, Blue Penguin Global Recycled Standard"
+  },
+  {
+   "advertised": true,
+   "asin": "B0H8P45NVW",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": null,
+   "n_ratings": 14,
+   "organic_rank": null,
+   "position": 12,
+   "price": 7.58,
+   "rating": 4.7,
+   "sponsored": true,
+   "title": "VIVAGO Kids Bamboo Toothbrushes with Soft Plant-Based Bristles, Natural Toothbrush for Kids, 4 Pack"
+  },
+  {
+   "advertised": true,
+   "asin": "B09KT7W6DC",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "1K+",
+   "n_ratings": 4228,
+   "organic_rank": null,
+   "position": 13,
+   "price": 12.73,
+   "rating": 4.3,
+   "sponsored": true,
+   "title": "YOTEE U-Shaped Toothbrush Kids 2 PCS, Toddler Baby Toothbrush for Age 2-6"
+  },
+  {
+   "advertised": true,
+   "asin": "B0G3DY3JYP",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "200+",
+   "n_ratings": 254,
+   "organic_rank": null,
+   "position": 14,
+   "price": 7.64,
+   "rating": 4.6,
+   "sponsored": true,
+   "title": "Toddler Toothbrush 4 Pack, Ultra Soft Bristles Kids Toothbrush"
+  },
+  {
+   "advertised": true,
+   "asin": "B07X754TDG",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "2K+",
+   "n_ratings": 2914,
+   "organic_rank": null,
+   "position": 19,
+   "price": 8.48,
+   "rating": 4.7,
+   "sponsored": true,
+   "title": "Baby Toothbrush 12 months and up - Toddler Toothbrush - Soft Bristles - Child Sized Brush Heads - infant toothbrush - Kids Tooth Brush - Easy Storage - Unisex Girl & Boy Set (4-Pack, Multi-Color)"
+  },
+  {
+   "advertised": true,
+   "asin": "B0D2CPT9XP",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "2K+",
+   "n_ratings": 5535,
+   "organic_rank": null,
+   "position": 20,
+   "price": 14.43,
+   "rating": 4.6,
+   "sponsored": true,
+   "title": "Kids Electric Toothbrush with Timer Toddler Toothbrush Age 2-4-8-12 Electric Toothbrush Kids Rainbow LED Light Up Vibrating Toothbrush Battery Operated Childrens Girls Sonic Tooth Brush (Pink Unicorn)"
+  },
+  {
+   "advertised": true,
+   "asin": "B0DK58MV2Q",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "50+",
+   "n_ratings": 89,
+   "organic_rank": null,
+   "position": 22,
+   "price": 42.34,
+   "rating": 4.8,
+   "sponsored": true,
+   "title": "Kids Electric Toothbrushes Toddlers Rechargeable, 2 Pack, 10 Heads, Ages 3+"
+  }
+ ],
+ "features": {
+  "B0C4VXPKGL": {
+   "features": [],
+   "stars": {
+    "1": 1,
+    "2": 1,
+    "3": 5,
+    "4": 9,
+    "5": 84
+   }
+  },
+  "B001G8Z3U2": {
+   "features": [
+    {
+     "mentions": 363,
+     "name": "effectiveness",
+     "negative": 22,
+     "positive": 341,
+     "quotes": [
+      "Five Stars",
+      "This toothbrush and toothpaste is great. Definitely the best value for the money.",
+      "Great product, even better price on Amazon!",
+      "Toothpaste is smaller size than expected, but good product and toothbrush is good quality. Maybe I nust didnt read the description well."
+     ],
+     "summary": "Customers find the toothpaste and brush effective, particularly as a starter kit for young children."
+    },
+    {
+     "mentions": 117,
+     "name": "flavor",
+     "negative": 17,
+     "positive": 100,
+     "quotes": [
+      "Perfect for the kiddos starting to grow teeth. Great flavor and swallow safe.",
+      "She loves the taste of the toothpaste, and it does taste like apples and it\u2019s edible. Perfect for a baby\u2019s first toothbrush.",
+      "My son loves the flavor and Elmo of course and he\u2019s got a small mouth so it works better than the crayola brush",
+      "Good size, tasty toothpaste, and of course our toddler loves Elmo. Not the most durable of bristles, but that's a minor complaint."
+     ],
+     "summary": "Customers like the toothpaste's flavor, particularly its kid-friendly options that make brushing fun, with one customer mentioning their child looks forward to morning and night brushing sessions."
+    },
+    {
+     "mentions": 70,
+     "name": "toddler-friendly",
+     "negative": 8,
+     "positive": 62,
+     "quotes": [
+      "Baby loves it, won't let go of the toothbrush....",
+      "Cute, nice little set for price. Great for toddler",
+      "toddler approved",
+      "The elmo design is playful and kid friendly. It\u2019s the perfect size for babies/toddlers who are just learning to brush their teeth...."
+     ],
+     "summary": "Customers find the toothpaste and brush suitable for toddlers and babies, with one customer noting the gentle formula is perfect for young children."
+    },
+    {
+     "mentions": 64,
+     "name": "value for money",
+     "negative": 7,
+     "positive": 57,
+     "quotes": [
+      "Great price, toddler likes these taste of the toothpaste.",
+      "Great value with toothbrush and toothpaste together. Love that it has Elmo.",
+      "if you catch it as a add on its a great buy",
+      "around the actual brush and could easily be removed, otherwise a good buy."
+     ],
+     "summary": "Customers find the toothpaste offers good value for money, with several mentioning they would purchase it again."
+    },
+    {
+     "mentions": 51,
+     "name": "bristle softness",
+     "negative": 15,
+     "positive": 36,
+     "quotes": [
+      "Toothbrush is soft and the right size for my 18month olds hand. He uses this toothbrush everyday and he seems to really like the toothpaste as well \ud83d\ude0a",
+      "Berry good and soft toothbrush for my baby. He loved it.",
+      "Giving 3 stars only because the brush is not soft as expected for a baby. My son bleeds through gums sometimes while using this brush....",
+      "her teeth but she loves the banana flavor tooth paste and the soft brush. Will def buy again"
+     ],
+     "summary": "Customers appreciate the toothbrush's soft bristles, with one customer noting that the smooth gel texture is easy for young children to use."
+    },
+    {
+     "mentions": 44,
+     "name": "size",
+     "negative": 7,
+     "positive": 37,
+     "quotes": [
+      "The elmo design is playful and kid friendly. It\u2019s the perfect size for babies/toddlers who are just learning to brush their teeth....",
+      "Good size, tasty toothpaste, and of course our toddler loves Elmo. Not the most durable of bristles, but that's a minor complaint.",
+      "Small and soft bristles. My 3 year old loves it and the toothpaste has a taste he doesn't fight.",
+      "Toothbrush is soft and the right size for my 18month olds hand. He uses this toothbrush everyday and he seems to really like the toothpaste as well \ud83d\ude0a"
+     ],
+     "summary": "Customers appreciate the toothpaste and toothbrush's size, noting the small head that fits comfortably in tiny mouths and is easy for toddlers to hold."
+    },
+    {
+     "mentions": 42,
+     "name": "enjoyment",
+     "negative": 1,
+     "positive": 41,
+     "quotes": [
+      "It also has a light, clean smell, and the Elmo design makes brushing fun. A great first toothpaste for toddlers.",
+      "Fun and Kid-Friendly!",
+      "Makes teeth brushing fun for our daughter. She likes seeing Elmo and the matching tooth paste helps her easily learn the tooth brushing activity.",
+      "My son is excited to brush his teeth and puts up much less of a fight with Elmo on his toothbrush and his \u201capples and bananas\u201d toothpaste...."
+     ],
+     "summary": "Customers find that the toothpaste makes brushing fun for children, particularly toddlers, and helps get them excited about the routine."
+    },
+    {
+     "mentions": 33,
+     "name": "design",
+     "negative": 0,
+     "positive": 33,
+     "quotes": [
+      "The toothbrush head looks completely squished and misshapen. It\u2019s cute, if it hadn\u2019t come looking like it had gotten run over.",
+      "So cute! I have a 1 yr old and this is his first tooth brush and it\u2019s so cute and perfect....",
+      "This is super cute. My son loves Elmo and he wants to brush his teeth as Soon as he sees the toothbrush....",
+      "Cute design and taste for toddler"
+     ],
+     "summary": "Customers like the design of the toothbrush and toothpaste set, describing it as cute with a fun Elmo design, and one customer notes that the bristles are sturdy."
+    }
+   ],
+   "stars": {
+    "1": 1,
+    "2": 0,
+    "3": 3,
+    "4": 9,
+    "5": 87
+   }
+  },
+  "B07WCBD6YC": {
+   "features": [
+    {
+     "mentions": 1540,
+     "name": "quality",
+     "negative": 88,
+     "positive": 1452,
+     "quotes": [
+      "Five stars",
+      "Love it! Cute and easy to use. It\u2019s the perfect size for my nephew (10 months old with 4 little teeth). It\u2019s easy for him to hold and for me to use....",
+      "This toothbrush is great and soft bristles but the only issue is the bristles have fanned out already and we only used it for a few days.",
+      "My 15 month old loves this toothbrush. It's easy for her (and me) to hold and the bristles are soft...."
+     ],
+     "summary": "Customers love this toothbrush, particularly as a first brush, and find the toothpaste to be good quality."
+    },
+    {
+     "mentions": 824,
+     "name": "enjoyment",
+     "negative": 15,
+     "positive": 809,
+     "quotes": [
+      "Great first toothbrush! Baby loves it and gives me no issues when it is time to brushing his teeth.",
+      "I bought this for my 10 month old baby and she loves it. It has soft bristles and if it falls, the bristles don\u2019t touch the counter!",
+      "My son loves it. It's easy to hold for a toddler. It's a nice giraffe so the brushing teeth won't be boring. The quality is great.",
+      "Bought this for my baby\u2019s first toothbrush and he loves it. It\u2019s held up very well his first year."
+     ],
+     "summary": "Customers report that their toddlers love this toothbrush, finding it great for little ones."
+    },
+    {
+     "mentions": 634,
+     "name": "appearance",
+     "negative": 3,
+     "positive": 631,
+     "quotes": [
+      "It\u2019s cute but it made my baby gum bleed. I have to change another toothbrush for her after one use. But the toothpaste tastes good",
+      "Purchased for our one year old; Just as pictured, super cute, easy grip, soft brush and easy to clean. He loves the elephant!",
+      "This toothbrush is so cute but also practical. The grip is big enough for my 7 month old to hold himself and puts it in his mouth....",
+      "This toothbrush is very cute, our kid loves it. But many of the hairs fell off after very mild use...."
+     ],
+     "summary": "Customers find the toothbrush cute and appreciate its giraffe shape, with one customer noting that their child uses it every day without fuss."
+    },
+    {
+     "mentions": 528,
+     "name": "bristle softness",
+     "negative": 78,
+     "positive": 450,
+     "quotes": [
+      "The brush is nice and soft. But I gave it three stars because my son only use it for two weeks then it turns bristled.",
+      "This toothbrush is great and soft bristles but the only issue is the bristles have fanned out already and we only used it for a few days.",
+      "I used them once and everything was fine. The toothbrush is very soft and age appropriate for my 9 months old with her 2 teeth.",
+      "The bristles are soft, but not too flimsy (like another brand I tried). The bristles do not come loose in his mouth when he bites down...."
+     ],
+     "summary": "Customers appreciate the toothbrush's soft bristles, noting they are gentle enough for both teeth and gums without irritating them."
+    },
+    {
+     "mentions": 438,
+     "name": "grip",
+     "negative": 23,
+     "positive": 415,
+     "quotes": [
+      "My 1 year old loves brushing her teeth and this toothbrush is easy to hold and super soft on her gums....",
+      "This high quality toothbrush is easy for him to hold. It seems to help with the pain he\u2019s experiencing while teething.",
+      "I love this brush for my 21/2 year old grand daughter. It\u2019s easy for her to hold. She bites the bristles sometimes and the bristles do not come out....",
+      "While the design is cute and easy to grip, I wish the brush head was softer\u2014it caused some discomfort for my baby...."
+     ],
+     "summary": "Customers appreciate the toothbrush's grip, which is perfect for tiny hands and easy for children to hold."
+    },
+    {
+     "mentions": 349,
+     "name": "functionality",
+     "negative": 27,
+     "positive": 322,
+     "quotes": [
+      "Works great. Our 2 year old can hold it easily and enjoys the toothpaste. Have not noticed any bristle coming out....",
+      "My son does well with this toothbrush. The bristles are gentle, but effective. Thanks to the design he can also hold it well.",
+      "I absolutely love that it is cute, durable and functional. The bristles are the perfect mix of soft yet stiff enough to clean",
+      "It is easy for her to hold and it gets the job done when I take over and finish up brushing her teeth. She loves the toothpaste, too...."
+     ],
+     "summary": "Customers find that the toothbrush works well for brushing teeth and keeping them clean, particularly for infants and toddlers who can use it independently."
+    },
+    {
+     "mentions": 286,
+     "name": "ease of use",
+     "negative": 13,
+     "positive": 273,
+     "quotes": [
+      "It is easy to use and my 8 month old doesn\u2019t mind learning to use it. I like that they are actual brushes not the silicone brushes....",
+      "Just as pictured, super cute, easy grip, soft brush and easy to clean. He loves the elephant!",
+      "Works perfect for my babies first toothbrush. Very easy to use and the fact it stands on its own makes it that much better and more sanitary.",
+      "Cute! Easy! Fun! Works great for my infant, but the toothbrush is a bit too hard for a teething baby."
+     ],
+     "summary": "Customers find the toothbrush easy to use, particularly for young children, as it makes tooth brushing simple and enjoyable."
+    },
+    {
+     "mentions": 274,
+     "name": "brushing experience",
+     "negative": 4,
+     "positive": 270,
+     "quotes": [
+      "My 10 month old loves brushing his teeth with this toothbrush and paste. He likes the flavor. It\u2019s fruity and a little sweet....",
+      "My 7 month old loves brushing her teeth. We tried other brands before this and they were a definite no go. She loooved this set!!!",
+      "Perfect starter toothbrush. Son is 8 months old and 2 bottom teeth are through, so figured why not introduce a toothbrush....",
+      "1YO LOVES to brush her teeth now. Toothbrush is easy to grip and toothpaste flavor appears to be a treat...."
+     ],
+     "summary": "Customers find this toothbrush effective for babies and toddlers, with many noting that their children look forward to using it and find it perfect for their first few teeth."
+    }
+   ],
+   "stars": {
+    "1": 0,
+    "2": 0,
+    "3": 3,
+    "4": 9,
+    "5": 88
+   }
+  },
+  "B013W6CC3Q": {
+   "features": [
+    {
+     "mentions": 1540,
+     "name": "quality",
+     "negative": 88,
+     "positive": 1452,
+     "quotes": [
+      "Five stars",
+      "Love it! Cute and easy to use. It\u2019s the perfect size for my nephew (10 months old with 4 little teeth). It\u2019s easy for him to hold and for me to use....",
+      "This toothbrush is great and soft bristles but the only issue is the bristles have fanned out already and we only used it for a few days.",
+      "My 15 month old loves this toothbrush. It's easy for her (and me) to hold and the bristles are soft...."
+     ],
+     "summary": "Customers love this toothbrush, particularly as a first brush, and find the toothpaste to be good quality."
+    },
+    {
+     "mentions": 824,
+     "name": "enjoyment",
+     "negative": 15,
+     "positive": 809,
+     "quotes": [
+      "Great first toothbrush! Baby loves it and gives me no issues when it is time to brushing his teeth.",
+      "I bought this for my 10 month old baby and she loves it. It has soft bristles and if it falls, the bristles don\u2019t touch the counter!",
+      "My son loves it. It's easy to hold for a toddler. It's a nice giraffe so the brushing teeth won't be boring. The quality is great.",
+      "Bought this for my baby\u2019s first toothbrush and he loves it. It\u2019s held up very well his first year."
+     ],
+     "summary": "Customers report that their toddlers love this toothbrush, finding it great for little ones."
+    },
+    {
+     "mentions": 634,
+     "name": "appearance",
+     "negative": 3,
+     "positive": 631,
+     "quotes": [
+      "It\u2019s cute but it made my baby gum bleed. I have to change another toothbrush for her after one use. But the toothpaste tastes good",
+      "Purchased for our one year old; Just as pictured, super cute, easy grip, soft brush and easy to clean. He loves the elephant!",
+      "This toothbrush is so cute but also practical. The grip is big enough for my 7 month old to hold himself and puts it in his mouth....",
+      "This toothbrush is very cute, our kid loves it. But many of the hairs fell off after very mild use...."
+     ],
+     "summary": "Customers find the toothbrush cute and appreciate its giraffe shape, with one customer noting that their child uses it every day without fuss."
+    },
+    {
+     "mentions": 528,
+     "name": "bristle softness",
+     "negative": 78,
+     "positive": 450,
+     "quotes": [
+      "The brush is nice and soft. But I gave it three stars because my son only use it for two weeks then it turns bristled.",
+      "This toothbrush is great and soft bristles but the only issue is the bristles have fanned out already and we only used it for a few days.",
+      "I used them once and everything was fine. The toothbrush is very soft and age appropriate for my 9 months old with her 2 teeth.",
+      "The bristles are soft, but not too flimsy (like another brand I tried). The bristles do not come loose in his mouth when he bites down...."
+     ],
+     "summary": "Customers appreciate the toothbrush's soft bristles, noting they are gentle enough for both teeth and gums without irritating them."
+    },
+    {
+     "mentions": 438,
+     "name": "grip",
+     "negative": 23,
+     "positive": 415,
+     "quotes": [
+      "My 1 year old loves brushing her teeth and this toothbrush is easy to hold and super soft on her gums....",
+      "This high quality toothbrush is easy for him to hold. It seems to help with the pain he\u2019s experiencing while teething.",
+      "I love this brush for my 21/2 year old grand daughter. It\u2019s easy for her to hold. She bites the bristles sometimes and the bristles do not come out....",
+      "While the design is cute and easy to grip, I wish the brush head was softer\u2014it caused some discomfort for my baby...."
+     ],
+     "summary": "Customers appreciate the toothbrush's grip, which is perfect for tiny hands and easy for children to hold."
+    },
+    {
+     "mentions": 349,
+     "name": "functionality",
+     "negative": 27,
+     "positive": 322,
+     "quotes": [
+      "Works great. Our 2 year old can hold it easily and enjoys the toothpaste. Have not noticed any bristle coming out....",
+      "My son does well with this toothbrush. The bristles are gentle, but effective. Thanks to the design he can also hold it well.",
+      "I absolutely love that it is cute, durable and functional. The bristles are the perfect mix of soft yet stiff enough to clean",
+      "It is easy for her to hold and it gets the job done when I take over and finish up brushing her teeth. She loves the toothpaste, too...."
+     ],
+     "summary": "Customers find that the toothbrush works well for brushing teeth and keeping them clean, particularly for infants and toddlers who can use it independently."
+    },
+    {
+     "mentions": 286,
+     "name": "ease of use",
+     "negative": 13,
+     "positive": 273,
+     "quotes": [
+      "It is easy to use and my 8 month old doesn\u2019t mind learning to use it. I like that they are actual brushes not the silicone brushes....",
+      "Just as pictured, super cute, easy grip, soft brush and easy to clean. He loves the elephant!",
+      "Works perfect for my babies first toothbrush. Very easy to use and the fact it stands on its own makes it that much better and more sanitary.",
+      "Cute! Easy! Fun! Works great for my infant, but the toothbrush is a bit too hard for a teething baby."
+     ],
+     "summary": "Customers find the toothbrush easy to use, particularly for young children, as it makes tooth brushing simple and enjoyable."
+    },
+    {
+     "mentions": 274,
+     "name": "brushing experience",
+     "negative": 4,
+     "positive": 270,
+     "quotes": [
+      "My 10 month old loves brushing his teeth with this toothbrush and paste. He likes the flavor. It\u2019s fruity and a little sweet....",
+      "My 7 month old loves brushing her teeth. We tried other brands before this and they were a definite no go. She loooved this set!!!",
+      "Perfect starter toothbrush. Son is 8 months old and 2 bottom teeth are through, so figured why not introduce a toothbrush....",
+      "1YO LOVES to brush her teeth now. Toothbrush is easy to grip and toothpaste flavor appears to be a treat...."
+     ],
+     "summary": "Customers find this toothbrush effective for babies and toddlers, with many noting that their children look forward to using it and find it perfect for their first few teeth."
+    }
+   ],
+   "stars": {
+    "1": 0,
+    "2": 0,
+    "3": 3,
+    "4": 9,
+    "5": 88
+   }
+  },
+  "B0866RV9SM": {
+   "features": [
+    {
+     "mentions": 1540,
+     "name": "quality",
+     "negative": 88,
+     "positive": 1452,
+     "quotes": [
+      "Five stars",
+      "Love it! Cute and easy to use. It\u2019s the perfect size for my nephew (10 months old with 4 little teeth). It\u2019s easy for him to hold and for me to use....",
+      "This toothbrush is great and soft bristles but the only issue is the bristles have fanned out already and we only used it for a few days.",
+      "My 15 month old loves this toothbrush. It's easy for her (and me) to hold and the bristles are soft...."
+     ],
+     "summary": "Customers love this toothbrush, particularly as a first brush, and find the toothpaste to be good quality."
+    },
+    {
+     "mentions": 824,
+     "name": "enjoyment",
+     "negative": 15,
+     "positive": 809,
+     "quotes": [
+      "Great first toothbrush! Baby loves it and gives me no issues when it is time to brushing his teeth.",
+      "I bought this for my 10 month old baby and she loves it. It has soft bristles and if it falls, the bristles don\u2019t touch the counter!",
+      "My son loves it. It's easy to hold for a toddler. It's a nice giraffe so the brushing teeth won't be boring. The quality is great.",
+      "Bought this for my baby\u2019s first toothbrush and he loves it. It\u2019s held up very well his first year."
+     ],
+     "summary": "Customers report that their toddlers love this toothbrush, finding it great for little ones."
+    },
+    {
+     "mentions": 634,
+     "name": "appearance",
+     "negative": 3,
+     "positive": 631,
+     "quotes": [
+      "It\u2019s cute but it made my baby gum bleed. I have to change another toothbrush for her after one use. But the toothpaste tastes good",
+      "Purchased for our one year old; Just as pictured, super cute, easy grip, soft brush and easy to clean. He loves the elephant!",
+      "This toothbrush is so cute but also practical. The grip is big enough for my 7 month old to hold himself and puts it in his mouth....",
+      "This toothbrush is very cute, our kid loves it. But many of the hairs fell off after very mild use...."
+     ],
+     "summary": "Customers find the toothbrush cute and appreciate its giraffe shape, with one customer noting that their child uses it every day without fuss."
+    },
+    {
+     "mentions": 528,
+     "name": "bristle softness",
+     "negative": 78,
+     "positive": 450,
+     "quotes": [
+      "The brush is nice and soft. But I gave it three stars because my son only use it for two weeks then it turns bristled.",
+      "This toothbrush is great and soft bristles but the only issue is the bristles have fanned out already and we only used it for a few days.",
+      "I used them once and everything was fine. The toothbrush is very soft and age appropriate for my 9 months old with her 2 teeth.",
+      "The bristles are soft, but not too flimsy (like another brand I tried). The bristles do not come loose in his mouth when he bites down...."
+     ],
+     "summary": "Customers appreciate the toothbrush's soft bristles, noting they are gentle enough for both teeth and gums without irritating them."
+    },
+    {
+     "mentions": 438,
+     "name": "grip",
+     "negative": 23,
+     "positive": 415,
+     "quotes": [
+      "My 1 year old loves brushing her teeth and this toothbrush is easy to hold and super soft on her gums....",
+      "This high quality toothbrush is easy for him to hold. It seems to help with the pain he\u2019s experiencing while teething.",
+      "I love this brush for my 21/2 year old grand daughter. It\u2019s easy for her to hold. She bites the bristles sometimes and the bristles do not come out....",
+      "While the design is cute and easy to grip, I wish the brush head was softer\u2014it caused some discomfort for my baby...."
+     ],
+     "summary": "Customers appreciate the toothbrush's grip, which is perfect for tiny hands and easy for children to hold."
+    },
+    {
+     "mentions": 349,
+     "name": "functionality",
+     "negative": 27,
+     "positive": 322,
+     "quotes": [
+      "Works great. Our 2 year old can hold it easily and enjoys the toothpaste. Have not noticed any bristle coming out....",
+      "My son does well with this toothbrush. The bristles are gentle, but effective. Thanks to the design he can also hold it well.",
+      "I absolutely love that it is cute, durable and functional. The bristles are the perfect mix of soft yet stiff enough to clean",
+      "It is easy for her to hold and it gets the job done when I take over and finish up brushing her teeth. She loves the toothpaste, too...."
+     ],
+     "summary": "Customers find that the toothbrush works well for brushing teeth and keeping them clean, particularly for infants and toddlers who can use it independently."
+    },
+    {
+     "mentions": 286,
+     "name": "ease of use",
+     "negative": 13,
+     "positive": 273,
+     "quotes": [
+      "It is easy to use and my 8 month old doesn\u2019t mind learning to use it. I like that they are actual brushes not the silicone brushes....",
+      "Just as pictured, super cute, easy grip, soft brush and easy to clean. He loves the elephant!",
+      "Works perfect for my babies first toothbrush. Very easy to use and the fact it stands on its own makes it that much better and more sanitary.",
+      "Cute! Easy! Fun! Works great for my infant, but the toothbrush is a bit too hard for a teething baby."
+     ],
+     "summary": "Customers find the toothbrush easy to use, particularly for young children, as it makes tooth brushing simple and enjoyable."
+    },
+    {
+     "mentions": 274,
+     "name": "brushing experience",
+     "negative": 4,
+     "positive": 270,
+     "quotes": [
+      "My 10 month old loves brushing his teeth with this toothbrush and paste. He likes the flavor. It\u2019s fruity and a little sweet....",
+      "My 7 month old loves brushing her teeth. We tried other brands before this and they were a definite no go. She loooved this set!!!",
+      "Perfect starter toothbrush. Son is 8 months old and 2 bottom teeth are through, so figured why not introduce a toothbrush....",
+      "1YO LOVES to brush her teeth now. Toothbrush is easy to grip and toothpaste flavor appears to be a treat...."
+     ],
+     "summary": "Customers find this toothbrush effective for babies and toddlers, with many noting that their children look forward to using it and find it perfect for their first few teeth."
+    }
+   ],
+   "stars": {
+    "1": 0,
+    "2": 0,
+    "3": 3,
+    "4": 9,
+    "5": 88
+   }
+  }
+ },
+ "fetch_log": [
+  {
+   "asin": "B0C4VXPKGL",
+   "status": "fetched",
+   "n_features": 0,
+   "ms": 1829
+  },
+  {
+   "asin": "B001G8Z3U2",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 1965
+  },
+  {
+   "asin": "B07WCBD6YC",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 1896
+  },
+  {
+   "asin": "B013W6CC3Q",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 1789
+  },
+  {
+   "asin": "B0866RV9SM",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 1924
+  }
+ ],
+ "result": {
+  "best_value": {
+   "advertised": false,
+   "asin": "B0C4VXPKGL",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 4178,
+   "organic_rank": 5,
+   "position": 9,
+   "price": 2.99,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "GuruNanda Kids Toothbrush with Suction Cup & Tongue Cleaner, Ages 3+, 4 ct",
+   "features": [],
+   "complaints": [],
+   "neg_share": null,
+   "low_star_pct": 7,
+   "fair_rating": 4.701,
+   "why": "4.70\u2605 fair rating vs 4.80\u2605 for the top-rated, for $1.48 less, $5.58 under the median price. No major complaints across 0 review features.",
+   "warn": null,
+   "risk": [],
+   "ad": false,
+   "unchecked": false
+  },
+  "best_price": {
+   "advertised": false,
+   "asin": "B0C4VXPKGL",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 4178,
+   "organic_rank": 5,
+   "position": 9,
+   "price": 2.99,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "GuruNanda Kids Toothbrush with Suction Cup & Tongue Cleaner, Ages 3+, 4 ct",
+   "features": [],
+   "complaints": [],
+   "neg_share": null,
+   "low_star_pct": 7,
+   "fair_rating": 4.701,
+   "warn": null,
+   "risk": [],
+   "ad": false,
+   "unchecked": false
+  },
+  "amazon_pick": {
+   "advertised": false,
+   "asin": "B0DLH6Q19H",
+   "badges": [
+    "Overall Pick",
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "6K+",
+   "n_ratings": 9490,
+   "organic_rank": 1,
+   "position": 5,
+   "price": 7.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Soft Toddler Toothbrushes, Efficient 3 Sided Toothbrush, Patent",
+   "fair_rating": 4.603,
+   "warn": null,
+   "risk": [],
+   "ad": false,
+   "unchecked": false,
+   "pick_reason": "badge"
+  },
+  "stats": {
+   "items": 58,
+   "avg_rating": 4.64,
+   "median_price": 8.575,
+   "ads": 12
+  }
+ }
+}

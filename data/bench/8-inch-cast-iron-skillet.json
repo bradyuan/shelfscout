@@ -1,0 +1,1305 @@
+{
+ "query": "8 inch cast iron skillet",
+ "pattern": "specific",
+ "key_terms": [
+  "8 inch|8-inch|8\"|8 in",
+  "cast iron"
+ ],
+ "url": "https://www.amazon.com/s?k=8+inch+cast+iron+skillet",
+ "frozen_at": "2026-11-21 17:40",
+ "cards": [
+  {
+   "advertised": true,
+   "asin": "B00008GKDG",
+   "badges": [
+    "Overall Pick"
+   ],
+   "bought_past_month": "2K+",
+   "n_ratings": 13961,
+   "organic_rank": 1,
+   "position": 4,
+   "price": 17.9,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Lodge Pre-Seasoned Cast Iron Skillet, PFAS-Free, 8 Inches"
+  },
+  {
+   "advertised": false,
+   "asin": "B09C2QXDF1",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 1546,
+   "organic_rank": 2,
+   "position": 5,
+   "price": 14.79,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Mercer Culinary Pre-Seasoned Cast Iron Skillet, 8-Inch"
+  },
+  {
+   "advertised": false,
+   "asin": "B072J28YP1",
+   "badges": [],
+   "bought_past_month": "500+",
+   "n_ratings": 22947,
+   "organic_rank": 3,
+   "position": 6,
+   "price": 17.9,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Lodge Pre-Seasoned Cast Iron Dual Handle Pan, PFAS-Free, 8 Inches"
+  },
+  {
+   "advertised": false,
+   "asin": "B00063RWT8",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 12720,
+   "organic_rank": 4,
+   "position": 7,
+   "price": 12.9,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Lodge Pre-Seasoned Cast Iron Skillet, PFAS-Free, 6.5 Inches"
+  },
+  {
+   "advertised": false,
+   "asin": "B00WTSCY0U",
+   "badges": [],
+   "bought_past_month": "600+",
+   "n_ratings": 3406,
+   "organic_rank": 5,
+   "position": 8,
+   "price": 17.9,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Lodge Cast Iron Skillet with Mini Silicone Handle Holder, 8 Inches"
+  },
+  {
+   "advertised": false,
+   "asin": "B00G2XGC88",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "8K+",
+   "n_ratings": 21185,
+   "organic_rank": 6,
+   "position": 9,
+   "price": 28.99,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Lodge Pre-Seasoned Cast Iron Skillet with Silicone Handle Holder, 12 Inches"
+  },
+  {
+   "advertised": false,
+   "asin": "B004QM8SLG",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "1K+",
+   "n_ratings": 7230,
+   "organic_rank": 7,
+   "position": 10,
+   "price": 83.99,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Lodge Cast Iron 5-Piece Set, PFAS-Free Pre-Seasoned Kitchen Set"
+  },
+  {
+   "advertised": false,
+   "asin": "B07BZ2VSDC",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "900+",
+   "n_ratings": 5516,
+   "organic_rank": 8,
+   "position": 11,
+   "price": 24.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Lodge Pre-Seasoned Cast Iron Griddle with Red Handle Holder, 10.5 Inches"
+  },
+  {
+   "advertised": false,
+   "asin": "B08J5W3SCG",
+   "badges": [],
+   "bought_past_month": "500+",
+   "n_ratings": 1869,
+   "organic_rank": 9,
+   "position": 12,
+   "price": 19.9,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Lodge Chef Collection 8 Inch Pre-Seasoned Cast Iron Skillet, Perfect Sear"
+  },
+  {
+   "advertised": false,
+   "asin": "B076X62LVP",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 3812,
+   "organic_rank": 10,
+   "position": 13,
+   "price": 19.9,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Lodge Wildlife Series Cast Iron Skillet, Duck, 8 Inches"
+  },
+  {
+   "advertised": false,
+   "asin": "B005U93S4G",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 7848,
+   "organic_rank": 11,
+   "position": 14,
+   "price": 34.9,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "Lodge Pre-Seasoned Carbon Steel Skillet, Long Handle, 8 Inches"
+  },
+  {
+   "advertised": false,
+   "asin": "B01NCP4KLX",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 1241,
+   "organic_rank": 12,
+   "position": 15,
+   "price": 39.9,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "Lodge Pre-Seasoned Carbon Steel Skillet, Dual Handle, 8 Inches"
+  },
+  {
+   "advertised": false,
+   "asin": "B0GK34FJ7R",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 355,
+   "organic_rank": 13,
+   "position": 16,
+   "price": 28.99,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Lodge Pre-Seasoned Cast Iron Skillet, 12 Inches, Spacious Skies"
+  },
+  {
+   "advertised": false,
+   "asin": "B0001DJVFQ",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 674,
+   "organic_rank": 14,
+   "position": 19,
+   "price": 49.9,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Lodge Pre-Seasoned Cast Iron Skillet, Made in USA, 12 Inches"
+  },
+  {
+   "advertised": false,
+   "asin": "B07Z6VC895",
+   "badges": [],
+   "bought_past_month": "200+",
+   "n_ratings": 1869,
+   "organic_rank": 15,
+   "position": 20,
+   "price": 29.9,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Lodge Chef Collection 10 Inch Pre-Seasoned Cast Iron Skillet, Perfect Sear"
+  },
+  {
+   "advertised": false,
+   "asin": "B0CW2D31L2",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 139,
+   "organic_rank": 16,
+   "position": 21,
+   "price": 34.95,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Lodge 12.5 x 8 Inch Enameled Cast Iron Grill Pan, Red"
+  },
+  {
+   "advertised": false,
+   "asin": "B0GV9DHB7P",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 10,
+   "organic_rank": 17,
+   "position": 22,
+   "price": 13.89,
+   "rating": 4.9,
+   "sponsored": false,
+   "title": "Pre-Seasoned Cast Iron Skillet, 8 Inch, Black"
+  },
+  {
+   "advertised": false,
+   "asin": "B0FMYLSJYL",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 892,
+   "organic_rank": 18,
+   "position": 27,
+   "price": 27.49,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "EWFEN Cast Iron Skillet 3-Piece Set, Heavy-Duty Professional Restaurant Chef Quality Pre-Seasoned Pan Cookware Set, 6\", 8\", 10\" Pans For Frying, Saute, Cooking, Use Indoor/Outdoor, Oven, Grill"
+  },
+  {
+   "advertised": true,
+   "asin": "B0FZK4SD4M",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 89,
+   "organic_rank": 19,
+   "position": 28,
+   "price": 33.71,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "8 Inch Cast Iron Skillet with Glass Lid, Pre-Seasoned Frying Pan"
+  },
+  {
+   "advertised": true,
+   "asin": "B074NBSL4N",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 2769,
+   "organic_rank": 20,
+   "position": 29,
+   "price": 29.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "8 Inch Round Medium Pre-Seasoned Cast Iron Skillet"
+  },
+  {
+   "advertised": false,
+   "asin": "B0GXXWGFR7",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 146,
+   "organic_rank": 21,
+   "position": 30,
+   "price": 15.18,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "EWFEN Cast Iron Skillet 8 Inch, Pre-Seasoned Frying Pan, Heavy-Duty Professional Restaurant Chef Quality Cookware with Drip Spout, Indoor & Outdoor Use, Compatible with Oven, Stove, Grill & Campfire"
+  },
+  {
+   "advertised": false,
+   "asin": "B0CKXBPY4R",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": null,
+   "n_ratings": 208,
+   "organic_rank": 22,
+   "position": 34,
+   "price": 53.59,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Sliner 4 Sets Mini Cast Iron Skillet with Wood Base Round, 8 Inches"
+  },
+  {
+   "advertised": false,
+   "asin": "B01726HAZC",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 1262,
+   "organic_rank": 23,
+   "position": 35,
+   "price": 32.81,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Victoria 8-Inch Cast Iron Pre-Seasoned Skillet, Cast Iron Frying Pan"
+  },
+  {
+   "advertised": true,
+   "asin": "B09CXQPRRL",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 529,
+   "organic_rank": 24,
+   "position": 36,
+   "price": 90,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "8 Inch Smooth Wasatch Pre-Seasoned Round Cast Iron Skillet"
+  },
+  {
+   "advertised": false,
+   "asin": "B06X8ZFGHP",
+   "badges": [],
+   "bought_past_month": "2K+",
+   "n_ratings": 22146,
+   "organic_rank": 25,
+   "position": 37,
+   "price": 27.99,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Utopia Kitchen Cast Iron Skillet Set 3 Piece 6 8 10 Inch PFAS-Free Black"
+  },
+  {
+   "advertised": false,
+   "asin": "B0CGW48C3G",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "100+",
+   "n_ratings": 390,
+   "organic_rank": 26,
+   "position": 38,
+   "price": 100,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "Field Company 8-Inch Small Cast Iron Skillet No.6, Egg Pan, Serves 1\u20132"
+  },
+  {
+   "advertised": false,
+   "asin": "B093TCL8NV",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 3072,
+   "organic_rank": 27,
+   "position": 39,
+   "price": 39.99,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Cuisinel 8-Inch Cast Iron Skillet with Lid Pre-Seasoned Frying Pan"
+  },
+  {
+   "advertised": false,
+   "asin": "B085VZXGG4",
+   "badges": [
+    "Save 20%"
+   ],
+   "bought_past_month": null,
+   "n_ratings": 531,
+   "organic_rank": 28,
+   "position": 40,
+   "price": 31.95,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Lodge Blacklock 7 Inch Lightweight Cast Iron Skillet"
+  },
+  {
+   "advertised": true,
+   "asin": "B0DY773FDN",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 39,
+   "organic_rank": 29,
+   "position": 41,
+   "price": 25.99,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Cast Iron Skillet with 2 Handle, 8in/20cm Rounde Mini Flat Bottomed Frying Pan for fried steakBread, Baking,Pizza, Outdoor Cooking, Camping, Grill, Stovetop, Oven Safe Cookware (8inch 20 cm)"
+  },
+  {
+   "advertised": false,
+   "asin": "B07YLC782M",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 142,
+   "organic_rank": 30,
+   "position": 42,
+   "price": 16.68,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "WINCO Cast Iron Skillet, Black"
+  },
+  {
+   "advertised": false,
+   "asin": "B00063RWTS",
+   "badges": [],
+   "bought_past_month": "800+",
+   "n_ratings": 3712,
+   "organic_rank": 31,
+   "position": 43,
+   "price": 19.9,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Lodge Pre-Seasoned Cast Iron Skillet, PFAS-Free, 9 Inches"
+  },
+  {
+   "advertised": false,
+   "asin": "B013QHK24W",
+   "badges": [],
+   "bought_past_month": "700+",
+   "n_ratings": 757,
+   "organic_rank": 32,
+   "position": 44,
+   "price": null,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Lodge Pre-Seasoned Cast Iron Round Griddle, 8 Inches"
+  },
+  {
+   "advertised": false,
+   "asin": "B0FG7XQ2HB",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "50+",
+   "n_ratings": 64,
+   "organic_rank": 33,
+   "position": 45,
+   "price": 20.79,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Enameled Cast Iron Skillet with Pour Spouts for Searing Baking Grilling and Roasting,8inch Frying Pan Cookware with Silicone Handle Cover,Durable Oven Safe Pan,Stove Campfire Use(Red)"
+  },
+  {
+   "advertised": false,
+   "asin": "B07BFXRR38",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 138,
+   "organic_rank": 34,
+   "position": 46,
+   "price": 19.43,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Winco 8\" Black Cast Iron Skillet with Handle"
+  },
+  {
+   "advertised": false,
+   "asin": "B09JB581XC",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 340,
+   "organic_rank": 35,
+   "position": 47,
+   "price": 19.9,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Lodge Wanderlust Series Cast Iron Tent Skillet, 8 Inches"
+  },
+  {
+   "advertised": false,
+   "asin": "B0CJV4W2C3",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 624,
+   "organic_rank": 36,
+   "position": 48,
+   "price": 29.99,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Ziliny 2 Pack Mini Cast Iron Skillets 7 x 7 x 1.7 Inch Pan Ramekin Set"
+  },
+  {
+   "advertised": false,
+   "asin": "B00WTSCXIS",
+   "badges": [],
+   "bought_past_month": "2K+",
+   "n_ratings": 13247,
+   "organic_rank": 37,
+   "position": 49,
+   "price": 24.99,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Lodge Pre-Seasoned Cast Iron Skillet with Hot Handle Holder, 10.25 Inches"
+  },
+  {
+   "advertised": false,
+   "asin": "B0BFXS6KNY",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 988,
+   "organic_rank": 38,
+   "position": 50,
+   "price": 64.9,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Lodge Pre-Seasoned Cast Iron Skillet 3-Piece Set: 8, 10.25 & 12 inch"
+  },
+  {
+   "advertised": false,
+   "asin": "B0FY3D14MP",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": null,
+   "n_ratings": 12109,
+   "organic_rank": 39,
+   "position": 51,
+   "price": 29.59,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Victoria 8-Inch Amazonia Cast Iron Pre-Seasoned Skillet"
+  },
+  {
+   "advertised": false,
+   "asin": "B00006JSUA",
+   "badges": [],
+   "bought_past_month": "5K+",
+   "n_ratings": 74132,
+   "organic_rank": 40,
+   "position": 52,
+   "price": 23.38,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Lodge Pre-Seasoned Cast Iron Skillet, PFAS-Free, 10.25 Inches"
+  },
+  {
+   "advertised": true,
+   "asin": "B0GX1KT3ND",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": null,
+   "n_ratings": 37,
+   "organic_rank": 41,
+   "position": 53,
+   "price": 29.99,
+   "rating": 4,
+   "sponsored": false,
+   "title": "8-Inch Small Cast Iron Skillet, Lightweight Titanium Enameled Frying Pan"
+  },
+  {
+   "advertised": false,
+   "asin": "B08C9HZ22M",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "2K+",
+   "n_ratings": 36092,
+   "organic_rank": 42,
+   "position": 54,
+   "price": 17.59,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "SENSARTE Nonstick Frying Pan Skillet, Swiss Granite Coating Omelette Pan, Healthy Stone Cookware Chef's Pan, PFOA Free (8/9.5/10/11/12.5 Inch) (8 Inch)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0GM2CRVBR",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "200+",
+   "n_ratings": 390,
+   "organic_rank": 43,
+   "position": 55,
+   "price": 93,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "Field Company 7.5-Inch Small Cast Iron Chef & Egg Skillet No.5, Serves 1\u20132"
+  },
+  {
+   "advertised": false,
+   "asin": "B09DGNT35V",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 1055,
+   "organic_rank": 44,
+   "position": 56,
+   "price": 29.99,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "Hamilton Beach Enameled Cast Iron Fry Pan 8-Inch (Gray, Fry 8-Inch)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0FZM6MHYW",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": null,
+   "n_ratings": 43,
+   "organic_rank": 45,
+   "position": 57,
+   "price": 116,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "Lancaster Cast Iron No. 6 skillet - 8 3/4 inch diameter Pre-seasoned Frying Pan, Made in USA"
+  },
+  {
+   "advertised": false,
+   "asin": "B076X4V93P",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 3812,
+   "organic_rank": 46,
+   "position": 58,
+   "price": 24.99,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Lodge Wildlife Series Cast Iron Skillet, Deer, 10.25 Inches"
+  },
+  {
+   "advertised": true,
+   "asin": "B07HK9L22M",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 892,
+   "organic_rank": 47,
+   "position": 59,
+   "price": 39.99,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Cuisinel 8-Inch Cast Iron Skillet with Lid Pre-Seasoned Frying Pan"
+  },
+  {
+   "advertised": false,
+   "asin": "B0GDQDS6H7",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 38,
+   "organic_rank": 48,
+   "position": 60,
+   "price": 19.99,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "ESTAS 8 Inch Cast Iron Skillet \u2013 Pre-Seasoned Cast Iron Frying Pan for Searing, Frying & Baking \u2013 Oven, Stovetop, Grill & Campfire Safe \u2013 Heavy-Duty Even-Heat Cookware"
+  },
+  {
+   "advertised": true,
+   "asin": "B0F14FVLZN",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 348,
+   "organic_rank": null,
+   "position": 2,
+   "price": 123,
+   "rating": 4.2,
+   "sponsored": true,
+   "title": "Caraway 8\" Cast Iron Skillet Pan"
+  },
+  {
+   "advertised": true,
+   "asin": "B0GF68STLK",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 5,
+   "organic_rank": null,
+   "position": 25,
+   "price": 71.99,
+   "rating": 3.7,
+   "sponsored": true,
+   "title": "Flambo 8 Inch Smooth Cast Iron Skillet - Naturally Non-Stick, Pre-Seasoned Frying Pan, Smooth Finish for Grilling, Frying, Sauteing, Searing, Baking - Use on Oven, Stove, Grill, or Campfire"
+  },
+  {
+   "advertised": true,
+   "asin": "B081RZNP56",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 7490,
+   "organic_rank": null,
+   "position": 26,
+   "price": 39.99,
+   "rating": 4.2,
+   "sponsored": true,
+   "title": "nuovva Pre-Seasoned Cast Iron Skillet Frying Pans"
+  },
+  {
+   "advertised": true,
+   "asin": "B0FHGWMJPV",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 65,
+   "organic_rank": null,
+   "position": 31,
+   "price": 39.99,
+   "rating": 4.4,
+   "sponsored": true,
+   "title": "WANGYUANJI Cast Iron Skillet Set 3-PCS 6/8/10 Inch Raw Iron Frying Pans"
+  },
+  {
+   "advertised": true,
+   "asin": "B09NZHZKGX",
+   "badges": [],
+   "bought_past_month": "300+",
+   "n_ratings": 27993,
+   "organic_rank": null,
+   "position": 33,
+   "price": 57.99,
+   "rating": 4.7,
+   "sponsored": true,
+   "title": "Cuisinel 8+10+12-Inch Cast Iron Skillet Set, 3-Piece Pre-Seasoned Pan Set"
+  }
+ ],
+ "features": {
+  "B00063RWT8": {
+   "features": [],
+   "stars": {
+    "1": 4,
+    "2": 2,
+    "3": 5,
+    "4": 10,
+    "5": 79
+   }
+  },
+  "B072J28YP1": {
+   "features": [
+    {
+     "mentions": 2026,
+     "name": "quality",
+     "negative": 94,
+     "positive": 1932,
+     "quotes": [
+      "This is a huge pan - and it is very heavy. I love it for cooking a huge breakfast for friends - scrambled eggs with bacon and veggies....",
+      "It's a great pan. I have a cabin where I invite guests up and this is going to fry 4 pounds of bacon for breakfast without a problem.",
+      "Five Stars",
+      "Great product, perfect size for all my needs. The pan has been used 3-4 times a week for frying and at least once a week for steaks and burgers...."
+     ],
+     "summary": "Customers find this cast iron skillet to be fantastic and recommend it, with one customer specifically mentioning their love for Lodge products."
+    },
+    {
+     "mentions": 880,
+     "name": "size",
+     "negative": 132,
+     "positive": 748,
+     "quotes": [
+      "This was the perfect size for my smaller acorn grill - fits perfect since there are no handles to get in the way....",
+      "I mostly make deep dish pizza in this skillet because it is huge, very deep and the pizza comes out great....",
+      "Great for cooking breakfast casserole's and great size for when all the grand kids come over and want cheeseburgers !",
+      "The skillet is large, heavy and is fantastic. Like most modern skillets it isn't smooth like the ones made \"back in the day\"...."
+     ],
+     "summary": "Customers love the large size of the pan, which can accommodate a double-sized pork loin and plenty of vegetables, making it perfect for sukiyaki."
+    },
+    {
+     "mentions": 489,
+     "name": "versatility",
+     "negative": 12,
+     "positive": 477,
+     "quotes": [
+      "I am a cast iron lover from way back and this skillet is almost as versatile as my CI pizza pan. Use it for multi kitchen and oven jobs....",
+      "Very versatile! Excellent price for such a large pan and it\u2019s a Lodge. Nice with small handles. It fits perfectly in my oven.",
+      "Purchased for use with my portable stove, but love it for it\u2019s versatility and longevity!",
+      "This is a excellent product and so versatile.. I use this on my stove top to start a dish then put straight in the oven...."
+     ],
+     "summary": "Customers find the pan versatile, with one mentioning it works well as a roasting pan and casserole, while another notes it's perfect for baking nachos and pizza in the oven."
+    },
+    {
+     "mentions": 426,
+     "name": "cooking performance",
+     "negative": 8,
+     "positive": 418,
+     "quotes": [
+      "It balances perfectly on top of the stove. Cooks well and cleans easily. On my last five day camping trip I used it to cook every meal.",
+      "Nice heavyweight pan and cooks great but rust extremely fast of not babied. Be prepared to do a fair amount of maintenance after each use....",
+      "We have been using it regularly. It cooks beautifully, the food definitely tastes better than non-stick pans....",
+      "Great for pizza, smash burgers, pancakes, or anything that you need a large cooking surface for."
+     ],
+     "summary": "Customers praise the pan's cooking performance, particularly for fry bread, pork chops, and steaks, as well as making fajitas and roasting vegetables."
+    },
+    {
+     "mentions": 424,
+     "name": "value for money",
+     "negative": 29,
+     "positive": 395,
+     "quotes": [
+      "I BOUGHT THIS TO ADD TO MY LODGE COLLECTION. GREAT PRICE & PERFECT SIZE. OTHER BRANDS OF CAST IRON COOKWARE RUST EASILY.",
+      "Gives a homemade old fashioned fell. Great value",
+      "This was definitely a great buy. I've used this pan for baking, browning steaks, sauteing veggies, and frying eggs....",
+      "Great quality and a good price. I use it with a medium big green egg for outdoor grilling and it fits perfectly with the lid closed."
+     ],
+     "summary": "Customers find the cast iron pan to be worth its price, particularly noting that it offers Lodge quality at a reasonable cost."
+    },
+    {
+     "mentions": 367,
+     "name": "ease of cleaning",
+     "negative": 48,
+     "positive": 319,
+     "quotes": [
+      "heats up easily and holds heat very well. easy to clean , great for sausage and hamburgers . only drawback is it is awkward to get gravy out .",
+      "It is pre-seasoned, smooth, clean, heavy and well built as a cast iron pan should be, and so large it covers two burners (half the stove top)....",
+      "It balances perfectly on top of the stove. Cooks well and cleans easily. On my last five day camping trip I used it to cook every meal.",
+      "The size is great for a family of three. It is super easy to clean with hot water and a chain mail scrubber...."
+     ],
+     "summary": "Customers find the pan easy to clean, particularly noting that it makes removing eggs from cast iron surfaces simple."
+    },
+    {
+     "mentions": 349,
+     "name": "functionality",
+     "negative": 11,
+     "positive": 338,
+     "quotes": [
+      "Works great, heat evenly distributed, makes great fajitas, El Pastor. Also can fry 6 corn tortillas at once for crunchy tacos",
+      "It works great! Once you know how to season and take care of cast iron, this material is the best! Doesn't stick at all!...",
+      "Perfect size, cooks food beautifully, easy to clean and just what I needed. I love to cook filet mignon in it, comes out perfect every time....",
+      "Otherwise, this was bought specifically for making pizza and it works perfectly, but takes some time to heat up...."
+     ],
+     "summary": "Customers find that the pan functions well, working great as a skillet and in the oven, and is particularly effective when used as a griddle on the grill."
+    },
+    {
+     "mentions": 348,
+     "name": "handles",
+     "negative": 20,
+     "positive": 328,
+     "quotes": [
+      "Love the handles. Season with flax oil and it becomes extremely nonstick. Perfect for one person. Cooks half a chicken perfect.",
+      "I love the large size and the double handles, perfect for frying chicken to homemade pizza.",
+      "Great even cooking, easy clean with green pad. Love the double handles, so much easier to use, specially when using to make cornbread in the oven.",
+      "I think the 12\u201d skillet is the perfect size, and I like the dual handles because it doesn\u2019t take up as much space...."
+     ],
+     "summary": "Customers appreciate the pan's dual handles on each side, which make it manageable and easier to pick up."
+    }
+   ],
+   "stars": {
+    "1": 2,
+    "2": 1,
+    "3": 2,
+    "4": 8,
+    "5": 87
+   }
+  },
+  "B0GK34FJ7R": {
+   "features": [
+    {
+     "mentions": 95,
+     "name": "quality",
+     "negative": 3,
+     "positive": 92,
+     "quotes": [
+      "Thanks Lodge for another great product and one that marks the Anniversary of our great Nation \ud83c\uddfa\ud83c\uddf2",
+      "Great pan. Hears evenly. Cleans easily if you are cooking correctly for a cast iron.",
+      "LOVE IT! Never had a problem with Lodge and always love to see the designer series with cool graphics and the year present....",
+      "Wanted to add to my collection and this was perfect. Right size and also celebrates 250 years USA"
+     ],
+     "summary": "Customers praise the quality of this cast iron skillet, describing it as excellent and noting that it doesn't disappoint."
+    },
+    {
+     "mentions": 37,
+     "name": "design",
+     "negative": 0,
+     "positive": 37,
+     "quotes": [
+      "The pan is a typical lodge quality. It\u2019s heavy duty cast iron and beautiful....",
+      "Such a beautiful pan. Love Lodge and made in America.",
+      "Lodge is the best! The pan is easy to clean and cooks evenly. I do wish the handle was a bit longer, but it does work fine....",
+      "Love lodge and this is a great deal"
+     ],
+     "summary": "Customers appreciate the design of the skillet, noting its beautiful appearance with the America's 250th Anniversary logo and well-cast details, with one customer highlighting the sharp relief on the back."
+    },
+    {
+     "mentions": 20,
+     "name": "value for money",
+     "negative": 1,
+     "positive": 19,
+     "quotes": [
+      "The value, heating speed (medium high is fantastic) and its non-stick qualities, if you season it, can\u2019t be beat.",
+      "Great purchase",
+      "The cast iron skillet of the century. You won\u2019t find a better one under 250 bucks. Picked this up on sale. Cooks as good as my $300 Smitty ....",
+      "It\u2019s heavy, so a strong hook is needed, but it was fairly priced for being a special event item."
+     ],
+     "summary": "Customers find the cast iron skillet to be a great value."
+    },
+    {
+     "mentions": 19,
+     "name": "durability",
+     "negative": 3,
+     "positive": 16,
+     "quotes": [
+      "Durable and easy to clean. Heats up quickly and cleans off easily. I love it. I recommend using it. I think I may replace all my pots and pans soon.",
+      "This is a well built pan I\u2019ve owned some that warp and this one is very strong no warp when heated up love it",
+      "Versatile, good weight to it, perfect size, extremely durable, comes already seasoned. No lid.",
+      "Properly used and seasoned rust will never be an issue, and it will become an heirloom to pass on to future generations."
+     ],
+     "summary": "Customers praise the cast iron skillet's durability, noting it is heavy-duty and will last a lifetime, with one customer mentioning it will become an heirloom."
+    },
+    {
+     "mentions": 13,
+     "name": "cooking performance",
+     "negative": 0,
+     "positive": 13,
+     "quotes": [
+      "Lodge is the best! The pan is easy to clean and cooks evenly. I do wish the handle was a bit longer, but it does work fine....",
+      "Picked this up on sale. Cooks as good as my $300 Smitty . Versatile, good weight to it, perfect size, extremely durable, comes already seasoned....",
+      "Cooks perfect pizza. Nothing sticks. Lodge is the best. I\u2019m very happy I purchased this.",
+      "It honestly gives the best cook and is pretty easy to clean. I would highly recommend cooking with cast iron."
+     ],
+     "summary": "Customers praise the pan's cooking performance, noting that it cooks evenly, with one customer mentioning it performs as well as a $300 Smitty model, while others highlight its effectiveness for searing steaks and making omelets."
+    },
+    {
+     "mentions": 13,
+     "name": "weight",
+     "negative": 3,
+     "positive": 10,
+     "quotes": [
+      "This thing is heavy and quality. I'll be making all my bacon in it from now on.",
+      "Beautiful and very heavy. I got it as a gift and it is perfect",
+      "Cooks as good as my $300 Smitty . Versatile, good weight to it, perfect size, extremely durable, comes already seasoned. No lid.",
+      "Poorly packaged, just tossed into s box of other items? These are heavy cast iron; i got two. Geez"
+     ],
+     "summary": "Customers appreciate the weight of the pan, with one mentioning it is a heavy cast iron skillet."
+    },
+    {
+     "mentions": 12,
+     "name": "seasoning",
+     "negative": 2,
+     "positive": 10,
+     "quotes": [
+      "This product has been great the pre-seasoning was really good, this cooks really evenly, and it holds its heat. Great for searing a steak.",
+      "The cast iron skillet comes pre-seasoned, and ready to use. It heats up even and produces and nice hard sear on meats....",
+      "Rare, beautifully seared that he topped with some homemade lemon herb butter- and I can't wait for him to make them again....",
+      "Versatile, good weight to it, perfect size, extremely durable, comes already seasoned. No lid."
+     ],
+     "summary": "Customers are satisfied with the pre-seasoning of the skillet, with one customer noting that the seasoning is evenly applied without chips or cracks, and another mentioning that it produces a nice hard sear on meats."
+    },
+    {
+     "mentions": 12,
+     "name": "size",
+     "negative": 1,
+     "positive": 11,
+     "quotes": [
+      "Cooks as good as my $300 Smitty . Versatile, good weight to it, perfect size, extremely durable, comes already seasoned. No lid.",
+      "Don't hesitate to purchase..a good size, seasoned pan that will become an heirloom. Bottom of pan is beautiful....",
+      "Wanted to add to my collection and this was perfect. Right size and also celebrates 250 years USA",
+      "Love love love. Huge Lodge pan fan. I am enjoying collecting all the new designs on the bottom. We use on the stove and in the oven...."
+     ],
+     "summary": "Customers like the size of the pan, with one mentioning it's perfect for baking cookies, cakes, and pineapple upside-down cakes."
+    }
+   ],
+   "stars": {
+    "1": 2,
+    "2": 0,
+    "3": 1,
+    "4": 6,
+    "5": 91
+   }
+  },
+  "B00006JSUA": {
+   "features": [
+    {
+     "mentions": 6009,
+     "name": "quality",
+     "negative": 632,
+     "positive": 5377,
+     "quotes": [
+      "Five Stars",
+      "Love it but the preseasoning was a bust. Eggs still stuck. Had to season it myself....",
+      "Great pan! I make sure to clean it right after use, with water and kosher salt. I also wipe it with some canola oil to help preserve it....",
+      "Great product - exactly what I was looking for in a cast iron pan. Because it's heavy, I love the extra handle to help lift safely."
+     ],
+     "summary": "Customers love this cast iron pan, describing it as fantastic and giving it five stars."
+    },
+    {
+     "mentions": 1708,
+     "name": "value for money",
+     "negative": 177,
+     "positive": 1531,
+     "quotes": [
+      "Super affordable and great price, but seriously it is a PAIN to not have a silicone handle. I highly suggest buying a pan that comes with one.",
+      "Great value. I use this at least 3 times a week. Great flavor. Cooks on a lower heat and the food cooks faster.",
+      "It's a good quality Lodge cast iron pan at a good price. It is replacing a pan that I plan on retiring.",
+      "This was a great buy and it comes already seasoned. Same brand in all the local stores and a recommended brand...."
+     ],
+     "summary": "Customers find the cast iron skillet to be a great value for the price."
+    },
+    {
+     "mentions": 972,
+     "name": "cooking performance",
+     "negative": 27,
+     "positive": 945,
+     "quotes": [
+      "Easy to care for and cooks great! Be warned....the handle gets H.O.T. - even on the stove top....",
+      "Loved it, cooks well. But it did come with a few rusted spots, I assumed from being packaged up and not being taking care of....",
+      "I used it a couple times and it was great cooking. My lodge scrub brush came in the same order. It is a great help for clean up....",
+      "We mostly use it for meat such as steak. It can get very hot so great for searing. Easy to wash...."
+     ],
+     "summary": "Customers praise the skillet's cooking performance, noting it works well for various dishes including burgers, eggs, and steaks, particularly when seared or grilled in the oven."
+    },
+    {
+     "mentions": 971,
+     "name": "durability",
+     "negative": 275,
+     "positive": 696,
+     "quotes": [
+      "It's heavy and durable, the handle is a little short but that's to be expected from cast-iron.",
+      "Nice sturdy pot, even heat distribution and an addition that will last a lifetime. Well worth the price!",
+      "A few hours later, it was completely covered with rust. Never again.",
+      "These pans will last forever if you don\u2019t let them rust. They are versatile and practically indestructible...."
+     ],
+     "summary": "Customers praise the cast iron pan's durability, noting that the factory seasoning has held up well over time, and they look forward to using it for many years."
+    },
+    {
+     "mentions": 956,
+     "name": "functionality",
+     "negative": 71,
+     "positive": 885,
+     "quotes": [
+      "Works great. Very balanced - holding and for heat. Only question is, each time i handwash it, my rag is always covered in Black....",
+      "Great value and works well . . . Don't like the narrowing handle, would prefer something that allowed a better grip.",
+      "I've used this for about a year now and it works great. I love how I can put it from the stove into my oven. It is heavy but not too heavy....",
+      "Needed a pan to improve searing chicken, beef and pork. This pan does the job...."
+     ],
+     "summary": "Customers find that the cast iron pan performs well, working effectively on both stovetop and in the oven."
+    },
+    {
+     "mentions": 904,
+     "name": "ease of cleaning",
+     "negative": 226,
+     "positive": 678,
+     "quotes": [
+      "Non-sticky and easy to clean. The only downside is that I often accidentally grab the handle when it's hot....",
+      "Very easy to clean and cook with. You can also save money on a sandwich press. I make grilled cheese and press sandwiches all the time with this....",
+      "Not good at all, everything stick to it and it is hard to clean. The handle holder is not perfect fit and it melts. By putting water on it rusts....",
+      "Easy to use, clean, to store! Appreciate it having the side handle to counteract the weight, but wish it weren\u2019t quite so heavy."
+     ],
+     "summary": "Customers find the cast iron skillet easy to clean, with multiple customers noting it washes well, and one mentioning it's simple to strip and reseason."
+    },
+    {
+     "mentions": 810,
+     "name": "size",
+     "negative": 85,
+     "positive": 725,
+     "quotes": [
+      "Great for cooking just about anything. Perfect size for a first timer using cast iron. Use this pan more than any of my other cast iron pans",
+      "Great size for my family of four. Will be investing in a 12+ inch skillet soon for larger meals.",
+      "It is a good size (Goldilocks size: not too big, not too small), and does cook much more uniformly than my other cookware....",
+      "My wife wanted a cast iron skillet so I got her this one. She loves it and has cooked with it a dozen times in the past few weeks."
+     ],
+     "summary": "Customers love the size of the skillet, finding it perfect for individual baked pasta dishes, two people, and making eggs."
+    },
+    {
+     "mentions": 870,
+     "name": "non-stick",
+     "negative": 405,
+     "positive": 465,
+     "quotes": [
+      "If used properly this will be non-stick. Without all the harsh chemicals and risk of disturbing a non-stick coating....",
+      "Cooking on it is a nightmare. Everything sticks \u2014 eggs, steak, burgers \u2014 no matter how well I prep the surface....",
+      "Its been a great experience with my 10.25 inch Lodge so far. No sticking for me, especially because I use low heat. Easy to clean....",
+      "Complete waist of money. Pan was not seasoned as advertised. Everything sticks to it. Going to buy a Teflon pan."
+     ],
+     "summary": "Customers have mixed experiences with the pan's non-stick surface, with some finding it nicely non-stick while others report that food sticks to it."
+    }
+   ],
+   "stars": {
+    "1": 3,
+    "2": 1,
+    "3": 3,
+    "4": 11,
+    "5": 82
+   }
+  },
+  "B00G2XGC88": {
+   "features": [],
+   "stars": {
+    "1": 2,
+    "2": 1,
+    "3": 2,
+    "4": 9,
+    "5": 86
+   }
+  }
+ },
+ "fetch_log": [
+  {
+   "asin": "B00063RWT8",
+   "status": "fetched",
+   "n_features": 0,
+   "ms": 1813
+  },
+  {
+   "asin": "B072J28YP1",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 1964
+  },
+  {
+   "asin": "B0GK34FJ7R",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 2126
+  },
+  {
+   "asin": "B00006JSUA",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 1951
+  },
+  {
+   "asin": "B00G2XGC88",
+   "status": "fetched",
+   "n_features": 0,
+   "ms": 1966
+  }
+ ],
+ "result": {
+  "best_value": {
+   "advertised": false,
+   "asin": "B072J28YP1",
+   "badges": [],
+   "bought_past_month": "500+",
+   "n_ratings": 22947,
+   "organic_rank": 3,
+   "position": 6,
+   "price": 17.9,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Lodge Pre-Seasoned Cast Iron Dual Handle Pan, PFAS-Free, 8 Inches",
+   "features": [
+    {
+     "mentions": 2026,
+     "name": "quality",
+     "negative": 94,
+     "positive": 1932,
+     "quotes": [
+      "This is a huge pan - and it is very heavy. I love it for cooking a huge breakfast for friends - scrambled eggs with bacon and veggies....",
+      "It's a great pan. I have a cabin where I invite guests up and this is going to fry 4 pounds of bacon for breakfast without a problem.",
+      "Five Stars",
+      "Great product, perfect size for all my needs. The pan has been used 3-4 times a week for frying and at least once a week for steaks and burgers...."
+     ],
+     "summary": "Customers find this cast iron skillet to be fantastic and recommend it, with one customer specifically mentioning their love for Lodge products."
+    },
+    {
+     "mentions": 880,
+     "name": "size",
+     "negative": 132,
+     "positive": 748,
+     "quotes": [
+      "This was the perfect size for my smaller acorn grill - fits perfect since there are no handles to get in the way....",
+      "I mostly make deep dish pizza in this skillet because it is huge, very deep and the pizza comes out great....",
+      "Great for cooking breakfast casserole's and great size for when all the grand kids come over and want cheeseburgers !",
+      "The skillet is large, heavy and is fantastic. Like most modern skillets it isn't smooth like the ones made \"back in the day\"...."
+     ],
+     "summary": "Customers love the large size of the pan, which can accommodate a double-sized pork loin and plenty of vegetables, making it perfect for sukiyaki."
+    },
+    {
+     "mentions": 489,
+     "name": "versatility",
+     "negative": 12,
+     "positive": 477,
+     "quotes": [
+      "I am a cast iron lover from way back and this skillet is almost as versatile as my CI pizza pan. Use it for multi kitchen and oven jobs....",
+      "Very versatile! Excellent price for such a large pan and it\u2019s a Lodge. Nice with small handles. It fits perfectly in my oven.",
+      "Purchased for use with my portable stove, but love it for it\u2019s versatility and longevity!",
+      "This is a excellent product and so versatile.. I use this on my stove top to start a dish then put straight in the oven...."
+     ],
+     "summary": "Customers find the pan versatile, with one mentioning it works well as a roasting pan and casserole, while another notes it's perfect for baking nachos and pizza in the oven."
+    },
+    {
+     "mentions": 426,
+     "name": "cooking performance",
+     "negative": 8,
+     "positive": 418,
+     "quotes": [
+      "It balances perfectly on top of the stove. Cooks well and cleans easily. On my last five day camping trip I used it to cook every meal.",
+      "Nice heavyweight pan and cooks great but rust extremely fast of not babied. Be prepared to do a fair amount of maintenance after each use....",
+      "We have been using it regularly. It cooks beautifully, the food definitely tastes better than non-stick pans....",
+      "Great for pizza, smash burgers, pancakes, or anything that you need a large cooking surface for."
+     ],
+     "summary": "Customers praise the pan's cooking performance, particularly for fry bread, pork chops, and steaks, as well as making fajitas and roasting vegetables."
+    },
+    {
+     "mentions": 424,
+     "name": "value for money",
+     "negative": 29,
+     "positive": 395,
+     "quotes": [
+      "I BOUGHT THIS TO ADD TO MY LODGE COLLECTION. GREAT PRICE & PERFECT SIZE. OTHER BRANDS OF CAST IRON COOKWARE RUST EASILY.",
+      "Gives a homemade old fashioned fell. Great value",
+      "This was definitely a great buy. I've used this pan for baking, browning steaks, sauteing veggies, and frying eggs....",
+      "Great quality and a good price. I use it with a medium big green egg for outdoor grilling and it fits perfectly with the lid closed."
+     ],
+     "summary": "Customers find the cast iron pan to be worth its price, particularly noting that it offers Lodge quality at a reasonable cost."
+    },
+    {
+     "mentions": 367,
+     "name": "ease of cleaning",
+     "negative": 48,
+     "positive": 319,
+     "quotes": [
+      "heats up easily and holds heat very well. easy to clean , great for sausage and hamburgers . only drawback is it is awkward to get gravy out .",
+      "It is pre-seasoned, smooth, clean, heavy and well built as a cast iron pan should be, and so large it covers two burners (half the stove top)....",
+      "It balances perfectly on top of the stove. Cooks well and cleans easily. On my last five day camping trip I used it to cook every meal.",
+      "The size is great for a family of three. It is super easy to clean with hot water and a chain mail scrubber...."
+     ],
+     "summary": "Customers find the pan easy to clean, particularly noting that it makes removing eggs from cast iron surfaces simple."
+    },
+    {
+     "mentions": 349,
+     "name": "functionality",
+     "negative": 11,
+     "positive": 338,
+     "quotes": [
+      "Works great, heat evenly distributed, makes great fajitas, El Pastor. Also can fry 6 corn tortillas at once for crunchy tacos",
+      "It works great! Once you know how to season and take care of cast iron, this material is the best! Doesn't stick at all!...",
+      "Perfect size, cooks food beautifully, easy to clean and just what I needed. I love to cook filet mignon in it, comes out perfect every time....",
+      "Otherwise, this was bought specifically for making pizza and it works perfectly, but takes some time to heat up...."
+     ],
+     "summary": "Customers find that the pan functions well, working great as a skillet and in the oven, and is particularly effective when used as a griddle on the grill."
+    },
+    {
+     "mentions": 348,
+     "name": "handles",
+     "negative": 20,
+     "positive": 328,
+     "quotes": [
+      "Love the handles. Season with flax oil and it becomes extremely nonstick. Perfect for one person. Cooks half a chicken perfect.",
+      "I love the large size and the double handles, perfect for frying chicken to homemade pizza.",
+      "Great even cooking, easy clean with green pad. Love the double handles, so much easier to use, specially when using to make cornbread in the oven.",
+      "I think the 12\u201d skillet is the perfect size, and I like the dual handles because it doesn\u2019t take up as much space...."
+     ],
+     "summary": "Customers appreciate the pan's dual handles on each side, which make it manageable and easier to pick up."
+    }
+   ],
+   "complaints": [],
+   "neg_share": 0.067,
+   "low_star_pct": 5,
+   "fair_rating": 4.798,
+   "why": "Best fair rating among well-reviewed products (4.80\u2605), $11.84 under the median price. No major complaints across 8 review features.",
+   "warn": null,
+   "risk": [],
+   "ad": false,
+   "unchecked": false
+  },
+  "best_price": {
+   "advertised": false,
+   "asin": "B00063RWT8",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 12720,
+   "organic_rank": 4,
+   "position": 7,
+   "price": 12.9,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Lodge Pre-Seasoned Cast Iron Skillet, PFAS-Free, 6.5 Inches",
+   "features": [],
+   "complaints": [],
+   "neg_share": null,
+   "low_star_pct": 11,
+   "fair_rating": 4.6,
+   "warn": null,
+   "risk": [],
+   "ad": false,
+   "unchecked": false
+  },
+  "amazon_pick": {
+   "advertised": true,
+   "asin": "B00008GKDG",
+   "badges": [
+    "Overall Pick"
+   ],
+   "bought_past_month": "2K+",
+   "n_ratings": 13961,
+   "organic_rank": 1,
+   "position": 4,
+   "price": 17.9,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Lodge Pre-Seasoned Cast Iron Skillet, PFAS-Free, 8 Inches",
+   "fair_rating": 4.6,
+   "warn": null,
+   "risk": [],
+   "ad": true,
+   "unchecked": false,
+   "pick_reason": "badge"
+  },
+  "stats": {
+   "items": 52,
+   "avg_rating": 4.49,
+   "median_price": 29.744999999999997,
+   "ads": 12
+  }
+ }
+}

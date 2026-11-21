@@ -1,6 +1,7 @@
 .venv/
 __pycache__/
-data/
+data/*
+!data/bench/
 .env
 .DS_Store
 *.xlsx

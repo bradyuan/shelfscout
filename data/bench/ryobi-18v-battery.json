@@ -1,0 +1,1178 @@
+{
+ "query": "ryobi 18v battery",
+ "pattern": "compatibility",
+ "key_terms": [
+  "ryobi",
+  "18v|18 v|18-volt|18 volt"
+ ],
+ "url": "https://www.amazon.com/s?k=ryobi+18v+battery",
+ "frozen_at": "2026-11-21 17:44",
+ "cards": [
+  {
+   "advertised": false,
+   "asin": "B0H86WNDVD",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "300+",
+   "n_ratings": 2549,
+   "organic_rank": 1,
+   "position": 5,
+   "price": 40.83,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "2PACK 8.0Ah Battery Replacement for Ryobi 18V Battery"
+  },
+  {
+   "advertised": false,
+   "asin": "B09HBKJHBV",
+   "badges": [],
+   "bought_past_month": "2K+",
+   "n_ratings": 1661,
+   "organic_rank": 2,
+   "position": 6,
+   "price": 52,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Ryobi One+ 18v Lithium Ion 2.0ah Battery and Charger Kit, Extreme Weather Performance Fast Charging Under 1 hour"
+  },
+  {
+   "advertised": false,
+   "asin": "B0H1VT5QBW",
+   "badges": [],
+   "bought_past_month": "600+",
+   "n_ratings": 199,
+   "organic_rank": 3,
+   "position": 7,
+   "price": 37.99,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "2Pack Upgrade 90000mWh High Capacity Replacement for Ryobi 18V Battery \uff0cCompatible with Ryobi 18V ONE+ System Cordless Power Tools and Charger"
+  },
+  {
+   "advertised": false,
+   "asin": "B09G1WD2CG",
+   "badges": [],
+   "bought_past_month": "500+",
+   "n_ratings": 5981,
+   "organic_rank": 4,
+   "position": 8,
+   "price": 61.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "RYOBI ONE+ 18V Lithium-Ion 4.0 Ah Rechargeable Battery, ABS Plastic, Up to 3X Runtime vs 1.5Ah, LED Fuel Gauge, Black, PBP005"
+  },
+  {
+   "advertised": false,
+   "asin": "B0HHMS3J6P",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "1K+",
+   "n_ratings": 401,
+   "organic_rank": 5,
+   "position": 9,
+   "price": 40.79,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "2 Pack Upgrade 8000mAh High Capacity P108 Replacement for Ryobi 18V Battery Global Recycled Standard"
+  },
+  {
+   "advertised": false,
+   "asin": "B0HHWML2G5",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "400+",
+   "n_ratings": 656,
+   "organic_rank": 6,
+   "position": 10,
+   "price": 28.2,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "2Pack 18V 3600mAh P108 P102 Battery Replacement for Ryobi 18V Battery"
+  },
+  {
+   "advertised": false,
+   "asin": "B0H8RTJJX5",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "1K+",
+   "n_ratings": 2194,
+   "organic_rank": 7,
+   "position": 15,
+   "price": 40.79,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "2 Pack 8.0Ah Replacement for Ryobi 18V Battery, High Output Battery Pack Global Recycled Standard"
+  },
+  {
+   "advertised": false,
+   "asin": "B0HDCLYJ2P",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "400+",
+   "n_ratings": 656,
+   "organic_rank": 8,
+   "position": 16,
+   "price": 40.79,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "2Pack 18V 8000mAh P108 Battery Replacement for Ryobi 18V Battery Lithium"
+  },
+  {
+   "advertised": false,
+   "asin": "B09HDZ5MPV",
+   "badges": [],
+   "bought_past_month": "500+",
+   "n_ratings": 1505,
+   "organic_rank": 9,
+   "position": 17,
+   "price": 54.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "TTI Ryobi PBP004 ONE+ High Performance 18 Volts Lithium-Ion 4.0 Ah Battery"
+  },
+  {
+   "advertised": false,
+   "asin": "B07RNMR33J",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 128,
+   "organic_rank": 10,
+   "position": 18,
+   "price": 127,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "RYOBI P129 18V ONE+ High Capacity 4.0 Ah Battery (2-Pack)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0FWRNZML3",
+   "badges": [],
+   "bought_past_month": "300+",
+   "n_ratings": 916,
+   "organic_rank": 11,
+   "position": 23,
+   "price": 89.99,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "4 Pack High Capacity Replacement for Ryobi 18v Battery P108 P104 P105 P102 P103 P122 P109 Li-ION Compatible with Ryobi 18V ONE+ System Cordless Power Tools and Charger"
+  },
+  {
+   "advertised": false,
+   "asin": "B07J5WJF1C",
+   "badges": [],
+   "bought_past_month": "400+",
+   "n_ratings": 2869,
+   "organic_rank": 12,
+   "position": 24,
+   "price": 126,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "RYOBI 18-Volt ONE+ Lithium-Ion 4.0 Ah High Capacity Battery (2-Pack)"
+  },
+  {
+   "advertised": true,
+   "asin": "B0DBHDXZXT",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 1304,
+   "organic_rank": 13,
+   "position": 25,
+   "price": 29.99,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "2-Pack 3.0Ah Replacement Batteries for Ryobi 18V Tools \u2013 Extended Power and Reliability"
+  },
+  {
+   "advertised": false,
+   "asin": "B095NP9LWL",
+   "badges": [],
+   "bought_past_month": "200+",
+   "n_ratings": 2897,
+   "organic_rank": 14,
+   "position": 26,
+   "price": 136,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "ONE+ 18V Lithium-Ion 4.0 Ah Battery (2-Pack) and Charger Kit, 1 (PSK006)"
+  },
+  {
+   "advertised": false,
+   "asin": "B09QRL49JY",
+   "badges": [],
+   "bought_past_month": "200+",
+   "n_ratings": 274,
+   "organic_rank": 15,
+   "position": 27,
+   "price": 70,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "RYOBI ONE+ 18V High Performance Lithium-Ion 2.0 Ah Compact Battery (2-Pack)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DF619FYF",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 38,
+   "organic_rank": 16,
+   "position": 28,
+   "price": 195.94,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "RYOBI ONE+ 18V High Performance Lithium-Ion 6.0 Ah Battery (2-Pack)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0HG8ZSXZG",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "500+",
+   "n_ratings": 237,
+   "organic_rank": 17,
+   "position": 29,
+   "price": 25.13,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "ONE+ 18V Lithium-Ion 3.0Ah Battery Replacement for Ryobi 18V Battery, 2Pack"
+  },
+  {
+   "advertised": false,
+   "asin": "B0HHF24G89",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": null,
+   "n_ratings": 60,
+   "organic_rank": 18,
+   "position": 30,
+   "price": 59.49,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "2Packs Upgraded 8.0Ah Replacement for Ryobi 18V Battery and Charger Combo Global Recycled Standard Recycled Claim Standard 100"
+  },
+  {
+   "advertised": false,
+   "asin": "B0HD68KBYP",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "600+",
+   "n_ratings": 1735,
+   "organic_rank": 19,
+   "position": 31,
+   "price": 40.37,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "2-Pack 8.0Ah Replacement for Ryobi 18V Battery ONE+ P108 P102"
+  },
+  {
+   "advertised": false,
+   "asin": "B0H8JB8JXY",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "200+",
+   "n_ratings": 38,
+   "organic_rank": 20,
+   "position": 32,
+   "price": 40.6,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "2 Packs P108 18 Volt Battery Replacement for Ryobi 18V Battery 8Ah(Green)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0H1S2BGF6",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 36,
+   "organic_rank": 21,
+   "position": 33,
+   "price": 88,
+   "rating": 4.9,
+   "sponsored": false,
+   "title": "RYOBI ONEAND 18V Lithium-ION Starter High Performance KIT with 2.0 AH Battery, 4.0 AH Battery, and Charger"
+  },
+  {
+   "advertised": false,
+   "asin": "B09MRLM1NS",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 990,
+   "organic_rank": 22,
+   "position": 34,
+   "price": 110,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "RYOBI ONEAND 18V Lithium-ION 4.0 AH Battery 2-Pack PBP2005"
+  },
+  {
+   "advertised": false,
+   "asin": "B0H4PWZS9P",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": null,
+   "n_ratings": 1105,
+   "organic_rank": 23,
+   "position": 35,
+   "price": 40.79,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "2-Pack 18V 8000mAh P108 Extended Runtime Replacement for Ryobi 18V Battery Global Recycled Standard"
+  },
+  {
+   "advertised": false,
+   "asin": "B0CHWV4789",
+   "badges": [],
+   "bought_past_month": "200+",
+   "n_ratings": 67,
+   "organic_rank": 24,
+   "position": 36,
+   "price": 37.36,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "RYOBI ONEAND 18V 2.0 AH Lithium-ION HIGH Performance Battery PBP003"
+  },
+  {
+   "advertised": false,
+   "asin": "B0GTVPCWP7",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "200+",
+   "n_ratings": 75,
+   "organic_rank": 25,
+   "position": 37,
+   "price": 24.64,
+   "rating": 4,
+   "sponsored": false,
+   "title": "Replacement for Ryobi 18V Battery: 18V 4.0Ah Lithium-ion Compatible with Ryobi P102 P103 P105 P107 P108 P109 P122 Cordless Power Tools 2 Pack"
+  },
+  {
+   "advertised": false,
+   "asin": "B0H4Q3BBC8",
+   "badges": [],
+   "bought_past_month": "200+",
+   "n_ratings": 401,
+   "organic_rank": 26,
+   "position": 38,
+   "price": 49.99,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "2-Pack 3600mAh P102 Replacement for Ryobi 18V Battery and P117 Charger Global Recycled Standard"
+  },
+  {
+   "advertised": false,
+   "asin": "B0H4Q3RCMV",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "400+",
+   "n_ratings": 401,
+   "organic_rank": 27,
+   "position": 39,
+   "price": 59.19,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "2- Pack 8000mAh P108 Replacement for Ryobi 18 Volt Battery and P117 Charger Global Recycled Standard"
+  },
+  {
+   "advertised": false,
+   "asin": "B0FRQT18JP",
+   "badges": [],
+   "bought_past_month": "600+",
+   "n_ratings": 916,
+   "organic_rank": 28,
+   "position": 40,
+   "price": 49.99,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "2 Packs High Capacity Replacement for Ryobi 18v Battery P108 P104 P105 P102 P103 P122 P109 Li-ION Compatible with Ryobi 18V ONE+ System Cordless Power Tools and Charger"
+  },
+  {
+   "advertised": false,
+   "asin": "B0H6F6WCNY",
+   "badges": [],
+   "bought_past_month": "300+",
+   "n_ratings": 229,
+   "organic_rank": 29,
+   "position": 41,
+   "price": 46.99,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "2Pack Upgraded 8.0Ah Replacement for Ryobi 18V Battery Compatible with"
+  },
+  {
+   "advertised": false,
+   "asin": "B0BFG4YJ1B",
+   "badges": [],
+   "bought_past_month": "200+",
+   "n_ratings": 1316,
+   "organic_rank": 30,
+   "position": 42,
+   "price": 44.98,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "RYOBI ONE+ 18V 2.0 Ah Lithium-Ion Battery (PBP006)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0GXXZ7N21",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "300+",
+   "n_ratings": 60,
+   "organic_rank": 31,
+   "position": 43,
+   "price": 15.97,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "Replacement for Ryobi 18V Battery 4.0Ah Lithium 1 Pack"
+  },
+  {
+   "advertised": false,
+   "asin": "B0HKZGLQY8",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "200+",
+   "n_ratings": 23,
+   "organic_rank": 32,
+   "position": 44,
+   "price": 17.59,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "4.0Ah Replacement for Ryobi 18V Battery 1Pack"
+  },
+  {
+   "advertised": false,
+   "asin": "B0B85RMS5N",
+   "badges": [],
+   "bought_past_month": "200+",
+   "n_ratings": 47,
+   "organic_rank": 33,
+   "position": 45,
+   "price": 71.88,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "RYOBI 18V ONE+ 4.0Ah Starter Kit - PCL104K1"
+  },
+  {
+   "advertised": false,
+   "asin": "B09BL9VXZX",
+   "badges": [],
+   "bought_past_month": "200+",
+   "n_ratings": 909,
+   "organic_rank": 34,
+   "position": 46,
+   "price": 36.89,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "RYOBI ONE+ 18V HIGH Performance Lithium-Ion Compact Battery PBP003"
+  },
+  {
+   "advertised": false,
+   "asin": "B07DBZDDPC",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 77,
+   "organic_rank": 35,
+   "position": 47,
+   "price": 103.89,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Ryobi P193 6.0 Amp Hour 18V Lithium Ion Battery w/ Onboard Fuel Gauge"
+  },
+  {
+   "advertised": false,
+   "asin": "B0HHNBGZD7",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "300+",
+   "n_ratings": 401,
+   "organic_rank": 36,
+   "position": 48,
+   "price": 30.99,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "2 Packs 18 Volt 4.0AH Replacement for Ryobi 18V Battery 4000mAh(Green) Global Recycled Standard"
+  },
+  {
+   "advertised": false,
+   "asin": "B085T9VFPT",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 735,
+   "organic_rank": 37,
+   "position": 49,
+   "price": 40.99,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "TenHutt \u3010Upgrade\u3011 2 Packs 6.0Ah Lithium Replacement Battery for Ryobi 18V ONE+ Cordless Power Tool P108(130429054) Compatible with P102 P103 P104 P105 P107 P108 Lithium Battery"
+  },
+  {
+   "advertised": false,
+   "asin": "B0CYXQHPJ9",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 56,
+   "organic_rank": 38,
+   "position": 50,
+   "price": 148.76,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "ONEAND 18V 8.0 AH Lithium-ION HIGH Performance Battery"
+  },
+  {
+   "advertised": false,
+   "asin": "B0HD6DCNCP",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "200+",
+   "n_ratings": 2549,
+   "organic_rank": 39,
+   "position": 51,
+   "price": 59.84,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "2Pack 8000mAh Replacement for Ryobi 18 Volt Battery and Charger Kit"
+  },
+  {
+   "advertised": false,
+   "asin": "B00CN2ZH8I",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 1857,
+   "organic_rank": 40,
+   "position": 52,
+   "price": 65,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "RYOBI P108 4AH One+ High Capacity Lithium Ion Battery For RYOBI Power Tools (Single Battery)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0HHF2X6XN",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "400+",
+   "n_ratings": 2194,
+   "organic_rank": 41,
+   "position": 53,
+   "price": 28.2,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "2 Pack 3600mAh P102 Replacement for Ryobi 18V Battery with LED Indicator Global Recycled Standard Recycled Claim Standard 100"
+  },
+  {
+   "advertised": false,
+   "asin": "B0HJ5BLNJV",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 28,
+   "organic_rank": 42,
+   "position": 54,
+   "price": 45.99,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "8Ah 18V P108 Replacement for Ryobi 18V Battery (2 Pack)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0HHHXNCL8",
+   "badges": [],
+   "bought_past_month": "400+",
+   "n_ratings": 426,
+   "organic_rank": 43,
+   "position": 55,
+   "price": 40.99,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "2 Packs Replacement for Ryobi P108 18V Battery 8ah(Green)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0BG5SPWVL",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 33,
+   "organic_rank": 44,
+   "position": 56,
+   "price": 64.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "RYOBI ONEAND 18V HIGH Performance Lithium-ION 2.0 AH Compact Battery 2-Pack PBP2003"
+  },
+  {
+   "advertised": false,
+   "asin": "B0CYGJJDVL",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "400+",
+   "n_ratings": 1675,
+   "organic_rank": 45,
+   "position": 57,
+   "price": 39.09,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "Powilling Upgraded 8.0Ah 2Packs P108 Compatible with Ryobi 18V Battery"
+  },
+  {
+   "advertised": false,
+   "asin": "B0GVSCHGG5",
+   "badges": [],
+   "bought_past_month": "300+",
+   "n_ratings": 1735,
+   "organic_rank": 46,
+   "position": 58,
+   "price": 39.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Upgraded 6000mAh Replacement for Ryobi 18V Battery Li-Ion Compatible with Ryobi 18 Volt Battery P102 P103 P104 P105 P106 P108 P107 P109 P122 ONE+ System Cordless Power Tools & Charger"
+  },
+  {
+   "advertised": false,
+   "asin": "B00HQXSW4K",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 952,
+   "organic_rank": 47,
+   "position": 59,
+   "price": 52.2,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "RYOBI P102 18V One+ Compact Lithium Ion Battery, 2 Pack"
+  },
+  {
+   "advertised": false,
+   "asin": "B0HHHX2VSF",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "100+",
+   "n_ratings": 426,
+   "organic_rank": 48,
+   "position": 60,
+   "price": 29.26,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "2 Packs 3600mAh Replacement for Ryobi P102 18V Battery(Green)"
+  },
+  {
+   "advertised": true,
+   "asin": "B0HHHYFH7X",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 2194,
+   "organic_rank": null,
+   "position": 1,
+   "price": 59.99,
+   "rating": 4.4,
+   "sponsored": true,
+   "title": "2 Pack 8.0Ah Long Runtime Replacement for Ryobi 18V Battery and Charger Kit Global Recycled Standard"
+  },
+  {
+   "advertised": true,
+   "asin": "B0HHDZVWZC",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": null,
+   "n_ratings": 60,
+   "organic_rank": null,
+   "position": 3,
+   "price": 49.99,
+   "rating": 4.8,
+   "sponsored": true,
+   "title": "2Packs Upgraded 3.6Ah Replacement for Ryobi 18V Battery and Charger Combo Global Recycled Standard"
+  },
+  {
+   "advertised": true,
+   "asin": "B0H9QV57WK",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 42,
+   "organic_rank": null,
+   "position": 4,
+   "price": 45.99,
+   "rating": 4.4,
+   "sponsored": true,
+   "title": "Upgraded 2 Pack 8.0Ah Replacement for Ryobi 18V Battery Compatible with Ryobi 18 Volt Lithium-Ion Battery P108 P104 P105 P102 P103 P122 P109 Cordless Power Tools"
+  },
+  {
+   "advertised": true,
+   "asin": "B0HFMJXH8G",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 18,
+   "organic_rank": null,
+   "position": 11,
+   "price": 49.99,
+   "rating": 4.9,
+   "sponsored": true,
+   "title": "2Packs 8000mAh P108 High-Capacity Replacement for Ryobi 18V Battery"
+  },
+  {
+   "advertised": true,
+   "asin": "B0HF4KWTFB",
+   "badges": [],
+   "bought_past_month": "200+",
+   "n_ratings": 44,
+   "organic_rank": null,
+   "position": 12,
+   "price": 45.99,
+   "rating": 4.5,
+   "sponsored": true,
+   "title": "Up to 8Ah Replacement for Ryobi 18V Battery, Compatible with Ryobi 18 Volt Battery Tools P102 P103 P104 P105 P107 P108 P109 P122 - High Capacity 2-Pack"
+  },
+  {
+   "advertised": true,
+   "asin": "B0FHD68ZJ6",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 44,
+   "organic_rank": null,
+   "position": 13,
+   "price": 69.99,
+   "rating": 4.4,
+   "sponsored": true,
+   "title": "18 Volt Battery Replacement for Ryobi 18V Battery and Charger Combo"
+  },
+  {
+   "advertised": true,
+   "asin": "B0GSQNX4CD",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 1,
+   "organic_rank": null,
+   "position": 14,
+   "price": 129.99,
+   "rating": 5,
+   "sponsored": true,
+   "title": "6Pcs 8.0Ah Replacement for Ryobi 18V Battery Compatible with 18V P102 P103 P104 P105 P107 P108 P109 P190 Cordless Tool (6Pcs 8.0Ah)"
+  },
+  {
+   "advertised": true,
+   "asin": "B0HFFRNB9Y",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 25,
+   "organic_rank": null,
+   "position": 19,
+   "price": 38.99,
+   "rating": 3.6,
+   "sponsored": true,
+   "title": "2 Packs 8A High Capacity Replacement for Ryobi 18v Battery"
+  },
+  {
+   "advertised": true,
+   "asin": "B0HKC3KFNH",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "100+",
+   "n_ratings": 13,
+   "organic_rank": null,
+   "position": 20,
+   "price": 38.07,
+   "rating": 4.3,
+   "sponsored": true,
+   "title": "2Pack 8.0Ah P108 Replacement for Ryobi 18V Battery Compatible with Ryobi ONE+ 18V Battery P102 P103 P104 P105 P107 P108 PBP002 PBP003 PBP004 PBP005 P190 P191 P192 P193 Cordless Power Tools"
+  },
+  {
+   "advertised": true,
+   "asin": "B0HP9J33SB",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": null,
+   "n_ratings": null,
+   "organic_rank": null,
+   "position": 21,
+   "price": 39.99,
+   "rating": null,
+   "sponsored": true,
+   "title": "High Capacity 8.0Ah Upgrade Compatible with Ryobi 18V Battery Replacement 18 Volt Battery P102 P108 P103 P104 P105 P107 P109 P122 Cordless Power Battery Tools(2)"
+  },
+  {
+   "advertised": true,
+   "asin": "B0FK5FG2KJ",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 36,
+   "organic_rank": null,
+   "position": 22,
+   "price": 32.39,
+   "rating": 3.5,
+   "sponsored": true,
+   "title": "2Packs 7.0Ah Replacement for Ryobi 18v Battery P108 Lithiun-Ion"
+  }
+ ],
+ "features": {
+  "B0GXXZ7N21": {
+   "features": [],
+   "stars": {
+    "1": 8,
+    "2": 5,
+    "3": 7,
+    "4": 9,
+    "5": 71
+   }
+  },
+  "B0HHWML2G5": {
+   "features": [],
+   "stars": {
+    "1": 6,
+    "2": 2,
+    "3": 5,
+    "4": 10,
+    "5": 77
+   }
+  },
+  "B09BL9VXZX": {
+   "features": [
+    {
+     "mentions": 87,
+     "name": "battery quality",
+     "negative": 12,
+     "positive": 75,
+     "quotes": [
+      "Great battery at a low price. Works with all ryobi 18 volt tools even the blue ones",
+      "Excellent",
+      "Good battery, just don\u2019t leave it out in the rain, I\u2019ve ruined several of them.",
+      "I highly recommend the high performance Ryobi battery versus the smaller performing battery. It\u2019s well worth a few bucks more...."
+     ],
+     "summary": "Customers are satisfied with the battery quality, describing it as excellent and just as advertised."
+    },
+    {
+     "mentions": 60,
+     "name": "functionality",
+     "negative": 5,
+     "positive": 55,
+     "quotes": [
+      "of mine wouldn't charge after this winter so I ordered a couple and works great....",
+      "$89.00. Found this on Amazon for MUCH LESS. Got it, charged it, works perfectly so far. If anything changes I\u2019ll update my review....",
+      "It works and I used it for all my ryobi tools",
+      "Nit original ryobi packaged. Brown box but battery charges and works. No complaints"
+     ],
+     "summary": "Customers are satisfied with the battery's functionality, with one customer noting significant improvements in running time and performance."
+    },
+    {
+     "mentions": 45,
+     "name": "value for money",
+     "negative": 7,
+     "positive": 38,
+     "quotes": [
+      "Usually order on ryobi days at home depot but this was a great price and didn't have to wait for the normal sale",
+      "Reliable as advertised. Good price. I am happy with m y purchase.",
+      "Great value for replacement battery for my Ryobi tools....",
+      "Great buy"
+     ],
+     "summary": "Customers find the battery to be a good value."
+    },
+    {
+     "mentions": 15,
+     "name": "versatility",
+     "negative": 0,
+     "positive": 15,
+     "quotes": [
+      "Exactly what I needed for my RYOBI power tools.",
+      "I was not disappointed. This smaller, lighter battery was able to run the circular saw and as good as the higher output batteries. Good job Ryobi....",
+      "The LED gauge is handy, and it's ideal for high-draw tools. Slightly more expensive, but worth it if you need consistent power.",
+      "Fit my charger, charges fast and more power than the one I had. A plus all around."
+     ],
+     "summary": "Customers find the battery versatile, with one mentioning it works well with several tools, while another notes it's ideal for high-draw tools and lighting."
+    },
+    {
+     "mentions": 11,
+     "name": "weight",
+     "negative": 2,
+     "positive": 9,
+     "quotes": [
+      "Shows its charge level at the press of a button. Light and long-lasting.",
+      "Battery is small and lightweight on a portable drill my wife uses for household tasks....",
+      "I was not disappointed. This smaller, lighter battery was able to run the circular saw and as good as the higher output batteries. Good job Ryobi....",
+      "Perfect replacement for OEM battery. Keeps weight of the impact drill to a minimum."
+     ],
+     "summary": "Customers appreciate that the battery is light, with one mentioning it keeps the impact drill's weight to a minimum."
+    },
+    {
+     "mentions": 9,
+     "name": "power",
+     "negative": 1,
+     "positive": 8,
+     "quotes": [
+      "It has more power than the original that came with my leaf blower.",
+      "This is the battery that fuels my tools. The one from this company was half the price that my neighborhood hardware store was asking....",
+      "Fit my charger, charges fast and more power than the one I had. A plus all around.",
+      "Slightly more expensive, but worth it if you need consistent power."
+     ],
+     "summary": "Customers appreciate the battery's power, describing it as very powerful, with one customer noting its consistent performance."
+    },
+    {
+     "mentions": 82,
+     "name": "battery life",
+     "negative": 35,
+     "positive": 47,
+     "quotes": [
+      "Fit my charger, charges fast and more power than the one I had. A plus all around.",
+      "Short battery life",
+      "I'm glad I did. Quick to charge and lasts a long time for my application with a skill saw, reciprocating saw and drill. Happy with it.",
+      "Junk, bought 2, 1 will not accept a charge, the second one does not hold a charge very long."
+     ],
+     "summary": "Customers have mixed experiences with the battery life, with some reporting longer runtime and good performance over time, while others mention it only lasts about 5 minutes and won't fully charge."
+    }
+   ],
+   "stars": {
+    "1": 6,
+    "2": 2,
+    "3": 3,
+    "4": 8,
+    "5": 81
+   }
+  },
+  "B0GVSCHGG5": {
+   "features": [],
+   "stars": {
+    "1": 4,
+    "2": 2,
+    "3": 4,
+    "4": 12,
+    "5": 78
+   }
+  },
+  "B09G1WD2CG": {
+   "features": [
+    {
+     "mentions": 242,
+     "name": "functionality",
+     "negative": 26,
+     "positive": 216,
+     "quotes": [
+      "Works great. I bought this because my smaller batteries weren't working with the Ryobi brad nailer and this did the job just fine....",
+      "It works well and fits perfectly in all of my 18v Ryobi tools....",
+      "Works but the battery life sucks especially when cutting long grass or a lengthy backyard. Only lasts like 20 minutes.",
+      "I like this electric battery for my lawn mower because it works, no fussing and disappointment from me!"
+     ],
+     "summary": "Customers report that the battery works well, particularly with Ryobi weed eaters, and one customer mentions it performs perfectly with the charger."
+    },
+    {
+     "mentions": 207,
+     "name": "quality",
+     "negative": 40,
+     "positive": 167,
+     "quotes": [
+      "Works like It should. Perfect",
+      "Great. Does what it is supposed to do. 6-8 hrs",
+      "Cheaper than store great product",
+      "Good"
+     ],
+     "summary": "Customers find the battery's quality excellent and say it exceeded their expectations, with one mentioning they would recommend it to others."
+    },
+    {
+     "mentions": 162,
+     "name": "value for money",
+     "negative": 24,
+     "positive": 138,
+     "quotes": [
+      "OEM, lasts better than the fake ones and a great price!",
+      "Good price for replacement battery, works well with devise but it is hard to install and remove.",
+      "Easy installation and charging and most important great value.",
+      "A bit pricey but worth the money. I have gotten many years use of the brand name products."
+     ],
+     "summary": "Customers find the battery to be a great value for the money, with one customer specifically noting its extended service time."
+    },
+    {
+     "mentions": 46,
+     "name": "accuracy",
+     "negative": 6,
+     "positive": 40,
+     "quotes": [
+      "This is a great replacement battery. Much cheaper than Lowe\u2019s or Home Depot. Holds charge just as original did and recharges in same time frame.",
+      "This came in a sealed factory blister pack and is a genuine Ryobi battery. Holds a solid charge and gives an indication of charge status....",
+      "So far it seems to be the real deal. Ran it for several hours on a drill and a blower before I had to charge....",
+      "OEM battery to add to my set of Ryobi tools. Long life and fast charge."
+     ],
+     "summary": "Customers find the battery to be genuine and well-made, with one customer noting it performs better than aftermarket alternatives."
+    },
+    {
+     "mentions": 41,
+     "name": "power",
+     "negative": 1,
+     "positive": 40,
+     "quotes": [
+      "Exactly the same Ryobi battery sold in stores. Powerful, charges well, and does the job.",
+      "Great addition to my ryobi tools. Good power.",
+      "This battery is longer lasting than the original battery and has a bit more juice since my chainsaw now cuts faster.",
+      "Lasts way longer than a standard Robin battery, gas powered is still stronger but its great for being electric on my string trimmer"
+     ],
+     "summary": "Customers appreciate the battery's power, noting a noticeable increase and reliable performance. One customer mentions it provides enough power for about 50-60 nails."
+    },
+    {
+     "mentions": 31,
+     "name": "fit",
+     "negative": 3,
+     "positive": 28,
+     "quotes": [
+      "Ryobi quality just top of the line. Perfect fit and well-made.",
+      "Delivered quickly and it fit. Plus it was a good price.",
+      "Triple the size of the battery that started my Ryobi collection. It goes all day and recharges at night. Highly recommended.",
+      "I love my RYOBI battery-operated lawnmower. This battery fits it exactly. And for half the price of a local retailer."
+     ],
+     "summary": "Customers are satisfied with how the battery fits, noting it works with all their equipment, and one customer mentions it accommodates both the charger and tools perfectly."
+    },
+    {
+     "mentions": 334,
+     "name": "battery life",
+     "negative": 140,
+     "positive": 194,
+     "quotes": [
+      "Good battery with a better price. Appears to be genuine\u2026 charges fine on a Ryobi charger and works on my tools. All good.",
+      "This battery won\u2019t charge with my older. P110 Ryobi charger. Do lithium batteries not work in this charger?...",
+      "This is a great battery, a real improvement over their earlier model. Highly recommend.",
+      "In less than one year, the battery failed and will not charge. Ryobi says it has a 3 year warranty...."
+     ],
+     "summary": "Customers have mixed experiences with the battery life: while some report it lasts days on power tools and performs as expected, others mention it stops charging after less than a year or doesn't hold a charge at all."
+    },
+    {
+     "mentions": 119,
+     "name": "durability",
+     "negative": 47,
+     "positive": 72,
+     "quotes": [
+      "This RYOBI replacement battery is long lasting ad durable. I have replaced my 2.0 battery with this 4.0 Ah battery and it lasts twice as long!...",
+      "Would not buy again. Died within 4 months",
+      "Battery was as advertised, not only lasts longer but seems to have more power for my small Ryobi blower",
+      "This is cheaper than home depot and it lasts a long time"
+     ],
+     "summary": "Customers have mixed experiences with the battery's durability, with some finding it dependable and lasting long, while others report it dying fast and only lasting 15 minutes on a full charge."
+    }
+   ],
+   "stars": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 10,
+    "5": 83
+   }
+  }
+ },
+ "fetch_log": [
+  {
+   "asin": "B0GXXZ7N21",
+   "status": "fetched",
+   "n_features": 0,
+   "ms": 1846
+  },
+  {
+   "asin": "B0HHWML2G5",
+   "status": "fetched",
+   "n_features": 0,
+   "ms": 1686
+  },
+  {
+   "asin": "B09BL9VXZX",
+   "status": "fetched",
+   "n_features": 7,
+   "ms": 1948
+  },
+  {
+   "asin": "B0GVSCHGG5",
+   "status": "fetched",
+   "n_features": 0,
+   "ms": 1739
+  },
+  {
+   "asin": "B09G1WD2CG",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 1961
+  }
+ ],
+ "result": {
+  "best_value": {
+   "advertised": false,
+   "asin": "B0GVSCHGG5",
+   "badges": [],
+   "bought_past_month": "300+",
+   "n_ratings": 1735,
+   "organic_rank": 46,
+   "position": 58,
+   "price": 39.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Upgraded 6000mAh Replacement for Ryobi 18V Battery Li-Ion Compatible with Ryobi 18 Volt Battery P102 P103 P104 P105 P106 P108 P107 P109 P122 ONE+ System Cordless Power Tools & Charger",
+   "features": [],
+   "complaints": [],
+   "neg_share": null,
+   "low_star_pct": 10,
+   "fair_rating": 4.589,
+   "why": "4.59\u2605 fair rating vs 4.69\u2605 for the top-rated, for $86.01 less, $6.00 under the median price. No major complaints across 0 review features.",
+   "warn": null,
+   "risk": [],
+   "ad": false,
+   "unchecked": false
+  },
+  "best_price": {
+   "advertised": false,
+   "asin": "B0GXXZ7N21",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "300+",
+   "n_ratings": 60,
+   "organic_rank": 31,
+   "position": 43,
+   "price": 15.97,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "Replacement for Ryobi 18V Battery 4.0Ah Lithium 1 Pack",
+   "features": [],
+   "complaints": [],
+   "neg_share": null,
+   "low_star_pct": 20,
+   "fair_rating": 4.448,
+   "warn": null,
+   "risk": [],
+   "ad": false,
+   "unchecked": false
+  },
+  "amazon_pick": {
+   "advertised": true,
+   "asin": "B0HHHYFH7X",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 2194,
+   "organic_rank": null,
+   "position": 1,
+   "price": 59.99,
+   "rating": 4.4,
+   "sponsored": true,
+   "title": "2 Pack 8.0Ah Long Runtime Replacement for Ryobi 18V Battery and Charger Kit Global Recycled Standard",
+   "fair_rating": 4.408,
+   "warn": "ad",
+   "risk": [],
+   "ad": true,
+   "unchecked": false,
+   "pick_reason": "shown first"
+  },
+  "stats": {
+   "items": 59,
+   "avg_rating": 4.47,
+   "median_price": 45.99,
+   "ads": 12
+  }
+ }
+}

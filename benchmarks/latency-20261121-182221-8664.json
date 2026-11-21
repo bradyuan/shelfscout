@@ -1,0 +1,2642 @@
+{
+ "run_id": "20261121-182221-8664",
+ "notes": "gemini:gemini-3.8-flash \u00b7 29 searches \u00d7 up to 5 products = 145 checks per mode",
+ "sequential": {
+  "mode": "sequential",
+  "products": 145,
+  "wall_s": 1155.6,
+  "throughput_per_s": 0.13,
+  "p50_ms": 5433,
+  "p95_ms": 20374,
+  "mean_ms": 7916,
+  "backoffs": 0,
+  "errors": 0,
+  "fallbacks": 1
+ },
+ "concurrent": {
+  "mode": "concurrent",
+  "products": 145,
+  "wall_s": 71.8,
+  "throughput_per_s": 2.02,
+  "p50_ms": 6860,
+  "p95_ms": 22693,
+  "mean_ms": 8840,
+  "backoffs": 0,
+  "errors": 0,
+  "fallbacks": 3
+ },
+ "speedup": 16.1,
+ "same_verdict": "141/145",
+ "rows": [
+  {
+   "mode": "sequential",
+   "search": "teardrop tattoo",
+   "asin": "B0FF42CPQ4",
+   "ms": 8546,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "teardrop tattoo",
+   "asin": "B0FM7MHXDJ",
+   "ms": 9453,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "teardrop tattoo",
+   "asin": "B0HBJG37NJ",
+   "ms": 8485,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "teardrop tattoo",
+   "asin": "B09DCMQFR7",
+   "ms": 7100,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "teardrop tattoo",
+   "asin": "B09BZ285VF",
+   "ms": 6143,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "sugar free gummy bears",
+   "asin": "B00DR8JO0Y",
+   "ms": 2891,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "sugar free gummy bears",
+   "asin": "B0CLSJD6DT",
+   "ms": 5238,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "sugar free gummy bears",
+   "asin": "B0G1VFHJJH",
+   "ms": 2951,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "sugar free gummy bears",
+   "asin": "B01E9Z3H60",
+   "ms": 7375,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "sugar free gummy bears",
+   "asin": "B00OYPFC46",
+   "ms": 10535,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "10 ft usb c to lightning cable",
+   "asin": "B0F179YXT1",
+   "ms": 2869,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "10 ft usb c to lightning cable",
+   "asin": "B09YRPW3DL",
+   "ms": 5216,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "10 ft usb c to lightning cable",
+   "asin": "B0BZHQLR4Q",
+   "ms": 2537,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "10 ft usb c to lightning cable",
+   "asin": "B0G1XSY4BJ",
+   "ms": 2583,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "10 ft usb c to lightning cable",
+   "asin": "B09DK1HPHK",
+   "ms": 5432,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "8 inch cast iron skillet",
+   "asin": "B00063RWT8",
+   "ms": 4126,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "8 inch cast iron skillet",
+   "asin": "B072J28YP1",
+   "ms": 8044,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "8 inch cast iron skillet",
+   "asin": "B0GK34FJ7R",
+   "ms": 3175,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "8 inch cast iron skillet",
+   "asin": "B00006JSUA",
+   "ms": 4456,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "8 inch cast iron skillet",
+   "asin": "B00G2XGC88",
+   "ms": 2217,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "airpods pro 2 ear tips",
+   "asin": "B0FHBB1MN4",
+   "ms": 4007,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "airpods pro 2 ear tips",
+   "asin": "B0BHZBSWRX",
+   "ms": 5837,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "airpods pro 2 ear tips",
+   "asin": "B0G4M8935M",
+   "ms": 3182,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "airpods pro 2 ear tips",
+   "asin": "B0DFWRY3KQ",
+   "ms": 3212,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "airpods pro 2 ear tips",
+   "asin": "B0DFWS2XDW",
+   "ms": 4760,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "apple slicer",
+   "asin": "B0BVTLFXKM",
+   "ms": 4705,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "apple slicer",
+   "asin": "B0CXZRPB8C",
+   "ms": 3904,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "apple slicer",
+   "asin": "B08M5LT97G",
+   "ms": 5120,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "apple slicer",
+   "asin": "B0FK4FN9NT",
+   "ms": 2739,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "apple slicer",
+   "asin": "B0CJ3F3FFS",
+   "ms": 3272,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "caffeine free tea bags",
+   "asin": "B07X3LPXYB",
+   "ms": 8519,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "caffeine free tea bags",
+   "asin": "B001AG67P0",
+   "ms": 3191,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "caffeine free tea bags",
+   "asin": "B0D61M6W6Z",
+   "ms": 14834,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "caffeine free tea bags",
+   "asin": "B00B77XTA8",
+   "ms": 4606,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "caffeine free tea bags",
+   "asin": "B000E65OF6",
+   "ms": 3174,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "dairy free protein powder",
+   "asin": "B00K0FTJ1Q",
+   "ms": 14106,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "dairy free protein powder",
+   "asin": "B01COARRFE",
+   "ms": 6195,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "dairy free protein powder",
+   "asin": "B0178ENI4K",
+   "ms": 2655,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "dairy free protein powder",
+   "asin": "B0CW8KB98Y",
+   "ms": 7964,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "dairy free protein powder",
+   "asin": "B00XQ2XGAA",
+   "ms": 11681,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "dyson v8 battery",
+   "asin": "B0HF423RQ5",
+   "ms": 8253,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "dyson v8 battery",
+   "asin": "B0H6DV5M9S",
+   "ms": 3583,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "dyson v8 battery",
+   "asin": "B0HKJ91D7L",
+   "ms": 8232,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "dyson v8 battery",
+   "asin": "B0HGQ2G9WT",
+   "ms": 3130,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "dyson v8 battery",
+   "asin": "B0G2BL9GJS",
+   "ms": 5387,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "fake tattoo",
+   "asin": "B0CKTMC3QV",
+   "ms": 7088,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "fake tattoo",
+   "asin": "B0F6YCFVZ7",
+   "ms": 5579,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "fake tattoo",
+   "asin": "B0F1D6L9DP",
+   "ms": 8652,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "fake tattoo",
+   "asin": "B0F7LWBTFW",
+   "ms": 3585,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "fake tattoo",
+   "asin": "B0DHCW2BVT",
+   "ms": 5428,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "fragrance free shampoo",
+   "asin": "B00UOL93CG",
+   "ms": 14480,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "fragrance free shampoo",
+   "asin": "B00JF3S29Y",
+   "ms": 4908,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "fragrance free shampoo",
+   "asin": "B072QXWXS6",
+   "ms": 2882,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "fragrance free shampoo",
+   "asin": "B01NAFQIJ9",
+   "ms": 5393,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "fragrance free shampoo",
+   "asin": "B07NSBTZ22",
+   "ms": 5380,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "glass meal prep containers 3 compartment",
+   "asin": "B08DKMQFNG",
+   "ms": 11814,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "glass meal prep containers 3 compartment",
+   "asin": "B01LVWMNXH",
+   "ms": 10396,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "glass meal prep containers 3 compartment",
+   "asin": "B08WR1P45C",
+   "ms": 4544,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "glass meal prep containers 3 compartment",
+   "asin": "B07N2BPQC3",
+   "ms": 2666,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "glass meal prep containers 3 compartment",
+   "asin": "B08VFP2JDB",
+   "ms": 6463,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "gluten free pasta",
+   "asin": "B074H5ZHFH",
+   "ms": 15135,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "gluten free pasta",
+   "asin": "B000RUP0JE",
+   "ms": 9970,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "gluten free pasta",
+   "asin": "B00R0OAZDG",
+   "ms": 3381,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "gluten free pasta",
+   "asin": "B00EBE831Y",
+   "ms": 4908,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "gluten free pasta",
+   "asin": "B074H6G7GX",
+   "ms": 3967,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "iphone 15 pro case",
+   "asin": "B0F4N1N969",
+   "ms": 4810,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "iphone 15 pro case",
+   "asin": "B0CC1F5CGH",
+   "ms": 3166,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "iphone 15 pro case",
+   "asin": "B0C5S8ZN7Y",
+   "ms": 2663,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "iphone 15 pro case",
+   "asin": "B0C5S6W5S4",
+   "ms": 2633,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "iphone 15 pro case",
+   "asin": "B0CB5TJ96L",
+   "ms": 42225,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "kindle paperwhite 11th generation case",
+   "asin": "B0CR12SYKW",
+   "ms": 8319,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "kindle paperwhite 11th generation case",
+   "asin": "B0CNQVKYYP",
+   "ms": 5120,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "kindle paperwhite 11th generation case",
+   "asin": "B0BLTRKCNJ",
+   "ms": 2770,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "kindle paperwhite 11th generation case",
+   "asin": "B0CPXQ7YZN",
+   "ms": 7211,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "kindle paperwhite 11th generation case",
+   "asin": "B09LRTSSXL",
+   "ms": 2304,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "king size pillow 1 pack",
+   "asin": "B0FW4WB6Z8",
+   "ms": 2304,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "king size pillow 1 pack",
+   "asin": "B0D8KMWVQ5",
+   "ms": 3278,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "king size pillow 1 pack",
+   "asin": "B0F8QJZ5TH",
+   "ms": 5888,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "king size pillow 1 pack",
+   "asin": "B0G6BL3V6C",
+   "ms": 4551,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "king size pillow 1 pack",
+   "asin": "B09TZKH6MF",
+   "ms": 2774,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "left handed scissors",
+   "asin": "B001BKHHGS",
+   "ms": 24573,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "left handed scissors",
+   "asin": "B00006IFN8",
+   "ms": 2940,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "left handed scissors",
+   "asin": "B01BRGU8R0",
+   "ms": 5671,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "left handed scissors",
+   "asin": "B07YDDX4JL",
+   "ms": 21460,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "left handed scissors",
+   "asin": "B01BRGUAT6",
+   "ms": 4311,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "levoit core 300 replacement filter",
+   "asin": "B0DCZF275P",
+   "ms": 10779,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "levoit core 300 replacement filter",
+   "asin": "B0DK6RHFVG",
+   "ms": 4704,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "levoit core 300 replacement filter",
+   "asin": "B0DMVS9N5W",
+   "ms": 3279,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "levoit core 300 replacement filter",
+   "asin": "B0C8FDXC42",
+   "ms": 6557,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "levoit core 300 replacement filter",
+   "asin": "B07RSZSYNC",
+   "ms": 8498,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "mini fridge for skincare",
+   "asin": "B0FLPXJCVY",
+   "ms": 5606,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "mini fridge for skincare",
+   "asin": "B0H9KJHN3Z",
+   "ms": 7269,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "mini fridge for skincare",
+   "asin": "B087Z2MLN2",
+   "ms": 2150,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "mini fridge for skincare",
+   "asin": "B0771S9XT8",
+   "ms": 6346,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "mini fridge for skincare",
+   "asin": "B0CWDXKJWW",
+   "ms": 14749,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "mouse pad for kids",
+   "asin": "B07ZSYNSSG",
+   "ms": 17106,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "mouse pad for kids",
+   "asin": "B07B7LBPNZ",
+   "ms": 4398,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "mouse pad for kids",
+   "asin": "B0D6VG3H98",
+   "ms": 18173,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "mouse pad for kids",
+   "asin": "B01CE6MF8W",
+   "ms": 11747,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "mouse pad for kids",
+   "asin": "B0BL6WPVVH",
+   "ms": 9130,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "phone stand for desk",
+   "asin": "B0D6B1TCNC",
+   "ms": 3782,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "phone stand for desk",
+   "asin": "B088H1YDS1",
+   "ms": 3788,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "phone stand for desk",
+   "asin": "B0744DM3Y3",
+   "ms": 7685,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "phone stand for desk",
+   "asin": "B09MCKK9NX",
+   "ms": 2861,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "phone stand for desk",
+   "asin": "B0B2J1QNBX",
+   "ms": 3693,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "queen linen duvet cover",
+   "asin": "B0FLJDL76F",
+   "ms": 16755,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "queen linen duvet cover",
+   "asin": "B07PCQKTCN",
+   "ms": 15286,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "queen linen duvet cover",
+   "asin": "B0FDGMP4TH",
+   "ms": 4657,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "queen linen duvet cover",
+   "asin": "B0H4TM6B9N",
+   "ms": 5953,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "queen linen duvet cover",
+   "asin": "B0HHNS8HHX",
+   "ms": 17002,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "ryobi 18v battery",
+   "asin": "B0GXXZ7N21",
+   "ms": 6574,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "ryobi 18v battery",
+   "asin": "B0HHWML2G5",
+   "ms": 53064,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "ryobi 18v battery",
+   "asin": "B09BL9VXZX",
+   "ms": 4832,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "ryobi 18v battery",
+   "asin": "B0GVSCHGG5",
+   "ms": 5223,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "ryobi 18v battery",
+   "asin": "B09G1WD2CG",
+   "ms": 2350,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "samsung tv replacement remote",
+   "asin": "B0F7QPGYQH",
+   "ms": 5433,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "samsung tv replacement remote",
+   "asin": "B08CZ1FYBD",
+   "ms": 3070,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "samsung tv replacement remote",
+   "asin": "B0B7B6KLH3",
+   "ms": 2873,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "samsung tv replacement remote",
+   "asin": "B01AQ6OWAG",
+   "ms": 5624,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "samsung tv replacement remote",
+   "asin": "B091BD6KJR",
+   "ms": 3690,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "single aa battery charger",
+   "asin": "B0DKJ55VRM",
+   "ms": 4301,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "single aa battery charger",
+   "asin": "B0BZYQ6L3H",
+   "ms": 10387,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "single aa battery charger",
+   "asin": "B00IM3P8GS",
+   "ms": 17556,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "single aa battery charger",
+   "asin": "B0D97J8SX1",
+   "ms": 4149,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "single aa battery charger",
+   "asin": "B0GLZ49V7V",
+   "ms": 14803,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "small cross temporary tattoo",
+   "asin": "B0D25JTZP6",
+   "ms": 10607,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "small cross temporary tattoo",
+   "asin": "B06WWJVKSW",
+   "ms": 23555,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "small cross temporary tattoo",
+   "asin": "B0DKNMG8PJ",
+   "ms": 11056,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "small cross temporary tattoo",
+   "asin": "B09BZ285VF",
+   "ms": 8023,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "small cross temporary tattoo",
+   "asin": "B0H73V2LX9",
+   "ms": 6259,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "toddler toothbrush",
+   "asin": "B0C4VXPKGL",
+   "ms": 9352,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "toddler toothbrush",
+   "asin": "B001G8Z3U2",
+   "ms": 6291,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "toddler toothbrush",
+   "asin": "B07WCBD6YC",
+   "ms": 4900,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "toddler toothbrush",
+   "asin": "B013W6CC3Q",
+   "ms": 2622,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "toddler toothbrush",
+   "asin": "B0866RV9SM",
+   "ms": 2749,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "wireless earbuds without stem",
+   "asin": "B0HCTVR5SF",
+   "ms": 23431,
+   "relevant": false,
+   "error": null,
+   "fallback": true
+  },
+  {
+   "mode": "sequential",
+   "search": "wireless earbuds without stem",
+   "asin": "B09FT58QQP",
+   "ms": 10131,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "wireless earbuds without stem",
+   "asin": "B0CXG87GYK",
+   "ms": 11264,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "wireless earbuds without stem",
+   "asin": "B0HN12MW2R",
+   "ms": 20374,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "wireless earbuds without stem",
+   "asin": "B0HJLSHGKM",
+   "ms": 31649,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "womens running shoes wide",
+   "asin": "B0FK5G5TLC",
+   "ms": 18704,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "womens running shoes wide",
+   "asin": "B0GHNFCRMB",
+   "ms": 10861,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "womens running shoes wide",
+   "asin": "B0DT1HTWY4",
+   "ms": 15671,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "womens running shoes wide",
+   "asin": "B09NLBG3NR",
+   "ms": 7139,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "sequential",
+   "search": "womens running shoes wide",
+   "asin": "B0F6T6R6C1",
+   "ms": 6058,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "teardrop tattoo",
+   "asin": "B0FF42CPQ4",
+   "ms": 7265,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "teardrop tattoo",
+   "asin": "B0FM7MHXDJ",
+   "ms": 7510,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "teardrop tattoo",
+   "asin": "B0HBJG37NJ",
+   "ms": 7122,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "teardrop tattoo",
+   "asin": "B09DCMQFR7",
+   "ms": 6114,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "teardrop tattoo",
+   "asin": "B09BZ285VF",
+   "ms": 8103,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "sugar free gummy bears",
+   "asin": "B00DR8JO0Y",
+   "ms": 5304,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "sugar free gummy bears",
+   "asin": "B0CLSJD6DT",
+   "ms": 6434,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "sugar free gummy bears",
+   "asin": "B0G1VFHJJH",
+   "ms": 4676,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "sugar free gummy bears",
+   "asin": "B01E9Z3H60",
+   "ms": 7156,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "sugar free gummy bears",
+   "asin": "B00OYPFC46",
+   "ms": 11727,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "10 ft usb c to lightning cable",
+   "asin": "B0F179YXT1",
+   "ms": 3106,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "10 ft usb c to lightning cable",
+   "asin": "B09YRPW3DL",
+   "ms": 8091,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "10 ft usb c to lightning cable",
+   "asin": "B0BZHQLR4Q",
+   "ms": 7442,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "10 ft usb c to lightning cable",
+   "asin": "B0G1XSY4BJ",
+   "ms": 3297,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "10 ft usb c to lightning cable",
+   "asin": "B09DK1HPHK",
+   "ms": 3652,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "8 inch cast iron skillet",
+   "asin": "B00063RWT8",
+   "ms": 7317,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "8 inch cast iron skillet",
+   "asin": "B072J28YP1",
+   "ms": 8621,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "8 inch cast iron skillet",
+   "asin": "B0GK34FJ7R",
+   "ms": 5193,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "8 inch cast iron skillet",
+   "asin": "B00006JSUA",
+   "ms": 5852,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "8 inch cast iron skillet",
+   "asin": "B00G2XGC88",
+   "ms": 6879,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "airpods pro 2 ear tips",
+   "asin": "B0FHBB1MN4",
+   "ms": 8878,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "airpods pro 2 ear tips",
+   "asin": "B0BHZBSWRX",
+   "ms": 4859,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "airpods pro 2 ear tips",
+   "asin": "B0G4M8935M",
+   "ms": 3874,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "airpods pro 2 ear tips",
+   "asin": "B0DFWRY3KQ",
+   "ms": 4997,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "airpods pro 2 ear tips",
+   "asin": "B0DFWS2XDW",
+   "ms": 6888,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "apple slicer",
+   "asin": "B0BVTLFXKM",
+   "ms": 3211,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "apple slicer",
+   "asin": "B0CXZRPB8C",
+   "ms": 7338,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "apple slicer",
+   "asin": "B08M5LT97G",
+   "ms": 6781,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "apple slicer",
+   "asin": "B0FK4FN9NT",
+   "ms": 7011,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "apple slicer",
+   "asin": "B0CJ3F3FFS",
+   "ms": 5158,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "caffeine free tea bags",
+   "asin": "B07X3LPXYB",
+   "ms": 4673,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "caffeine free tea bags",
+   "asin": "B001AG67P0",
+   "ms": 4393,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "caffeine free tea bags",
+   "asin": "B0D61M6W6Z",
+   "ms": 11242,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "caffeine free tea bags",
+   "asin": "B00B77XTA8",
+   "ms": 4807,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "caffeine free tea bags",
+   "asin": "B000E65OF6",
+   "ms": 2748,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "dairy free protein powder",
+   "asin": "B00K0FTJ1Q",
+   "ms": 11638,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "dairy free protein powder",
+   "asin": "B01COARRFE",
+   "ms": 5503,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "dairy free protein powder",
+   "asin": "B0178ENI4K",
+   "ms": 2823,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "dairy free protein powder",
+   "asin": "B0CW8KB98Y",
+   "ms": 8930,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "dairy free protein powder",
+   "asin": "B00XQ2XGAA",
+   "ms": 8364,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "dyson v8 battery",
+   "asin": "B0HF423RQ5",
+   "ms": 9569,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "dyson v8 battery",
+   "asin": "B0H6DV5M9S",
+   "ms": 4020,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "dyson v8 battery",
+   "asin": "B0HKJ91D7L",
+   "ms": 10003,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "dyson v8 battery",
+   "asin": "B0HGQ2G9WT",
+   "ms": 3436,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "dyson v8 battery",
+   "asin": "B0G2BL9GJS",
+   "ms": 5305,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "fake tattoo",
+   "asin": "B0CKTMC3QV",
+   "ms": 8016,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "fake tattoo",
+   "asin": "B0F6YCFVZ7",
+   "ms": 3791,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "fake tattoo",
+   "asin": "B0F1D6L9DP",
+   "ms": 5181,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "fake tattoo",
+   "asin": "B0F7LWBTFW",
+   "ms": 4942,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "fake tattoo",
+   "asin": "B0DHCW2BVT",
+   "ms": 4431,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "fragrance free shampoo",
+   "asin": "B00UOL93CG",
+   "ms": 12864,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "fragrance free shampoo",
+   "asin": "B00JF3S29Y",
+   "ms": 5857,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "fragrance free shampoo",
+   "asin": "B072QXWXS6",
+   "ms": 7836,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "fragrance free shampoo",
+   "asin": "B01NAFQIJ9",
+   "ms": 6994,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "fragrance free shampoo",
+   "asin": "B07NSBTZ22",
+   "ms": 5334,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "glass meal prep containers 3 compartment",
+   "asin": "B08DKMQFNG",
+   "ms": 13658,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "glass meal prep containers 3 compartment",
+   "asin": "B01LVWMNXH",
+   "ms": 11372,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "glass meal prep containers 3 compartment",
+   "asin": "B08WR1P45C",
+   "ms": 3946,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "glass meal prep containers 3 compartment",
+   "asin": "B07N2BPQC3",
+   "ms": 5906,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "glass meal prep containers 3 compartment",
+   "asin": "B08VFP2JDB",
+   "ms": 4793,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "gluten free pasta",
+   "asin": "B074H5ZHFH",
+   "ms": 8948,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "gluten free pasta",
+   "asin": "B000RUP0JE",
+   "ms": 11184,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "gluten free pasta",
+   "asin": "B00R0OAZDG",
+   "ms": 4565,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "gluten free pasta",
+   "asin": "B00EBE831Y",
+   "ms": 5496,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "gluten free pasta",
+   "asin": "B074H6G7GX",
+   "ms": 5055,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "iphone 15 pro case",
+   "asin": "B0F4N1N969",
+   "ms": 3990,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "iphone 15 pro case",
+   "asin": "B0CC1F5CGH",
+   "ms": 3670,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "iphone 15 pro case",
+   "asin": "B0C5S8ZN7Y",
+   "ms": 7278,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "iphone 15 pro case",
+   "asin": "B0C5S6W5S4",
+   "ms": 7878,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "iphone 15 pro case",
+   "asin": "B0CB5TJ96L",
+   "ms": 48081,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "kindle paperwhite 11th generation case",
+   "asin": "B0CR12SYKW",
+   "ms": 12355,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "kindle paperwhite 11th generation case",
+   "asin": "B0CNQVKYYP",
+   "ms": 5254,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "kindle paperwhite 11th generation case",
+   "asin": "B0BLTRKCNJ",
+   "ms": 6563,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "kindle paperwhite 11th generation case",
+   "asin": "B0CPXQ7YZN",
+   "ms": 7608,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "kindle paperwhite 11th generation case",
+   "asin": "B09LRTSSXL",
+   "ms": 4306,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "king size pillow 1 pack",
+   "asin": "B0FW4WB6Z8",
+   "ms": 4551,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "king size pillow 1 pack",
+   "asin": "B0D8KMWVQ5",
+   "ms": 3764,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "king size pillow 1 pack",
+   "asin": "B0F8QJZ5TH",
+   "ms": 8362,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "king size pillow 1 pack",
+   "asin": "B0G6BL3V6C",
+   "ms": 4370,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "king size pillow 1 pack",
+   "asin": "B09TZKH6MF",
+   "ms": 3363,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "left handed scissors",
+   "asin": "B001BKHHGS",
+   "ms": 16215,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "left handed scissors",
+   "asin": "B00006IFN8",
+   "ms": 6786,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "left handed scissors",
+   "asin": "B01BRGU8R0",
+   "ms": 6412,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "left handed scissors",
+   "asin": "B07YDDX4JL",
+   "ms": 11546,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "left handed scissors",
+   "asin": "B01BRGUAT6",
+   "ms": 5108,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "levoit core 300 replacement filter",
+   "asin": "B0DCZF275P",
+   "ms": 7022,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "levoit core 300 replacement filter",
+   "asin": "B0DK6RHFVG",
+   "ms": 6992,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "levoit core 300 replacement filter",
+   "asin": "B0DMVS9N5W",
+   "ms": 4811,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "levoit core 300 replacement filter",
+   "asin": "B0C8FDXC42",
+   "ms": 7962,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "levoit core 300 replacement filter",
+   "asin": "B07RSZSYNC",
+   "ms": 6768,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "mini fridge for skincare",
+   "asin": "B0FLPXJCVY",
+   "ms": 6485,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "mini fridge for skincare",
+   "asin": "B0H9KJHN3Z",
+   "ms": 3040,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "mini fridge for skincare",
+   "asin": "B087Z2MLN2",
+   "ms": 3296,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "mini fridge for skincare",
+   "asin": "B0771S9XT8",
+   "ms": 4064,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "mini fridge for skincare",
+   "asin": "B0CWDXKJWW",
+   "ms": 11581,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "mouse pad for kids",
+   "asin": "B07ZSYNSSG",
+   "ms": 10418,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "mouse pad for kids",
+   "asin": "B07B7LBPNZ",
+   "ms": 6860,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "mouse pad for kids",
+   "asin": "B0D6VG3H98",
+   "ms": 22693,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "mouse pad for kids",
+   "asin": "B01CE6MF8W",
+   "ms": 67094,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "mouse pad for kids",
+   "asin": "B0BL6WPVVH",
+   "ms": 9345,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "phone stand for desk",
+   "asin": "B0D6B1TCNC",
+   "ms": 2263,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "phone stand for desk",
+   "asin": "B088H1YDS1",
+   "ms": 6024,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "phone stand for desk",
+   "asin": "B0744DM3Y3",
+   "ms": 10127,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "phone stand for desk",
+   "asin": "B09MCKK9NX",
+   "ms": 8334,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "phone stand for desk",
+   "asin": "B0B2J1QNBX",
+   "ms": 4491,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "queen linen duvet cover",
+   "asin": "B0FLJDL76F",
+   "ms": 18431,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "queen linen duvet cover",
+   "asin": "B07PCQKTCN",
+   "ms": 10758,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "queen linen duvet cover",
+   "asin": "B0FDGMP4TH",
+   "ms": 5793,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "queen linen duvet cover",
+   "asin": "B0H4TM6B9N",
+   "ms": 33166,
+   "relevant": false,
+   "error": null,
+   "fallback": true
+  },
+  {
+   "mode": "concurrent",
+   "search": "queen linen duvet cover",
+   "asin": "B0HHNS8HHX",
+   "ms": 21889,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "ryobi 18v battery",
+   "asin": "B0GXXZ7N21",
+   "ms": 8536,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "ryobi 18v battery",
+   "asin": "B0HHWML2G5",
+   "ms": 16612,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "ryobi 18v battery",
+   "asin": "B09BL9VXZX",
+   "ms": 4112,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "ryobi 18v battery",
+   "asin": "B0GVSCHGG5",
+   "ms": 5740,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "ryobi 18v battery",
+   "asin": "B09G1WD2CG",
+   "ms": 3927,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "samsung tv replacement remote",
+   "asin": "B0F7QPGYQH",
+   "ms": 6770,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "samsung tv replacement remote",
+   "asin": "B08CZ1FYBD",
+   "ms": 3672,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "samsung tv replacement remote",
+   "asin": "B0B7B6KLH3",
+   "ms": 2872,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "samsung tv replacement remote",
+   "asin": "B01AQ6OWAG",
+   "ms": 5713,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "samsung tv replacement remote",
+   "asin": "B091BD6KJR",
+   "ms": 5910,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "single aa battery charger",
+   "asin": "B0DKJ55VRM",
+   "ms": 3682,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "single aa battery charger",
+   "asin": "B0BZYQ6L3H",
+   "ms": 23682,
+   "relevant": true,
+   "error": null,
+   "fallback": true
+  },
+  {
+   "mode": "concurrent",
+   "search": "single aa battery charger",
+   "asin": "B00IM3P8GS",
+   "ms": 15205,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "single aa battery charger",
+   "asin": "B0D97J8SX1",
+   "ms": 7698,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "single aa battery charger",
+   "asin": "B0GLZ49V7V",
+   "ms": 6596,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "small cross temporary tattoo",
+   "asin": "B0D25JTZP6",
+   "ms": 16462,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "small cross temporary tattoo",
+   "asin": "B06WWJVKSW",
+   "ms": 14606,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "small cross temporary tattoo",
+   "asin": "B0DKNMG8PJ",
+   "ms": 7631,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "small cross temporary tattoo",
+   "asin": "B09BZ285VF",
+   "ms": 5561,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "small cross temporary tattoo",
+   "asin": "B0H73V2LX9",
+   "ms": 6832,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "toddler toothbrush",
+   "asin": "B0C4VXPKGL",
+   "ms": 10873,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "toddler toothbrush",
+   "asin": "B001G8Z3U2",
+   "ms": 7002,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "toddler toothbrush",
+   "asin": "B07WCBD6YC",
+   "ms": 5178,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "toddler toothbrush",
+   "asin": "B013W6CC3Q",
+   "ms": 3743,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "toddler toothbrush",
+   "asin": "B0866RV9SM",
+   "ms": 10310,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "wireless earbuds without stem",
+   "asin": "B0HCTVR5SF",
+   "ms": 28286,
+   "relevant": false,
+   "error": null,
+   "fallback": true
+  },
+  {
+   "mode": "concurrent",
+   "search": "wireless earbuds without stem",
+   "asin": "B09FT58QQP",
+   "ms": 11624,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "wireless earbuds without stem",
+   "asin": "B0CXG87GYK",
+   "ms": 11563,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "wireless earbuds without stem",
+   "asin": "B0HN12MW2R",
+   "ms": 19174,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "wireless earbuds without stem",
+   "asin": "B0HJLSHGKM",
+   "ms": 27902,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "womens running shoes wide",
+   "asin": "B0FK5G5TLC",
+   "ms": 10883,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "womens running shoes wide",
+   "asin": "B0GHNFCRMB",
+   "ms": 11400,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "womens running shoes wide",
+   "asin": "B0DT1HTWY4",
+   "ms": 30562,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "womens running shoes wide",
+   "asin": "B09NLBG3NR",
+   "ms": 9732,
+   "relevant": true,
+   "error": null,
+   "fallback": false
+  },
+  {
+   "mode": "concurrent",
+   "search": "womens running shoes wide",
+   "asin": "B0F6T6R6C1",
+   "ms": 7064,
+   "relevant": false,
+   "error": null,
+   "fallback": false
+  }
+ ]
+}

@@ -1,0 +1,1667 @@
+{
+ "query": "caffeine free tea bags",
+ "pattern": "without",
+ "key_terms": [
+  "caffeine free|caffeine-free|decaf|herbal"
+ ],
+ "url": "https://www.amazon.com/s?k=caffeine+free+tea+bags",
+ "frozen_at": "2026-11-21 17:50",
+ "cards": [
+  {
+   "advertised": false,
+   "asin": "B004CIUU6K",
+   "badges": [
+    "Overall Pick"
+   ],
+   "bought_past_month": "10K+",
+   "n_ratings": 7310,
+   "organic_rank": 1,
+   "position": 5,
+   "price": 3.12,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Celestial Seasonings Herbal Tea Sampler Variety Pack, Caffeine Free, 18 Tea Bags Box"
+  },
+  {
+   "advertised": false,
+   "asin": "B00FEAI2LK",
+   "badges": [],
+   "bought_past_month": "5K+",
+   "n_ratings": 3702,
+   "organic_rank": 2,
+   "position": 6,
+   "price": 4.16,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Twinings Camomile, Honey & Vanilla Herbal Tea individually Wrapped Bags, 20 Count (Pack of 1), Naturally Caffeine-Free, Enjoy Hot or Iced, 20 Teabags"
+  },
+  {
+   "advertised": false,
+   "asin": "B004G7PTJ0",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 3977,
+   "organic_rank": 3,
+   "position": 7,
+   "price": 6.99,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Luzianne Decaffeinated Iced Tea Bags 24 Count (Pack of 1) Rainforest Alliance"
+  },
+  {
+   "advertised": false,
+   "asin": "B0D61M6W6Z",
+   "badges": [],
+   "bought_past_month": "5K+",
+   "n_ratings": 2119,
+   "organic_rank": 4,
+   "position": 8,
+   "price": 4.96,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Lipton Decaffeinated Green Tea Bags, Unsweetened Teabags for Decaf Hot Tea or Decaf Iced Tea with Flavonoids, 40 Total Tea Bags"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DXWNFWQX",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 1220,
+   "organic_rank": 5,
+   "position": 9,
+   "price": 4.53,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Lipton Decaf Black Tea Bags, Hot or Iced Caffeine Free Tea, 50 Tea Bags"
+  },
+  {
+   "advertised": false,
+   "asin": "B000VHD7W0",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 8308,
+   "organic_rank": 6,
+   "position": 10,
+   "price": 3.12,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Celestial Seasonings Assorted Fruit Herbal Tea Sampler, 18 Tea Bags"
+  },
+  {
+   "advertised": false,
+   "asin": "B00GEG40KA",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 4300,
+   "organic_rank": 7,
+   "position": 15,
+   "price": 24.5,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Bigelow Herbal Tea Variety Pack, 6 Flavors, 6 Pk (118 Bags), Caffeine Free"
+  },
+  {
+   "advertised": false,
+   "asin": "B07ND51YPC",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "7K+",
+   "n_ratings": 20264,
+   "organic_rank": 8,
+   "position": 16,
+   "price": 16.49,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "FGO Organic Hibiscus Tea, 100 Count, Eco-Conscious Tea Bags, Caffeine Free, Packaging May Vary (Pack of 1)"
+  },
+  {
+   "advertised": false,
+   "asin": "B01FKE7ATE",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "3K+",
+   "n_ratings": 3300,
+   "organic_rank": 9,
+   "position": 17,
+   "price": 3.49,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Taylors of Harrogate Blackberry & Raspberry Tea Bags, 20ct (Pack of 1)"
+  },
+  {
+   "advertised": false,
+   "asin": "B000R32F6M",
+   "badges": [],
+   "bought_past_month": "7K+",
+   "n_ratings": 1891,
+   "organic_rank": 10,
+   "position": 18,
+   "price": 4.75,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Harney & Sons HT Vanilla Comoro Decaf Black Tea, 20 Sachets in Tin"
+  },
+  {
+   "advertised": false,
+   "asin": "B00BLMML8A",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 4037,
+   "organic_rank": 11,
+   "position": 23,
+   "price": 4.75,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Harney and Sons Decaf Hot Cinnamon , Decaf Flavored Black 20 Sachets per Tin 1.4oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B000LWCR26",
+   "badges": [],
+   "bought_past_month": "6K+",
+   "n_ratings": 4867,
+   "organic_rank": 12,
+   "position": 24,
+   "price": 5.82,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Numi Organic Rooibos Chai Tea, 18 Herbal Tea Bags, Caffeine Free USDA Organic Fair Trade Certified"
+  },
+  {
+   "advertised": false,
+   "asin": "B00JSCOEGC",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 588,
+   "organic_rank": 13,
+   "position": 25,
+   "price": 3.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Twinings Decaffeinated English Breakfast Black Tea Bags, 20 CT (1 Pack)"
+  },
+  {
+   "advertised": false,
+   "asin": "B001AG67P0",
+   "badges": [],
+   "bought_past_month": "4K+",
+   "n_ratings": 1380,
+   "organic_rank": 14,
+   "position": 26,
+   "price": 3.12,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Celestial Seasonings Raspberry Zinger Herbal Tea, Caffeine Free, 20 Tea Bags Box"
+  },
+  {
+   "advertised": false,
+   "asin": "B000GFYRK8",
+   "badges": [],
+   "bought_past_month": "2K+",
+   "n_ratings": 4642,
+   "organic_rank": 15,
+   "position": 27,
+   "price": 19.09,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Bigelow Cozy Chamomile Herbal Tea Bags, 120 Total Bags, Caffeine Free"
+  },
+  {
+   "advertised": false,
+   "asin": "B01CK2J7HW",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 4728,
+   "organic_rank": 16,
+   "position": 28,
+   "price": 36,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Rishi Tea Turmeric Ginger Organic Sachet Tea Bags, Caffeine Free, 50ct USDA Organic"
+  },
+  {
+   "advertised": false,
+   "asin": "B07PCHQ8H2",
+   "badges": [],
+   "bought_past_month": "600+",
+   "n_ratings": 4794,
+   "organic_rank": 17,
+   "position": 29,
+   "price": 26.76,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Yogi Stress Relief & Herbal Variety Pack, 16 Tea Bags (6 Pack)"
+  },
+  {
+   "advertised": false,
+   "asin": "B00B77XTA8",
+   "badges": [],
+   "bought_past_month": "20K+",
+   "n_ratings": 3647,
+   "organic_rank": 18,
+   "position": 30,
+   "price": 4.99,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Traditional Medicinals Organic Throat Coat Seasonal Tea, 16 Tea Bags (Pack of 1) USDA Organic"
+  },
+  {
+   "advertised": false,
+   "asin": "B005Q8BIK2",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 9247,
+   "organic_rank": 19,
+   "position": 31,
+   "price": 19.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Stash Tea Fruity Herbal Tea 6 Flavor Tea Sampler, 6 boxes With 18-20 Tea Bags Each"
+  },
+  {
+   "advertised": false,
+   "asin": "B009L6Q2YW",
+   "badges": [],
+   "bought_past_month": "9K+",
+   "n_ratings": 14299,
+   "organic_rank": 20,
+   "position": 32,
+   "price": 4.16,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Twinings Pure Peppermint Herbal Tea Individually Wrapped Bags, 20 Count (Pack of 1), Fresh Minty Flavour, Naturally Caffeine-Free, Enjoy Hot or Iced, 20 Teabags"
+  },
+  {
+   "advertised": false,
+   "asin": "B000E65OF6",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 8676,
+   "organic_rank": 21,
+   "position": 33,
+   "price": 13.74,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Celestial Seasonings Sleepytime Herbal Tea, Caffeine Free, 20 Tea Bags Box (Pack of 6)"
+  },
+  {
+   "advertised": false,
+   "asin": "B000GG5J18",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 4989,
+   "organic_rank": 22,
+   "position": 34,
+   "price": 17.61,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Bigelow Tea Classic Green Tea, Decaffeinated, 20 Count (Pack of 6), 120 Total Tea Bags"
+  },
+  {
+   "advertised": false,
+   "asin": "B0CCXC7H6R",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 307,
+   "organic_rank": 23,
+   "position": 35,
+   "price": 15,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "The Republic of Tea Mulled Apple Spice Herbal Tea, Caffeine-Free, 36 Count"
+  },
+  {
+   "advertised": false,
+   "asin": "B0089VPTXK",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 5732,
+   "organic_rank": 24,
+   "position": 36,
+   "price": 5.53,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Traditional Medicinals Organic, Hibiscus Tea - Supports Normal Heart Health & Cardiovascular Wellness - Kosher, Non-GMO, Caffeine-Free, Compostable - 16 Tea Bags USDA Organic Fair Trade Certified Ingredient"
+  },
+  {
+   "advertised": false,
+   "asin": "B078KPH65Z",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "2K+",
+   "n_ratings": 7897,
+   "organic_rank": 25,
+   "position": 37,
+   "price": 16.14,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Red Rooibos Tea 100 Teabags USDA Organic - Naturally Caffeine Free - Cederberg Tea Company EU Organic USDA Organic"
+  },
+  {
+   "advertised": false,
+   "asin": "B00G2MKGPO",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 697,
+   "organic_rank": 26,
+   "position": 38,
+   "price": 5.39,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Celestial Seasonings Caffeine Free Chamomile Herbal Tea, 25 Tea Bags"
+  },
+  {
+   "advertised": true,
+   "asin": "B0735W1XZP",
+   "badges": [],
+   "bought_past_month": "2K+",
+   "n_ratings": 1175,
+   "organic_rank": 27,
+   "position": 39,
+   "price": 22.88,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Yogi Stress Relief and Relaxation Variety Sampler, 16 Tea Bags (5 Pack)"
+  },
+  {
+   "advertised": false,
+   "asin": "B00JDZJOVE",
+   "badges": [],
+   "bought_past_month": "2K+",
+   "n_ratings": 370,
+   "organic_rank": 28,
+   "position": 40,
+   "price": 4.16,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Twinings Herbal Tea Variety Pack, 20 Count (Pack of 1), Formerly Assorted Herbal, Includes 5 Flavours, Naturally Caffeine-Free, Enjoy Hot or Iced, 20 Teabags"
+  },
+  {
+   "advertised": false,
+   "asin": "B07V3CHL4B",
+   "badges": [],
+   "bought_past_month": "7K+",
+   "n_ratings": 4777,
+   "organic_rank": 29,
+   "position": 41,
+   "price": 3.12,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Celestial Seasonings Country Peach Passion Tea, 20 Tea Bag Box"
+  },
+  {
+   "advertised": false,
+   "asin": "B004X6TQWA",
+   "badges": [],
+   "bought_past_month": "4K+",
+   "n_ratings": 3733,
+   "organic_rank": 30,
+   "position": 42,
+   "price": 3.49,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Bigelow Lemon Ginger Probiotic Herbal Tea Bags, 18 Bags, Caffeine Free"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DJSPNCR4",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "3K+",
+   "n_ratings": 3127,
+   "organic_rank": 31,
+   "position": 43,
+   "price": 11.59,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "LeafLea Turmeric Ginger Cinnamon Tea Bags, 40 Ct Caffeine-Free Herbal Tea"
+  },
+  {
+   "advertised": false,
+   "asin": "B0009JQK9C",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 4107,
+   "organic_rank": 32,
+   "position": 44,
+   "price": 5.88,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Traditional Medicinals Organic Ginger, 16 Tea Bags USDA Organic"
+  },
+  {
+   "advertised": false,
+   "asin": "B0089VPTZ8",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 6555,
+   "organic_rank": 33,
+   "position": 45,
+   "price": 5.53,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Traditional Medicinals Organic, Lemon Balm - Supports Stress Relief & Digestive Health - Kosher, Non-GMO, Caffeine-Free, Compostable - 16 Tea Bags USDA Organic"
+  },
+  {
+   "advertised": false,
+   "asin": "B000VK9YQA",
+   "badges": [],
+   "bought_past_month": "8K+",
+   "n_ratings": 9093,
+   "organic_rank": 34,
+   "position": 46,
+   "price": 4.17,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Tazo Passion Herbal Tea Filterbags, 20 Count"
+  },
+  {
+   "advertised": false,
+   "asin": "B0D5MFLFM2",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "2K+",
+   "n_ratings": 1472,
+   "organic_rank": 35,
+   "position": 47,
+   "price": 19.11,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Pukka Premium Herbal Tea Gift Set, 45 Organic Tea Bags with 9 Flavors Soil Association"
+  },
+  {
+   "advertised": false,
+   "asin": "B0C4L2TDSG",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 786,
+   "organic_rank": 36,
+   "position": 48,
+   "price": 7.55,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Tetley, Decaffeinated Classic Black Tea Bags, 72 Count"
+  },
+  {
+   "advertised": false,
+   "asin": "B0GSWKJRT5",
+   "badges": [],
+   "bought_past_month": "4K+",
+   "n_ratings": 224,
+   "organic_rank": 37,
+   "position": 49,
+   "price": 3.95,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Tazo Stress Unwind Herbal Tea Bags, Blueberry Lavender Chamomile, 16 ct"
+  },
+  {
+   "advertised": false,
+   "asin": "B0C2SN332S",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 3356,
+   "organic_rank": 38,
+   "position": 50,
+   "price": 4.96,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Celestial Seasonings Sleepytime Tea Plus Melatonin, Caffeine Free, Celestial Seasonings Herbal Tea, 18 Bag Box"
+  },
+  {
+   "advertised": false,
+   "asin": "B0F94QR8BH",
+   "badges": [],
+   "bought_past_month": "400+",
+   "n_ratings": 248,
+   "organic_rank": 39,
+   "position": 51,
+   "price": 5.22,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Celestial Seasonings Everyday Wellness Tea Variety Pack, Caffeine Free, 16 Tea Bags Box"
+  },
+  {
+   "advertised": false,
+   "asin": "B002XWSNCA",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 9035,
+   "organic_rank": 40,
+   "position": 52,
+   "price": 21.12,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Bigelow Lemon Ginger Probiotic Herbal Tea Bags, 18 Bags, Caffeine Free"
+  },
+  {
+   "advertised": false,
+   "asin": "B000GG1OB2",
+   "badges": [],
+   "bought_past_month": "2K+",
+   "n_ratings": 3898,
+   "organic_rank": 41,
+   "position": 53,
+   "price": 22.08,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Bigelow Tea Decaffeinated Earl Grey Black Tea, 20 Count (Pack of 6)"
+  },
+  {
+   "advertised": false,
+   "asin": "B07X3LPXYB",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 3760,
+   "organic_rank": 42,
+   "position": 54,
+   "price": 2.16,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Amazon Grocery, Chamomile Herbal Tea Bags, 20 Ct"
+  },
+  {
+   "advertised": false,
+   "asin": "B0F6TRZV6T",
+   "badges": [],
+   "bought_past_month": "700+",
+   "n_ratings": 105,
+   "organic_rank": 43,
+   "position": 55,
+   "price": 17.84,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Yogi Fall Spice Variety Sampler Pack, 16 Tea Bags (4 Pack) USDA Organic"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DHGL69HR",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 543,
+   "organic_rank": 44,
+   "position": 56,
+   "price": 9.95,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "50 Premium Turmeric, Ginger, Cinnamon Blend Tea Bags, 100% Natural & No Additives & Caffeine Free."
+  },
+  {
+   "advertised": false,
+   "asin": "B007IW25FQ",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 16407,
+   "organic_rank": 45,
+   "position": 57,
+   "price": 5.26,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Traditional Medicinals Organic Nighty Night Extra, 16 Tea Bags USDA Organic"
+  },
+  {
+   "advertised": false,
+   "asin": "B07R9SGCGQ",
+   "badges": [],
+   "bought_past_month": "4K+",
+   "n_ratings": 5300,
+   "organic_rank": 46,
+   "position": 58,
+   "price": 8.9,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Taylors of Harrogate Green & Herbal Tea Sampler Gift Box, 48ct Rainforest Alliance"
+  },
+  {
+   "advertised": false,
+   "asin": "B0H522G8QW",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 116,
+   "organic_rank": 47,
+   "position": 59,
+   "price": 15,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "The Republic of Tea Butterscotch Caramel Herbal Tea, 36 Count"
+  },
+  {
+   "advertised": false,
+   "asin": "B01DP9BUJW",
+   "badges": [],
+   "bought_past_month": "200+",
+   "n_ratings": 1059,
+   "organic_rank": 48,
+   "position": 60,
+   "price": 14.88,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Stash Tea Premium Caffeine Free Herbal Tea, Cinnamon Vanilla, 18 Count"
+  },
+  {
+   "advertised": true,
+   "asin": "B003D4F3PC",
+   "badges": [],
+   "bought_past_month": "700+",
+   "n_ratings": 1275,
+   "organic_rank": null,
+   "position": 2,
+   "price": 22.95,
+   "rating": 4.7,
+   "sponsored": true,
+   "title": "STASH Wild Raspberry Hibiscus Herbal Tea, 100 Bags Bulk Pack, Caffeine Free"
+  },
+  {
+   "advertised": true,
+   "asin": "B0F68FD15B",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "300+",
+   "n_ratings": 375,
+   "organic_rank": null,
+   "position": 3,
+   "price": 13.56,
+   "rating": 4.6,
+   "sponsored": true,
+   "title": "Lipton Peach Paradise Herbal Tea Bags, 80 Count (20 Count 4-Pack)"
+  },
+  {
+   "advertised": true,
+   "asin": "B0CV33KGDX",
+   "badges": [],
+   "bought_past_month": "700+",
+   "n_ratings": 1656,
+   "organic_rank": null,
+   "position": 4,
+   "price": 14.99,
+   "rating": 4.7,
+   "sponsored": true,
+   "title": "Red Rose Decaffeinated Black Tea, Smooth & Flavorful, 48 Tea Bags 3 Pack"
+  },
+  {
+   "advertised": true,
+   "asin": "B0CMTSYT2K",
+   "badges": [],
+   "bought_past_month": "200+",
+   "n_ratings": 182,
+   "organic_rank": null,
+   "position": 11,
+   "price": 19.99,
+   "rating": 4.5,
+   "sponsored": true,
+   "title": "FreshDrinkUS, 135 Chamomile Tea Bags, 100% Natural and Pure Chamomile Flowers, Eco-Conscious Tea Bags. Chamomile Flower Herbal Tea. No Sugar, No Caffeine, No Gluten, Vegan."
+  },
+  {
+   "advertised": true,
+   "asin": "B0GG39J54Q",
+   "badges": [],
+   "bought_past_month": "200+",
+   "n_ratings": 57,
+   "organic_rank": null,
+   "position": 12,
+   "price": 14.95,
+   "rating": 4.5,
+   "sponsored": true,
+   "title": "Premium Mullein Leaf Tea,100 Bags.for Respiratory Support and Lungs Cleanse detox, No Additives & Caffeine Free."
+  },
+  {
+   "advertised": true,
+   "asin": "B0D4N942BT",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 55,
+   "organic_rank": null,
+   "position": 13,
+   "price": 12.99,
+   "rating": 4.5,
+   "sponsored": true,
+   "title": "Uncle Lee\u2019s Herbal Dieter\u2019s Tea, Egyptian Mint \u2013 Senna Tea with Dandelion Root, Mint & Orange Peel, Natural Laxative, Caffeine-Free Tea Bags, 20 Count Ea (Pack of 2)"
+  },
+  {
+   "advertised": true,
+   "asin": "B0748M59B3",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "400+",
+   "n_ratings": 9154,
+   "organic_rank": null,
+   "position": 14,
+   "price": 17.99,
+   "rating": 4.6,
+   "sponsored": true,
+   "title": "Tiesta Tea - Relaxing Herbal Tea Sampler, Caffeine Free 8 Tea Variety Pack"
+  },
+  {
+   "advertised": true,
+   "asin": "B0C35TKL3M",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 1479,
+   "organic_rank": null,
+   "position": 19,
+   "price": 28.99,
+   "rating": 4.7,
+   "sponsored": true,
+   "title": "Organic Hibiscus Tea Bags, 200 Count | Premium Source from Hibiscus Flowers | Caffeine Free Herbal Tea | Eco-Friendly Hemp Paper Tea Bags | Non-GMO, No Sugar USDA Organic"
+  },
+  {
+   "advertised": true,
+   "asin": "B09H3N7XKL",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 59,
+   "organic_rank": null,
+   "position": 20,
+   "price": 13.99,
+   "rating": 3.9,
+   "sponsored": true,
+   "title": "Choice Organics, Herbal Tea Variety Pack Sampler, 16 Tea Bags (3 Pack) USDA Organic"
+  },
+  {
+   "advertised": true,
+   "asin": "B0GL3Y2XB7",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": null,
+   "n_ratings": 1,
+   "organic_rank": null,
+   "position": 21,
+   "price": 44.4,
+   "rating": 5,
+   "sponsored": true,
+   "title": "Palais des Th\u00e9s - Herbal Teas Gift Box - Caffeine-Free - 45 Cotton Tea Bags"
+  },
+  {
+   "advertised": true,
+   "asin": "B0CG7ZHBBZ",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 785,
+   "organic_rank": null,
+   "position": 22,
+   "price": 12.95,
+   "rating": 4.6,
+   "sponsored": true,
+   "title": "Premium Hibiscus Tea Bags,100 Tea Bags/7.06 Oz,100% Pure Dried Hibiscus Flower,Natural & No Additives,Caffeine Free."
+  }
+ ],
+ "features": {
+  "B07X3LPXYB": {
+   "features": [
+    {
+     "mentions": 249,
+     "name": "quality",
+     "negative": 40,
+     "positive": 209,
+     "quotes": [
+      "Good",
+      "Great tea, never used before, but I like it",
+      "Good tea, reasonable price. Second time I have bought and will again.",
+      "These are great, basic Chamomile tea bags! Only issue is that I find the plastic bag each one is in is rather difficult to open...."
+     ],
+     "summary": "Customers find this herbal tea excellent, with one customer describing it as a nice floral tea."
+    },
+    {
+     "mentions": 222,
+     "name": "flavor",
+     "negative": 61,
+     "positive": 161,
+     "quotes": [
+      "Taste and smells great. Cheap packaging but great taste! Not a very strong tea, suggested water amount is less than a cup.",
+      "She says it is tasty and works well to make her feel relaxed. Great value for the money.",
+      "No flavor, just hot water This chamomile tea tastes like nothing. Steeped forever and it\u2019s still basically yellow water....",
+      "Great price, very effective and easy to use. High quality tea, good taste. All you have to add is honey or lemon. Very healthy."
+     ],
+     "summary": "Customers enjoy the flavor of this chamomile tea, describing it as nice and delicious, with one customer noting it has a pleasant vanilla or peppermint hint."
+    },
+    {
+     "mentions": 149,
+     "name": "value for money",
+     "negative": 23,
+     "positive": 126,
+     "quotes": [
+      "This is just basic chamomile tea at a great price! The taste and smell is the same as other affordable brands at the grocery store.",
+      "Good price, but very little taste. Even using two bags. The Peppermint tea is much better.",
+      "If you're the latter, then it's a great value for you! Like all chamomile, it does help with sleep and comfort....",
+      "A good value for a simple, chamomile tea. While not particularly strong-smelling or potent, it was definitely good for long term brewing...."
+     ],
+     "summary": "Customers find this chamomile tea to be good value for money, describing it as an unbelievable quality for the price."
+    },
+    {
+     "mentions": 98,
+     "name": "relaxation",
+     "negative": 5,
+     "positive": 93,
+     "quotes": [
+      "What I loved the most about this tea is that the flavor is light and soothing, not too strong or bitter....",
+      "Tasty and relaxing",
+      "The box could also include more servings. Overall, it\u2019s a calming, affordable tea that\u2019s great for a simple nighttime routine.",
+      "Relaxing tea for the evening tv \ud83d\udcfa to bed transition \ud83d\udecc\ud83d\udca4"
+     ],
+     "summary": "Customers find the chamomile tea helps them relax, particularly after a long day and as a bedtime beverage, with one customer noting it's naturally calming without being overpowering."
+    },
+    {
+     "mentions": 30,
+     "name": "aroma",
+     "negative": 6,
+     "positive": 24,
+     "quotes": [
+      "The aroma is calming, and it helps me relax after a long day. It\u2019s also great for soothing an upset stomach....",
+      "Tastes great and makes you feel more relaxed! Smells good too! It is a somewhat weaker tea though, sometimes I need two bag in my cup.",
+      "I love the taste of freshly made hot tea. The tea quality, freshness, aroma, as well as the packaging are first rate....",
+      "A good value for a simple, chamomile tea. While not particularly strong-smelling or potent, it was definitely good for long term brewing...."
+     ],
+     "summary": "Customers enjoy the tea's aroma, describing it as lovely and fragrant, with one customer noting it's a cup of calm."
+    },
+    {
+     "mentions": 19,
+     "name": "freshness",
+     "negative": 2,
+     "positive": 17,
+     "quotes": [
+      "Great price. Effective for my nighttime routine. Tastes good and fresh. Helps me sleep well",
+      "Delicious tea, very fresh \ud83e\udd70 loved",
+      "I love the taste of freshly made hot tea. The tea quality, freshness, aroma, as well as the packaging are first rate....",
+      "Bags were clear plastic instead of paper, which kept the tea fresh for longer than some tea brands."
+     ],
+     "summary": "Customers appreciate the freshness of the tea, noting that the individually wrapped bags help keep it fresh longer."
+    },
+    {
+     "mentions": 44,
+     "name": "strength",
+     "negative": 29,
+     "positive": 15,
+     "quotes": [
+      "I love chamomile tea, this tea has a great flavor but a little weak. Almost like you may want to use two tea bags for a cup.",
+      "I like that it was very strong. Also the price was very good.",
+      "A bit weak",
+      "This brand is non potent. Doesn't help with anxiety or sleep. You get what you pay for........ $1.66 per 20 bags means it doesn't work."
+     ],
+     "summary": "Customers have mixed opinions about the tea's strength, with some saying it makes a strong brew while others find it mild."
+    }
+   ],
+   "stars": {
+    "1": 3,
+    "2": 2,
+    "3": 5,
+    "4": 11,
+    "5": 79
+   }
+  },
+  "B001AG67P0": {
+   "features": [
+    {
+     "mentions": 136,
+     "name": "flavor",
+     "negative": 13,
+     "positive": 123,
+     "quotes": [
+      "name brand, Celestial Seasonings Raspberry Zinger Herbal Tea is delicious, calming and a great value for your money....",
+      "Great aroma, you dont need to add sugar for taste because it has a great taste for those who are into sour taste. You can taste the freshness",
+      "Tasty and good value. Can only use each tea bag once.",
+      "I've been buying this tea for many years. It has a great flavor and there is enough tea in one bag for a large mug."
+     ],
+     "summary": "Customers enjoy the tea's pleasant taste, with one customer noting that the flavors blend perfectly, and another mentioning it's delicious both hot and cold."
+    },
+    {
+     "mentions": 102,
+     "name": "taste",
+     "negative": 10,
+     "positive": 92,
+     "quotes": [
+      "Love this tea. It has a very pleasant taste and no strong aroma, which often comes from synthetic fragrance. I drink it hot, sweetened with stevia....",
+      "Great tea my family loves it",
+      "Good",
+      "Good product as described"
+     ],
+     "summary": "Customers love the taste of this herbal tea, particularly enjoying it as a summer beverage."
+    },
+    {
+     "mentions": 27,
+     "name": "value for money",
+     "negative": 2,
+     "positive": 25,
+     "quotes": [
+      "Great tasting and healthy tea. A good value also. No caffeine, plastic, or GMOs....",
+      "Great taste, great value and good for you!",
+      "Cheaper than Walmart. I mix this with decaf iced tea bags and make iced tea. It is very good",
+      "Excellent flavor, strong brew, will buy again"
+     ],
+     "summary": "Customers find the tea to be excellent value and say they will buy it again."
+    },
+    {
+     "mentions": 16,
+     "name": "iced",
+     "negative": 0,
+     "positive": 16,
+     "quotes": [
+      "Tasty tea!<br />Good iced or even hot with a dash of milk or cream.",
+      "I love this to combine with raspberry leaf tea. That\u2019s way I can also taste raspberry but get the leaf benefits.",
+      "I purchase this to make a sweet tea mostly in the summer. It goes well with any food or just by itself. Refreshing.",
+      "It has a very pleasant flavor that goes well by itself or mixed with lemonade. Mix it up and relax in the sun...."
+     ],
+     "summary": "Customers enjoy making this tea with ice, and one customer mentions it blends well with raspberry leaf tea, while another notes it combines nicely with honey."
+    },
+    {
+     "mentions": 15,
+     "name": "caffeine-free",
+     "negative": 0,
+     "positive": 15,
+     "quotes": [
+      "Caffeine free, great taste and perfect with a book before bed.",
+      "Great tasting and healthy tea. A good value also. No caffeine, plastic, or GMOs....",
+      "This is one of the few teas I can enjoy without any added sugar. Tastes great hot or cold and isn't bland....",
+      "Because it's naturally caffeine-free, it's incredibly soothing to drink in the evening when I want to relax and ease menstrual discomfort...."
+     ],
+     "summary": "Customers appreciate that the tea is naturally caffeine-free and can be enjoyed without added sugar."
+    },
+    {
+     "mentions": 9,
+     "name": "health benefits",
+     "negative": 0,
+     "positive": 9,
+     "quotes": [
+      "It is naturally caffeine free and provides some great antioxidants. I love the tangy and fruity flavor. It is different and so refreshing....",
+      "I love mocktails but it's good for cutting back on sugar.",
+      "I always drink the tea it really good for bad cramps wish I could find it in walmart",
+      "Got this tea to make raspberry hot chocolate. It works so well, the two flavors blending perfectly for a magnificent treat without a kajillion..."
+     ],
+     "summary": "Customers appreciate the health benefits of this herbal tea, with individual reviews noting it helps with cramps, blood pressure, and respiratory issues like sniffles and coughs."
+    },
+    {
+     "mentions": 9,
+     "name": "temperature",
+     "negative": 0,
+     "positive": 9,
+     "quotes": [
+      "It makes a comforting cup when I want something warm, but it\u2019s also refreshing served iced. A great choice for anyone who loves fruity herbal teas!",
+      "She says she enjoys the tea cold or room temperature and appreciates that there is no added sugars as she has PCOS....",
+      "Very flavorful! Better as iced tea than hot.",
+      "With some lemon or lime & honey really warms you up on a cold day."
+     ],
+     "summary": "Customers appreciate that the tea can be enjoyed both hot and cold, with some preferring it as iced tea rather than hot."
+    },
+    {
+     "mentions": 7,
+     "name": "aroma",
+     "negative": 0,
+     "positive": 7,
+     "quotes": [
+      "Love this tea. It has a very pleasant taste and no strong aroma, which often comes from synthetic fragrance. I drink it hot, sweetened with stevia....",
+      "Good quality, Great aroma, you dont need to add sugar for taste because it has a great taste for those who are into sour taste....",
+      "Very aromatic herbal tea when steeping, very flavorful with a rich taste. Excellent refreshing brew.",
+      "Very refreshing. It arrived on time, packaged properly, and smelled pleasant."
+     ],
+     "summary": "Customers like the aroma of this herbal tea."
+    }
+   ],
+   "stars": {
+    "1": 1,
+    "2": 0,
+    "3": 3,
+    "4": 8,
+    "5": 88
+   }
+  },
+  "B0D61M6W6Z": {
+   "features": [
+    {
+     "mentions": 131,
+     "name": "quality",
+     "negative": 6,
+     "positive": 125,
+     "quotes": [
+      "Good tea. As good as any other. However out of all the teas I\u2019ve tried, Lipton is the only one where each tea bag is NOT individually wrapped....",
+      "It has a good and strong flavor, and it is also extremely inexpensive. Enjoy!",
+      "Great tea. Nice aroma. Sealed in foil",
+      "If you like green tea this is excellent!"
+     ],
+     "summary": "Customers find this decaffeinated green tea to be of excellent quality and highly recommend it."
+    },
+    {
+     "mentions": 103,
+     "name": "taste",
+     "negative": 11,
+     "positive": 92,
+     "quotes": [
+      "Great taste and notifications oily residue in cup or pot.",
+      "Delicious! Great sale- only problem is they don\u2019t come in individual sealed packets. Otherwise great!",
+      "It\u2019s easy on the stomach, refreshing, and tastes great whether you drink it hot or cold....",
+      "Hard to find item. Thanks to amazon we can get it. Easy to use, taste great, my husband has to use it due to some stomach problems."
+     ],
+     "summary": "Customers enjoy the taste of this decaffeinated green tea, describing it as delicious, with one customer noting it's never bitter."
+    },
+    {
+     "mentions": 55,
+     "name": "value for money",
+     "negative": 3,
+     "positive": 52,
+     "quotes": [
+      "Great hot in cold weather. Great iced in hot weather. Great value. The bag is strong and remains intact throughout....",
+      "Great price and product my boyfriend drinks this 2 xs a day.",
+      "Good price on this coffee.",
+      "While a little more than black tea, the carton is a good value and will last a long time."
+     ],
+     "summary": "Customers find the tea bags to be excellent value and say they would buy them again."
+    },
+    {
+     "mentions": 23,
+     "name": "health benefits",
+     "negative": 0,
+     "positive": 23,
+     "quotes": [
+      "Hate the taste but great health benefits. Squeeze half of lemon with my green tea and even though taste is awful, lots of health benefits....",
+      "I like drinking this tea besides of its health benefits but also for its flavor, its decaffeinated, and a great price.",
+      "Has wonderful flavor and antioxidants that help you feel good too. The best thing about this tea is that it is gentle. I love it!",
+      "I just love green tea. It\u2019s very healthy for you. It has antioxidant properties and it\u2019s decaffeinated so I can drink the tea later in the day...."
+     ],
+     "summary": "Customers appreciate the tea's health benefits, noting it is the healthiest drink on the planet with antioxidant properties, and one customer mentions it helps with inflammation."
+    },
+    {
+     "mentions": 22,
+     "name": "caffeine-free",
+     "negative": 2,
+     "positive": 20,
+     "quotes": [
+      "No caffeine",
+      "I love to make it into iced tea and don\u2019t need any sweetener. I reorder this brand often.",
+      "He says it tastes the same as regular. The lack of caffeine content is a great compromise for us....",
+      "Really relaxing without the caffeine. Works as well or better than chamomile for me...."
+     ],
+     "summary": "Customers appreciate that the tea is decaffeinated, allowing them to enjoy it without caffeine keeping them up at night, and they don't need to add any sweetener."
+    },
+    {
+     "mentions": 15,
+     "name": "relaxation",
+     "negative": 1,
+     "positive": 14,
+     "quotes": [
+      "I drink at least two cups a day. I like it unsweetened. I find it relaxing, refreshing, and just plain enjoyable....",
+      "Has wonderful flavor and antioxidants that help you feel good too. The best thing about this tea is that it is gentle. I love it!",
+      "The flavor is smooth and rich. The tea provides a calming effect. It's good hot or iced, too. The price is good.",
+      "It makes me feel relaxed. The color of the tea is just right, and overall, I'm really satisfied with the product."
+     ],
+     "summary": "Customers find the tea makes them feel relaxed and provides a calming effect, with one customer noting it works well for winding down after a long day."
+    },
+    {
+     "mentions": 11,
+     "name": "ingredients",
+     "negative": 2,
+     "positive": 9,
+     "quotes": [
+      "It makes me feel relaxed. The color of the tea is just right, and overall, I'm really satisfied with the product.",
+      "I just love green tea. It\u2019s very healthy for you. It has antioxidant properties and it\u2019s decaffeinated so I can drink the tea later in the day....",
+      "Definitely can't be without my green tea love drinking it in the morning it's so relaxing and taste good and worth the price",
+      "Love that I can get green tea decaffeinated."
+     ],
+     "summary": "Customers appreciate the ingredients in this decaffeinated green tea, with one customer noting that the color is just right."
+    },
+    {
+     "mentions": 11,
+     "name": "versatility",
+     "negative": 0,
+     "positive": 11,
+     "quotes": [
+      "This stuff I can drink all the time, day in, day out, and never get tired of the flavor. My \"cup\" is a 34 ounce tankard....",
+      "One of the best. No caffeine is good with me. Very tasty, iced tea before bed.",
+      "I love this decaf green tea \u2014 it tastes fresh and smooth, perfect for any time of day....",
+      "Great for making ice tea. Always more expensive in market"
+     ],
+     "summary": "Customers appreciate the versatility of these tea bags, finding them suitable for any time of day, with one customer noting they're perfect for light mornings and another mentioning they're great for making iced tea."
+    }
+   ],
+   "stars": {
+    "1": 1,
+    "2": 0,
+    "3": 3,
+    "4": 11,
+    "5": 85
+   }
+  },
+  "B00B77XTA8": {
+   "features": [
+    {
+     "mentions": 407,
+     "name": "taste",
+     "negative": 39,
+     "positive": 368,
+     "quotes": [
+      "I love this tea but I also like anise/black licorice flavor. It does seem to help calm my throat when irritated.",
+      "Great product but came to me beat to hell. The boxes looked like someone stepped on them....",
+      "Love this tea! I have burning mouth syndrome and it\u2019s one of the few things that calms my mouth down.",
+      "Great tea but the condition is ridiculous. Another order - another smashed box. Every box was smashed - some worse than others...."
+     ],
+     "summary": "Customers enjoy the taste of this tea, describing it as delicious with a definite licorice flavor that is naturally sweet."
+    },
+    {
+     "mentions": 307,
+     "name": "effectiveness",
+     "negative": 17,
+     "positive": 290,
+     "quotes": [
+      "The tea is fantastic and works, yet the way it\u2019s delivered, Amazon can do better.",
+      "Really all you need to know is that it tasts great and better yet - it works!...",
+      "Can't go wrong using these teas. Effective, teast great!",
+      "Mild scent. Very comforting and soothing on throat. Works great and hydrates at the same time. Win win. Organic."
+     ],
+     "summary": "Customers find the tea highly effective, particularly for soothing throat pain and irritation, with multiple customers noting its benefits for both throat and gut lining. One customer mentions it helps open up sinuses."
+    },
+    {
+     "mentions": 60,
+     "name": "digestibility",
+     "negative": 7,
+     "positive": 53,
+     "quotes": [
+      "It's comforting, warming, and tastes so good. It's a little sweet, and just makes my throat feel so, so good when it hurts....",
+      "Made us a cup of this tea and felt much better. After 2 cups over an 8 hour span neither of us had sore throats. The taste is really enjoyable too!",
+      "GAME CHANGER! Felt SO much better after three days, without any medication. Relaxed me and put me right to sleep!",
+      "This tea is a must have for sore throats. I keep a pack ready to go when me or the kids feel a little tickle in the throat. Huge relief...."
+     ],
+     "summary": "Customers find the tea effective for sore throats, feeling comforted when drinking it, and one customer mentions it numbs the throat."
+    },
+    {
+     "mentions": 56,
+     "name": "soothing",
+     "negative": 0,
+     "positive": 56,
+     "quotes": [
+      "The taste is good, not offensive and soothing. It\u2019s regularly stocked in our pantry and used for chronic nasal drip cough.",
+      "This tea has a wonderful flavor and is so soothing and comforting. I especially love how smooth it tastes without being overpowering....",
+      "Soothing tea with great flavor",
+      "I mostly use it at night before I go to bed and it soothes it enough for me to fall asleep and stay asleep. Its natural and works so well for me...."
+     ],
+     "summary": "Customers find this tea soothing, particularly noting its benefits for the esophagus and ability to calm the mouth, with several mentioning it helps put them to sleep."
+    },
+    {
+     "mentions": 43,
+     "name": "value for money",
+     "negative": 6,
+     "positive": 37,
+     "quotes": [
+      "Fast shipping, great price. This is my favorite tea. It\u2019s naturally sweet and has a great flavor. Excellent for soar throats too.",
+      "As always, I choose organic and at the price this was a great value. The taste was just fine, and it brewed strong enough to be effective.",
+      "The health benefits are that you will feel better and it is a good value for money since this works....",
+      "Purchased this to calm an inflamed throat from reflux/Gerd. Price is reasonable. Tasted fine for it's purpose however did not help my throat...."
+     ],
+     "summary": "Customers find the tea to be good value for money and say they will buy it again."
+    },
+    {
+     "mentions": 42,
+     "name": "caffeine-free",
+     "negative": 4,
+     "positive": 38,
+     "quotes": [
+      "This was great, it\u2019s caffeine free and it tastes great. Whole family was sick and this helped especially at night.",
+      "This is by hands down the best tea I have had. No sugar needed!...",
+      "Tastes delicious and licorice-y. It leaves a light film over your mouth and throat that helps with cold sores and sore throats....",
+      "This tea is so sweet and yummy without having to add sugar! It works well for a scratchy throat but I drink it anytime...."
+     ],
+     "summary": "Customers appreciate that the tea is caffeine-free and can be enjoyed without sweeteners or cream and sugar, with some noting it has a licorice flavor."
+    },
+    {
+     "mentions": 22,
+     "name": "seasonal",
+     "negative": 1,
+     "positive": 21,
+     "quotes": [
+      "This tea is a must in our cabinets all year long. Add a bit of honey and lemon and it does wonders for a sore throat. Worth every penny!...",
+      "My go to all year long. Great taste and helps soothe the scratchy throat caused by dry dusty indoor air",
+      "Any time I have an itch in my throat or worse, this is my go-to and has been for many years. It's always in my kitchen cabinet....",
+      "It is so soothing when I am sick. But it is also a go to when I am well. I even drink it in the summer. It has more body than most teas...."
+     ],
+     "summary": "Customers find this tea to be a staple in their homes, with one mentioning it's a must-have in their cabinets all year long."
+    },
+    {
+     "mentions": 21,
+     "name": "vocal performance",
+     "negative": 0,
+     "positive": 21,
+     "quotes": [
+      "Great to drink before & during a Zoom presentation, keeps the voice smooth.",
+      "Since I started drinking it daily, my voice has gotten much stronger. it also feels good when I have a sore throat.",
+      "This definitely helped bring my voice back but the taste is off putting.",
+      "Excellent for when you lose your voice or if you have a sore throat. It doesn\u2019t need any sweeteners (in my opinion) either."
+     ],
+     "summary": "Customers report that the tea improves their voice and keeps it smooth, with one customer noting it's particularly beneficial for singers and public speakers."
+    }
+   ],
+   "stars": {
+    "1": 1,
+    "2": 1,
+    "3": 3,
+    "4": 9,
+    "5": 86
+   }
+  },
+  "B000E65OF6": {
+   "features": [
+    {
+     "mentions": 537,
+     "name": "taste",
+     "negative": 36,
+     "positive": 501,
+     "quotes": [
+      "Five Stars",
+      "Great tea for any time of the day you want to relax. The chamomile and spearmint blend is delightful. My entire family of 5 enjoys this tea.",
+      "My wife, and her parents love this tea. Especially when using late at night. They couldn't be happier. They like to add a bit of clove honey to it.",
+      "I have been using this tea for many years and love it; I\u2019ve bought it several times. The teas are very flavorful and relaxing...."
+     ],
+     "summary": "Customers love the taste of this herbal tea and find it one of their favorites, with the whole family enjoying it."
+    },
+    {
+     "mentions": 316,
+     "name": "relaxation",
+     "negative": 32,
+     "positive": 284,
+     "quotes": [
+      "Very comforting and relaxing, helping me to let go of the day's \"stuff\" on my mind. Great taste, too.",
+      "Best working night time tea I\u2019ve found. Taste is pleasant and soothing.",
+      "Very relaxing and great for night-time or any time when one needs rest without the sleeping tablets type of sudden drop-off to sleep....",
+      "Helps me sleep."
+     ],
+     "summary": "Customers find this herbal tea helps them relax, particularly at night and after a long day, with one customer noting it's better than taking sleeping pills."
+    },
+    {
+     "mentions": 252,
+     "name": "flavor",
+     "negative": 24,
+     "positive": 228,
+     "quotes": [
+      "Great taste, much better value than the 20 bag boxes",
+      "Delicious. All of their tea varieties that Ive tried have been wonderful",
+      "Great flavor and very effective. Got six boxes and three of them had half of the tea bags damaged and the tea was at the bottom of the box....",
+      "Smells good, tastes good, always have a good experience with this brand. Doesn\u2019t upset my stomach or taste too strongly. A pleasant sleepytime tea"
+     ],
+     "summary": "Customers enjoy the flavor of this herbal tea, describing it as delightful and pleasant, with one customer noting it has a hint of mint."
+    },
+    {
+     "mentions": 166,
+     "name": "value for money",
+     "negative": 6,
+     "positive": 160,
+     "quotes": [
+      "great tea at a great price, love the mint mixture, one of my ATF. I will be buying this tea again",
+      "Great value. 6 boxes for the price. Cheaper then stores.",
+      "Good price for this product. It really works. So does the Sleepytime lip balm that was free in each box. That was a real bonus!",
+      "Good value and fresh with 1 year expiration. My husband has a hard time falling asleep. This tea is the best with putting him to sleep!..."
+     ],
+     "summary": "Customers find the tea worth the price, with one mentioning that a 40-count case of six is a good bargain."
+    },
+    {
+     "mentions": 92,
+     "name": "effectiveness",
+     "negative": 11,
+     "positive": 81,
+     "quotes": [
+      "WORKS!!",
+      "introduced to this celestial - herb tea- she goes right to sleep...it works.",
+      "Works great unless you have severe insomnia. I take it at bed time with melatonin. I would advise against taking it during the day....",
+      "this tea works like a charm. relax you right to sleep and you don't feel drowsy when you do wake up. great for baby when they are teething as well."
+     ],
+     "summary": "Customers find the tea effective, saying it really works for them, with one customer noting it helps them stay in REM sleep longer."
+    },
+    {
+     "mentions": 69,
+     "name": "bedtime use",
+     "negative": 1,
+     "positive": 68,
+     "quotes": [
+      "Great tea for before bed. Six boxes lasts an ample amount of time, just beware if you're looking for a tea to drink with cream this isn't the one....",
+      "The absolute best tea for nighttime I have ever found after years of searching. Others either taste bad or don't help me rest....",
+      "This is a great relaxing tea and for the price I definitely recommend it....",
+      "And true to its name, it really is great before bed...."
+     ],
+     "summary": "Customers love this tea for bedtime use, describing it as a perfect sleep time ritual that they enjoy sipping before going to bed."
+    },
+    {
+     "mentions": 44,
+     "name": "calming",
+     "negative": 2,
+     "positive": 42,
+     "quotes": [
+      "This is my favorite tea to drink at night before bed. It is calming and tastes so good....",
+      "Always good to have some sleepytime around! Taste is mild and comforting!",
+      "As a child, this tea really helped me downshift, and it gave my mother some much needed peace....",
+      "It\u2019s just a great tasting minty tea that calm your nerves. I have even drank it in the morning to take the edge off...."
+     ],
+     "summary": "Customers find this herbal tea calming and destressing, particularly noting its effectiveness for stress relief and settling sick stomachs. One customer mentions it helps with muscle aches, while another notes it doesn't cause a hangover feeling."
+    },
+    {
+     "mentions": 39,
+     "name": "ingredients",
+     "negative": 0,
+     "positive": 39,
+     "quotes": [
+      "This is great with a little honey and if you're lucky, a good rain storm and you'll sleep long and sound....",
+      "The chamomile and spearmint blend is delightful. My entire family of 5 enjoys this tea.",
+      "The blend of chamomile and mint is really nice. A flavorful blend without any caffeine. A wonderful hot drink on for a chilly evening....",
+      "Helps settle the stomach before bed. Sometimes even better with some honey."
+     ],
+     "summary": "Customers appreciate the ingredients in this herbal tea, particularly the chamomile and spearmint blend, with one customer noting the addition of lemongrass."
+    }
+   ],
+   "stars": {
+    "1": 1,
+    "2": 0,
+    "3": 3,
+    "4": 8,
+    "5": 88
+   }
+  }
+ },
+ "fetch_log": [
+  {
+   "asin": "B07X3LPXYB",
+   "status": "fetched",
+   "n_features": 7,
+   "ms": 2095
+  },
+  {
+   "asin": "B001AG67P0",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 1931
+  },
+  {
+   "asin": "B0D61M6W6Z",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 1902
+  },
+  {
+   "asin": "B00B77XTA8",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 2566
+  },
+  {
+   "asin": "B000E65OF6",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 2089
+  }
+ ],
+ "result": {
+  "best_value": {
+   "advertised": false,
+   "asin": "B001AG67P0",
+   "badges": [],
+   "bought_past_month": "4K+",
+   "n_ratings": 1380,
+   "organic_rank": 14,
+   "position": 26,
+   "price": 3.12,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Celestial Seasonings Raspberry Zinger Herbal Tea, Caffeine Free, 20 Tea Bags Box",
+   "features": [
+    {
+     "mentions": 136,
+     "name": "flavor",
+     "negative": 13,
+     "positive": 123,
+     "quotes": [
+      "name brand, Celestial Seasonings Raspberry Zinger Herbal Tea is delicious, calming and a great value for your money....",
+      "Great aroma, you dont need to add sugar for taste because it has a great taste for those who are into sour taste. You can taste the freshness",
+      "Tasty and good value. Can only use each tea bag once.",
+      "I've been buying this tea for many years. It has a great flavor and there is enough tea in one bag for a large mug."
+     ],
+     "summary": "Customers enjoy the tea's pleasant taste, with one customer noting that the flavors blend perfectly, and another mentioning it's delicious both hot and cold."
+    },
+    {
+     "mentions": 102,
+     "name": "taste",
+     "negative": 10,
+     "positive": 92,
+     "quotes": [
+      "Love this tea. It has a very pleasant taste and no strong aroma, which often comes from synthetic fragrance. I drink it hot, sweetened with stevia....",
+      "Great tea my family loves it",
+      "Good",
+      "Good product as described"
+     ],
+     "summary": "Customers love the taste of this herbal tea, particularly enjoying it as a summer beverage."
+    },
+    {
+     "mentions": 27,
+     "name": "value for money",
+     "negative": 2,
+     "positive": 25,
+     "quotes": [
+      "Great tasting and healthy tea. A good value also. No caffeine, plastic, or GMOs....",
+      "Great taste, great value and good for you!",
+      "Cheaper than Walmart. I mix this with decaf iced tea bags and make iced tea. It is very good",
+      "Excellent flavor, strong brew, will buy again"
+     ],
+     "summary": "Customers find the tea to be excellent value and say they will buy it again."
+    },
+    {
+     "mentions": 16,
+     "name": "iced",
+     "negative": 0,
+     "positive": 16,
+     "quotes": [
+      "Tasty tea!<br />Good iced or even hot with a dash of milk or cream.",
+      "I love this to combine with raspberry leaf tea. That\u2019s way I can also taste raspberry but get the leaf benefits.",
+      "I purchase this to make a sweet tea mostly in the summer. It goes well with any food or just by itself. Refreshing.",
+      "It has a very pleasant flavor that goes well by itself or mixed with lemonade. Mix it up and relax in the sun...."
+     ],
+     "summary": "Customers enjoy making this tea with ice, and one customer mentions it blends well with raspberry leaf tea, while another notes it combines nicely with honey."
+    },
+    {
+     "mentions": 15,
+     "name": "caffeine-free",
+     "negative": 0,
+     "positive": 15,
+     "quotes": [
+      "Caffeine free, great taste and perfect with a book before bed.",
+      "Great tasting and healthy tea. A good value also. No caffeine, plastic, or GMOs....",
+      "This is one of the few teas I can enjoy without any added sugar. Tastes great hot or cold and isn't bland....",
+      "Because it's naturally caffeine-free, it's incredibly soothing to drink in the evening when I want to relax and ease menstrual discomfort...."
+     ],
+     "summary": "Customers appreciate that the tea is naturally caffeine-free and can be enjoyed without added sugar."
+    },
+    {
+     "mentions": 9,
+     "name": "health benefits",
+     "negative": 0,
+     "positive": 9,
+     "quotes": [
+      "It is naturally caffeine free and provides some great antioxidants. I love the tangy and fruity flavor. It is different and so refreshing....",
+      "I love mocktails but it's good for cutting back on sugar.",
+      "I always drink the tea it really good for bad cramps wish I could find it in walmart",
+      "Got this tea to make raspberry hot chocolate. It works so well, the two flavors blending perfectly for a magnificent treat without a kajillion..."
+     ],
+     "summary": "Customers appreciate the health benefits of this herbal tea, with individual reviews noting it helps with cramps, blood pressure, and respiratory issues like sniffles and coughs."
+    },
+    {
+     "mentions": 9,
+     "name": "temperature",
+     "negative": 0,
+     "positive": 9,
+     "quotes": [
+      "It makes a comforting cup when I want something warm, but it\u2019s also refreshing served iced. A great choice for anyone who loves fruity herbal teas!",
+      "She says she enjoys the tea cold or room temperature and appreciates that there is no added sugars as she has PCOS....",
+      "Very flavorful! Better as iced tea than hot.",
+      "With some lemon or lime & honey really warms you up on a cold day."
+     ],
+     "summary": "Customers appreciate that the tea can be enjoyed both hot and cold, with some preferring it as iced tea rather than hot."
+    },
+    {
+     "mentions": 7,
+     "name": "aroma",
+     "negative": 0,
+     "positive": 7,
+     "quotes": [
+      "Love this tea. It has a very pleasant taste and no strong aroma, which often comes from synthetic fragrance. I drink it hot, sweetened with stevia....",
+      "Good quality, Great aroma, you dont need to add sugar for taste because it has a great taste for those who are into sour taste....",
+      "Very aromatic herbal tea when steeping, very flavorful with a rich taste. Excellent refreshing brew.",
+      "Very refreshing. It arrived on time, packaged properly, and smelled pleasant."
+     ],
+     "summary": "Customers like the aroma of this herbal tea."
+    }
+   ],
+   "complaints": [],
+   "neg_share": 0.078,
+   "low_star_pct": 4,
+   "fair_rating": 4.782,
+   "why": "4.78\u2605 fair rating vs 4.80\u2605 for the top-rated, for $10.62 less, $6.83 under the median price. No major complaints across 8 review features.",
+   "warn": null,
+   "risk": [],
+   "ad": false,
+   "unchecked": false
+  },
+  "best_price": {
+   "advertised": false,
+   "asin": "B07X3LPXYB",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 3760,
+   "organic_rank": 42,
+   "position": 54,
+   "price": 2.16,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Amazon Grocery, Chamomile Herbal Tea Bags, 20 Ct",
+   "features": [
+    {
+     "mentions": 249,
+     "name": "quality",
+     "negative": 40,
+     "positive": 209,
+     "quotes": [
+      "Good",
+      "Great tea, never used before, but I like it",
+      "Good tea, reasonable price. Second time I have bought and will again.",
+      "These are great, basic Chamomile tea bags! Only issue is that I find the plastic bag each one is in is rather difficult to open...."
+     ],
+     "summary": "Customers find this herbal tea excellent, with one customer describing it as a nice floral tea."
+    },
+    {
+     "mentions": 222,
+     "name": "flavor",
+     "negative": 61,
+     "positive": 161,
+     "quotes": [
+      "Taste and smells great. Cheap packaging but great taste! Not a very strong tea, suggested water amount is less than a cup.",
+      "She says it is tasty and works well to make her feel relaxed. Great value for the money.",
+      "No flavor, just hot water This chamomile tea tastes like nothing. Steeped forever and it\u2019s still basically yellow water....",
+      "Great price, very effective and easy to use. High quality tea, good taste. All you have to add is honey or lemon. Very healthy."
+     ],
+     "summary": "Customers enjoy the flavor of this chamomile tea, describing it as nice and delicious, with one customer noting it has a pleasant vanilla or peppermint hint."
+    },
+    {
+     "mentions": 149,
+     "name": "value for money",
+     "negative": 23,
+     "positive": 126,
+     "quotes": [
+      "This is just basic chamomile tea at a great price! The taste and smell is the same as other affordable brands at the grocery store.",
+      "Good price, but very little taste. Even using two bags. The Peppermint tea is much better.",
+      "If you're the latter, then it's a great value for you! Like all chamomile, it does help with sleep and comfort....",
+      "A good value for a simple, chamomile tea. While not particularly strong-smelling or potent, it was definitely good for long term brewing...."
+     ],
+     "summary": "Customers find this chamomile tea to be good value for money, describing it as an unbelievable quality for the price."
+    },
+    {
+     "mentions": 98,
+     "name": "relaxation",
+     "negative": 5,
+     "positive": 93,
+     "quotes": [
+      "What I loved the most about this tea is that the flavor is light and soothing, not too strong or bitter....",
+      "Tasty and relaxing",
+      "The box could also include more servings. Overall, it\u2019s a calming, affordable tea that\u2019s great for a simple nighttime routine.",
+      "Relaxing tea for the evening tv \ud83d\udcfa to bed transition \ud83d\udecc\ud83d\udca4"
+     ],
+     "summary": "Customers find the chamomile tea helps them relax, particularly after a long day and as a bedtime beverage, with one customer noting it's naturally calming without being overpowering."
+    },
+    {
+     "mentions": 30,
+     "name": "aroma",
+     "negative": 6,
+     "positive": 24,
+     "quotes": [
+      "The aroma is calming, and it helps me relax after a long day. It\u2019s also great for soothing an upset stomach....",
+      "Tastes great and makes you feel more relaxed! Smells good too! It is a somewhat weaker tea though, sometimes I need two bag in my cup.",
+      "I love the taste of freshly made hot tea. The tea quality, freshness, aroma, as well as the packaging are first rate....",
+      "A good value for a simple, chamomile tea. While not particularly strong-smelling or potent, it was definitely good for long term brewing...."
+     ],
+     "summary": "Customers enjoy the tea's aroma, describing it as lovely and fragrant, with one customer noting it's a cup of calm."
+    },
+    {
+     "mentions": 19,
+     "name": "freshness",
+     "negative": 2,
+     "positive": 17,
+     "quotes": [
+      "Great price. Effective for my nighttime routine. Tastes good and fresh. Helps me sleep well",
+      "Delicious tea, very fresh \ud83e\udd70 loved",
+      "I love the taste of freshly made hot tea. The tea quality, freshness, aroma, as well as the packaging are first rate....",
+      "Bags were clear plastic instead of paper, which kept the tea fresh for longer than some tea brands."
+     ],
+     "summary": "Customers appreciate the freshness of the tea, noting that the individually wrapped bags help keep it fresh longer."
+    },
+    {
+     "mentions": 44,
+     "name": "strength",
+     "negative": 29,
+     "positive": 15,
+     "quotes": [
+      "I love chamomile tea, this tea has a great flavor but a little weak. Almost like you may want to use two tea bags for a cup.",
+      "I like that it was very strong. Also the price was very good.",
+      "A bit weak",
+      "This brand is non potent. Doesn't help with anxiety or sleep. You get what you pay for........ $1.66 per 20 bags means it doesn't work."
+     ],
+     "summary": "Customers have mixed opinions about the tea's strength, with some saying it makes a strong brew while others find it mild."
+    }
+   ],
+   "complaints": [
+    "strength 66% negative (29/44)"
+   ],
+   "neg_share": 0.205,
+   "low_star_pct": 10,
+   "fair_rating": 4.603,
+   "warn": "strength 66% negative (29/44)",
+   "risk": [
+    "strength 66% negative (29/44)"
+   ],
+   "ad": false,
+   "unchecked": false
+  },
+  "amazon_pick": {
+   "advertised": false,
+   "asin": "B004CIUU6K",
+   "badges": [
+    "Overall Pick"
+   ],
+   "bought_past_month": "10K+",
+   "n_ratings": 7310,
+   "organic_rank": 1,
+   "position": 5,
+   "price": 3.12,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Celestial Seasonings Herbal Tea Sampler Variety Pack, Caffeine Free, 18 Tea Bags Box",
+   "fair_rating": 4.699,
+   "warn": null,
+   "risk": [],
+   "ad": false,
+   "unchecked": false,
+   "pick_reason": "badge"
+  },
+  "stats": {
+   "items": 59,
+   "avg_rating": 4.64,
+   "median_price": 9.95,
+   "ads": 12
+  }
+ }
+}

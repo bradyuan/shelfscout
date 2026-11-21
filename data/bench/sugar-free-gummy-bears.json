@@ -1,0 +1,1569 @@
+{
+ "query": "sugar free gummy bears",
+ "pattern": "without",
+ "key_terms": [
+  "sugar free|sugar-free"
+ ],
+ "url": "https://www.amazon.com/s?k=sugar+free+gummy+bears",
+ "frozen_at": "2026-11-21 17:49",
+ "cards": [
+  {
+   "advertised": false,
+   "asin": "B00IF3DUW4",
+   "badges": [
+    "Overall Pick"
+   ],
+   "bought_past_month": "300+",
+   "n_ratings": 1639,
+   "organic_rank": 1,
+   "position": 2,
+   "price": 17.99,
+   "rating": 4.1,
+   "sponsored": false,
+   "title": "The Nutty Fruit House Sugar Free Gummy Bear (1 Pound (Pack of 1))"
+  },
+  {
+   "advertised": true,
+   "asin": "B00HD0BA4U",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 4804,
+   "organic_rank": 2,
+   "position": 3,
+   "price": 35.28,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "Albanese Candy, Sugar Free 12 Flavor Gummi Bears, 3.5 oz. Bag, Pack of 12"
+  },
+  {
+   "advertised": true,
+   "asin": "B0H6Y31M4F",
+   "badges": [],
+   "bought_past_month": "800+",
+   "n_ratings": 101,
+   "organic_rank": 3,
+   "position": 4,
+   "price": 9.99,
+   "rating": 3.1,
+   "sponsored": false,
+   "title": "Sugar Free Gummy Bears, Sugar Free Candy, 3D Bears, 1 Lb Bag"
+  },
+  {
+   "advertised": false,
+   "asin": "B0D1YN7RM6",
+   "badges": [],
+   "bought_past_month": "300+",
+   "n_ratings": 628,
+   "organic_rank": 4,
+   "position": 5,
+   "price": 9.99,
+   "rating": 3.6,
+   "sponsored": false,
+   "title": "Sugar Free Candy, 3D Gummy Bears, Fruit Flavors, 1 Lb Bag"
+  },
+  {
+   "advertised": false,
+   "asin": "B00OYPFC46",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 44154,
+   "organic_rank": 5,
+   "position": 6,
+   "price": 16.57,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Albanese World's Best 12 Flavor Gummi Bears | 5lbs of Fruit Bulk Candy"
+  },
+  {
+   "advertised": false,
+   "asin": "B0G1VDN772",
+   "badges": [],
+   "bought_past_month": "6K+",
+   "n_ratings": 598,
+   "organic_rank": 6,
+   "position": 7,
+   "price": 6.49,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "JOLLY RANCHER Gummies Zero Sugar Assorted Gummy Candy Fruit Pouches, 4.9 oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DGB9L2MV",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 1119,
+   "organic_rank": 7,
+   "position": 8,
+   "price": 20.97,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Atkins Endulge Gummy Bears Variety Pack, Low Sugar, Keto Friendly Candy, 18 Pack (12 Sweet Gummy Bears, 6 Sour Gummy Bears)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DW5ZTYMB",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "1K+",
+   "n_ratings": 778,
+   "organic_rank": 8,
+   "position": 9,
+   "price": 12.25,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "Welch's Zero Sugar Fruity Bites - Mixed Fruit - 3 Oz - 6 Pack"
+  },
+  {
+   "advertised": false,
+   "asin": "B01E9Z3H60",
+   "badges": [],
+   "bought_past_month": "7K+",
+   "n_ratings": 4352,
+   "organic_rank": 9,
+   "position": 10,
+   "price": 9.54,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Albanese World's Best 12 Flavor Gummi Bears | 36oz Bag of Gummy Candy"
+  },
+  {
+   "advertised": false,
+   "asin": "B0BGYSZWVW",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 118,
+   "organic_rank": 10,
+   "position": 11,
+   "price": 25.99,
+   "rating": 4,
+   "sponsored": false,
+   "title": "Smarty Stop Sugar Free Gummy Bears (2 Pound (Pack of 1))"
+  },
+  {
+   "advertised": false,
+   "asin": "B0F67MF8PL",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 165,
+   "organic_rank": 11,
+   "position": 12,
+   "price": 21.9,
+   "rating": 3.7,
+   "sponsored": false,
+   "title": "Delicious Fruit Flavor Sugar-Free Gummi Bears Candy-1.5 lbs"
+  },
+  {
+   "advertised": true,
+   "asin": "B0H37RX8CH",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 70,
+   "organic_rank": 12,
+   "position": 13,
+   "price": 11.89,
+   "rating": 3.2,
+   "sponsored": false,
+   "title": "Sugar Free Gummi Bears, Sugar Free Candy, 3D Gummies, 1 Lb Bag"
+  },
+  {
+   "advertised": false,
+   "asin": "B0H37VJDJZ",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 60,
+   "organic_rank": 13,
+   "position": 14,
+   "price": 9.99,
+   "rating": 3.6,
+   "sponsored": false,
+   "title": "Sugar Free Gummy Bears, Sugar Free Candy, Fruit Flavors, 1 Lb Bag"
+  },
+  {
+   "advertised": false,
+   "asin": "B0B3TVHJHT",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 503,
+   "organic_rank": 14,
+   "position": 15,
+   "price": 49.95,
+   "rating": 4.1,
+   "sponsored": false,
+   "title": "LILY'S Assorted Fruit Flavored No Sugar Added, Gummy Bears Bags, 1.8 oz (12 Count)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0F1GCVYTW",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 9,
+   "organic_rank": 15,
+   "position": 16,
+   "price": 14.79,
+   "rating": 5,
+   "sponsored": false,
+   "title": "Zero Sugar Gummi Bears Candy, 12 Flavor, 3.5 Ounce"
+  },
+  {
+   "advertised": false,
+   "asin": "B0BT7MFKJL",
+   "badges": [],
+   "bought_past_month": "4K+",
+   "n_ratings": 2693,
+   "organic_rank": 16,
+   "position": 17,
+   "price": 3.99,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "Welch's Zero Sugar Fruity Bites, Mixed Fruit, 3 oz Snack Pack"
+  },
+  {
+   "advertised": false,
+   "asin": "B07F879CJB",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 3325,
+   "organic_rank": 17,
+   "position": 18,
+   "price": 11.84,
+   "rating": 4.1,
+   "sponsored": false,
+   "title": "Jelly Belly Sugar Free - 8.25 oz Bag - Official, Genuine, Straight from the Source"
+  },
+  {
+   "advertised": false,
+   "asin": "B07T596YGZ",
+   "badges": [],
+   "bought_past_month": "300+",
+   "n_ratings": 7251,
+   "organic_rank": 18,
+   "position": 19,
+   "price": 27.99,
+   "rating": 4,
+   "sponsored": false,
+   "title": "Kiss My Keto Sugar Free Gummy Bears, 12-Pack \u2013 Satisfy Cravings while Staying in Ketosis \u2013 High Fiber, 3g Net Carbs, Non-GMO & No Gluten \u2013 Fruity Sugar Free Gummies"
+  },
+  {
+   "advertised": false,
+   "asin": "B0GS6YHXGL",
+   "badges": [],
+   "bought_past_month": "5K+",
+   "n_ratings": 565,
+   "organic_rank": 19,
+   "position": 20,
+   "price": 8.99,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "ChocZero Sugar Free Fruit Snacks, Made with Real Fruit, 8 Snack Packs"
+  },
+  {
+   "advertised": false,
+   "asin": "B00DR8JO0Y",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 4888,
+   "organic_rank": 20,
+   "position": 24,
+   "price": 3.49,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "TWIZZLERS Zero Sugar Twists Strawberry Flavored Licorice Style, Candy Bag, 5 oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DHBKF2CH",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 3,
+   "organic_rank": 21,
+   "position": 25,
+   "price": 36.99,
+   "rating": 3.6,
+   "sponsored": false,
+   "title": "Assorted Color Rainbow Gummy, Jar (3 lb) (Sugar Free Bear)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0BYLJJGZB",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 32,
+   "organic_rank": 22,
+   "position": 26,
+   "price": 14.99,
+   "rating": 3.8,
+   "sponsored": false,
+   "title": "Smarty Stop Sugar Free Gummy Worm Candy \u2013 Edible Fruity Flavored Confectionery Snack, Low Sugar Candy (1 Pound (Pack of 1))"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DCW7GLZW",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 770,
+   "organic_rank": 23,
+   "position": 27,
+   "price": 15.99,
+   "rating": 3.6,
+   "sponsored": false,
+   "title": "Sugar Free Gummi Bears, Sugar Free Candy, 1 Lb Bag"
+  },
+  {
+   "advertised": false,
+   "asin": "B004G94ZPW",
+   "badges": [],
+   "bought_past_month": "300+",
+   "n_ratings": 8791,
+   "organic_rank": 24,
+   "position": 29,
+   "price": 29.99,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Albanese Candy, 12 Flavor Gummi Bear Cubs, 5-pound Bag"
+  },
+  {
+   "advertised": false,
+   "asin": "B0G1V6L89F",
+   "badges": [],
+   "bought_past_month": "2K+",
+   "n_ratings": 9215,
+   "organic_rank": 25,
+   "position": 30,
+   "price": 12.13,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Black Forest Organic Gummy Bears Candy, USDA Certified, 18 oz Bag, 1 Count USDA Organic"
+  },
+  {
+   "advertised": false,
+   "asin": "B0G1VFHJJH",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 1037,
+   "organic_rank": 26,
+   "position": 31,
+   "price": 6.44,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "JOLLY RANCHER Zero Sugar Tropical Fruit Hard Candy Bag, 6.1 oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B0FMFSHB73",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 64,
+   "organic_rank": 27,
+   "position": 32,
+   "price": 11.99,
+   "rating": 3.4,
+   "sponsored": false,
+   "title": "Sugar-Free 3D Gummy Bears, 1 Pound Bulk Bag, The Hampton Popcorn & Candy Company"
+  },
+  {
+   "advertised": false,
+   "asin": "B0C9DY1SPW",
+   "badges": [],
+   "bought_past_month": "300+",
+   "n_ratings": 716,
+   "organic_rank": 28,
+   "position": 33,
+   "price": 14.99,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "Bonelle Sugar Free Candy Individually Wrapped, Fruit Jellies, 1 Lb Bag"
+  },
+  {
+   "advertised": false,
+   "asin": "B0FRSLCLJB",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 11,
+   "organic_rank": 29,
+   "position": 34,
+   "price": 29.99,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "9 SHANI'S Zero Sugar, 12 Flavor Gummi Bears, Candy, 3.5 Ounce Individually Wrapped Soft & Chewy Candy Snacks (6 Pack)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0D4NFCS5C",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 208,
+   "organic_rank": 30,
+   "position": 35,
+   "price": 23.9,
+   "rating": 3.6,
+   "sponsored": false,
+   "title": "Sugar-Free Gummi Worms Candy-1.5 lbs Fruit Flavor"
+  },
+  {
+   "advertised": false,
+   "asin": "B0CLSJD6DT",
+   "badges": [],
+   "bought_past_month": "2K+",
+   "n_ratings": 119,
+   "organic_rank": 31,
+   "position": 36,
+   "price": 3.79,
+   "rating": 4,
+   "sponsored": false,
+   "title": "Smart Sweets, Gummy Worms, 1.8 Ounce"
+  },
+  {
+   "advertised": false,
+   "asin": "B075FNSS9N",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 193,
+   "organic_rank": 32,
+   "position": 38,
+   "price": null,
+   "rating": 3.6,
+   "sponsored": false,
+   "title": "Albanese Sugar Free 12 Flavor Gummi Bears 3.5-oz. Peg Bag"
+  },
+  {
+   "advertised": false,
+   "asin": "B0BDP24LP4",
+   "badges": [],
+   "bought_past_month": "70K+",
+   "n_ratings": 18557,
+   "organic_rank": 33,
+   "position": 39,
+   "price": 23.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Metamucil Fiber Gummies for Adults, No Sugar Added Orange Flavor, 5g Prebiotic Plant Based Fiber Supplement Blend, 120 Count"
+  },
+  {
+   "advertised": false,
+   "asin": "B0H2FP8XNT",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 13,
+   "organic_rank": 34,
+   "position": 40,
+   "price": 35.99,
+   "rating": 4,
+   "sponsored": false,
+   "title": "Yumtein Protein Gummy Bears, 15g of Protein per Bag, 7-Pack Variety"
+  },
+  {
+   "advertised": false,
+   "asin": "B0C5BBZ57Y",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "2K+",
+   "n_ratings": 819,
+   "organic_rank": 35,
+   "position": 41,
+   "price": 18.99,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Shameless Snacks So Beary Cherry Gummy Bears - Candy & Fruit Snacks, Keto"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DZF4PXBP",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "3K+",
+   "n_ratings": 695,
+   "organic_rank": 36,
+   "position": 42,
+   "price": 7.64,
+   "rating": 4.1,
+   "sponsored": false,
+   "title": "ChocZero Sugar Free Fruit Chews, Chewy Taffy Candy, 8 oz"
+  },
+  {
+   "advertised": false,
+   "asin": "B0C917T9YW",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 48,
+   "organic_rank": 37,
+   "position": 43,
+   "price": 19.95,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "MASHBOX LILY'S Assorted Fruit Flavored No Sugar Added Gummy Bears, Gluten Free, 1.8 oz Bags (6 Count)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DP2JVDRJ",
+   "badges": [],
+   "bought_past_month": "2K+",
+   "n_ratings": 108,
+   "organic_rank": 38,
+   "position": 44,
+   "price": null,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "BEAR Mixed Berries Fruit Bites 5 Count, 3.5 OZ"
+  },
+  {
+   "advertised": false,
+   "asin": "B0FD8393K3",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 13,
+   "organic_rank": 39,
+   "position": 45,
+   "price": 16.99,
+   "rating": 3.4,
+   "sponsored": false,
+   "title": "SweetGourmet Fruit Flavor Sugar-Free Gummy Bears, Chewy Candy, 1 Pound Bag"
+  },
+  {
+   "advertised": false,
+   "asin": "B08D6XD5HY",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 131,
+   "organic_rank": 40,
+   "position": 46,
+   "price": 19.39,
+   "rating": 3.3,
+   "sponsored": false,
+   "title": "Vidal Sugar Free Gummy Worms, 2.2 lb Bulk Bag, Made in Spain"
+  },
+  {
+   "advertised": false,
+   "asin": "B0G1V5Z36Z",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 144,
+   "organic_rank": 41,
+   "position": 47,
+   "price": 9.41,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Black Forest Organic Forest Friends Candy, USDA Organic, 18 oz Bag USDA Organic"
+  },
+  {
+   "advertised": false,
+   "asin": "B008B7JNRA",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 3115,
+   "organic_rank": 42,
+   "position": 48,
+   "price": 6.99,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "YumEarth, Gummy Bears Snack Pack Organic, 10 Count"
+  },
+  {
+   "advertised": false,
+   "asin": "B00GU2RBJK",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 36229,
+   "organic_rank": 43,
+   "position": 49,
+   "price": 6.49,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Jelly Belly Sugar Free 2.8 oz bag - Genuine, Official, Straight from the Source"
+  },
+  {
+   "advertised": false,
+   "asin": "B08MF9818X",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 267,
+   "organic_rank": 44,
+   "position": 50,
+   "price": 8.95,
+   "rating": 3.8,
+   "sponsored": false,
+   "title": "Diablo Sugar Free Gummy Bears - Fruity Gummy Sweets with Natural Colouring, Low Sugar Snacks Sweetened with Stevia, Ideal for Kids & Adults, Great for Sweet Hamper Gifts & Treats - 2.65 oz Pack of 1"
+  },
+  {
+   "advertised": false,
+   "asin": "B0HFNDKMTP",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 17,
+   "organic_rank": 45,
+   "position": 51,
+   "price": 18.99,
+   "rating": 4,
+   "sponsored": false,
+   "title": "Sugar Free Gummy Candy, Assorted Fruit Flavored Gummy Bears & Gummy Worms, Soft & Chewy Candy, Multiple Sizes (1 lb, Gummy Bears)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0FCQV1817",
+   "badges": [],
+   "bought_past_month": "8K+",
+   "n_ratings": 2337,
+   "organic_rank": 46,
+   "position": 52,
+   "price": 29.99,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "Adult Greens Gummies Sugar Free Multivitamin & Prebiotic Fiber, 10 ct"
+  },
+  {
+   "advertised": false,
+   "asin": "B0F5PYTF4P",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "1K+",
+   "n_ratings": 116,
+   "organic_rank": 47,
+   "position": 53,
+   "price": 21.24,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Kervan 12 Flavor Gummy Bears, 5 lb Bulk Bag"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DSM126Z9",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 17,
+   "organic_rank": 48,
+   "position": 54,
+   "price": 20.69,
+   "rating": 3.5,
+   "sponsored": false,
+   "title": "Jammy's\u2122 - Sour Green Apple Gummy Bears | Sugar-Free & Vegan-Friendly | Keto-Friendly, Gluten-Free, Low Carb, High Fibre & Naturally Fruity | Delicious, Soft & Chewy | Box of 6 x 50g Bags"
+  },
+  {
+   "advertised": true,
+   "asin": "B0F1QNZXXQ",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 3,
+   "organic_rank": null,
+   "position": 21,
+   "price": 29.99,
+   "rating": 2.8,
+   "sponsored": true,
+   "title": "Yumtein Protein Gummy Bears, Cherry, 6-Pack"
+  },
+  {
+   "advertised": true,
+   "asin": "B0DSLQKDCD",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 22,
+   "organic_rank": null,
+   "position": 28,
+   "price": 20.69,
+   "rating": 3,
+   "sponsored": true,
+   "title": "Jammy's\u2122 - Pineapple Gummy Bears | Sugar-Free & Vegan-Friendly | Keto-Friendly, Gluten-Free, Low Carb, High Fibre & Naturally Fruity | Delicious, Soft & Chewy | Box of 6 x 50g Bags"
+  },
+  {
+   "advertised": true,
+   "asin": "B0D52C7CMM",
+   "badges": [],
+   "bought_past_month": "900+",
+   "n_ratings": 232,
+   "organic_rank": null,
+   "position": 37,
+   "price": 49.98,
+   "rating": 4,
+   "sponsored": true,
+   "title": "Bear Balanced Creatine Gummies for Men & Women - Creapure\u00ae Creatine Monohydrate, L-Theanine, L-Tyrosine & B12 for Muscle Growth, Strength, Focus, Energy & Health - Low Calorie, Sugar-Free, & Vegan"
+  },
+  {
+   "advertised": true,
+   "asin": "B0HK3D5B4V",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "100+",
+   "n_ratings": 71,
+   "organic_rank": null,
+   "position": 55,
+   "price": 27.07,
+   "rating": 4.4,
+   "sponsored": true,
+   "title": "ON GreenVita Creatine Gummies 5g Men & Women, Raspberry Blueberry, 135 Ct"
+  },
+  {
+   "advertised": true,
+   "asin": "B0DRW5ZDFQ",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "4K+",
+   "n_ratings": 1431,
+   "organic_rank": null,
+   "position": 56,
+   "price": 22.92,
+   "rating": 4.5,
+   "sponsored": true,
+   "title": "Magnesium Glycinate Gummies, Malate, Citrate, Orange, 60 Ct"
+  },
+  {
+   "advertised": true,
+   "asin": "B0DLNC96R9",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 56,
+   "organic_rank": null,
+   "position": 57,
+   "price": 29.99,
+   "rating": 4.1,
+   "sponsored": true,
+   "title": "Suitly Ultra-Micronized Creatine Gummies for Women & Men, 5g per Serving"
+  },
+  {
+   "advertised": true,
+   "asin": "B0GS4QH6LV",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": null,
+   "n_ratings": 36,
+   "organic_rank": null,
+   "position": 58,
+   "price": 20.51,
+   "rating": 4.2,
+   "sponsored": true,
+   "title": "Creatine Monohydrate Gummies for Men & Women - 5g Creatine Gummy 90 Count"
+  },
+  {
+   "advertised": true,
+   "asin": "B0H4ZHLVRY",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 28,
+   "organic_rank": null,
+   "position": 59,
+   "price": 39.89,
+   "rating": 4.2,
+   "sponsored": true,
+   "title": "Creatine Monohydrate Gummies for Men & Women,Raspberry & Blueberry,120 Ct"
+  },
+  {
+   "advertised": true,
+   "asin": "B0GG93MLP1",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "400+",
+   "n_ratings": 62,
+   "organic_rank": null,
+   "position": 60,
+   "price": 9.9,
+   "rating": 4.4,
+   "sponsored": true,
+   "title": "Nature's Key Beet Root Gummies-NO Sugar 60 Count Beets Root Extract with Hawthorn Extract and L-Citrulline, Beet Gummies|Superfood|Supplement Vegan, Non-GMO, and Gluten Free"
+  }
+ ],
+ "features": {
+  "B00DR8JO0Y": {
+   "features": [
+    {
+     "mentions": 247,
+     "name": "taste",
+     "negative": 51,
+     "positive": 196,
+     "quotes": [
+      "These were delicious. They don't taste the same as normal but like them because they are sugar-free. They came quick and they were very fresh....",
+      "Great taste, nearly identical to original. The big but, is paying $10 for a small bag. Not happening again.",
+      "Taste great. Not a lot of value for the price though. But they are good.",
+      "Hard, no flavor I have never tasted anything so bad."
+     ],
+     "summary": "Customers enjoy the taste of these sugar-free licorice twists, with one customer noting they can satisfy the urge for a sweet snack very well."
+    },
+    {
+     "mentions": 152,
+     "name": "quality",
+     "negative": 35,
+     "positive": 117,
+     "quotes": [
+      "Very good, great taste but irritated my stomach badly.",
+      "Good.",
+      "Great product for those of us on reduced sugar diets. It may not taste exactly like the original, but it is a good substitute..",
+      "Not a very good taste at all. The black licorice I also purchased was nasty and not edible at all."
+     ],
+     "summary": "Customers love these licorice twists, with some saying they are perfect and would give them 10 stars if possible."
+    },
+    {
+     "mentions": 78,
+     "name": "sugar content",
+     "negative": 10,
+     "positive": 68,
+     "quotes": [
+      "I like the fact it was sugar free because I am diabetic....a little pricey though, but have not been able to find in a local store.",
+      "It's no sugar, but can't compare to the real thing. Texture, sweetness, simply is not there. Meh on the flavor....",
+      "To delicious to be zero sugar",
+      "If I didn't know these were sugar-free would have thought they were regular twizzlers. So yummy!"
+     ],
+     "summary": "Customers appreciate that these candy twists are sugar-free, with one customer noting they are 99% similar to the sugary version."
+    },
+    {
+     "mentions": 27,
+     "name": "freshness",
+     "negative": 6,
+     "positive": 21,
+     "quotes": [
+      "They were delicious and fresh, but I did not know I would have a reaction to the \"sugar free\" part. It acted as a laxative on me....",
+      "They taste the same as the ones with sugar. They're also very fresh!",
+      "The licorice was fresher than in a movie theater and tastes wonderful!",
+      "Not fresh the flavor is okay"
+     ],
+     "summary": "Customers appreciate the freshness of these candy twists, with one noting they are even fresher than those found in movie theaters."
+    },
+    {
+     "mentions": 39,
+     "name": "texture",
+     "negative": 19,
+     "positive": 20,
+     "quotes": [
+      "Enjoyed the taste and texture of these twizzlers!!",
+      "Hard, dry, plasticky, could not eat.",
+      "My mom who is a diabetic loves these! It gives her the Twizzler texture without the sugar. This is my second batch of them.",
+      "The flavor was good but I didn\u2019t like the texture"
+     ],
+     "summary": "Customers have mixed opinions about the texture of these sugar-free Twizzlers, with some loving it while others find it very hard."
+    },
+    {
+     "mentions": 17,
+     "name": "chewability",
+     "negative": 8,
+     "positive": 9,
+     "quotes": [
+      "The taste is still there and they were fresh and nice and chewy....",
+      "I can eat almost any candy and be happy but this was like chewing an electrical cord. I bit into it and they were not chewy....",
+      "These are YUMMY. So yummy that I could again eat the whole pack. Other than the consistency, I barely know they are sugar free....",
+      "They have the aftertaste of a twizzler but it's like chewing on straight paraffin wax. They really are awful...."
+     ],
+     "summary": "Customers have mixed opinions about the candy's chewability, with some finding it chewy while others say it's not very chewable."
+    },
+    {
+     "mentions": 86,
+     "name": "value for money",
+     "negative": 68,
+     "positive": 18,
+     "quotes": [
+      "Expensive, but the taste is great. It has an identical taste to regular Twizzlers.",
+      "I like the fact it was sugar free because I am diabetic....a little pricey though, but have not been able to find in a local store.",
+      "At 50usd now they are way too expensive.If price halfs its a good deal for 12 packs.",
+      "If you dont plan on leaving the house for 24 hours it is worth it."
+     ],
+     "summary": "Customers find the candy to be a poor value, noting that there isn't enough product in the package for the price and describing it as a huge rip-off."
+    },
+    {
+     "mentions": 42,
+     "name": "digestibility",
+     "negative": 34,
+     "positive": 8,
+     "quotes": [
+      "Tasty but the digestive impact is severe even in small, calibrated doses....",
+      "Whatever ingredients are in it they cause bad digestive issues to people that already have GI problems. Can\u2019t eat more than one or two unfortunately",
+      "Not long after; I had major intestinal pain, gas & bloating. Horrible cramping all night. Husband had bouts of flatulency & lower bowel pressure too!...",
+      "They taste really good but they hurt my stomach so much I would not buy these again."
+     ],
+     "summary": "Customers report that the candy causes digestive issues, including upset stomach, diarrhea, and nausea."
+    }
+   ],
+   "stars": {
+    "1": 8,
+    "2": 4,
+    "3": 7,
+    "4": 12,
+    "5": 69
+   }
+  },
+  "B0CLSJD6DT": {
+   "features": [
+    {
+     "mentions": 27,
+     "name": "flavor",
+     "negative": 7,
+     "positive": 20,
+     "quotes": [
+      "Yummy, good portion.",
+      "Tasty but expensive",
+      "Gross and you get about 10 total - don\u2019t waste your money or time - just gross and they have 38 carbs for 1 bag of 10 worms",
+      "These are delicious! I\u2019ve bought multiple packs, which I usually don\u2019t when trying a new low sugar fad...."
+     ],
+     "summary": "Customers find these gummy worms tasty, noting they taste similar to regular gummy worms, and one customer mentions they don't make them feel like they are over-indulging."
+    },
+    {
+     "mentions": 16,
+     "name": "sweetness",
+     "negative": 4,
+     "positive": 12,
+     "quotes": [
+      "Good, better-for-you alternative to sugary gummy bears. They changed their formulation though, and I\u2019m missing the fiber. But still love these!...",
+      "Love these, very yummy. I just wish the bag was bigger to include more. Great quality company and gummies.",
+      "It\u2019s not quite the same as the real thing....",
+      "This is my favorite low sugar candy! It has a great texture (doesn\u2019t stick to my teeth) and I love the unique flavors."
+     ],
+     "summary": "Customers find these gummy worms sweet and satisfying, with one customer noting they are a better-for-you alternative to sugary gummy bears."
+    },
+    {
+     "mentions": 7,
+     "name": "low sugar",
+     "negative": 1,
+     "positive": 6,
+     "quotes": [
+      "I love these. Knocks my sweet tooth out and not full of sugar.",
+      "Gets 3.5 stars, but I would buy again. Wow, 88% less sugar??...",
+      "A great alternative when I want something sweet without going overboard.",
+      "the bag is the equivalent of a handfull of gummy worms but I do like the low sugar and fiber...."
+     ],
+     "summary": "Customers appreciate that these gummy worms are low in sugar, with one customer noting they are a great alternative for satisfying sweet cravings without excess."
+    },
+    {
+     "mentions": 10,
+     "name": "texture",
+     "negative": 5,
+     "positive": 5,
+     "quotes": [
+      "This is my favorite low sugar candy! It has a great texture (doesn\u2019t stick to my teeth) and I love the unique flavors.",
+      "Texture is a little challenging. My kids weren\u2019t fooled for a minute and knew these weren\u2019t the real processed thing immediately....",
+      "I like the fruity flavor and chewy texture, and the individual bag is a convenient size for a quick snack....",
+      "These are kind of hard and my kids didn\u2019t like the taste."
+     ],
+     "summary": "Customers have mixed opinions about the texture of these gummy worms, with some appreciating it while others find it challenging to chew."
+    },
+    {
+     "mentions": 10,
+     "name": "value for money",
+     "negative": 8,
+     "positive": 2,
+     "quotes": [
+      "Tasty but expensive",
+      "pricey compared to the prices of regular gummy worms since I would say the bag is the equivalent of a handfull of gummy worms but I do like the low...",
+      "Gross and you get about 10 total - don\u2019t waste your money or time - just gross and they have 38 carbs for 1 bag of 10 worms",
+      "Tiny bag, but I'd totally buy them again, preferably in a bigger size. Trying to be healthier, and I'm a gummy addict and proud gummy connoisseur...."
+     ],
+     "summary": "Customers find the gummy worms not worth the price."
+    }
+   ],
+   "stars": {
+    "1": 7,
+    "2": 13,
+    "3": 8,
+    "4": 11,
+    "5": 61
+   }
+  },
+  "B0G1VFHJJH": {
+   "features": [
+    {
+     "mentions": 195,
+     "name": "taste",
+     "negative": 31,
+     "positive": 164,
+     "quotes": [
+      "Great taste, flavor, color and variety, with a generous quantity and excellent value for money....",
+      "This candy is delicious. It maybe zero sugar, but I love it. It is not sticky the paper comes off fine. I will buy more.",
+      "Tasty. Good flavor no matter which flavor you grab.",
+      "Taste great"
+     ],
+     "summary": "Customers enjoy these sugar-free hard candies, noting they have no aftertaste."
+    },
+    {
+     "mentions": 48,
+     "name": "sugar-free",
+     "negative": 4,
+     "positive": 44,
+     "quotes": [
+      "They are just like originals. You could never know they were sugar free unless someone told u. THIS candy is the best & only sugar free I\u2019ve found...",
+      "I love regular jolly ranchers, but when I found these sugar-free ones I couldn\u2019t resist!...",
+      "Good sugar free candy, would buy again.",
+      "Great taste, no sugar."
+     ],
+     "summary": "Customers appreciate that these hard candies are sugar-free and low-calorie, with one customer noting they are perfect for those who want to limit their sugar intake."
+    },
+    {
+     "mentions": 25,
+     "name": "value for money",
+     "negative": 11,
+     "positive": 14,
+     "quotes": [
+      "The mango taste like mango, pineapple like pineapple, etc. The price is right and the product is absolutely delicious and high-quality.",
+      "6.99 for 6 oz.? Too expensive. If I could have made it to the area Food Lion it would have been 3.99. What's up?",
+      "They are a good price compared to other sugar-free candy, the count being about 44 pieces....",
+      "I like the flavor, but the price is exuberant. Also, they are NOT totally sugar-free."
+     ],
+     "summary": "Customers have mixed opinions about the candy's value for money, with some finding it good value while others consider it expensive."
+    },
+    {
+     "mentions": 15,
+     "name": "fruit content",
+     "negative": 9,
+     "positive": 6,
+     "quotes": [
+      "They taste great but I have ordered 4 bags by now and they have all been 75-80% pineapple :...",
+      "The flavors are bright, fruity, and surprisingly bold \u2014 you don\u2019t feel like you\u2019re missing anything by skipping the sugar....",
+      "These are so good! Just bummed I only got one fruit punch in the whole bag.",
+      "The mango taste like mango, pineapple like pineapple, etc. The price is right and the product is absolutely delicious and high-quality."
+     ],
+     "summary": "Customers have mixed opinions about the candy's fruit content, with some appreciating the fruity flavors while others express disappointment, particularly noting that the fruit punch flavor is underrepresented in the bag."
+    },
+    {
+     "mentions": 13,
+     "name": "variety",
+     "negative": 7,
+     "positive": 6,
+     "quotes": [
+      "Taste is excellent but the variety is lacking, my bag came with mostly mango",
+      "I also got lucky with a pretty even variety of the four flavors (the fruit punch has the fewest, but there's still a good amount). HIGHLY RECOMMEND!!",
+      "Really only two mango candies in the whole bag?!?!?!?!? Hershey\u2019s you can do better. At least sell a bag of only mango....",
+      "Great taste, flavor, color and variety, with a generous quantity and excellent value for money...."
+     ],
+     "summary": "Customers have mixed opinions about the variety of the candy bag, with some appreciating the pretty even distribution of the four flavors, while others find it lacking."
+    }
+   ],
+   "stars": {
+    "1": 3,
+    "2": 1,
+    "3": 5,
+    "4": 8,
+    "5": 83
+   }
+  },
+  "B01E9Z3H60": {
+   "features": [
+    {
+     "mentions": 316,
+     "name": "taste",
+     "negative": 26,
+     "positive": 290,
+     "quotes": [
+      "Five Stars",
+      "These are by far the best gummy bears I have ever had!!! I just wish they would get rid of the grapefruit flavor. It\u2019s disgusting!...",
+      "Hands down the best gummy bears ever. It is impossible to keep these in my candy dish at work for a whole day.",
+      "These are THE best! I take them to work regularly & all of my co-workers rave about them!"
+     ],
+     "summary": "Customers love the taste of these gummy bears, describing them as the best in their category, with one customer noting they are 100 times better than regular gummy bears."
+    },
+    {
+     "mentions": 235,
+     "name": "flavor",
+     "negative": 19,
+     "positive": 216,
+     "quotes": [
+      "Pleasing to look at and delicious! Great flavors and not overly sweet. We discovered them at a rest stop in Wyoming and are now hooked.",
+      "Yummy, love the variety of flavors and better then any other gummy out there",
+      "ive got to say these are some of the best gummies out there, great flavor, they dont get too hard, they are my kryptonite",
+      "These gummies are awesome! Great flavors and very soft texture...unlike some of those other rock hard gummy bears. Definitely worth the purchase!"
+     ],
+     "summary": "Customers love these gummy bears, noting that each color has a distinct flavor and they are not too sweet."
+    },
+    {
+     "mentions": 92,
+     "name": "texture",
+     "negative": 7,
+     "positive": 85,
+     "quotes": [
+      "I do think they are better than other gummy bears. They are soft and I love the green apple and pink grapefruit flavors the best!...",
+      "I love these gummies. They\u2019re always so soft and taste fresh. They\u2019re not hard like some other brands. The flavors are great and are perfectly sweet....",
+      "My sister and her husbands favorite gummy bears. They're bigger, softer and have a variety of flavors than your usual gummy bears",
+      "Much better taste, texture and VALUE than the old standard Haribo brand. just delicious."
+     ],
+     "summary": "Customers appreciate the texture of these gummy bears, describing them as soft, tender, and just right in terms of gumminess, while noting that they don't get hard and don't get stuck in teeth."
+    },
+    {
+     "mentions": 53,
+     "name": "value for money",
+     "negative": 15,
+     "positive": 38,
+     "quotes": [
+      "Not usually available locally. Great price and love the flavors. Always fresh",
+      "I got these on a great deal around Christmas time, and they were a hit! These gummy bears are delicious, have a great texture, and never disappoint.",
+      "DO NOT BUY!!! Thought I was buying 12 7/5oz bags as advertised. Instead I got 12 ONE OZ bags. Not worth what I paid.",
+      "The flavors are true to the fruits. Definitely worth the money if you love gummi bears!"
+     ],
+     "summary": "Customers find these gummy bears to be a great value and say they will purchase them again."
+    },
+    {
+     "mentions": 48,
+     "name": "addictiveness",
+     "negative": 10,
+     "positive": 38,
+     "quotes": [
+      "These are seriously some tasty gummi bears. They are so soft and addicting with distinctively different flavors. They aren't your granny's bears....",
+      "The flavors aren't the usual boring cliche trash. You get different & fun. Nothing tastes fake, or like additives & preservatives....",
+      "The flavors are delicious! The gummy bears are so soft & easy to chew!! ENJOY!!",
+      "Terrific taste and fresh. Loved these. A little less chew to them. Softer, but still some."
+     ],
+     "summary": "Customers find these gummy bears highly addictive, noting that they won't want to stop eating them."
+    },
+    {
+     "mentions": 33,
+     "name": "freshness",
+     "negative": 0,
+     "positive": 33,
+     "quotes": [
+      "Super flavorful, fresh, many flavors in one bag, and the condition of the bears are always perfect and nondeformed! Cute every time!!\ud83d\udc95\ud83d\udc3b\ud83d\udc9d",
+      "The flavor is very good. They were very fresh and soft not like some gummy bears. I would definitely buy again.",
+      "Great product if you like Gummy Bears. Excellent price and always fresh.",
+      "They are soft; not like the typical hard gummy bears. They are super fresh, are soft for a long time, and they ALL taste good!..."
+     ],
+     "summary": "Customers find the gummi bears fresh."
+    },
+    {
+     "mentions": 20,
+     "name": "size",
+     "negative": 5,
+     "positive": 15,
+     "quotes": [
+      "They\u2019re great gummy bears though! Big, juicy and flavorful\u2014these blow Haribo out of the water any day of the week....",
+      "These are the best gummi bears to me, they are larger then the Haribo ones and gave 12 flavors that are amazing!",
+      "These are not 12 of the 7.5 ounce bags, as advertised. They are a handful of 1 ounce bags to possibly make up a total of 7.5 ounces....",
+      "My great grandchildren love these gummies. It\u2019s nice that they are in small packets so they don\u2019t eat a lot at one time."
+     ],
+     "summary": "Customers like the size of these gummy bears, with one customer noting they are larger than standard gummies, and another mentioning they come in large bags that are great for party candy bars."
+    }
+   ],
+   "stars": {
+    "1": 1,
+    "2": 0,
+    "3": 3,
+    "4": 7,
+    "5": 89
+   }
+  },
+  "B00OYPFC46": {
+   "features": [
+    {
+     "mentions": 4117,
+     "name": "taste",
+     "negative": 290,
+     "positive": 3827,
+     "quotes": [
+      "A+ would buy again. Five stars \ud83d\udc4d\ud83d\udc4d",
+      "Best gummy bears by far. Delicious tasting & several different flavors out of the norm. The 5 pound bag lasted one week here with one teenager.",
+      "Best gummy bears ever. Softer than Haribbo and a much better flavor. (doesn't feel or taste like plastic)",
+      "Seriously...these are the BEST. They were so fresh and delicious. This is our 3rd time reordering and they have been perfect every time...."
+     ],
+     "summary": "Customers love these gummy bears, describing them as the best on the market, with one customer noting they are better than Haribo."
+    },
+    {
+     "mentions": 3242,
+     "name": "flavor",
+     "negative": 334,
+     "positive": 2908,
+     "quotes": [
+      "These are delicious, and no stomach issues at all. The flavours are vibrant, much nicer than other gelatin bears I have tried.",
+      "So soft and yummy, the best! Great flavors and much better than the other brands. Very large bag",
+      "Very fresh and flavorful. However, there was not 12 flavors included in the bag...too many green.",
+      "Great flavor!!! Just sad that dye is used instead of fruit juice for coloring. For that reason, I will not buy them again"
+     ],
+     "summary": "Customers find these gummy bears super flavorful, with one customer noting they're not too sweet."
+    },
+    {
+     "mentions": 1315,
+     "name": "texture",
+     "negative": 129,
+     "positive": 1186,
+     "quotes": [
+      "They are soft and remind me of my gummy vitamins from childhood. They are much better than haribo too, which I find stale and hard to chew.",
+      "The texture and freshness of these Bears are great but to me the flavors are just too strong and perfume like. Back to my old Bears.",
+      "The gummies are indeed very soft, but they are also massively oily, to the point of leaving residue on your hand....",
+      "The phenomenal 12 flavors speak for themselves and they are always super soft but never sticky. Highly recommend if you like gummies."
+     ],
+     "summary": "Customers appreciate the texture of these gummy bears, describing them as soft and super squishy, with one customer noting they stay soft longer than Haribo."
+    },
+    {
+     "mentions": 916,
+     "name": "value for money",
+     "negative": 111,
+     "positive": 805,
+     "quotes": [
+      "I was excited to find such a large bag for a great price, but found these to be much tougher to chew than the gummies in the smaller bags....",
+      "I definitely feel bloated after eating them. Great value for like 13 bucks for 5lbs. Cant beat it. Super soft. Flavors are great and tastes good....",
+      "Didn't realize how big this bag was,good value,lots of gummies. Soft and delicious.",
+      "This 5 pound bag is a great deal. Hard to fathom that they are fat free. These are the best textured and best tasting gummi's ever."
+     ],
+     "summary": "Customers find the gummi bears worth the price and say they will definitely buy again."
+    },
+    {
+     "mentions": 613,
+     "name": "freshness",
+     "negative": 55,
+     "positive": 558,
+     "quotes": [
+      "Fresh, fruity, and hard to stop eating! Picked these up to add to a popcorn bar at a corporate party, and could hardly contain myself during set up....",
+      "These are very fresh and easy to chew, straddling the line between the firmness of a haribo gummy and the softness of say, a fruit snack....",
+      "These are my husband's favorite! Always fresh and flavorful. Texture, flavor, and aroma best Haribo by far.",
+      "These are the best gummies i've found, the flavor, the freshness, even the smell are amazing...."
+     ],
+     "summary": "Customers find these gummy bears fresh, noting they stay that way for a long time and don't get stale."
+    },
+    {
+     "mentions": 445,
+     "name": "chewiness",
+     "negative": 84,
+     "positive": 361,
+     "quotes": [
+      "This is the best gummie bears. Super soft but also chewy at the same time. Even Better tasting than those German brands.",
+      "These are very fresh and easy to chew, straddling the line between the firmness of a haribo gummy and the softness of say, a fruit snack....",
+      "They are easier to chew by a long shot than Haribo as you can chew through them. The Haribos are too hard to chew right through....",
+      "They tasted great and were perfectly chewy. I shared them with the guys on my floor here at college and all of them have since ordered their own!!!..."
+     ],
+     "summary": "Customers enjoy the gummy bears' chewiness, noting they are just right and not too hard or too soft."
+    },
+    {
+     "mentions": 256,
+     "name": "addictiveness",
+     "negative": 10,
+     "positive": 246,
+     "quotes": [
+      "Love these better then Haribo gummies. Very soft and addictive. Great price for the quantity and ships the next day....",
+      "Great, addicting and you have to eat them by the handful. I do not however recommend eating an entire bag within a week.",
+      "These gummies have an excellent assortment of flavors. Very addictive and hard to stop eating. They are nice, soft and fresh.",
+      "These are so addictive !! You can\u2019t eat just a few. I sent my sister a bag for her birthday and now she has a \u201cgummy habit \u201c too!"
+     ],
+     "summary": "Customers find these gummy bears seriously addicting, with multiple customers noting that their families have become addicted to them."
+    },
+    {
+     "mentions": 239,
+     "name": "variety",
+     "negative": 16,
+     "positive": 223,
+     "quotes": [
+      "The price was good but I wasn't a big fan of the flavors. There are 12 flavors, which is great, but they aren't quality flavors.",
+      "Price is great, and I love the variety of flavors. However, it doesn't taste as good as some gummy bears.",
+      "Fresh, soft , full flavor and variety. Four stars for presentation because it\u2019s hard to make 5 pounds of gummies look good.",
+      "The flavors Are very delicious with great variety. The ingredients are wholesome but we had a hard time pulling ourselves away from the bag. \ud83d\ude03"
+     ],
+     "summary": "Customers appreciate the variety of these gummy bears, which come in 12 distinct flavors."
+    }
+   ],
+   "stars": {
+    "1": 2,
+    "2": 1,
+    "3": 3,
+    "4": 7,
+    "5": 87
+   }
+  }
+ },
+ "fetch_log": [
+  {
+   "asin": "B00DR8JO0Y",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 1838
+  },
+  {
+   "asin": "B0CLSJD6DT",
+   "status": "fetched",
+   "n_features": 5,
+   "ms": 2062
+  },
+  {
+   "asin": "B0G1VFHJJH",
+   "status": "fetched",
+   "n_features": 5,
+   "ms": 2041
+  },
+  {
+   "asin": "B01E9Z3H60",
+   "status": "fetched",
+   "n_features": 7,
+   "ms": 2091
+  },
+  {
+   "asin": "B00OYPFC46",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 2014
+  }
+ ],
+ "result": {
+  "best_value": {
+   "advertised": false,
+   "asin": "B01E9Z3H60",
+   "badges": [],
+   "bought_past_month": "7K+",
+   "n_ratings": 4352,
+   "organic_rank": 9,
+   "position": 10,
+   "price": 9.54,
+   "rating": 4.8,
+   "sponsored": false,
+   "title": "Albanese World's Best 12 Flavor Gummi Bears | 36oz Bag of Gummy Candy",
+   "features": [
+    {
+     "mentions": 316,
+     "name": "taste",
+     "negative": 26,
+     "positive": 290,
+     "quotes": [
+      "Five Stars",
+      "These are by far the best gummy bears I have ever had!!! I just wish they would get rid of the grapefruit flavor. It\u2019s disgusting!...",
+      "Hands down the best gummy bears ever. It is impossible to keep these in my candy dish at work for a whole day.",
+      "These are THE best! I take them to work regularly & all of my co-workers rave about them!"
+     ],
+     "summary": "Customers love the taste of these gummy bears, describing them as the best in their category, with one customer noting they are 100 times better than regular gummy bears."
+    },
+    {
+     "mentions": 235,
+     "name": "flavor",
+     "negative": 19,
+     "positive": 216,
+     "quotes": [
+      "Pleasing to look at and delicious! Great flavors and not overly sweet. We discovered them at a rest stop in Wyoming and are now hooked.",
+      "Yummy, love the variety of flavors and better then any other gummy out there",
+      "ive got to say these are some of the best gummies out there, great flavor, they dont get too hard, they are my kryptonite",
+      "These gummies are awesome! Great flavors and very soft texture...unlike some of those other rock hard gummy bears. Definitely worth the purchase!"
+     ],
+     "summary": "Customers love these gummy bears, noting that each color has a distinct flavor and they are not too sweet."
+    },
+    {
+     "mentions": 92,
+     "name": "texture",
+     "negative": 7,
+     "positive": 85,
+     "quotes": [
+      "I do think they are better than other gummy bears. They are soft and I love the green apple and pink grapefruit flavors the best!...",
+      "I love these gummies. They\u2019re always so soft and taste fresh. They\u2019re not hard like some other brands. The flavors are great and are perfectly sweet....",
+      "My sister and her husbands favorite gummy bears. They're bigger, softer and have a variety of flavors than your usual gummy bears",
+      "Much better taste, texture and VALUE than the old standard Haribo brand. just delicious."
+     ],
+     "summary": "Customers appreciate the texture of these gummy bears, describing them as soft, tender, and just right in terms of gumminess, while noting that they don't get hard and don't get stuck in teeth."
+    },
+    {
+     "mentions": 53,
+     "name": "value for money",
+     "negative": 15,
+     "positive": 38,
+     "quotes": [
+      "Not usually available locally. Great price and love the flavors. Always fresh",
+      "I got these on a great deal around Christmas time, and they were a hit! These gummy bears are delicious, have a great texture, and never disappoint.",
+      "DO NOT BUY!!! Thought I was buying 12 7/5oz bags as advertised. Instead I got 12 ONE OZ bags. Not worth what I paid.",
+      "The flavors are true to the fruits. Definitely worth the money if you love gummi bears!"
+     ],
+     "summary": "Customers find these gummy bears to be a great value and say they will purchase them again."
+    },
+    {
+     "mentions": 48,
+     "name": "addictiveness",
+     "negative": 10,
+     "positive": 38,
+     "quotes": [
+      "These are seriously some tasty gummi bears. They are so soft and addicting with distinctively different flavors. They aren't your granny's bears....",
+      "The flavors aren't the usual boring cliche trash. You get different & fun. Nothing tastes fake, or like additives & preservatives....",
+      "The flavors are delicious! The gummy bears are so soft & easy to chew!! ENJOY!!",
+      "Terrific taste and fresh. Loved these. A little less chew to them. Softer, but still some."
+     ],
+     "summary": "Customers find these gummy bears highly addictive, noting that they won't want to stop eating them."
+    },
+    {
+     "mentions": 33,
+     "name": "freshness",
+     "negative": 0,
+     "positive": 33,
+     "quotes": [
+      "Super flavorful, fresh, many flavors in one bag, and the condition of the bears are always perfect and nondeformed! Cute every time!!\ud83d\udc95\ud83d\udc3b\ud83d\udc9d",
+      "The flavor is very good. They were very fresh and soft not like some gummy bears. I would definitely buy again.",
+      "Great product if you like Gummy Bears. Excellent price and always fresh.",
+      "They are soft; not like the typical hard gummy bears. They are super fresh, are soft for a long time, and they ALL taste good!..."
+     ],
+     "summary": "Customers find the gummi bears fresh."
+    },
+    {
+     "mentions": 20,
+     "name": "size",
+     "negative": 5,
+     "positive": 15,
+     "quotes": [
+      "They\u2019re great gummy bears though! Big, juicy and flavorful\u2014these blow Haribo out of the water any day of the week....",
+      "These are the best gummi bears to me, they are larger then the Haribo ones and gave 12 flavors that are amazing!",
+      "These are not 12 of the 7.5 ounce bags, as advertised. They are a handful of 1 ounce bags to possibly make up a total of 7.5 ounces....",
+      "My great grandchildren love these gummies. It\u2019s nice that they are in small packets so they don\u2019t eat a lot at one time."
+     ],
+     "summary": "Customers like the size of these gummy bears, with one customer noting they are larger than standard gummies, and another mentioning they come in large bags that are great for party candy bars."
+    }
+   ],
+   "complaints": [],
+   "neg_share": 0.103,
+   "low_star_pct": 4,
+   "fair_rating": 4.788,
+   "why": "Best fair rating among well-reviewed products (4.79\u2605), $8.45 under the median price. No major complaints across 7 review features.",
+   "warn": null,
+   "risk": [],
+   "ad": false,
+   "unchecked": false
+  },
+  "best_price": {
+   "advertised": false,
+   "asin": "B00DR8JO0Y",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 4888,
+   "organic_rank": 20,
+   "position": 24,
+   "price": 3.49,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "TWIZZLERS Zero Sugar Twists Strawberry Flavored Licorice Style, Candy Bag, 5 oz",
+   "features": [
+    {
+     "mentions": 247,
+     "name": "taste",
+     "negative": 51,
+     "positive": 196,
+     "quotes": [
+      "These were delicious. They don't taste the same as normal but like them because they are sugar-free. They came quick and they were very fresh....",
+      "Great taste, nearly identical to original. The big but, is paying $10 for a small bag. Not happening again.",
+      "Taste great. Not a lot of value for the price though. But they are good.",
+      "Hard, no flavor I have never tasted anything so bad."
+     ],
+     "summary": "Customers enjoy the taste of these sugar-free licorice twists, with one customer noting they can satisfy the urge for a sweet snack very well."
+    },
+    {
+     "mentions": 152,
+     "name": "quality",
+     "negative": 35,
+     "positive": 117,
+     "quotes": [
+      "Very good, great taste but irritated my stomach badly.",
+      "Good.",
+      "Great product for those of us on reduced sugar diets. It may not taste exactly like the original, but it is a good substitute..",
+      "Not a very good taste at all. The black licorice I also purchased was nasty and not edible at all."
+     ],
+     "summary": "Customers love these licorice twists, with some saying they are perfect and would give them 10 stars if possible."
+    },
+    {
+     "mentions": 78,
+     "name": "sugar content",
+     "negative": 10,
+     "positive": 68,
+     "quotes": [
+      "I like the fact it was sugar free because I am diabetic....a little pricey though, but have not been able to find in a local store.",
+      "It's no sugar, but can't compare to the real thing. Texture, sweetness, simply is not there. Meh on the flavor....",
+      "To delicious to be zero sugar",
+      "If I didn't know these were sugar-free would have thought they were regular twizzlers. So yummy!"
+     ],
+     "summary": "Customers appreciate that these candy twists are sugar-free, with one customer noting they are 99% similar to the sugary version."
+    },
+    {
+     "mentions": 27,
+     "name": "freshness",
+     "negative": 6,
+     "positive": 21,
+     "quotes": [
+      "They were delicious and fresh, but I did not know I would have a reaction to the \"sugar free\" part. It acted as a laxative on me....",
+      "They taste the same as the ones with sugar. They're also very fresh!",
+      "The licorice was fresher than in a movie theater and tastes wonderful!",
+      "Not fresh the flavor is okay"
+     ],
+     "summary": "Customers appreciate the freshness of these candy twists, with one noting they are even fresher than those found in movie theaters."
+    },
+    {
+     "mentions": 39,
+     "name": "texture",
+     "negative": 19,
+     "positive": 20,
+     "quotes": [
+      "Enjoyed the taste and texture of these twizzlers!!",
+      "Hard, dry, plasticky, could not eat.",
+      "My mom who is a diabetic loves these! It gives her the Twizzler texture without the sugar. This is my second batch of them.",
+      "The flavor was good but I didn\u2019t like the texture"
+     ],
+     "summary": "Customers have mixed opinions about the texture of these sugar-free Twizzlers, with some loving it while others find it very hard."
+    },
+    {
+     "mentions": 17,
+     "name": "chewability",
+     "negative": 8,
+     "positive": 9,
+     "quotes": [
+      "The taste is still there and they were fresh and nice and chewy....",
+      "I can eat almost any candy and be happy but this was like chewing an electrical cord. I bit into it and they were not chewy....",
+      "These are YUMMY. So yummy that I could again eat the whole pack. Other than the consistency, I barely know they are sugar free....",
+      "They have the aftertaste of a twizzler but it's like chewing on straight paraffin wax. They really are awful...."
+     ],
+     "summary": "Customers have mixed opinions about the candy's chewability, with some finding it chewy while others say it's not very chewable."
+    },
+    {
+     "mentions": 86,
+     "name": "value for money",
+     "negative": 68,
+     "positive": 18,
+     "quotes": [
+      "Expensive, but the taste is great. It has an identical taste to regular Twizzlers.",
+      "I like the fact it was sugar free because I am diabetic....a little pricey though, but have not been able to find in a local store.",
+      "At 50usd now they are way too expensive.If price halfs its a good deal for 12 packs.",
+      "If you dont plan on leaving the house for 24 hours it is worth it."
+     ],
+     "summary": "Customers find the candy to be a poor value, noting that there isn't enough product in the package for the price and describing it as a huge rip-off."
+    },
+    {
+     "mentions": 42,
+     "name": "digestibility",
+     "negative": 34,
+     "positive": 8,
+     "quotes": [
+      "Tasty but the digestive impact is severe even in small, calibrated doses....",
+      "Whatever ingredients are in it they cause bad digestive issues to people that already have GI problems. Can\u2019t eat more than one or two unfortunately",
+      "Not long after; I had major intestinal pain, gas & bloating. Horrible cramping all night. Husband had bouts of flatulency & lower bowel pressure too!...",
+      "They taste really good but they hurt my stomach so much I would not buy these again."
+     ],
+     "summary": "Customers report that the candy causes digestive issues, including upset stomach, diarrhea, and nausea."
+    }
+   ],
+   "complaints": [
+    "texture 49% negative (19/39)",
+    "chewability 47% negative (8/17)",
+    "value for money 79% negative (68/86)",
+    "digestibility 81% negative (34/42)"
+   ],
+   "neg_share": 0.336,
+   "low_star_pct": 19,
+   "fair_rating": 4.308,
+   "warn": "texture 49% negative (19/39)",
+   "risk": [
+    "texture 49% negative (19/39)",
+    "chewability 47% negative (8/17)",
+    "value for money 79% negative (68/86)",
+    "digestibility 81% negative (34/42)"
+   ],
+   "ad": false,
+   "unchecked": false
+  },
+  "amazon_pick": {
+   "advertised": false,
+   "asin": "B00IF3DUW4",
+   "badges": [
+    "Overall Pick"
+   ],
+   "bought_past_month": "300+",
+   "n_ratings": 1639,
+   "organic_rank": 1,
+   "position": 2,
+   "price": 17.99,
+   "rating": 4.1,
+   "sponsored": false,
+   "title": "The Nutty Fruit House Sugar Free Gummy Bear (1 Pound (Pack of 1))",
+   "fair_rating": 4.145,
+   "warn": null,
+   "risk": [],
+   "ad": false,
+   "unchecked": false,
+   "pick_reason": "badge"
+  },
+  "stats": {
+   "items": 55,
+   "avg_rating": 4.08,
+   "median_price": 17.99,
+   "ads": 12
+  }
+ }
+}

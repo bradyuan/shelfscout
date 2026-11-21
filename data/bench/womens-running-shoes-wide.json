@@ -1,0 +1,1603 @@
+{
+ "query": "womens running shoes wide",
+ "pattern": "size_fit",
+ "key_terms": [
+  "wide"
+ ],
+ "url": "https://www.amazon.com/s?k=womens+running+shoes+wide",
+ "frozen_at": "2026-11-21 17:53",
+ "cards": [
+  {
+   "advertised": false,
+   "asin": "B0F4LYVM84",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 3324,
+   "organic_rank": 1,
+   "position": 5,
+   "price": 57,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "New Balance Women's Fresh Foam 520 V9 Running Shoes"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DM3FXXNQ",
+   "badges": [
+    "Overall Pick",
+    "Save 29%"
+   ],
+   "bought_past_month": "300+",
+   "n_ratings": 4207,
+   "organic_rank": 2,
+   "position": 6,
+   "price": 109.95,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Brooks Women's Adrenaline GTS 25 Running Shoe"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DM3MLNSL",
+   "badges": [
+    "Save 29%"
+   ],
+   "bought_past_month": "400+",
+   "n_ratings": 4207,
+   "organic_rank": 3,
+   "position": 7,
+   "price": 109.95,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Brooks Women's Adrenaline GTS 25 Running Shoe"
+  },
+  {
+   "advertised": false,
+   "asin": "B0FSF4ZR67",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 7167,
+   "organic_rank": 4,
+   "position": 8,
+   "price": 57,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Skechers Women's Max Cushioning Endeavour"
+  },
+  {
+   "advertised": false,
+   "asin": "B09H3MZQ4P",
+   "badges": [
+    "Save 32%"
+   ],
+   "bought_past_month": "500+",
+   "n_ratings": 9972,
+   "organic_rank": 5,
+   "position": 9,
+   "price": 51.24,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "New Balance Women's Fresh Foam Arishi V4"
+  },
+  {
+   "advertised": false,
+   "asin": "B09H3PH4W3",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 9972,
+   "organic_rank": 6,
+   "position": 10,
+   "price": 56.24,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "New Balance Women's Fresh Foam Arishi V4"
+  },
+  {
+   "advertised": false,
+   "asin": "B0F12CYG2V",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": null,
+   "n_ratings": 4096,
+   "organic_rank": 7,
+   "position": 15,
+   "price": 56.25,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "Nike Women's Revolution 8 Road Running Shoes"
+  },
+  {
+   "advertised": false,
+   "asin": "B0CM7R3L2K",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "600+",
+   "n_ratings": 3560,
+   "organic_rank": 8,
+   "position": 16,
+   "price": 39.89,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "adidas Women's Run 70s 2.0 Sneakers"
+  },
+  {
+   "advertised": false,
+   "asin": "B0FZXKBSFK",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 4207,
+   "organic_rank": 9,
+   "position": 17,
+   "price": 109.95,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Brooks Women's Adrenaline GTS 25 Running Shoe"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DM36SKZG",
+   "badges": [
+    "Save 29%"
+   ],
+   "bought_past_month": "400+",
+   "n_ratings": 4207,
+   "organic_rank": 10,
+   "position": 18,
+   "price": 109.95,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Brooks Women's Adrenaline GTS 25 Running Shoe"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DT1HTWY4",
+   "badges": [],
+   "bought_past_month": "500+",
+   "n_ratings": 1195,
+   "organic_rank": 11,
+   "position": 23,
+   "price": 43.9,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Under Armour Women's Charged Assert 11 Running Shoes"
+  },
+  {
+   "advertised": false,
+   "asin": "B0D2Z2BVHW",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 3379,
+   "organic_rank": 12,
+   "position": 24,
+   "price": 79.95,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Brooks Women\u2019s Glycerin 22 Neutral Running Shoe"
+  },
+  {
+   "advertised": false,
+   "asin": "B087TBKDF3",
+   "badges": [],
+   "bought_past_month": "200+",
+   "n_ratings": 24775,
+   "organic_rank": 13,
+   "position": 25,
+   "price": 49.99,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Under Armour Women's Charged Assert 9 Running Shoe"
+  },
+  {
+   "advertised": false,
+   "asin": "B09XRD53ST",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 12232,
+   "organic_rank": 14,
+   "position": 26,
+   "price": 80.25,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "New Balance Women's Fresh Foam Roav Running Shoe"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DDFDN169",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 5175,
+   "organic_rank": 15,
+   "position": 27,
+   "price": 99.95,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Brooks Women\u2019s Ghost 17 Neutral Running Shoe"
+  },
+  {
+   "advertised": false,
+   "asin": "B0F4H4B1F6",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 1933,
+   "organic_rank": 16,
+   "position": 28,
+   "price": 62.9,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "New Balance Fresh Foam Arishi v4 Tiralux"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DPHTLDYK",
+   "badges": [],
+   "bought_past_month": "300+",
+   "n_ratings": 4096,
+   "organic_rank": 17,
+   "position": 29,
+   "price": 56.25,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "Nike Women's Revolution 8 Road Running Shoes"
+  },
+  {
+   "advertised": false,
+   "asin": "B08QVJNTXR",
+   "badges": [
+    "Save 17%"
+   ],
+   "bought_past_month": "100+",
+   "n_ratings": 24775,
+   "organic_rank": 18,
+   "position": 30,
+   "price": 49.99,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Under Armour Women's Charged Assert 9 Running Shoe"
+  },
+  {
+   "advertised": false,
+   "asin": "B0B4JVX74X",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": null,
+   "n_ratings": 7260,
+   "organic_rank": 19,
+   "position": 31,
+   "price": 45.07,
+   "rating": 4.1,
+   "sponsored": false,
+   "title": "BRONAX Womens Wide Toe Box Road Running Shoes S71"
+  },
+  {
+   "advertised": false,
+   "asin": "B08FPCL8R5",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "50+",
+   "n_ratings": 6116,
+   "organic_rank": 20,
+   "position": 32,
+   "price": 47.45,
+   "rating": 4.1,
+   "sponsored": false,
+   "title": "Saucony Women's Cohesion 14 Sneaker"
+  },
+  {
+   "advertised": false,
+   "asin": "B0FTPT4JBK",
+   "badges": [
+    "Save 33%"
+   ],
+   "bought_past_month": null,
+   "n_ratings": 1291,
+   "organic_rank": 21,
+   "position": 33,
+   "price": 59.95,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "ASICS Women's Gel-Venture 11 Trail Running Shoes"
+  },
+  {
+   "advertised": false,
+   "asin": "B0FN7LP7W9",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "50+",
+   "n_ratings": 472,
+   "organic_rank": 22,
+   "position": 34,
+   "price": 59.18,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Nike Women's Downshifter 14 Road Running Shoes"
+  },
+  {
+   "advertised": false,
+   "asin": "B0BWSKV5YD",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 5447,
+   "organic_rank": 23,
+   "position": 35,
+   "price": 79.95,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "New Balance Women's 327"
+  },
+  {
+   "advertised": false,
+   "asin": "B0F4H1ZNLT",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "50+",
+   "n_ratings": 304,
+   "organic_rank": 24,
+   "position": 36,
+   "price": 49.79,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "New Balance Women's Fresh Foam X Kaiha Road V2"
+  },
+  {
+   "advertised": false,
+   "asin": "B09XBT6R5V",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 8069,
+   "organic_rank": 25,
+   "position": 37,
+   "price": 51.99,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Under Armour Women's Charged Assert 10 Shoes"
+  },
+  {
+   "advertised": false,
+   "asin": "B0FQJLZDVB",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 440,
+   "organic_rank": 26,
+   "position": 38,
+   "price": 82.5,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Nike Women's Winflo 12 Road Running Shoes"
+  },
+  {
+   "advertised": false,
+   "asin": "B0F4M166CR",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 525,
+   "organic_rank": 27,
+   "position": 39,
+   "price": 98.88,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "New Balance Women's FuelCell Rebel V5"
+  },
+  {
+   "advertised": false,
+   "asin": "B09NLBG3NR",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 2691,
+   "organic_rank": 28,
+   "position": 40,
+   "price": 43.93,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Skechers Women's Go Run Consistent - Vivid Horizon Sneaker"
+  },
+  {
+   "advertised": false,
+   "asin": "B0GY9VNGTM",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 430,
+   "organic_rank": 29,
+   "position": 41,
+   "price": 69.95,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "ASICS Women's Gel-Contend 10 Running Shoes"
+  },
+  {
+   "advertised": false,
+   "asin": "B08MVB9DWT",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 24775,
+   "organic_rank": 30,
+   "position": 42,
+   "price": 64.99,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Under Armour Women's Charged Assert 9 Running Shoe"
+  },
+  {
+   "advertised": false,
+   "asin": "B0C29FB7LW",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 1057,
+   "organic_rank": 31,
+   "position": 43,
+   "price": 38.89,
+   "rating": 4.1,
+   "sponsored": false,
+   "title": "New Balance Women's Fresh Foam X 1440 V1 Running Shoes"
+  },
+  {
+   "advertised": false,
+   "asin": "B0D5FZJLKZ",
+   "badges": [],
+   "bought_past_month": "300+",
+   "n_ratings": 3548,
+   "organic_rank": 32,
+   "position": 44,
+   "price": 139.99,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "HOKA Womens Bondi 9"
+  },
+  {
+   "advertised": false,
+   "asin": "B0F4M4LP4B",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 1081,
+   "organic_rank": 33,
+   "position": 45,
+   "price": 59.98,
+   "rating": 4,
+   "sponsored": false,
+   "title": "New Balance Women's Fresh Foam 410 V9"
+  },
+  {
+   "advertised": false,
+   "asin": "B0F4HY2FYF",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 1485,
+   "organic_rank": 34,
+   "position": 46,
+   "price": 89.95,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Brooks Women\u2019s Anthem 8 Running Shoe"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DPLNYXC1",
+   "badges": [
+    "Save 28%"
+   ],
+   "bought_past_month": "100+",
+   "n_ratings": 2244,
+   "organic_rank": 35,
+   "position": 47,
+   "price": 64.95,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "ASICS Women's Gel-Excite 11 Running Shoes"
+  },
+  {
+   "advertised": false,
+   "asin": "B0FQJM26TT",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 4096,
+   "organic_rank": 36,
+   "position": 48,
+   "price": 60.97,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "Nike Women's Revolution 8 Road Running Shoes"
+  },
+  {
+   "advertised": false,
+   "asin": "B08638XY3X",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 9841,
+   "organic_rank": 37,
+   "position": 49,
+   "price": 49.51,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Skechers Women's Go Run Consistent Sneaker"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DCBT5T37",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "600+",
+   "n_ratings": 5132,
+   "organic_rank": 38,
+   "position": 50,
+   "price": 55.99,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "NORTIV 8 Women's Walking Shoes Running Tennis Sneakers"
+  },
+  {
+   "advertised": false,
+   "asin": "B07B41TY57",
+   "badges": [],
+   "bought_past_month": "400+",
+   "n_ratings": 46115,
+   "organic_rank": 39,
+   "position": 51,
+   "price": 59.95,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "New Balance Women's 608 V5 Casual Comfort Cross Trainer"
+  },
+  {
+   "advertised": false,
+   "asin": "B0F5NCC1NX",
+   "badges": [],
+   "bought_past_month": "200+",
+   "n_ratings": 1108,
+   "organic_rank": 40,
+   "position": 52,
+   "price": 174.95,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Brooks Women\u2019s Glycerin 23 Running Shoe"
+  },
+  {
+   "advertised": false,
+   "asin": "B0FK5G5TLC",
+   "badges": [],
+   "bought_past_month": "500+",
+   "n_ratings": 685,
+   "organic_rank": 41,
+   "position": 53,
+   "price": 19.99,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "Running Shoes for Women Men Tennis Walking Gym Workout Sneakers"
+  },
+  {
+   "advertised": false,
+   "asin": "B0D42CDNJH",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 3044,
+   "organic_rank": 42,
+   "position": 54,
+   "price": 100,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "ASICS Women's Gel-Nimbus 27 Running Shoes"
+  },
+  {
+   "advertised": false,
+   "asin": "B0F5NPT341",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 378,
+   "organic_rank": 43,
+   "position": 55,
+   "price": 119.95,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Brooks Women's Ghost Trail Running Shoe"
+  },
+  {
+   "advertised": false,
+   "asin": "B0F6T6R6C1",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 1977,
+   "organic_rank": 44,
+   "position": 56,
+   "price": 70.49,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Nike Women's Run Swift 3 Road Running Shoes"
+  },
+  {
+   "advertised": false,
+   "asin": "B0FBHZFS9L",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "500+",
+   "n_ratings": 383,
+   "organic_rank": 45,
+   "position": 57,
+   "price": 71.25,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Nike Women's V5 RNR Shoes"
+  },
+  {
+   "advertised": false,
+   "asin": "B0F4GV89CG",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 1933,
+   "organic_rank": 46,
+   "position": 58,
+   "price": 61.39,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "New Balance Fresh Foam Arishi v4 Tiralux"
+  },
+  {
+   "advertised": false,
+   "asin": "B0F12MJ1PN",
+   "badges": [
+    "Save 25%"
+   ],
+   "bought_past_month": "100+",
+   "n_ratings": 1697,
+   "organic_rank": 47,
+   "position": 59,
+   "price": 48.75,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Nike Women's Run Defy Road Running Shoes"
+  },
+  {
+   "advertised": false,
+   "asin": "B0D2Y7CZR6",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 951,
+   "organic_rank": 48,
+   "position": 60,
+   "price": 149.95,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "New Balance Women's Fresh Foam X 880 V15 Shoes"
+  },
+  {
+   "advertised": true,
+   "asin": "B0B4K2XQ1B",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": null,
+   "n_ratings": 7260,
+   "organic_rank": null,
+   "position": 1,
+   "price": 42.85,
+   "rating": 4.1,
+   "sponsored": true,
+   "title": "BRONAX Womens Wide Toe Box Road Running Shoes S71"
+  },
+  {
+   "advertised": true,
+   "asin": "B0DPHT7HQ8",
+   "badges": [
+    "Save 13%"
+   ],
+   "bought_past_month": "50+",
+   "n_ratings": 4096,
+   "organic_rank": null,
+   "position": 2,
+   "price": 64.99,
+   "rating": 4.3,
+   "sponsored": true,
+   "title": "Nike Women's Revolution 8 Road Running Shoes"
+  },
+  {
+   "advertised": true,
+   "asin": "B0CK3JRKWZ",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 2547,
+   "organic_rank": null,
+   "position": 3,
+   "price": 61.06,
+   "rating": 4.5,
+   "sponsored": true,
+   "title": "Skechers Women's Go Run Consistent 2.0 Advantage"
+  },
+  {
+   "advertised": true,
+   "asin": "B0DK6KX7L7",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": null,
+   "n_ratings": 687,
+   "organic_rank": null,
+   "position": 4,
+   "price": 38.8,
+   "rating": 4.3,
+   "sponsored": true,
+   "title": "WHITIN Women's Wide Barefoot Trail Running Shoes W51"
+  },
+  {
+   "advertised": true,
+   "asin": "B0B5LNMWL6",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 4684,
+   "organic_rank": null,
+   "position": 11,
+   "price": 29.99,
+   "rating": 4.1,
+   "sponsored": true,
+   "title": "Women's Slip on Walking Running Shoes Blade Tennis Casual Fashion Sneakers Comfort Non Slip Work Sport Athletic Trainer"
+  },
+  {
+   "advertised": true,
+   "asin": "B0F28WFFXP",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 119,
+   "organic_rank": null,
+   "position": 12,
+   "price": 33.9,
+   "rating": 4,
+   "sponsored": true,
+   "title": "TSIODFO Womens Running Shoes Lightweight Gym Workout Walking Shoes"
+  },
+  {
+   "advertised": true,
+   "asin": "B08SGMJ9BS",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 11232,
+   "organic_rank": null,
+   "position": 13,
+   "price": 39.99,
+   "rating": 4.2,
+   "sponsored": true,
+   "title": "TSIODFO Women's Sneakers Athletic Sport Running Tennis Walking Shoes"
+  },
+  {
+   "advertised": true,
+   "asin": "B0GHNFCRMB",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "100+",
+   "n_ratings": 164,
+   "organic_rank": null,
+   "position": 14,
+   "price": 28.49,
+   "rating": 4.3,
+   "sponsored": true,
+   "title": "ATHMILE Barefoot Walking Shoes Women Men Wide Toe Box Zero Drop Minimalist Global Recycled Standard"
+  },
+  {
+   "advertised": true,
+   "asin": "B0D547FRSB",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": null,
+   "n_ratings": 2145,
+   "organic_rank": null,
+   "position": 19,
+   "price": 39.99,
+   "rating": 4,
+   "sponsored": true,
+   "title": "JACKSHIBO Wide Toe Box Shoes Women Arch Support Zero Drop Wide Sneakers"
+  },
+  {
+   "advertised": true,
+   "asin": "B0HJ7DG8GP",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": null,
+   "n_ratings": 17,
+   "organic_rank": null,
+   "position": 20,
+   "price": 37.59,
+   "rating": 4.3,
+   "sponsored": true,
+   "title": "Dannto Women's Slip On Walking Shoes Wide Toe Box Sneakers"
+  },
+  {
+   "advertised": true,
+   "asin": "B0G521YP9M",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": null,
+   "n_ratings": 358,
+   "organic_rank": null,
+   "position": 21,
+   "price": 35.54,
+   "rating": 4.3,
+   "sponsored": true,
+   "title": "Women's Wide Toe Box Walking Shoes Comfortable Cushioned Tennis Nursing Bunions Shoes Breathable Non Slip Gym Sports Athletic Running Fashion Sneakers"
+  },
+  {
+   "advertised": true,
+   "asin": "B09FZ53JVS",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": null,
+   "n_ratings": 6167,
+   "organic_rank": null,
+   "position": 22,
+   "price": 37.99,
+   "rating": 4.3,
+   "sponsored": true,
+   "title": "WHITIN Women's Zero Drop Barefoot Trail Runner W63"
+  }
+ ],
+ "features": {
+  "B0FK5G5TLC": {
+   "features": [
+    {
+     "mentions": 92,
+     "name": "comfort",
+     "negative": 12,
+     "positive": 80,
+     "quotes": [
+      "Love these shoes! They are so comfortable and breathable. I wore these in Disney and my feet were the only ones in our group that weren\u2019t hurting....",
+      "Got these for my Minnie Mouse outfit, they're perfect! Very comfortable, didn't even need to break them in.",
+      "Surprised by looks comfort and style",
+      "I ended up keeping them as my everyday shoes, and they are super comfortable!..."
+     ],
+     "summary": "Customers find these sneakers extremely comfortable, with one mentioning there's no pressure on their feet."
+    },
+    {
+     "mentions": 80,
+     "name": "quality",
+     "negative": 15,
+     "positive": 65,
+     "quotes": [
+      "Great shoes, comfortable and fit great (true to size). I can walk comfortably in them and they are slip resistant....",
+      "Love these shoes! They are so comfortable and breathable. I wore these in Disney and my feet were the only ones in our group that weren\u2019t hurting....",
+      "Love them! Wore them to banana ball game",
+      "These shoes are excellent for its comfort, fit and price."
+     ],
+     "summary": "Customers find these sneakers fantastic and perfect for their needs."
+    },
+    {
+     "mentions": 46,
+     "name": "fit",
+     "negative": 12,
+     "positive": 34,
+     "quotes": [
+      "So comfortable and true to size bought 3 pairs just love them",
+      "Very comfortable and a perfect fit! It's a true eight and a half size.",
+      "Size not accurate Poorly made",
+      "Working fast food so I'm on my feet all day. They fit perfectly. They're very comfortable. And most importantly, they are slip resistant!"
+     ],
+     "summary": "Customers are satisfied with how these sneakers fit, particularly noting the room in the toe area, and one customer mentions they are suitable for wide feet."
+    },
+    {
+     "mentions": 35,
+     "name": "value for money",
+     "negative": 10,
+     "positive": 25,
+     "quotes": [
+      "They look great and it\u2019s great value for your money.",
+      "Pretty good shoe for the price. Nice arch support for me as I use these for certain fun outfits....",
+      "No arch support at all. I would say don't waste your money buying these, spend the extra coins on something more comfortable.",
+      "For the price of the shoes are nice but with price it shows what to expect with quality which was nice but a bit too thin for my liking."
+     ],
+     "summary": "Customers find these sneakers to be good value for money, offering decent quality relative to their price point."
+    },
+    {
+     "mentions": 27,
+     "name": "lightweight",
+     "negative": 1,
+     "positive": 26,
+     "quotes": [
+      "They are lightweight, breathable and totally flexible. They are surprisingly comfortable all day. A real find.",
+      "Very comfortable. Light weight and oddly enough slip resistant! They are also cute. Got lots of compliments on them.",
+      "So far so good. I use them for walking only, very light and breathable. I did go a half size smaller than other brands it worked out good....",
+      "These shoes are comfortable, light and cheap. I gorgeous them for work but they look nicer than I thought. I'd wear them out."
+     ],
+     "summary": "Customers appreciate that these sneakers are lightweight, with one customer noting that the cushioning feels good without making the shoes feel heavy."
+    },
+    {
+     "mentions": 18,
+     "name": "versatility",
+     "negative": 4,
+     "positive": 14,
+     "quotes": [
+      "They slip on and off very easily and can be worn with or without socks. Though I wouldn't recommend you doing the no socks part....",
+      "These are really good for waking. My feet did not hurt like they normally do. Will buy them again.",
+      "Comfortable; light weight; vibrant green; able to wear all day and packs easily for trips.",
+      "Cannot wear in the kitchen because anything fall on top of it goes through the shoe."
+     ],
+     "summary": "Customers find these sneakers versatile, noting they are perfect for work and can be worn all day. One customer specifically mentions they are ideal for mature runners and walkers."
+    },
+    {
+     "mentions": 17,
+     "name": "appearance",
+     "negative": 4,
+     "positive": 13,
+     "quotes": [
+      "Light weight and oddly enough slip resistant! They are also cute. Got lots of compliments on them.",
+      "I can walk comfortably in them and they are slip resistant. They look great and it\u2019s great value for your money.",
+      "The style is nice looking. Just dock a star due to it not being super comfortable",
+      "When trying to tie them, the laces are extra long and the sneaker itself looks a little weird (to my eye at least)...."
+     ],
+     "summary": "Customers find these sneakers nice looking, with one mentioning they got lots of compliments on them."
+    },
+    {
+     "mentions": 17,
+     "name": "arch support",
+     "negative": 11,
+     "positive": 6,
+     "quotes": [
+      "Very white and I like that. They are holding up well. Not a whole lot of support/ sole structure, but for 20 bucks, I wasn't expecting much....",
+      "I love how well-cushioned they are & the arch support is good. I do a lot of walking for my job & they really protect my feet....",
+      "Mediocre arch support. Uncomfortable, I'd advise sole inserts. Also came worn and dirty",
+      "No type of support at all, and is definitely very cheaply made. No arch support at all...."
+     ],
+     "summary": "Customers have mixed opinions about the arch support of these sneakers, with some finding it good while others report no support at all."
+    }
+   ],
+   "stars": {
+    "1": 9,
+    "2": 5,
+    "3": 6,
+    "4": 14,
+    "5": 66
+   }
+  },
+  "B0GHNFCRMB": {
+   "features": [
+    {
+     "mentions": 34,
+     "name": "comfort",
+     "negative": 5,
+     "positive": 29,
+     "quotes": [
+      "Walked miles of hilly cobblestone. Super stable and comfortable from the moment I put them on, never had sore feet....",
+      "They are very comfortable and they do make you feel like you are barefoot . These are great for someone that has wide feet also ....",
+      "I wear these comfy, adorable shoes all 'the time. They're my favorite.",
+      "They did not disappoint! Have gotten compliments on them. So comfortable, and this is from a girl who had foot surgery, and can\u2019t find shoes that..."
+     ],
+     "summary": "Customers find these shoes comfortable, with one mentioning they feel like wearing nothing and another noting zero foot pain."
+    },
+    {
+     "mentions": 28,
+     "name": "quality",
+     "negative": 2,
+     "positive": 26,
+     "quotes": [
+      "Nice and comfy . Nice wiggle room for your toes. I took a walk in them and I was fine.",
+      "The colour was nice. Plus they look well made. However I am returning because the left one painfully rubbed my ankle, even with socks.",
+      "Best I\u2019ve ever tried! Proprioception is excellent. Balance is so much better. I can wear them for hours and have zero foot pain....",
+      "I am a size 8 and they fit perfect . I love the quality , they were soft and they were also lightweight."
+     ],
+     "summary": "Customers find these shoes to be of high quality, describing them as the best they've ever tried."
+    },
+    {
+     "mentions": 17,
+     "name": "appearance",
+     "negative": 0,
+     "positive": 17,
+     "quotes": [
+      "So comfortable for my wide feet. And they are cute and go with everything",
+      "Great for travel - especially long walks in the airport. I get compliments when I wear them.",
+      "These are great for me. Honestly, I think they're as stylish as my Xero shoes that are over 3x the price....",
+      "Very comfortable fit. And they're very cute. I just need more cushion. If you don't need cushion, you will probably love these."
+     ],
+     "summary": "Customers like the appearance of these shoes, finding them cute and appreciating their pretty colors, with one customer noting the trendy tan gum sole."
+    },
+    {
+     "mentions": 7,
+     "name": "lightweight",
+     "negative": 1,
+     "positive": 6,
+     "quotes": [
+      "I love the quality , they were soft and they were also lightweight.",
+      "The color purple is gorgeous. These shoes are light as a feather, very flexible and true to size. I LOVE the wide toe space....",
+      "It truly feels like I\u2019m wearing nothing, very lightweight, and the flexibility is awesome. True to size....",
+      "I love these shoes!! They are very light weight and feel so good on my feet. The toe width is just right."
+     ],
+     "summary": "Customers appreciate that the shoes are lightweight."
+    },
+    {
+     "mentions": 27,
+     "name": "fit",
+     "negative": 10,
+     "positive": 17,
+     "quotes": [
+      "These shoes are light as a feather, very flexible and true to size. I LOVE the wide toe space....",
+      "It feels very confortable and snugged but runs small. Need to size up.",
+      "I bought these for a co-worker and she said they were a perfect fit and very comfortable.",
+      "These are great with people with wide feet, but there is no cushion in the bottom at all."
+     ],
+     "summary": "Customers have mixed opinions about the shoes' fit, with some finding them true to size and appreciating the wide toe space, while others report they are not true to size."
+    },
+    {
+     "mentions": 6,
+     "name": "walking performance",
+     "negative": 2,
+     "positive": 4,
+     "quotes": [
+      "Love! Very comfy. Great for travel - especially long walks in the airport. I get compliments when I wear them.",
+      "But they offer ZERO arch support. I can't imagine walking in these for five minutes let alone hours. Oh, and don't order a half size up....",
+      "The tan gum sole is trendy too so they\u2019re cute. Good for walking and with a coupon got them for a good price....",
+      "shoes you will need to ease into them but for me I can walk for hours and hours in these."
+     ],
+     "summary": "Customers have mixed opinions about the shoes' walking performance, with one customer finding them great for walking and running on paved or sidewalk surfaces, while another mentions they are hard to walk in."
+    }
+   ],
+   "stars": {
+    "1": 6,
+    "2": 4,
+    "3": 6,
+    "4": 19,
+    "5": 65
+   }
+  },
+  "B0DT1HTWY4": {
+   "features": [
+    {
+     "mentions": 123,
+     "name": "comfort",
+     "negative": 13,
+     "positive": 110,
+     "quotes": [
+      "Very comfortable. I had my first walk in these and felt great. The bounce is great and I love the color combination.",
+      "Very nice looking sneaker. Lightweight and comfortable. Took a long 4 mile walk in them today and they didn\u2019t hurt my feet at all.",
+      "Comfy, true to size, worth the money paid for, with great cushioning support especially when work on your feet all day long",
+      "I am brand loyal to UA products because of their durability, style and comfort...."
+     ],
+     "summary": "Customers find these shoes comfortable, with one customer specifically mentioning they help with plantar fasciitis symptoms."
+    },
+    {
+     "mentions": 110,
+     "name": "quality",
+     "negative": 12,
+     "positive": 98,
+     "quotes": [
+      "As with any other Under Armour product, good quality, well-made. Comfortable to wear right out of the box. Nice cushioned in sole....",
+      "Excelente",
+      "But great shoes! Really happy I took a chance.",
+      "Perfect \u2764\ufe0f"
+     ],
+     "summary": "Customers find these running shoes to be of excellent quality."
+    },
+    {
+     "mentions": 54,
+     "name": "value for money",
+     "negative": 7,
+     "positive": 47,
+     "quotes": [
+      "sole on the bottom of the shoe, item exactly as pictured at a great price! Would definitely recommend \ud83d\udcaf",
+      "I have wide feet and finding shoes that are both comfortable AND affordable is ALWAYS a struggle. These are amazing....",
+      "Comfy, true to size, worth the money paid for, with great cushioning support especially when work on your feet all day long",
+      "Shoes fit perfectly and are really comfortable. Would purchase again."
+     ],
+     "summary": "Customers find these shoes good value for money, appreciating their quality relative to price and saying they would buy them again."
+    },
+    {
+     "mentions": 39,
+     "name": "appearance",
+     "negative": 2,
+     "positive": 37,
+     "quotes": [
+      "I can wear them for hours without my feet hurting. They\u2019re cute and have great arch support. For the price, I\u2019m seriously impressed....",
+      "I enjoy walking in these comfortable shoes. They look nice and I like that the toe is slightly angled and elevated by design.",
+      "Yes, they\u2019re comfortable and look nice, but again, I\u2019m not impressed with the quality. Just look at the second picture I took....",
+      "Bellos"
+     ],
+     "summary": "Customers are satisfied with the appearance of these sneakers, noting that they look exactly as pictured and are well-made."
+    },
+    {
+     "mentions": 34,
+     "name": "cushioning",
+     "negative": 10,
+     "positive": 24,
+     "quotes": [
+      "I\u2019ve been running in them 5 days a week for around two months, they\u2019re soft and I feel stable. Would purchase again, for the money can\u2019t beat it.",
+      "Amazing fit, they have really good cushion on the heels! I felt like I was running on a cloud, during my morning jog,definitely a game changer.",
+      "Stiff. Not very flexible\u2026even after wearing awhile to break in, they just aren\u2019t ideal for heavy walkers.",
+      "Comfortable and are cushioned well for long walks. They fit perfectly and the color goes with anything. Very durable and good quality for the money."
+     ],
+     "summary": "Customers appreciate the cushioning of these running shoes, particularly noting the thick sole and soft inserts. One customer mentions that the cushioning is specifically designed for runners."
+    },
+    {
+     "mentions": 26,
+     "name": "arch support",
+     "negative": 7,
+     "positive": 19,
+     "quotes": [
+      "Very comfortable for walking long distance and standing for long. Great support.",
+      "They don't require breaking in. They're super light-weight and have good support while also a little give in the cushioning....",
+      "No arch support. I thought under armour brand was supposed to be quality products but you can\u2019t train in these shoes....",
+      "They\u2019re cute and have great arch support. For the price, I\u2019m seriously impressed. If you have wide feet, give these a try...."
+     ],
+     "summary": "Customers appreciate the arch support of these shoes, noting their superior cushioning and stability, with one customer mentioning their feet, knees, and hips remain fine while wearing them."
+    },
+    {
+     "mentions": 75,
+     "name": "fit",
+     "negative": 24,
+     "positive": 51,
+     "quotes": [
+      "I feel they are true to size. The quality seems good. Despite all the walking I did, the shoes still look brand new....",
+      "Perfect fit \u2014 appreciate the textured sole on the bottom of the shoe, item exactly as pictured at a great price! Would definitely recommend \ud83d\udcaf",
+      "Very cute sneaker. Runs about a half size small and not comfortable enough to wear all day.",
+      "Comfortable and are cushioned well for long walks. They fit perfectly and the color goes with anything. Very durable and good quality for the money."
+     ],
+     "summary": "Customers have mixed opinions about the shoes' fit, with some finding them true to size and appreciating the excellent width, while others report they might run small and are a little tight on the toes."
+    },
+    {
+     "mentions": 18,
+     "name": "durability",
+     "negative": 6,
+     "positive": 12,
+     "quotes": [
+      "They are lightweight but durable. I walk 15 miles per week and have had them for several months.",
+      "There must have been a structural defect that caused something to happen where the right shoe has a permeant squeak....",
+      "really love this shoes she feel less stressed and can last the whole day standing",
+      "Old-school, true to Asics quality form from the 80s, 90s, early 00s. Stitching, not glue...."
+     ],
+     "summary": "Customers have mixed opinions about the shoes' durability, with some finding them suitable for all-day wear, while others report issues with the cushioning not holding up and the soles wearing down too quickly for the price."
+    }
+   ],
+   "stars": {
+    "1": 5,
+    "2": 2,
+    "3": 4,
+    "4": 9,
+    "5": 80
+   }
+  },
+  "B09NLBG3NR": {
+   "features": [
+    {
+     "mentions": 385,
+     "name": "comfort",
+     "negative": 34,
+     "positive": 351,
+     "quotes": [
+      "I wear these daily for work. They are lightweight and comfortable. I\u2019m on my feet nearly 8 hours a day. So far they are holding up.",
+      "While I originally found these shoes to be very comfortable and fit well, the heel has worn through after only using them for 7 weeks....",
+      "These fit the bill in fit, comfort, breathability, and many other things she hated about the other 6....",
+      "These are so comfortable! I hiked Palo Duro Canyon in these and all over Colorado and my feet never hurt!"
+     ],
+     "summary": "Customers find these shoes comfortable, noting that their feet never hurt while wearing them. One customer specifically mentions the padding on the insoles, while another reports being able to walk again without pain."
+    },
+    {
+     "mentions": 349,
+     "name": "appearance",
+     "negative": 33,
+     "positive": 316,
+     "quotes": [
+      "Love them very comfortable did a 5K and a 4 mile walk in them and my feet did not hurt at all! I highly recommend these shoes",
+      "Great shoes I have a wide foot and these fit perfect!!",
+      "Love these shoes and how I can slip foot right in. Been able to wear without adding additional padding for my planter fasciitis.",
+      "They are cute, comfy at first. After about a month or so, my feet just hurt every time I wore them. Even using a semi-custom insert did not help."
+     ],
+     "summary": "Customers find these sneakers attractive and great for walking, with one customer noting they exceed expectations."
+    },
+    {
+     "mentions": 243,
+     "name": "fit",
+     "negative": 43,
+     "positive": 200,
+     "quotes": [
+      "True to size and very comfortable to wear with no break in time. I ordered my size in Wide and the toe box is generous....",
+      "Great fit and support. The inner lining ripped after about a month and started giving me blisters on my heels....",
+      "Cute comfortable and the perfect fit. Easy to put on and remove, I'm always supported with Sketchers!...",
+      "I am a size 9 and they fit perfectly. They are super comfortable for the gym. These Sketchers are slip resistant and very easy to put on."
+     ],
+     "summary": "Customers are satisfied with how the shoes fit, particularly noting that they come in wide widths and have plenty of room in the toe box."
+    },
+    {
+     "mentions": 97,
+     "name": "value for money",
+     "negative": 12,
+     "positive": 85,
+     "quotes": [
+      "Great shoes at a great price! Comfy from the minute I put them on.",
+      "Surge sole are cushioned and semi thick. Great buy I would purchase again.",
+      "Very comfortable and reasonable price nice pairs of shoes to go for a walk",
+      "Great product, lightweight and the mesh is keeps my feet cool. Would buy again."
+     ],
+     "summary": "Customers find these shoes to be good value for money."
+    },
+    {
+     "mentions": 84,
+     "name": "foot support",
+     "negative": 21,
+     "positive": 63,
+     "quotes": [
+      "This shoe fits me well and comfortably. The sole is firm and supportive. It's not as cushioned as a Hoka, but the fit is better for me....",
+      "Great fit and support. The inner lining ripped after about a month and started giving me blisters on my heels....",
+      "Used for work and and no arch support.",
+      "Really Love these. Great support and room enough for using my special needs like support socks and ankle brace...."
+     ],
+     "summary": "Customers find these running shoes provide good support, particularly noting the great arch support, with one customer mentioning that the shape of the soles helps prevent foot cramping."
+    },
+    {
+     "mentions": 76,
+     "name": "cushioning",
+     "negative": 15,
+     "positive": 61,
+     "quotes": [
+      "They're very comfortable and soft. Look great but don't have enough support for my feet.",
+      "Although cushioned, the shoes tended to make my feet pronate as I walked.",
+      "They are light in weight but still offer great support and cushion. Comfortable enough to wear all day.",
+      "True to size for my 8.5. narrow foot, they feel great."
+     ],
+     "summary": "Customers appreciate the cushioning of these shoes, particularly the goga mat insole and good arch support, with one customer noting that it provides solid support without being bulky."
+    },
+    {
+     "mentions": 55,
+     "name": "color",
+     "negative": 2,
+     "positive": 53,
+     "quotes": [
+      "Love the fit, color and they have held up to hiking very well....",
+      "this is a perfect shoe, it has great support, comes in a wide, love the colors.. it laces up so I can wear on treadmill without feeling like a...",
+      "They're my go-to & these are a great buy! Love the color. Definitely cushion soft. Enjoy!",
+      "Bought Wide size and they fit like old shoes. Beautiful, vibrant colors. Last star reserved for durability."
+     ],
+     "summary": "Customers love the colors of these shoes, particularly the light purple trim on black and the gray soles, with one customer noting that the gray works well with both work and workout attire."
+    },
+    {
+     "mentions": 72,
+     "name": "durability",
+     "negative": 31,
+     "positive": 41,
+     "quotes": [
+      "They do look nice and sturdy, but they are a good half-size smaller than I would have expected them to be.",
+      "Don't last long",
+      "They are very well cushioned & have good foot support. I can wear them all day & have no lower back pain or foot pain at the end of the day....",
+      "Started off as a decent shoe. After about 15 wears the backs of both shoes have started to fray. They do fit are slowly falling apart...."
+     ],
+     "summary": "Customers have mixed experiences with the durability of these shoes, with some reporting they hold up well and last longer than other brands, while others mention they start to rip behind the heels and fall apart quickly."
+    }
+   ],
+   "stars": {
+    "1": 5,
+    "2": 2,
+    "3": 3,
+    "4": 10,
+    "5": 80
+   }
+  },
+  "B0F6T6R6C1": {
+   "features": [
+    {
+     "mentions": 257,
+     "name": "quality",
+     "negative": 22,
+     "positive": 235,
+     "quotes": [
+      "Great shoes. Hold up well and fit perfectly.",
+      "Love them! So comfortable. And they arrived on time. True to size.",
+      "Love these shoes. Perfect fit. I walk 3-4 miles daily and they\u2019re super comfortable.",
+      "They are great quality and really comfortable. I have a second pair in a different color for the gym and they are great for that as well."
+     ],
+     "summary": "Customers find these running shoes to be of good quality, with multiple customers mentioning their daughter loved them."
+    },
+    {
+     "mentions": 230,
+     "name": "comfort",
+     "negative": 16,
+     "positive": 214,
+     "quotes": [
+      "Arch support is adequate. Lightweight and comfortable. I walk 3-5 miles in them everyday without ending up with sore feet.",
+      "Very comfortable! Took these on a trip to Italy where I walked 10+ miles a day and they were great! I also like that the sole is black too....",
+      "Super comfortable from day 1. Easily switch from walking to jogging without my legs or feet feeling tired. My new go to for walking shoes",
+      "This shoe is so comfortable! I wore when I was on vacation and did a lot of walking and my feet never hurt."
+     ],
+     "summary": "Customers find these running shoes comfortable, with several noting their feet don't hurt while wearing them. One customer mentions they can walk long distances without discomfort, while another reports they are the best shoes for plantar fasciitis."
+    },
+    {
+     "mentions": 167,
+     "name": "fit",
+     "negative": 43,
+     "positive": 124,
+     "quotes": [
+      "True to size and roomy toe box. I have 5 pairs and will buy more in every color I can find. I have foot issues and these work very well for me.",
+      "Great fit and super comfortable!! Good support for my feet especially being in my feet for 12 hours for work. I love the gray color....",
+      "I tried putting insoles in but then they are too tight and pull my socks off. If I try to go barefoot in them, my feet sweat like crazy....",
+      "Love these shoes. Perfect fit. I walk 3-4 miles daily and they\u2019re super comfortable."
+     ],
+     "summary": "Customers find these running shoes comfortable and well-fitting, with accurate sizing and room in the toe area, and one customer mentions they work well for over pronating flat feet."
+    },
+    {
+     "mentions": 112,
+     "name": "appearance",
+     "negative": 7,
+     "positive": 105,
+     "quotes": [
+      "These shoes are cute, comfortable and fit perfectly. My feet are very supported during my runs and other workouts. Just try them.",
+      "Love these shoes! Comfortable, stylish and great for standing for a long time. I like the cushioning.",
+      "Exactly as pictured. Beautiful but need a half size up. Bought for my daughter who is a size 9 and Nike runs narrow on some of their shoes",
+      "Super cute, super comfy - all the things you can expect from a Nike tennis shoe."
+     ],
+     "summary": "Customers like the appearance of these running shoes, finding them awesome and noting they look and feel great, with one customer mentioning they get lots of compliments."
+    },
+    {
+     "mentions": 67,
+     "name": "value for money",
+     "negative": 10,
+     "positive": 57,
+     "quotes": [
+      "Great price for Nikes. They are very comfortable and look good. Fit is right. No problems.",
+      "Great buy!!",
+      "It\u2019s comfortable, has room in the toe and it has a good price. The shoe is not bulky but it is enough support. I recommend this sneaker.",
+      "A good item and price."
+     ],
+     "summary": "Customers find these running shoes worth the money, with several mentioning they would definitely buy them again."
+    },
+    {
+     "mentions": 50,
+     "name": "arch support",
+     "negative": 8,
+     "positive": 42,
+     "quotes": [
+      "They felt lightweight, supportive, and fit my feet perfectly without any uncomfortable pressure points or rubbing....",
+      "The shoe is comfortable and has great support but the grey is lighter in the photo then in person",
+      "Comfortable, but not what I was looking for. They have good arch support and run true to size. Good sneakers for the price....",
+      "True to size and comfortable out of the box. Good heal and arch support. Lightweight. Great for treadmill."
+     ],
+     "summary": "Customers appreciate the arch support of these running shoes, finding them stable and effective for feet that hurt."
+    },
+    {
+     "mentions": 46,
+     "name": "color",
+     "negative": 6,
+     "positive": 40,
+     "quotes": [
+      "Love the color and support. The traction on the bottom is amazing as well.",
+      "Love the color/styling. Fits correct to size. Comfortable for a low cost sneaker",
+      "Good traction and arch support. Nice color. My foot is slightly on the wider side and these fit really well....",
+      "I\u2019m size 8 and they fit perfectly! I love that they are all black and that they are super light...."
+     ],
+     "summary": "Customers love the color of these running shoes, particularly appreciating the little touches of pink and the true white shade, with several customers noting they get many compliments on the purple version."
+    },
+    {
+     "mentions": 40,
+     "name": "lightweight",
+     "negative": 2,
+     "positive": 38,
+     "quotes": [
+      "Comfortable and lightweight shoe. Not enough cushioning for a road runner.",
+      "These are the best sneakers I have ever purchased. They\u2019re so light weight and easy to put on and make walking so much more enjoyable....",
+      "i'm a 7.5 and they're true to size. they're light and fit my wide feet so nicely....",
+      "These are the most comfortable shoes I\u2019ve ever owned very lightweight true to size. I wish they came in every color."
+     ],
+     "summary": "Customers appreciate that these running shoes are very light."
+    }
+   ],
+   "stars": {
+    "1": 4,
+    "2": 2,
+    "3": 4,
+    "4": 11,
+    "5": 79
+   }
+  }
+ },
+ "fetch_log": [
+  {
+   "asin": "B0FK5G5TLC",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 1780
+  },
+  {
+   "asin": "B0GHNFCRMB",
+   "status": "fetched",
+   "n_features": 6,
+   "ms": 1672
+  },
+  {
+   "asin": "B0DT1HTWY4",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 1699
+  },
+  {
+   "asin": "B09NLBG3NR",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 1676
+  },
+  {
+   "asin": "B0F6T6R6C1",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 1608
+  }
+ ],
+ "result": {
+  "best_value": {
+   "advertised": false,
+   "asin": "B08638XY3X",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 9841,
+   "organic_rank": 37,
+   "position": 49,
+   "price": 49.51,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Skechers Women's Go Run Consistent Sneaker",
+   "fair_rating": 4.498,
+   "why": "4.50\u2605 fair rating vs 4.58\u2605 for the top-rated, for $20.98 less, $8.58 under the median price.",
+   "warn": null,
+   "risk": [],
+   "ad": false,
+   "unchecked": false
+  },
+  "best_price": {
+   "advertised": false,
+   "asin": "B0FK5G5TLC",
+   "badges": [],
+   "bought_past_month": "500+",
+   "n_ratings": 685,
+   "organic_rank": 41,
+   "position": 53,
+   "price": 19.99,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "Running Shoes for Women Men Tennis Walking Gym Workout Sneakers",
+   "features": [
+    {
+     "mentions": 92,
+     "name": "comfort",
+     "negative": 12,
+     "positive": 80,
+     "quotes": [
+      "Love these shoes! They are so comfortable and breathable. I wore these in Disney and my feet were the only ones in our group that weren\u2019t hurting....",
+      "Got these for my Minnie Mouse outfit, they're perfect! Very comfortable, didn't even need to break them in.",
+      "Surprised by looks comfort and style",
+      "I ended up keeping them as my everyday shoes, and they are super comfortable!..."
+     ],
+     "summary": "Customers find these sneakers extremely comfortable, with one mentioning there's no pressure on their feet."
+    },
+    {
+     "mentions": 80,
+     "name": "quality",
+     "negative": 15,
+     "positive": 65,
+     "quotes": [
+      "Great shoes, comfortable and fit great (true to size). I can walk comfortably in them and they are slip resistant....",
+      "Love these shoes! They are so comfortable and breathable. I wore these in Disney and my feet were the only ones in our group that weren\u2019t hurting....",
+      "Love them! Wore them to banana ball game",
+      "These shoes are excellent for its comfort, fit and price."
+     ],
+     "summary": "Customers find these sneakers fantastic and perfect for their needs."
+    },
+    {
+     "mentions": 46,
+     "name": "fit",
+     "negative": 12,
+     "positive": 34,
+     "quotes": [
+      "So comfortable and true to size bought 3 pairs just love them",
+      "Very comfortable and a perfect fit! It's a true eight and a half size.",
+      "Size not accurate Poorly made",
+      "Working fast food so I'm on my feet all day. They fit perfectly. They're very comfortable. And most importantly, they are slip resistant!"
+     ],
+     "summary": "Customers are satisfied with how these sneakers fit, particularly noting the room in the toe area, and one customer mentions they are suitable for wide feet."
+    },
+    {
+     "mentions": 35,
+     "name": "value for money",
+     "negative": 10,
+     "positive": 25,
+     "quotes": [
+      "They look great and it\u2019s great value for your money.",
+      "Pretty good shoe for the price. Nice arch support for me as I use these for certain fun outfits....",
+      "No arch support at all. I would say don't waste your money buying these, spend the extra coins on something more comfortable.",
+      "For the price of the shoes are nice but with price it shows what to expect with quality which was nice but a bit too thin for my liking."
+     ],
+     "summary": "Customers find these sneakers to be good value for money, offering decent quality relative to their price point."
+    },
+    {
+     "mentions": 27,
+     "name": "lightweight",
+     "negative": 1,
+     "positive": 26,
+     "quotes": [
+      "They are lightweight, breathable and totally flexible. They are surprisingly comfortable all day. A real find.",
+      "Very comfortable. Light weight and oddly enough slip resistant! They are also cute. Got lots of compliments on them.",
+      "So far so good. I use them for walking only, very light and breathable. I did go a half size smaller than other brands it worked out good....",
+      "These shoes are comfortable, light and cheap. I gorgeous them for work but they look nicer than I thought. I'd wear them out."
+     ],
+     "summary": "Customers appreciate that these sneakers are lightweight, with one customer noting that the cushioning feels good without making the shoes feel heavy."
+    },
+    {
+     "mentions": 18,
+     "name": "versatility",
+     "negative": 4,
+     "positive": 14,
+     "quotes": [
+      "They slip on and off very easily and can be worn with or without socks. Though I wouldn't recommend you doing the no socks part....",
+      "These are really good for waking. My feet did not hurt like they normally do. Will buy them again.",
+      "Comfortable; light weight; vibrant green; able to wear all day and packs easily for trips.",
+      "Cannot wear in the kitchen because anything fall on top of it goes through the shoe."
+     ],
+     "summary": "Customers find these sneakers versatile, noting they are perfect for work and can be worn all day. One customer specifically mentions they are ideal for mature runners and walkers."
+    },
+    {
+     "mentions": 17,
+     "name": "appearance",
+     "negative": 4,
+     "positive": 13,
+     "quotes": [
+      "Light weight and oddly enough slip resistant! They are also cute. Got lots of compliments on them.",
+      "I can walk comfortably in them and they are slip resistant. They look great and it\u2019s great value for your money.",
+      "The style is nice looking. Just dock a star due to it not being super comfortable",
+      "When trying to tie them, the laces are extra long and the sneaker itself looks a little weird (to my eye at least)...."
+     ],
+     "summary": "Customers find these sneakers nice looking, with one mentioning they got lots of compliments on them."
+    },
+    {
+     "mentions": 17,
+     "name": "arch support",
+     "negative": 11,
+     "positive": 6,
+     "quotes": [
+      "Very white and I like that. They are holding up well. Not a whole lot of support/ sole structure, but for 20 bucks, I wasn't expecting much....",
+      "I love how well-cushioned they are & the arch support is good. I do a lot of walking for my job & they really protect my feet....",
+      "Mediocre arch support. Uncomfortable, I'd advise sole inserts. Also came worn and dirty",
+      "No type of support at all, and is definitely very cheaply made. No arch support at all...."
+     ],
+     "summary": "Customers have mixed opinions about the arch support of these sneakers, with some finding it good while others report no support at all."
+    }
+   ],
+   "complaints": [
+    "arch support 65% negative (11/17)"
+   ],
+   "neg_share": 0.208,
+   "low_star_pct": 20,
+   "fair_rating": 4.241,
+   "warn": "arch support 65% negative (11/17)",
+   "risk": [
+    "arch support 65% negative (11/17)"
+   ],
+   "ad": false,
+   "unchecked": false
+  },
+  "amazon_pick": {
+   "advertised": false,
+   "asin": "B0DM3FXXNQ",
+   "badges": [
+    "Overall Pick",
+    "Save 29%"
+   ],
+   "bought_past_month": "300+",
+   "n_ratings": 4207,
+   "organic_rank": 2,
+   "position": 6,
+   "price": 109.95,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Brooks Women's Adrenaline GTS 25 Running Shoe",
+   "fair_rating": 4.495,
+   "warn": null,
+   "risk": [],
+   "ad": false,
+   "unchecked": false,
+   "pick_reason": "badge"
+  },
+  "stats": {
+   "items": 60,
+   "avg_rating": 4.35,
+   "median_price": 58.09,
+   "ads": 12
+  }
+ }
+}

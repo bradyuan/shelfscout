@@ -93,6 +93,65 @@ async def run(cfg: dict, searches: int = 3, per_search: int = 20, holder: list |
     return r.id
 
 
+def race_svg(seq_s: float, con_s: float, checks: int, model: str, loop_s: float = 20.0) -> str:
+    """Animated SVG for the README: both bars on the same (sped-up) clock, so the gap is honest."""
+    W, X0, BAR = 720, 150, 470
+    scale = seq_s / loop_s                   # real seconds per animation second
+    con_d = max(con_s / scale, 0.25)
+    total = loop_s + 3                       # hold the finished state for 3 s, then replay
+    def fmt(sec):
+        return f"{sec:,.0f} s ({sec / 60:.0f} min)" if sec >= 120 else f"{sec:,.0f} s"
+    def bar(y, label, dur, color, end_text):
+        k = dur / total
+        return f"""
+  <text x="20" y="{y + 17}" class="lbl">{label}</text>
+  <rect x="{X0}" y="{y}" width="{BAR}" height="24" rx="6" class="track"/>
+  <rect x="{X0}" y="{y}" width="0" height="24" rx="6" fill="{color}">
+    <animate attributeName="width" values="0;{BAR};{BAR}" keyTimes="0;{k:.4f};1" dur="{total}s" repeatCount="indefinite"/>
+  </rect>
+  <text x="{X0 + BAR + 10}" y="{y + 17}" class="val" opacity="0">{end_text}
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;{k:.4f};{min(k + .01, 1):.4f};1" dur="{total}s" repeatCount="indefinite"/>
+  </text>"""
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="170" viewBox="0 0 {W} 170" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+  <style>
+    .card{{fill:#ffffff;stroke:#d0d7de}} .lbl{{fill:#1f2328;font-size:14px;font-weight:600}} .val{{fill:#1f2328;font-size:13px;font-weight:700}}
+    .sub{{fill:#59636e;font-size:12px}} .track{{fill:#eef1f4}} .big{{fill:#2f9e61;font-size:22px;font-weight:800}}
+    @media (prefers-color-scheme: dark) {{ .card{{fill:#0d1117;stroke:#30363d}} .lbl,.val{{fill:#e6edf3}} .big{{fill:#6fcf97}} .sub{{fill:#9198a1}} .track{{fill:#21262d}} }}
+  </style>
+  <rect x="1" y="1" width="{W - 2}" height="168" rx="10" class="card"/>
+  <text x="20" y="32" class="lbl">AI filter: {checks} product checks, {model}</text>
+  {bar(52, "All at once", con_d, "#2f9e61", fmt(con_s))}
+  {bar(96, "One at a time", loop_s, "#8c959f", fmt(seq_s))}
+  <text x="{W - 20}" y="34" text-anchor="end" class="big" opacity="0">{seq_s / con_s:.1f}× faster
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;{con_d / total:.4f};{min(con_d / total + .01, 1):.4f};1" dur="{total}s" repeatCount="indefinite"/>
+  </text>
+  <text x="20" y="152" class="sub">Both bars on the same clock, sped up {scale:.0f}×. Real times on the right.</text>
+</svg>
+"""
+
+
+def write_artifacts(rid: str) -> dict:
+    """Save a run's summary to benchmarks/ (committed, unlike data/) and redraw docs/latency-race.svg."""
+    from pathlib import Path
+    from .trace import list_runs, load_rows
+    meta = next(r for r in list_runs() if r["id"] == rid)
+    by = {s["name"]: s for s in meta["stages"]}
+    summ = {r["mode"]: r for r in load_rows(rid, by["summary"]["file"])}
+    rows = load_rows(rid, by["sequential"]["file"]) + load_rows(rid, by["concurrent"]["file"])
+    seq_v = {(r["search"], r["asin"]): r["relevant"] for r in rows if r["mode"] == "sequential"}
+    con_v = {(r["search"], r["asin"]): r["relevant"] for r in rows if r["mode"] == "concurrent"}
+    same = sum(seq_v[k] == con_v.get(k) for k in seq_v)
+    out = {"run_id": rid, "notes": meta.get("notes"), "sequential": summ["sequential"], "concurrent": summ["concurrent"],
+           "speedup": summ["speedup"]["x"], "same_verdict": f"{same}/{len(seq_v)}", "rows": rows}
+    root = Path(__file__).resolve().parent.parent
+    (root / "benchmarks").mkdir(exist_ok=True)
+    (root / "benchmarks" / f"latency-{rid}.json").write_text(json.dumps(out, indent=1, default=str))
+    model = (meta.get("notes") or "").split(" · ")[0].split(":", 1)[-1] or "?"
+    (root / "docs" / "latency-race.svg").write_text(
+        race_svg(summ["sequential"]["wall_s"], summ["concurrent"]["wall_s"], summ["sequential"]["products"], model))
+    return out
+
+
 if __name__ == "__main__":
     import argparse
     import os
@@ -114,3 +173,5 @@ if __name__ == "__main__":
         r = rows[m]
         print(f"{m:<12}{r['products']:>7}{r['wall_s']:>9}{r['p50_ms']:>9}{r['p95_ms']:>9}{r['throughput_per_s']:>8}{r['backoffs']:>10}{r['errors']:>8}")
     print(f"\nspeedup: {rows['speedup']['x']}x   ·   run {rid}   ·   http://localhost:8100/runs/{rid}")
+    art = write_artifacts(rid)
+    print(f"same verdict both modes: {art['same_verdict']}  ·  saved benchmarks/latency-{rid}.json and docs/latency-race.svg")

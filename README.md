@@ -67,21 +67,27 @@ flowchart LR
 
 ### Benchmark: latency
 
-The off-topic filter on 150 products (30 saved searches × 5), `gemini-3.8-flash`:
+The off-topic filter on 145 products (29 saved Amazon searches × 5), `gemini-3.8-flash`, one at a time vs all at once:
+
+![Bar race: all at once finishes in 72 s while one at a time takes 19 min](docs/latency-race.svg)
 
 | Mode | Wall time | Per check p50 / p95 | Throughput | Errors |
 |---|---|---|---|---|
-| One at a time | 1,276 s (21 min) | 6.3 s / 23.2 s | 0.12 / s | 0 |
-| All at once | **46 s** | 5.9 s / 20.0 s | 3.24 / s | 0 |
+| One at a time | 1,156 s (19 min) | 5.4 s / 20.4 s | 0.13 / s | 0 |
+| All at once | **72 s** | 6.9 s / 22.7 s | 2.02 / s | 0 |
 
-**27.6× faster**, with no slowdown per check and no rate-limit backoffs. Other numbers from the same run:
+**16.1× faster.** Each check gets somewhat slower under load (median 6.9 s vs 5.4 s), but running them all at once
+more than makes up for it. No rate-limit backoffs. Other numbers from the same run:
 
-- **Consistency:** 147 of 150 products (98%) got the same verdict in both runs (sequential and concurrent).
-- **Fallbacks:** 5 of 300 checks (1.7%) needed the "decide now" fallback after the agent looped without answering.
-- **Errors:** 0 of 300.
+- **Consistency:** 141 of 145 products (97%) got the same verdict in both modes.
+- **Fallbacks:** 4 of 290 checks (1.4%) needed the "decide now" fallback after the agent looped without answering.
+- **Errors:** 0 of 290.
 
-Rerun it with `GEMINI_API_KEY=... uv run python -m shelfscout.latency --per-search 5` (the default is 10 products
-per search; results are recorded as a run in the factory view).
+Full results: [`benchmarks/latency-20261121-182221-8664.json`](benchmarks/latency-20261121-182221-8664.json).
+The frozen searches are in `data/bench/`, so you can rerun it with your own key:
+`GEMINI_API_KEY=... uv run python -m shelfscout.latency --per-search 5`
+(about 20 minutes; it rewrites the results file and the bar race). To refreeze the searches from Amazon:
+`uv run python -m shelfscout.bench --redo`.
 
 ## Permissions
 
@@ -152,8 +158,10 @@ shelfscout/api.py   FastAPI endpoints: analyze, AI filter, export
 shelfscout/value.py scoring: fair rating, complaints, best value, ranking
 shelfscout/ai.py    off-topic filter: LangGraph agent, RAG, model picking, rate limiter, quote check
 shelfscout/export.py Excel export
-shelfscout/latency.py latency benchmark (CLI)
+shelfscout/latency.py latency benchmark (CLI): writes benchmarks/*.json and docs/latency-race.svg
 shelfscout/bench.py freezes Amazon searches with Selenium for repeatable benchmarks
 shelfscout/factory.py, trace.py  run recorder and factory view
 tests/              pytest (plumbing, with fake models)
+benchmarks/         saved benchmark results
+data/bench/         the frozen Amazon searches the benchmark runs on
 ```

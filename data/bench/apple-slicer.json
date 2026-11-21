@@ -1,0 +1,1432 @@
+{
+ "query": "apple slicer",
+ "pattern": "ambiguous",
+ "key_terms": [
+  "slicer|corer"
+ ],
+ "url": "https://www.amazon.com/s?k=apple+slicer",
+ "frozen_at": "2026-11-21 17:57",
+ "cards": [
+  {
+   "advertised": false,
+   "asin": "B00004OCKT",
+   "badges": [
+    "Overall Pick"
+   ],
+   "bought_past_month": "8K+",
+   "n_ratings": 13645,
+   "organic_rank": 1,
+   "position": 5,
+   "price": 11.69,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "OXO Good Grips Apple Slicer, Corer & Cutter"
+  },
+  {
+   "advertised": false,
+   "asin": "B08M5LT97G",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 13543,
+   "organic_rank": 2,
+   "position": 6,
+   "price": 6.99,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "SCHVUBENR Apple Slicer and Corer, 3.5 Inch Apple Cutter with 8 Slices\u4e28Black"
+  },
+  {
+   "advertised": true,
+   "asin": "B00EZQQO9Q",
+   "badges": [],
+   "bought_past_month": "4K+",
+   "n_ratings": 23242,
+   "organic_rank": 3,
+   "position": 7,
+   "price": 13.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "PrepWorks Apple Slicer and Corer, Attached Safety Cover, Cuts 16 Thin Apple Slices, Red"
+  },
+  {
+   "advertised": false,
+   "asin": "B0B1DG7LZW",
+   "badges": [],
+   "bought_past_month": "2K+",
+   "n_ratings": 1940,
+   "organic_rank": 4,
+   "position": 8,
+   "price": 9.99,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Supercenter Apple Cutter, Apple Corer and Slicer - 4.72 Inch Apple Slicer"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DNVY8K1V",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "3K+",
+   "n_ratings": 7018,
+   "organic_rank": 5,
+   "position": 9,
+   "price": 19.53,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Newness 5.12-In Extra Large Apple Slicer, 12-Blade Cutter"
+  },
+  {
+   "advertised": false,
+   "asin": "B0B72DL8KL",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "2K+",
+   "n_ratings": 7152,
+   "organic_rank": 6,
+   "position": 10,
+   "price": 33.96,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Mueller Pro-Series All-in-One, 12 Blade Mandoline Slicer for Kitchen, Food Chopper, Vegetable Slicer and Spiralizer, Cutter, Dicer, Grater, Kitchen Gadgets Sets with Container, White Sand/Gray"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DCKCK326",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "10K+",
+   "n_ratings": 4664,
+   "organic_rank": 7,
+   "position": 15,
+   "price": 20.89,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Mueller Vegetable Chopper Mandoline Slicer, Food, Cook's Tool, Veggie Chopper Onion Vegetable Cutter with Container, Dicer, Kitchen Gadgets & Essentials, White Sand/Grey"
+  },
+  {
+   "advertised": false,
+   "asin": "B0FLXY2CBC",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "10K+",
+   "n_ratings": 3523,
+   "organic_rank": 8,
+   "position": 16,
+   "price": 15.99,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "8-Blade Cook Tool & Gadget Sets, Egg Slicer Chopper Grater Set, White"
+  },
+  {
+   "advertised": false,
+   "asin": "B08S7NJLMG",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 3248,
+   "organic_rank": 9,
+   "position": 17,
+   "price": 14.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "LIIGEMI Heavy Duty Apple Cutter Corer, Large 12-Blade Stainless Steel Fruit Slicer"
+  },
+  {
+   "advertised": false,
+   "asin": "B07Q2W18KS",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 6848,
+   "organic_rank": 10,
+   "position": 18,
+   "price": 17,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "KitchenAid KE305OHERA Classic Fruit Slicer, One Size, Red"
+  },
+  {
+   "advertised": false,
+   "asin": "B003XPH6VU",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 118,
+   "organic_rank": 11,
+   "position": 23,
+   "price": 8.34,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "GoodCook Touch Apple Wedger with Stainless Steel Cutting Edges and Protective Cover, Red"
+  },
+  {
+   "advertised": true,
+   "asin": "B0BBTPH3NJ",
+   "badges": [],
+   "bought_past_month": "600+",
+   "n_ratings": 1970,
+   "organic_rank": 12,
+   "position": 24,
+   "price": 9.99,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Stainless Steel Apple Slicer and Corer Tool, Apple Cutter 12 Slices"
+  },
+  {
+   "advertised": false,
+   "asin": "B096L29ZND",
+   "badges": [],
+   "bought_past_month": "900+",
+   "n_ratings": 23242,
+   "organic_rank": 13,
+   "position": 25,
+   "price": 16.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "PrepWorks by Progressive Dishwasher Safe 16-Slice Thin Apple Slicer and Corer with Attached Safety Cover (Turquoise)"
+  },
+  {
+   "advertised": true,
+   "asin": "B09W9K1G9D",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 7340,
+   "organic_rank": 14,
+   "position": 26,
+   "price": 22.99,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "Newness 5.12-In Extra Large Apple Slicer, 16-Blade Cutter"
+  },
+  {
+   "advertised": false,
+   "asin": "B09BKTSJFJ",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 12084,
+   "organic_rank": 15,
+   "position": 27,
+   "price": 22.99,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Apple Peeler Corer, Long lasting Chrome Cast Magnesium Alloy Apple Peeler Slicer Corer with Stainless Steel Blades and Powerful Suction Base for Apples and Potato(Red)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0H7X9PTQQ",
+   "badges": [],
+   "bought_past_month": "200+",
+   "n_ratings": 3,
+   "organic_rank": 16,
+   "position": 28,
+   "price": 6.69,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "Apple Slicer Corer Cutter Apple Corer Tool Heavy Duty Fruit Divider"
+  },
+  {
+   "advertised": false,
+   "asin": "B0F5J8PCLK",
+   "badges": [],
+   "bought_past_month": "700+",
+   "n_ratings": 239,
+   "organic_rank": 17,
+   "position": 29,
+   "price": 8.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Apple Slicer,4.72 Inch Apple Corer and Slicer -Apple Cutter,Red"
+  },
+  {
+   "advertised": false,
+   "asin": "B0H74MHZZV",
+   "badges": [],
+   "bought_past_month": "500+",
+   "n_ratings": 50,
+   "organic_rank": 18,
+   "position": 30,
+   "price": 6.99,
+   "rating": 3.6,
+   "sponsored": false,
+   "title": "Apple Slicer and Corer, 8 Blade Stainless Steel Apple Cutter."
+  },
+  {
+   "advertised": false,
+   "asin": "B0CJ3F3FFS",
+   "badges": [],
+   "bought_past_month": "300+",
+   "n_ratings": 1333,
+   "organic_rank": 19,
+   "position": 31,
+   "price": 7.98,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "4.2\" Upgrade Apple Slicer and Corer Ultra Sharp Blade Apple Cutter Red"
+  },
+  {
+   "advertised": false,
+   "asin": "B0FK4FN9NT",
+   "badges": [],
+   "bought_past_month": "300+",
+   "n_ratings": 13543,
+   "organic_rank": 20,
+   "position": 32,
+   "price": 6.99,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "SCHVUBENR Apple Slicer and Corer, 3.5 Inch Apple Cutter with 8 Slices\u4e28Green"
+  },
+  {
+   "advertised": false,
+   "asin": "B0F7QYR7PQ",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 3248,
+   "organic_rank": 21,
+   "position": 33,
+   "price": 12.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "LIIGEMI Premium Apple Corer Cutter, 12 Blades with Mirrored Handle Fruit Slicer"
+  },
+  {
+   "advertised": false,
+   "asin": "B0G5VYYQ1L",
+   "badges": [],
+   "bought_past_month": "600+",
+   "n_ratings": 23242,
+   "organic_rank": 22,
+   "position": 34,
+   "price": 16.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "PrepWorks by Progressive Dishwasher Safe 16-Slice Thin Apple Slicer and Corer with Attached Safety Cover (Pistachio)"
+  },
+  {
+   "advertised": true,
+   "asin": "B0DXPQ9Z9C",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 327,
+   "organic_rank": 23,
+   "position": 35,
+   "price": 12.99,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Apple Slicer and Corer - 12 Blade Extra Large, Stainless Steel Apple Cutter - Heavy Duty, Easy to Use, Kitchen Tool"
+  },
+  {
+   "advertised": false,
+   "asin": "B072M4Q8R9",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 1475,
+   "organic_rank": 24,
+   "position": 36,
+   "price": 7.74,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "ARSUK apple cutter 8 slices 3.5 Inch Easy Apple Slicer,Apple Corer Wedger Divider Tool -Easy to Use Fruits & Pears\u2013 Professional Apple Cutter Corer-8 Sharp Stainless Steel Blades(Green)"
+  },
+  {
+   "advertised": false,
+   "asin": "B00EZQQO8M",
+   "badges": [],
+   "bought_past_month": "300+",
+   "n_ratings": 23242,
+   "organic_rank": 25,
+   "position": 37,
+   "price": 16.06,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "PrepWorks Apple Slicer and Corer with Safety Cover, 8 Slices, Green"
+  },
+  {
+   "advertised": false,
+   "asin": "B0CJ3HVQX8",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 1333,
+   "organic_rank": 26,
+   "position": 38,
+   "price": 7.98,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Rainspire Apple Cutter 8 Slices, 8 Blade Apple Slicer and Corer, Apple Corer Tool with Stainless Steel Blades, Super Sharp Fruit Cutter Fruit Slicer, Green"
+  },
+  {
+   "advertised": false,
+   "asin": "B0CHRPHSM7",
+   "badges": [],
+   "bought_past_month": "400+",
+   "n_ratings": 13543,
+   "organic_rank": 27,
+   "position": 39,
+   "price": 8.99,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "SCHVUBENR Apple Slicer and Corer, 4.72 inch Apple Cutter with 12 Slices"
+  },
+  {
+   "advertised": false,
+   "asin": "B09LJGCRMH",
+   "badges": [],
+   "bought_past_month": "400+",
+   "n_ratings": 23242,
+   "organic_rank": 28,
+   "position": 40,
+   "price": 16.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "PrepWorks by Progressive Dishwasher Safe 16-Slice Thin Apple Slicer and Corer with Attached Safety Cover (Grey)"
+  },
+  {
+   "advertised": true,
+   "asin": "B0D1Y4B8DQ",
+   "badges": [],
+   "bought_past_month": "900+",
+   "n_ratings": 648,
+   "organic_rank": 29,
+   "position": 41,
+   "price": 17.99,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "5.5 Inch Extra Large 16-Slice Apple Corer, Heavy Duty Divider Wedger Cutter"
+  },
+  {
+   "advertised": false,
+   "asin": "B0F3964985",
+   "badges": [],
+   "bought_past_month": "600+",
+   "n_ratings": 1333,
+   "organic_rank": 30,
+   "position": 42,
+   "price": 7.98,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Rainspire Apple Cutter 8 Slices, 8 Blade Apple Slicer and Corer, Apple Corer Tool with Stainless Steel Blades, Super Sharp Fruit Cutter Fruit Slicer, Pink"
+  },
+  {
+   "advertised": true,
+   "asin": "B0GJCV3VR9",
+   "badges": [],
+   "bought_past_month": "500+",
+   "n_ratings": 77,
+   "organic_rank": 31,
+   "position": 43,
+   "price": 8.99,
+   "rating": 3.7,
+   "sponsored": false,
+   "title": "Stainless Steel Apple Slicer and Corer, 8-Slice Apple Cutter Wedger"
+  },
+  {
+   "advertised": false,
+   "asin": "B07TZRYMH1",
+   "badges": [],
+   "bought_past_month": "200+",
+   "n_ratings": 992,
+   "organic_rank": 32,
+   "position": 44,
+   "price": 8.99,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "12 Blade Apple Slicer Corer Cutter, Red"
+  },
+  {
+   "advertised": false,
+   "asin": "B09V12NF18",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "400+",
+   "n_ratings": 850,
+   "organic_rank": 33,
+   "position": 45,
+   "price": 18.35,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "Apple Slicer Corer, [Large Size] 8-Blade Heavy Duty Apple Cutter with Base, [Upgraded] Cut Apples All The Way Through, Stainless Steel Ultra-Sharp Blade, Fruit & Vegetable Divider, Wedger, Red"
+  },
+  {
+   "advertised": false,
+   "asin": "B0F395Z5PD",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 1333,
+   "organic_rank": 34,
+   "position": 46,
+   "price": 7.98,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Rainspire Apple Cutter 8 Slices, 8 Blade Apple Slicer and Corer, Apple Corer Tool with Stainless Steel Blades, Super Sharp Fruit Cutter Fruit Slicer, Mint Green"
+  },
+  {
+   "advertised": false,
+   "asin": "B0D223382V",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "200+",
+   "n_ratings": 3248,
+   "organic_rank": 35,
+   "position": 47,
+   "price": 11.19,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "LIIGEMI Extra Large 12-Blade Apple Slicer Corer Cutter, Red Heavy Duty Fruit Divider"
+  },
+  {
+   "advertised": false,
+   "asin": "B01N9EPVTJ",
+   "badges": [],
+   "bought_past_month": "200+",
+   "n_ratings": 1751,
+   "organic_rank": 36,
+   "position": 48,
+   "price": 20.4,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "NORPRO NOR-5133 Grip-Ez Fruit Wedger 16 Slice with BSE , White"
+  },
+  {
+   "advertised": false,
+   "asin": "B000KKM1CA",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 61,
+   "organic_rank": 37,
+   "position": 49,
+   "price": 9.67,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Chef Craft Select Stainless Steel Apple Slicer, 9 inch, White"
+  },
+  {
+   "advertised": false,
+   "asin": "B0G5TRQK1F",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 23242,
+   "organic_rank": 38,
+   "position": 50,
+   "price": 16.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "PrepWorks by Progressive Dishwasher Safe 16-Slice Thin Apple Slicer and Corer with Attached Safety Cover (Baby Blue)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0CXZRPB8C",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 109,
+   "organic_rank": 39,
+   "position": 51,
+   "price": 5.29,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "Apple Pear Slicer Cutter, Corer Divider, apple seed remover, 8 Blade 8 Slice, Easy Grip, Medium"
+  },
+  {
+   "advertised": false,
+   "asin": "B0DK6RCJ5L",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "100+",
+   "n_ratings": 7340,
+   "organic_rank": 40,
+   "position": 52,
+   "price": 18.68,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "Newness 5.12 Inch Large Apple Slicer, Cut 8 Slices All the Way Through, HEAVY - DUTY Stainless Steel Apple Corer & Slicer for Fruits & Vegetables - Dishwasher Safe"
+  },
+  {
+   "advertised": false,
+   "asin": "B0G62WPWNB",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 23242,
+   "organic_rank": 41,
+   "position": 53,
+   "price": 16.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "PrepWorks by Progressive Dishwasher Safe 16-Slice Thin Apple Slicer and Corer with Attached Safety Cover (Magenta)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0GVG9TV89",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 23,
+   "organic_rank": 42,
+   "position": 54,
+   "price": 13.99,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Apple Slicer and Corer, 8 Slice Apple Cutter, Stainless Steel"
+  },
+  {
+   "advertised": true,
+   "asin": "B0H1HD68FM",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "500+",
+   "n_ratings": 438,
+   "organic_rank": 43,
+   "position": 55,
+   "price": 25.49,
+   "rating": 4,
+   "sponsored": false,
+   "title": "Extra-Large Apple Slicer & Corer \u2013 16-Blade Heavy Duty Stainless Steel Apple Cutter, Safe & Quick Apple Divider for Apples, Pears & More, with Clear Catch Bowl"
+  },
+  {
+   "advertised": false,
+   "asin": "B09BKTDK9Z",
+   "badges": [],
+   "bought_past_month": "2K+",
+   "n_ratings": 12084,
+   "organic_rank": 44,
+   "position": 56,
+   "price": 22.99,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Apple Peeler Corer, Long lasting Chrome Cast Magnesium Alloy Apple Peeler Slicer Corer with Stainless Steel Blades and Powerful Suction Base for Apples and Potato(White)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0H99JGY18",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 4,
+   "organic_rank": 45,
+   "position": 57,
+   "price": 7.29,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "Apple Slicer and Corer Stainless 8 Slices Steel Apple Cutter"
+  },
+  {
+   "advertised": false,
+   "asin": "B0CG94679C",
+   "badges": [],
+   "bought_past_month": "300+",
+   "n_ratings": 241,
+   "organic_rank": 46,
+   "position": 58,
+   "price": 13.99,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Apple Slicer and Corer,12 Blades Stainless Steel Apple Corer"
+  },
+  {
+   "advertised": false,
+   "asin": "B0HHD4R1Q1",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": null,
+   "n_ratings": null,
+   "organic_rank": 47,
+   "position": 59,
+   "price": 15.99,
+   "rating": null,
+   "sponsored": false,
+   "title": "Apple Slicer Corer 12 Blade Large Stainless Steel Apple Cutter for Fruit"
+  },
+  {
+   "advertised": false,
+   "asin": "B0BVTLFXKM",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 139,
+   "organic_rank": 48,
+   "position": 60,
+   "price": 4.99,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "1 Apple Slicer Corer Divider 8 Blade-Easy Grip Apple Cutter With Stainless Steel- Fast Usage Apple Corer And Slicer Tool medium size 7\"X4.2\""
+  },
+  {
+   "advertised": true,
+   "asin": "B0GZZH7KJB",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 12,
+   "organic_rank": null,
+   "position": 11,
+   "price": 134.99,
+   "rating": 4.2,
+   "sponsored": true,
+   "title": "2-in-1 Heavy Duty Cast Iron Manual Juicer & Vegetable Chopper \u2014 Hand Press Citrus Squeezer & Food Dicer with Interchangeable Blades, No Electricity, Easy Clean, Fresh Juice & Meal Prep in Seconds"
+  },
+  {
+   "advertised": true,
+   "asin": "B09JSDW5VS",
+   "badges": [],
+   "bought_past_month": "200+",
+   "n_ratings": 1218,
+   "organic_rank": null,
+   "position": 12,
+   "price": 25.99,
+   "rating": 4.4,
+   "sponsored": true,
+   "title": "Apple Peeler, Slicer Corer Potato Peelers 3 In 1, Stainless Steel Heavy Duty Suction Cup Base And 7 Extra Blades (Blue)"
+  },
+  {
+   "advertised": true,
+   "asin": "B0D3T6YB5M",
+   "badges": [
+    "Save 13%"
+   ],
+   "bought_past_month": null,
+   "n_ratings": 408,
+   "organic_rank": null,
+   "position": 19,
+   "price": 13.99,
+   "rating": 4.6,
+   "sponsored": true,
+   "title": "Pineapple Corer and Slicer, Stainless Steel Pineapple Cutter Tool"
+  },
+  {
+   "advertised": true,
+   "asin": "B08QZQY1JF",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 2865,
+   "organic_rank": null,
+   "position": 21,
+   "price": 17.97,
+   "rating": 4.2,
+   "sponsored": true,
+   "title": "Apple Peeler for Apple Sauce and Pie, 8-Wedge Apple Slicer Corer with Stainless Steel Blades, Upgraded Strong Suction Base, Includes 2 Replacement Blades"
+  },
+  {
+   "advertised": true,
+   "asin": "B097SBBJHS",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 472,
+   "organic_rank": null,
+   "position": 22,
+   "price": 15.88,
+   "rating": 4.4,
+   "sponsored": true,
+   "title": "Apple Slicer, HEAVY DUTY Apple Corer, 8-Blade Stainless Steel Apple Cutter Divider Pitter \uff0cSturdy and Sharp"
+  }
+ ],
+ "features": {
+  "B0BVTLFXKM": {
+   "features": [
+    {
+     "mentions": 17,
+     "name": "functionality",
+     "negative": 0,
+     "positive": 17,
+     "quotes": [
+      "Works great! My step-mom was super excited to get this!",
+      "Very ordinary quality. Blades are not very sharp but will do the job. It broke in less than a month and went into my trash bin....",
+      "Works really well, but mine broke after a few uses",
+      "Just perfect for single apple coring and slicing. Pretty color. Easy to use especially if one has arthritis"
+     ],
+     "summary": "Customers find that the core remover works great, with one mentioning it's perfect for single apple coring and slicing, and another noting that the slices don't fall through after cutting."
+    },
+    {
+     "mentions": 14,
+     "name": "quality",
+     "negative": 3,
+     "positive": 11,
+     "quotes": [
+      "Perfect and does a great job! Very happy with this purchase!",
+      "Great product.",
+      "Nice",
+      "Very ordinary quality. Blades are not very sharp but will do the job. It broke in less than a month and went into my trash bin...."
+     ],
+     "summary": "Customers find the apple slicer to be of good quality."
+    },
+    {
+     "mentions": 8,
+     "name": "value for money",
+     "negative": 1,
+     "positive": 7,
+     "quotes": [
+      "Good price and sturdy",
+      "May have gotten my $5 worth before both plastic handles broke off at the same time cutting both thumbs",
+      "This was an inexpensive and pretty option that is sturdy and works well!",
+      "Great value. Works great."
+     ],
+     "summary": "Customers find the apple slicer to be a great value."
+    },
+    {
+     "mentions": 7,
+     "name": "cutting performance",
+     "negative": 4,
+     "positive": 3,
+     "quotes": [
+      "Takes a lot of pressure to get it to cut, and then it does not cut completely through",
+      "This is a decent apple sliced but the slices are HUGE. I sliced a few more times w a knife bc so large",
+      "Not as sharp as I\u2019d like to be. Sometimes it doesn\u2019t cut all the way through.",
+      "It\u2019s like it\u2019s not cutting the slices all the way through."
+     ],
+     "summary": "Customers have mixed experiences with the apple slicer's performance, with several reporting that it does not cut very well and does not cut completely through the fruit."
+    },
+    {
+     "mentions": 11,
+     "name": "durability",
+     "negative": 8,
+     "positive": 3,
+     "quotes": [
+      "Blades are not very sharp but will do the job. It broke in less than a month and went into my trash bin....",
+      "Broke in less than a year and did not keep sharpness long",
+      "This was an inexpensive and pretty option that is sturdy and works well!",
+      "Works really well, but mine broke after a few uses"
+     ],
+     "summary": "Customers report durability issues with the apple slicer, with multiple customers mentioning that their units broke after a few uses."
+    },
+    {
+     "mentions": 7,
+     "name": "blade sharpness",
+     "negative": 6,
+     "positive": 1,
+     "quotes": [
+      "Very ordinary quality. Blades are not very sharp but will do the job. It broke in less than a month and went into my trash bin....",
+      "Broke in less than a year and did not keep sharpness long",
+      "The added leverage did not make up for the lack of blade sharpness. No easier to slice apples than my old one. Would not recommend.",
+      "Not as sharp as I\u2019d like to be. Sometimes it doesn\u2019t cut all the way through."
+     ],
+     "summary": "Customers report that the apple corer's blades are not very sharp."
+    }
+   ],
+   "stars": {
+    "1": 10,
+    "2": 5,
+    "3": 6,
+    "4": 13,
+    "5": 66
+   }
+  },
+  "B0CXZRPB8C": {
+   "features": [
+    {
+     "mentions": 26,
+     "name": "performance",
+     "negative": 5,
+     "positive": 21,
+     "quotes": [
+      "Great. I haven\u2019t used it since it is going to be a \u2018stocking stuffer\u2019.",
+      "Great apple slicer and used to cut cranberry sauce on Christmas. Nice product",
+      "Yay!!! I love it. It was only a couple of dollars too. I hope it lasts. So far so good \ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\u2764\ufe0f",
+      "Nice, worked as expected. I cut up apples for my pet deer with this."
+     ],
+     "summary": "Customers love the performance of the apple slicer, describing it as great."
+    },
+    {
+     "mentions": 21,
+     "name": "slice performance",
+     "negative": 4,
+     "positive": 17,
+     "quotes": [
+      "Works great! Just as good as the more expensive ones I think.",
+      "Works well .",
+      "Nice, worked as expected. I cut up apples for my pet deer with this.",
+      "Works great for slicing apples for the deer out back."
+     ],
+     "summary": "Customers find that the slicer works well, with one mentioning it performs perfectly on apples."
+    },
+    {
+     "mentions": 11,
+     "name": "value for money",
+     "negative": 2,
+     "positive": 9,
+     "quotes": [
+      "It fits perfect in my drawers. And the price was absolutely great, $3!...",
+      "Nice inexpensive tool that does what it says. It feels sturdy, I hope it lasts.",
+      "For the price the quality is decent and it does what it needs to do.",
+      "It work good, seamed durable, good price"
+     ],
+     "summary": "Customers find the slicer offers good value for money, with one customer noting that the quality is decent for the price point."
+    },
+    {
+     "mentions": 6,
+     "name": "ease of use",
+     "negative": 1,
+     "positive": 5,
+     "quotes": [
+      "This item worked perfect for my apples real quick and easy to use",
+      "Love the apple slicer, super easy to use. Cut my apple very easily....",
+      "slices perfectly and very easy to use",
+      "Easy"
+     ],
+     "summary": "Customers find the slicer easy to use."
+    },
+    {
+     "mentions": 10,
+     "name": "durability",
+     "negative": 5,
+     "positive": 5,
+     "quotes": [
+      "Nice inexpensive tool that does what it says. It feels sturdy, I hope it lasts.",
+      "Second time I used it the handles snapped off. I\u2019m not that strong on the 71-year-old woman. I already threw it away.",
+      "It work good, seamed durable, good price",
+      "Pure junk.. broke after 3 uses"
+     ],
+     "summary": "Customers have mixed experiences with the slicer's durability, with some finding it durable while others report it breaking after multiple uses."
+    },
+    {
+     "mentions": 9,
+     "name": "sharpness",
+     "negative": 6,
+     "positive": 3,
+     "quotes": [
+      "Not sharp but the price was great.",
+      "This was extremely sharp and it diced through my apples like crazy excellent excellent product",
+      "Dull, doesn't work well",
+      "Not sharp enough to go through apple."
+     ],
+     "summary": "Customers have mixed opinions about the sharpness of the slicer, with some finding it extremely sharp while others report that it is not very sharp or dull."
+    }
+   ],
+   "stars": {
+    "1": 15,
+    "2": 2,
+    "3": 4,
+    "4": 6,
+    "5": 73
+   }
+  },
+  "B08M5LT97G": {
+   "features": [
+    {
+     "mentions": 769,
+     "name": "quality",
+     "negative": 142,
+     "positive": 627,
+     "quotes": [
+      "Great product especially for one who cuts lots of apples. Sometimes gets caught at the end.",
+      "My daughter love it! We use it to chop onions, potatoes and especially apples. I don\u2019t worry about it cutting her. It\u2019s really good",
+      "Good quality and does a great job of coring and sectioning. Raised handles make it easier on the knuckles to use.",
+      "This is great but it could be a little wider for bigger apples but my friend who I gift one to love it as she is a clutzs and always cutting herself"
+     ],
+     "summary": "Customers find the apple slicer fantastic and highly recommend it."
+    },
+    {
+     "mentions": 693,
+     "name": "functionality",
+     "negative": 82,
+     "positive": 611,
+     "quotes": [
+      "Works great! I like my apple slices a little thinner, that\u2019s the only reason I have it 4/5.",
+      "Works well and affordable! The only flaw is the apple can get stuck sometimes if the apple is not perfectly shaped.",
+      "It works but the plastic handles feel a little cheap like they may break off if you apply too much pressure....",
+      "This looks great, works, OK....not great...."
+     ],
+     "summary": "Customers find that the core remover works well, with one mentioning it performs particularly well on apples and pears."
+    },
+    {
+     "mentions": 229,
+     "name": "sturdiness",
+     "negative": 33,
+     "positive": 196,
+     "quotes": [
+      "The metal slicer is awesome, sturdy, and sharp. The plastic holding it into the handles is what snapped. Made it through about 50 small, fresh apples.",
+      "This cuts great, is very sturdy and makes more pieces than most Apple cutters. I wish it was easier to clean but otherwise a great product.",
+      "I'm very happy with this extra large apple slicer - it seems to be well made and durable. Works great on those really large Honeycrisp apples!",
+      "This apple cutter works great! It is strong and super easy to use. Just what I needed after my last one broke."
+     ],
+     "summary": "Customers find the apple slicer sturdy, noting that it isn't cheaply made and slices apples wonderfully."
+    },
+    {
+     "mentions": 122,
+     "name": "slice size",
+     "negative": 19,
+     "positive": 103,
+     "quotes": [
+      "Great value and easy to use, love the smaller slices",
+      "I bought it without noticing it makes 12 slices instead of 8 like my old one. I like it much better and am very happy with the purchase.",
+      "I love that this one makes smaller slices compared to my previous one.",
+      "Very sturdy and makes the perfect size slices"
+     ],
+     "summary": "Customers appreciate the apple slicer's ability to create 12 perfect-sized slices, particularly noting that it works well for children's portions."
+    },
+    {
+     "mentions": 661,
+     "name": "sharpness",
+     "negative": 344,
+     "positive": 317,
+     "quotes": [
+      "Seems to be well made and can handle larger fruit. But, it is not very sharp. It cuts, but requires some effort....",
+      "The metal slicer is awesome, sturdy, and sharp. The plastic holding it into the handles is what snapped. Made it through about 50 small, fresh apples.",
+      "To hard to push down, not sharp.",
+      "The kids have an easy time using this. Very sharp, sturdy, and easy to clean."
+     ],
+     "summary": "Customers have mixed experiences with the sharpness of the apple slicer, with some finding it sharp enough to cut through apples while others report that it doesn't cut well or doesn't cut all the way through them."
+    },
+    {
+     "mentions": 523,
+     "name": "ease of use",
+     "negative": 201,
+     "positive": 322,
+     "quotes": [
+      "Easy to use, sturdy, no complaints except that it has already become dull after about 10 uses.",
+      "Is hard to use, have to push & push then slam on counter, after all of this it doesn't cut to bottom of apple plus strangely pieces are not uniform...",
+      "It is easy and fun to use, my 2.5yo loves to do it. We use it only for apple but I am sure you could use it for onion and other veggies/fruits too....",
+      "Very easy to use, makes dicing apples so much easier. The design is ideal and the thickness is ok ...."
+     ],
+     "summary": "Customers have mixed opinions about the apple slicer's ease of use, with some finding it simple to cut and core their apples, while others report it takes a lot of force to get through the fruit."
+    },
+    {
+     "mentions": 219,
+     "name": "value for money",
+     "negative": 81,
+     "positive": 138,
+     "quotes": [
+      "It's a bit bulky, but it's sturdy. It was a good value for what it is. Easy to wash by hand.",
+      "It's a waste of money. Broke with just apples. Apples were not frozen or anything unusual.",
+      "Good price, free shipping. Been using for several months, in great shape.",
+      "Would buy again but it\u2019s pretty sturdy so probably will last awhile , easy to use & clean"
+     ],
+     "summary": "Customers have mixed opinions about the value for money of the apple slicer, with some finding it good for the price while others say it's not worth the cost."
+    },
+    {
+     "mentions": 230,
+     "name": "durability",
+     "negative": 170,
+     "positive": 60,
+     "quotes": [
+      "Received in April, worked well for 8 months, broke (fell apart) in December. Barely missed slicing into my husband\u2019s hand, do not recommend!",
+      "I used it for 6 months and it broke. The center ring with the blades came apart from the outer ring. Have to throw it away.",
+      "It\u2019s durable and the handles are sturdy. It\u2019s made it easier to grab an apple and go. Amazing how convenience makes it easier to eat healthy \ud83d\ude02",
+      "The product cur good,it cleans good,comfort in using it is good but not durable"
+     ],
+     "summary": "Customers report significant durability issues with the apple slicer, noting that it broke completely with mild use and within two months of use."
+    }
+   ],
+   "stars": {
+    "1": 4,
+    "2": 3,
+    "3": 6,
+    "4": 14,
+    "5": 73
+   }
+  },
+  "B0FK4FN9NT": {
+   "features": [
+    {
+     "mentions": 769,
+     "name": "quality",
+     "negative": 142,
+     "positive": 627,
+     "quotes": [
+      "Great product especially for one who cuts lots of apples. Sometimes gets caught at the end.",
+      "My daughter love it! We use it to chop onions, potatoes and especially apples. I don\u2019t worry about it cutting her. It\u2019s really good",
+      "Good quality and does a great job of coring and sectioning. Raised handles make it easier on the knuckles to use.",
+      "This is great but it could be a little wider for bigger apples but my friend who I gift one to love it as she is a clutzs and always cutting herself"
+     ],
+     "summary": "Customers find the apple slicer fantastic and highly recommend it."
+    },
+    {
+     "mentions": 693,
+     "name": "functionality",
+     "negative": 82,
+     "positive": 611,
+     "quotes": [
+      "Works great! I like my apple slices a little thinner, that\u2019s the only reason I have it 4/5.",
+      "Works well and affordable! The only flaw is the apple can get stuck sometimes if the apple is not perfectly shaped.",
+      "It works but the plastic handles feel a little cheap like they may break off if you apply too much pressure....",
+      "This looks great, works, OK....not great...."
+     ],
+     "summary": "Customers find that the core remover works well, with one mentioning it performs particularly well on apples and pears."
+    },
+    {
+     "mentions": 229,
+     "name": "sturdiness",
+     "negative": 33,
+     "positive": 196,
+     "quotes": [
+      "The metal slicer is awesome, sturdy, and sharp. The plastic holding it into the handles is what snapped. Made it through about 50 small, fresh apples.",
+      "This cuts great, is very sturdy and makes more pieces than most Apple cutters. I wish it was easier to clean but otherwise a great product.",
+      "I'm very happy with this extra large apple slicer - it seems to be well made and durable. Works great on those really large Honeycrisp apples!",
+      "This apple cutter works great! It is strong and super easy to use. Just what I needed after my last one broke."
+     ],
+     "summary": "Customers find the apple slicer sturdy, noting that it isn't cheaply made and slices apples wonderfully."
+    },
+    {
+     "mentions": 122,
+     "name": "slice size",
+     "negative": 19,
+     "positive": 103,
+     "quotes": [
+      "Great value and easy to use, love the smaller slices",
+      "I bought it without noticing it makes 12 slices instead of 8 like my old one. I like it much better and am very happy with the purchase.",
+      "I love that this one makes smaller slices compared to my previous one.",
+      "Very sturdy and makes the perfect size slices"
+     ],
+     "summary": "Customers appreciate the apple slicer's ability to create 12 perfect-sized slices, particularly noting that it works well for children's portions."
+    },
+    {
+     "mentions": 661,
+     "name": "sharpness",
+     "negative": 344,
+     "positive": 317,
+     "quotes": [
+      "Seems to be well made and can handle larger fruit. But, it is not very sharp. It cuts, but requires some effort....",
+      "The metal slicer is awesome, sturdy, and sharp. The plastic holding it into the handles is what snapped. Made it through about 50 small, fresh apples.",
+      "To hard to push down, not sharp.",
+      "The kids have an easy time using this. Very sharp, sturdy, and easy to clean."
+     ],
+     "summary": "Customers have mixed experiences with the sharpness of the apple slicer, with some finding it sharp enough to cut through apples while others report that it doesn't cut well or doesn't cut all the way through them."
+    },
+    {
+     "mentions": 523,
+     "name": "ease of use",
+     "negative": 201,
+     "positive": 322,
+     "quotes": [
+      "Easy to use, sturdy, no complaints except that it has already become dull after about 10 uses.",
+      "Is hard to use, have to push & push then slam on counter, after all of this it doesn't cut to bottom of apple plus strangely pieces are not uniform...",
+      "It is easy and fun to use, my 2.5yo loves to do it. We use it only for apple but I am sure you could use it for onion and other veggies/fruits too....",
+      "Very easy to use, makes dicing apples so much easier. The design is ideal and the thickness is ok ...."
+     ],
+     "summary": "Customers have mixed opinions about the apple slicer's ease of use, with some finding it simple to cut and core their apples, while others report it takes a lot of force to get through the fruit."
+    },
+    {
+     "mentions": 219,
+     "name": "value for money",
+     "negative": 81,
+     "positive": 138,
+     "quotes": [
+      "It's a bit bulky, but it's sturdy. It was a good value for what it is. Easy to wash by hand.",
+      "It's a waste of money. Broke with just apples. Apples were not frozen or anything unusual.",
+      "Good price, free shipping. Been using for several months, in great shape.",
+      "Would buy again but it\u2019s pretty sturdy so probably will last awhile , easy to use & clean"
+     ],
+     "summary": "Customers have mixed opinions about the value for money of the apple slicer, with some finding it good for the price while others say it's not worth the cost."
+    },
+    {
+     "mentions": 230,
+     "name": "durability",
+     "negative": 170,
+     "positive": 60,
+     "quotes": [
+      "Received in April, worked well for 8 months, broke (fell apart) in December. Barely missed slicing into my husband\u2019s hand, do not recommend!",
+      "I used it for 6 months and it broke. The center ring with the blades came apart from the outer ring. Have to throw it away.",
+      "It\u2019s durable and the handles are sturdy. It\u2019s made it easier to grab an apple and go. Amazing how convenience makes it easier to eat healthy \ud83d\ude02",
+      "The product cur good,it cleans good,comfort in using it is good but not durable"
+     ],
+     "summary": "Customers report significant durability issues with the apple slicer, noting that it broke completely with mild use and within two months of use."
+    }
+   ],
+   "stars": {
+    "1": 4,
+    "2": 3,
+    "3": 6,
+    "4": 14,
+    "5": 73
+   }
+  },
+  "B0CJ3F3FFS": {
+   "features": [
+    {
+     "mentions": 158,
+     "name": "functionality",
+     "negative": 15,
+     "positive": 143,
+     "quotes": [
+      "It's big. Love the handles, good grip. Doesn't feel flimsy. Works great.",
+      "This takes the hassle out of chopping apples and works well. Very convenient and easy to use. Sharp blade cuts through just fine....",
+      "I used it once and it was a little hard to push it, but it works and is sturdy.",
+      "This one is perfect, sturdy and heavy duty.. Does the job and recommend it highly."
+     ],
+     "summary": "Customers find that the core pit remover works well, with one customer specifically mentioning its effectiveness with large apples."
+    },
+    {
+     "mentions": 153,
+     "name": "quality",
+     "negative": 6,
+     "positive": 147,
+     "quotes": [
+      "Its a good product, but the pieces are cut to big so it doesn't work for small apples. It's made of good hard plastic material....",
+      "Good!",
+      "Great product - sturdy handles, slices perfectly, good price!",
+      "This is the best. It cuts our apples so good. Great quality and easy to use."
+     ],
+     "summary": "Customers find the apple slicer and corer to be of excellent quality, describing it as a great kitchen tool that they highly recommend."
+    },
+    {
+     "mentions": 75,
+     "name": "ease of use",
+     "negative": 9,
+     "positive": 66,
+     "quotes": [
+      "Sturdy, easy to use and cuts smoothly. I personally love the grip better than the plain slicers....",
+      "Very easy to use and clean!! Perfect for apples",
+      "Fast and easy",
+      "I love apples but hate cutting them. This makes it easy. Add some cinnamon and perfect snack. My grandkids love it."
+     ],
+     "summary": "Customers find the apple slicer easy to use, noting it's simpler than using a knife and makes snack time convenient. One customer mentions that the core and seeds are separated without difficulty."
+    },
+    {
+     "mentions": 69,
+     "name": "sharpness",
+     "negative": 20,
+     "positive": 49,
+     "quotes": [
+      "It\u2019s sharp and cuts apples real nice. The safety feature thing doesnt allow for it to cut through the bottom entirely but who cares....",
+      "Does a great job slicing and coring apples. Utensil is sturdy and blades are sharp.",
+      "Very sharp, almost cut myself though",
+      "Slices great and the plastic doesn\u2019t hurt my hands when I push down to slice."
+     ],
+     "summary": "Customers find the core remover's blades sharp and effective at cutting through various fruits and vegetables, with one customer noting it slices through even the hardest apples like butter."
+    },
+    {
+     "mentions": 56,
+     "name": "cutting performance",
+     "negative": 13,
+     "positive": 43,
+     "quotes": [
+      "Cuts easily, however, some of the apple was left slightly intact at the bottom of the blades, and I had to pull the skin apart....",
+      "It cuts the apple.",
+      "This seems to cut pretty easily, is of the described size, and is easy for me to grip while cutting. I love that it's dishwasher safe....",
+      "Easy to use but doesn\u2019t cut all the way through the apple."
+     ],
+     "summary": "Customers are satisfied with the apple slicer's performance, noting that it cuts through apples easily and quickly, producing snacking slices."
+    },
+    {
+     "mentions": 54,
+     "name": "value for money",
+     "negative": 5,
+     "positive": 49,
+     "quotes": [
+      "Time saver, great buy, easy to clean, cuts right through an apple with a lil pressure.",
+      "Great product - sturdy handles, slices perfectly, good price!",
+      "So much easier than cutting and coring by hand. Would buy again.",
+      "Great price, works well."
+     ],
+     "summary": "Customers find the apple slicer to be worth the money, describing it as a low-cost option that works well."
+    },
+    {
+     "mentions": 40,
+     "name": "sturdiness",
+     "negative": 0,
+     "positive": 40,
+     "quotes": [
+      "Sturdy, easy to use and cuts smoothly. I personally love the grip better than the plain slicers....",
+      "But the other great thing is that it\u2019s very sturdy and slices/cores my apples in maybe 6 seconds or less. Looks exactly as pictured....",
+      "It is strong which is needed to core/slice an apple",
+      "But this one is for big and small apples. It\u2019s heavy duty."
+     ],
+     "summary": "Customers find the apple slicer sturdy."
+    },
+    {
+     "mentions": 29,
+     "name": "size",
+     "negative": 11,
+     "positive": 18,
+     "quotes": [
+      "This seems to cut pretty easily, is of the described size, and is easy for me to grip while cutting. I love that it's dishwasher safe....",
+      "This thing is HUGE! It takes up quite a bit of space in my utensil drawer. But it does exactly what it supposed to do. No complaints.",
+      "Cute and to the point. Works very good and I love that it has handles big enough to hold without fear of getting cut.",
+      "Light enough that I can carry it in my lunch bag. The size is doable. Not too large or small...."
+     ],
+     "summary": "Customers have mixed opinions about the size of the apple slicer, with some finding it great and noting it works with both big and small apples, while others mention it is larger than expected."
+    }
+   ],
+   "stars": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 11,
+    "5": 82
+   }
+  }
+ },
+ "fetch_log": [
+  {
+   "asin": "B0BVTLFXKM",
+   "status": "fetched",
+   "n_features": 6,
+   "ms": 1652
+  },
+  {
+   "asin": "B0CXZRPB8C",
+   "status": "fetched",
+   "n_features": 6,
+   "ms": 1701
+  },
+  {
+   "asin": "B08M5LT97G",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 1718
+  },
+  {
+   "asin": "B0FK4FN9NT",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 1689
+  },
+  {
+   "asin": "B0CJ3F3FFS",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 1612
+  }
+ ],
+ "result": {
+  "best_value": {
+   "advertised": false,
+   "asin": "B0CJ3HVQX8",
+   "badges": [],
+   "bought_past_month": "100+",
+   "n_ratings": 1333,
+   "organic_rank": 26,
+   "position": 38,
+   "price": 7.98,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "Rainspire Apple Cutter 8 Slices, 8 Blade Apple Slicer and Corer, Apple Corer Tool with Stainless Steel Blades, Super Sharp Fruit Cutter Fruit Slicer, Green",
+   "fair_rating": 4.679,
+   "why": "4.68\u2605 fair rating vs 4.70\u2605 for the top-rated, for $3.71 less, $6.01 under the median price.",
+   "warn": null,
+   "risk": [],
+   "ad": false,
+   "unchecked": false
+  },
+  "best_price": {
+   "advertised": false,
+   "asin": "B0BVTLFXKM",
+   "badges": [],
+   "bought_past_month": "50+",
+   "n_ratings": 139,
+   "organic_rank": 48,
+   "position": 60,
+   "price": 4.99,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "1 Apple Slicer Corer Divider 8 Blade-Easy Grip Apple Cutter With Stainless Steel- Fast Usage Apple Corer And Slicer Tool medium size 7\"X4.2\"",
+   "features": [
+    {
+     "mentions": 17,
+     "name": "functionality",
+     "negative": 0,
+     "positive": 17,
+     "quotes": [
+      "Works great! My step-mom was super excited to get this!",
+      "Very ordinary quality. Blades are not very sharp but will do the job. It broke in less than a month and went into my trash bin....",
+      "Works really well, but mine broke after a few uses",
+      "Just perfect for single apple coring and slicing. Pretty color. Easy to use especially if one has arthritis"
+     ],
+     "summary": "Customers find that the core remover works great, with one mentioning it's perfect for single apple coring and slicing, and another noting that the slices don't fall through after cutting."
+    },
+    {
+     "mentions": 14,
+     "name": "quality",
+     "negative": 3,
+     "positive": 11,
+     "quotes": [
+      "Perfect and does a great job! Very happy with this purchase!",
+      "Great product.",
+      "Nice",
+      "Very ordinary quality. Blades are not very sharp but will do the job. It broke in less than a month and went into my trash bin...."
+     ],
+     "summary": "Customers find the apple slicer to be of good quality."
+    },
+    {
+     "mentions": 8,
+     "name": "value for money",
+     "negative": 1,
+     "positive": 7,
+     "quotes": [
+      "Good price and sturdy",
+      "May have gotten my $5 worth before both plastic handles broke off at the same time cutting both thumbs",
+      "This was an inexpensive and pretty option that is sturdy and works well!",
+      "Great value. Works great."
+     ],
+     "summary": "Customers find the apple slicer to be a great value."
+    },
+    {
+     "mentions": 7,
+     "name": "cutting performance",
+     "negative": 4,
+     "positive": 3,
+     "quotes": [
+      "Takes a lot of pressure to get it to cut, and then it does not cut completely through",
+      "This is a decent apple sliced but the slices are HUGE. I sliced a few more times w a knife bc so large",
+      "Not as sharp as I\u2019d like to be. Sometimes it doesn\u2019t cut all the way through.",
+      "It\u2019s like it\u2019s not cutting the slices all the way through."
+     ],
+     "summary": "Customers have mixed experiences with the apple slicer's performance, with several reporting that it does not cut very well and does not cut completely through the fruit."
+    },
+    {
+     "mentions": 11,
+     "name": "durability",
+     "negative": 8,
+     "positive": 3,
+     "quotes": [
+      "Blades are not very sharp but will do the job. It broke in less than a month and went into my trash bin....",
+      "Broke in less than a year and did not keep sharpness long",
+      "This was an inexpensive and pretty option that is sturdy and works well!",
+      "Works really well, but mine broke after a few uses"
+     ],
+     "summary": "Customers report durability issues with the apple slicer, with multiple customers mentioning that their units broke after a few uses."
+    },
+    {
+     "mentions": 7,
+     "name": "blade sharpness",
+     "negative": 6,
+     "positive": 1,
+     "quotes": [
+      "Very ordinary quality. Blades are not very sharp but will do the job. It broke in less than a month and went into my trash bin....",
+      "Broke in less than a year and did not keep sharpness long",
+      "The added leverage did not make up for the lack of blade sharpness. No easier to slice apples than my old one. Would not recommend.",
+      "Not as sharp as I\u2019d like to be. Sometimes it doesn\u2019t cut all the way through."
+     ],
+     "summary": "Customers report that the apple corer's blades are not very sharp."
+    }
+   ],
+   "complaints": [
+    "durability 73% negative (8/11)"
+   ],
+   "neg_share": 0.344,
+   "low_star_pct": 21,
+   "fair_rating": 4.402,
+   "warn": "durability 73% negative (8/11)",
+   "risk": [
+    "durability 73% negative (8/11)"
+   ],
+   "ad": false,
+   "unchecked": false
+  },
+  "amazon_pick": {
+   "advertised": false,
+   "asin": "B00004OCKT",
+   "badges": [
+    "Overall Pick"
+   ],
+   "bought_past_month": "8K+",
+   "n_ratings": 13645,
+   "organic_rank": 1,
+   "position": 5,
+   "price": 11.69,
+   "rating": 4.7,
+   "sponsored": false,
+   "title": "OXO Good Grips Apple Slicer, Corer & Cutter",
+   "fair_rating": 4.698,
+   "warn": null,
+   "risk": [],
+   "ad": false,
+   "unchecked": false,
+   "pick_reason": "badge"
+  },
+  "stats": {
+   "items": 53,
+   "avg_rating": 4.43,
+   "median_price": 13.99,
+   "ads": 12
+  }
+ }
+}

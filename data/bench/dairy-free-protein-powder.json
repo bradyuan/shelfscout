@@ -1,0 +1,1615 @@
+{
+ "query": "dairy free protein powder",
+ "pattern": "without",
+ "key_terms": [
+  "dairy free|dairy-free|vegan|plant"
+ ],
+ "url": "https://www.amazon.com/s?k=dairy+free+protein+powder",
+ "frozen_at": "2026-11-21 17:50",
+ "cards": [
+  {
+   "advertised": false,
+   "asin": "B00J074W7Q",
+   "badges": [
+    "Overall Pick"
+   ],
+   "bought_past_month": "60K+",
+   "n_ratings": 62809,
+   "organic_rank": 1,
+   "position": 5,
+   "price": 31.98,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Orgain Organic Vegan 21g Protein Powder, Vanilla Bean, 2.03 lb USDA Organic"
+  },
+  {
+   "advertised": false,
+   "asin": "B007SYT7LO",
+   "badges": [],
+   "bought_past_month": "7K+",
+   "n_ratings": 13365,
+   "organic_rank": 2,
+   "position": 6,
+   "price": 35.69,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "Garden of Life Raw Organic Plant Protein Powder, 20 Servings USDA Organic"
+  },
+  {
+   "advertised": false,
+   "asin": "B001FXSCD8",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "900+",
+   "n_ratings": 1589,
+   "organic_rank": 3,
+   "position": 7,
+   "price": 40.02,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "MRM Nutrition Egg White Protein - 23g Fat-Free Protein - 20 Servings"
+  },
+  {
+   "advertised": false,
+   "asin": "B06W52PLFP",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 9857,
+   "organic_rank": 4,
+   "position": 8,
+   "price": 34.98,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Orgain Organic Vegan 21g Protein Powder, Peanut Butter, 2.03 lb USDA Organic"
+  },
+  {
+   "advertised": true,
+   "asin": "B0DDQHLWFN",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "10K+",
+   "n_ratings": 8610,
+   "organic_rank": 5,
+   "position": 9,
+   "price": 31.99,
+   "rating": 4.1,
+   "sponsored": false,
+   "title": "Truvani Organic Plant Based Protein Powder | Vanilla | 18 Servings USDA Organic"
+  },
+  {
+   "advertised": false,
+   "asin": "B0CV8RTDYX",
+   "badges": [],
+   "bought_past_month": "2K+",
+   "n_ratings": 1493,
+   "organic_rank": 6,
+   "position": 10,
+   "price": 24.97,
+   "rating": 4.1,
+   "sponsored": false,
+   "title": "Owyn Only What You Need Pro Elite High Protein Powder, 30g Vegan Protein for Workout Recovery, Delicious Smooth Taste, Zero Sugar, Low Net Carbs, Vanilla, 12 Servings (1.32 LB)"
+  },
+  {
+   "advertised": false,
+   "asin": "B07PXNNFGT",
+   "badges": [],
+   "bought_past_month": "20K+",
+   "n_ratings": 36800,
+   "organic_rank": 7,
+   "position": 15,
+   "price": 34.98,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Orgain Organic Vegan 21g Protein + Superfoods Powder, Vanilla Bean, 2.02lb USDA Organic"
+  },
+  {
+   "advertised": false,
+   "asin": "B01BGQ1HMQ",
+   "badges": [],
+   "bought_past_month": "6K+",
+   "n_ratings": 6038,
+   "organic_rank": 8,
+   "position": 16,
+   "price": 19.98,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Orgain Organic Vegan 21g Protein Powder, Vanilla Bean, 1.02 lb USDA Organic"
+  },
+  {
+   "advertised": false,
+   "asin": "B0FWDC63JH",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "2K+",
+   "n_ratings": 250,
+   "organic_rank": 9,
+   "position": 17,
+   "price": 23.99,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Koia Elite Vanilla, Plant-Based Protein Powder, Prebiotic Fiber, Dairy-Free"
+  },
+  {
+   "advertised": false,
+   "asin": "B013MRPPL6",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "8K+",
+   "n_ratings": 2279,
+   "organic_rank": 10,
+   "position": 18,
+   "price": 50.99,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "Equip Prime Chocolate Protein Powder - Gut-Friendly, No Sugar Protein Shake Powder with Grass-Fed Beef & Natural Collagen - Rich & Creamy Mix - 21g Per Serving - Whey & Dairy-Free (30 Scoops)"
+  },
+  {
+   "advertised": false,
+   "asin": "B09VMPYWVX",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 1021,
+   "organic_rank": 11,
+   "position": 23,
+   "price": 34.99,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "Optimum Nutrition Gold Standard Plant Based Protein, Rich Chocolate Fudge"
+  },
+  {
+   "advertised": false,
+   "asin": "B07Y5H8K5D",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "1K+",
+   "n_ratings": 1794,
+   "organic_rank": 12,
+   "position": 24,
+   "price": 22.94,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "PB2 Performance Peanut Plant Based Vegan Protein Powder | 20g Complete Protein, No Added Sugar, Prebiotic Fiber | Dairy Free, Certified Vegan, Non-GMO, and Gluten Free [Peanut with Dutch Cocoa, 2lb]"
+  },
+  {
+   "advertised": false,
+   "asin": "B0BRM7MB3Y",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 1458,
+   "organic_rank": 13,
+   "position": 25,
+   "price": 26.99,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "Vega Essential Protein \u2013 25g Plant Based Protein Powder, Creamy Vanilla, Vegan for a Dairy-Free Vanilla Shake \u2013 Large Tub, 32.5oz (20 Servings)"
+  },
+  {
+   "advertised": false,
+   "asin": "B08XLQV3XQ",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "3K+",
+   "n_ratings": 8215,
+   "organic_rank": 14,
+   "position": 26,
+   "price": 38.22,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Sunwarrior Organic Plant Based Protein Powder 32 Servings, Vanilla Flavored"
+  },
+  {
+   "advertised": false,
+   "asin": "B0CZZFKDC7",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 471,
+   "organic_rank": 15,
+   "position": 27,
+   "price": 29.99,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Orgain X Justin's 20g Protein Powder, Chocolate Peanut Butter, 1.17lb USDA Organic"
+  },
+  {
+   "advertised": false,
+   "asin": "B08H8FZHJ4",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 1586,
+   "organic_rank": 16,
+   "position": 28,
+   "price": 37.99,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "SOLO Organic Pea Protein Isolate, Unflavored Vegan Protein Powder (2.7 lbs) USDA Organic"
+  },
+  {
+   "advertised": false,
+   "asin": "B0G2TJ3Y2J",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 138,
+   "organic_rank": 17,
+   "position": 29,
+   "price": 49,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "THORNE Plant Protein, 22 g Pea, Rice & Chia Protein Powder, 20 Servings"
+  },
+  {
+   "advertised": false,
+   "asin": "B00K0FTJ1Q",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "4K+",
+   "n_ratings": 13467,
+   "organic_rank": 18,
+   "position": 30,
+   "price": 15.22,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "Purely Inspired Plant-Based Protein Powder, Creamy French Vanilla USDA Organic"
+  },
+  {
+   "advertised": false,
+   "asin": "B004HY325K",
+   "badges": [],
+   "bought_past_month": "2K+",
+   "n_ratings": 4427,
+   "organic_rank": 19,
+   "position": 31,
+   "price": 67.28,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "MuscleMeds CARNIVOR Beef Protein Isolate Powder, Muscle Building, Recovery, Lactose Free, Sugar Free, Fat, Free, 23g Protein, Halal Certified, Chocolate, 56 Servings"
+  },
+  {
+   "advertised": false,
+   "asin": "B0F141V985",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "2K+",
+   "n_ratings": 175,
+   "organic_rank": 20,
+   "position": 32,
+   "price": 42.49,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Momentous Vegan Protein Powder, 20g Pea & Rice Blend Protein, Chocolate"
+  },
+  {
+   "advertised": false,
+   "asin": "B0787RBSF8",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 10777,
+   "organic_rank": 21,
+   "position": 33,
+   "price": 19.99,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "NAKED Pea - Pea Protein Isolate - Plant Based, Vegetarian & Vegan Protein. NSF Certified, Easy to Digest, Non-GMO, No Lactose, No Soy and Gluten Free - 15 Servings"
+  },
+  {
+   "advertised": false,
+   "asin": "B016D9IHZG",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 7108,
+   "organic_rank": 22,
+   "position": 34,
+   "price": 42.65,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "Vega Protein + Recovery, Chocolate \u2013 30g Vegan Protein, Dairy & Gluten Free, Probiotics, NSF Certified, 28.8 oz (19 Servings)"
+  },
+  {
+   "advertised": false,
+   "asin": "B072HS77TG",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "5K+",
+   "n_ratings": 3430,
+   "organic_rank": 23,
+   "position": 35,
+   "price": 61.68,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Ka\u2019Chava Whole Body Meal Shake Vanilla 2 lb \u2013 Vegan Protein Powder with 85+ Superfoods & Greens \u2013 Plant-Based Meal Replacement with Probiotics & Digestive Enzymes \u2013 Gluten & Dairy Free (15 Servings)"
+  },
+  {
+   "advertised": false,
+   "asin": "B085B58NB4",
+   "badges": [],
+   "bought_past_month": "5K+",
+   "n_ratings": 2709,
+   "organic_rank": 24,
+   "position": 36,
+   "price": 39.99,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Orgain Organic Vegan 30g High Protein Powder, Vanilla, 2.01 lb USDA Organic"
+  },
+  {
+   "advertised": false,
+   "asin": "B08B6DZ57Z",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 1001,
+   "organic_rank": 25,
+   "position": 37,
+   "price": null,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "REDCON1 MRE LITE Whole Food Protein Powder, Fudge Brownie - Lactose Free & Sugar Free Meal Replacement with Animal Protein Blends - Easy to Digest Formula - Only 2g Carb per Serving (30 Servings)"
+  },
+  {
+   "advertised": false,
+   "asin": "B076B8F1C6",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "1K+",
+   "n_ratings": 8199,
+   "organic_rank": 26,
+   "position": 38,
+   "price": 40.99,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "KOS Vegan Protein Powder Erythritol Free, Vanilla USDA Organic - Pea Protein Blend, Plant Based Superfood Rich in Vitamins & Minerals - Keto, Dairy Free - Meal Replacement for Women & Men, 28 Servings USDA Organic"
+  },
+  {
+   "advertised": false,
+   "asin": "B079PHG9HB",
+   "badges": [],
+   "bought_past_month": "2K+",
+   "n_ratings": 8864,
+   "organic_rank": 27,
+   "position": 39,
+   "price": 35.11,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Vega Premium Protein + Supergreens, Chocolate \u2013 20g Vegan Protein, Dairy & Gluten Free, 28.8 oz (25 Servings)"
+  },
+  {
+   "advertised": false,
+   "asin": "B0BPK32N5S",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "10K+",
+   "n_ratings": 3914,
+   "organic_rank": 28,
+   "position": 40,
+   "price": 50.99,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "FlavCity All-in-One Protein Smoothie Powder, Vanilla, 20 Servings"
+  },
+  {
+   "advertised": true,
+   "asin": "B0BXZ5LN34",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "8K+",
+   "n_ratings": 924,
+   "organic_rank": 29,
+   "position": 41,
+   "price": 53.59,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Paleovalley 100% Grass Fed Bone Broth Protein Powder, Chocolate"
+  },
+  {
+   "advertised": false,
+   "asin": "B088X4FZKB",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "100+",
+   "n_ratings": 204,
+   "organic_rank": 30,
+   "position": 42,
+   "price": 35.99,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "PEScience Select Vegan Protein Powder, Chocolate Peanut Butter, 27 Servings"
+  },
+  {
+   "advertised": false,
+   "asin": "B072M8GTXW",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "4K+",
+   "n_ratings": 5090,
+   "organic_rank": 31,
+   "position": 43,
+   "price": 43.49,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Levels Whey Protein Powder, No Artificial Ingredients, Pure Chocolate, 2LB"
+  },
+  {
+   "advertised": false,
+   "asin": "B07Q1Z3JLD",
+   "badges": [],
+   "bought_past_month": "2K+",
+   "n_ratings": 6264,
+   "organic_rank": 32,
+   "position": 44,
+   "price": 21.95,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Orgain Organic Vegan 21g Protein + Superfoods Powder, Vanilla Bean, 1.12lb USDA Organic"
+  },
+  {
+   "advertised": false,
+   "asin": "B09HL4CHR9",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "1K+",
+   "n_ratings": 563,
+   "organic_rank": 33,
+   "position": 45,
+   "price": 25.5,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "wellious Almond Vegan Protein Powder, Vanilla, 18g Protein, Soy-Free"
+  },
+  {
+   "advertised": false,
+   "asin": "B00K6JUG4K",
+   "badges": [],
+   "bought_past_month": "100K+",
+   "n_ratings": 215981,
+   "organic_rank": 34,
+   "position": 46,
+   "price": 38.99,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Vital Proteins Collagen Peptides Powder Advanced, Unflavored, 20oz GreenCircle Sustainable Energy Practices"
+  },
+  {
+   "advertised": false,
+   "asin": "B0F7BCY1J5",
+   "badges": [],
+   "bought_past_month": "6K+",
+   "n_ratings": 1355,
+   "organic_rank": 35,
+   "position": 47,
+   "price": 27.78,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Premier Protein Non-Dairy Almondmilk Protein Shake, 20g, Chocolate, 12 Pack"
+  },
+  {
+   "advertised": false,
+   "asin": "B07PDNBLMB",
+   "badges": [],
+   "bought_past_month": "600+",
+   "n_ratings": 1686,
+   "organic_rank": 36,
+   "position": 48,
+   "price": 32.18,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "Isopure Plant-Based Protein Powder, Vanilla 1.23 LB"
+  },
+  {
+   "advertised": false,
+   "asin": "B06ZZ3PJQD",
+   "badges": [],
+   "bought_past_month": "10K+",
+   "n_ratings": 29978,
+   "organic_rank": 37,
+   "position": 49,
+   "price": 29.99,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Premier Protein 30g High Protein Powder, 100% Whey, Vanilla, 17 Servings"
+  },
+  {
+   "advertised": false,
+   "asin": "B007S6Y6VS",
+   "badges": [],
+   "bought_past_month": "5K+",
+   "n_ratings": 18383,
+   "organic_rank": 38,
+   "position": 50,
+   "price": 47.99,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "Garden of Life Raw Organic Meal Replacement Protein Powder, 28 Servings USDA Organic"
+  },
+  {
+   "advertised": false,
+   "asin": "B0178ENI4K",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "30K+",
+   "n_ratings": 8768,
+   "organic_rank": 39,
+   "position": 51,
+   "price": 19.52,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "ALOHA Organic Plant Based Protein Bar | Peanut Butter Chocolate Chip, 12 Ct USDA Organic"
+  },
+  {
+   "advertised": false,
+   "asin": "B01COARRFE",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "3K+",
+   "n_ratings": 8308,
+   "organic_rank": 40,
+   "position": 52,
+   "price": 17.92,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Anthony's Premium Pea Protein, 2 lb, Plant Based, Gluten Free, Unflavored, Vegan, Keto Friendly, Made from Peas"
+  },
+  {
+   "advertised": false,
+   "asin": "B01N7DTD98",
+   "badges": [],
+   "bought_past_month": "3K+",
+   "n_ratings": 8935,
+   "organic_rank": 41,
+   "position": 53,
+   "price": 41.59,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "Garden of Life Sport Organic Plant-Based Protein Powder, 19 Servings USDA Organic"
+  },
+  {
+   "advertised": false,
+   "asin": "B0GJ2XMX8W",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "800+",
+   "n_ratings": 1153,
+   "organic_rank": 42,
+   "position": 54,
+   "price": 42.49,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "GHOST Vegan Protein Powder, Chocolate Cereal Milk - 26G Protein"
+  },
+  {
+   "advertised": false,
+   "asin": "B00XQ2XGAA",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "40K+",
+   "n_ratings": 129704,
+   "organic_rank": 43,
+   "position": 55,
+   "price": 26.36,
+   "rating": 4.6,
+   "sponsored": false,
+   "title": "Sports Research\u00ae Collagen Peptides Protein Powder 16oz (Unflavored) USDA Organic"
+  },
+  {
+   "advertised": false,
+   "asin": "B0787GY484",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 2249,
+   "organic_rank": 44,
+   "position": 56,
+   "price": null,
+   "rating": 4.3,
+   "sponsored": false,
+   "title": "OWYN Only What You Need Chocolate Flavored Protein Powder, 20g Protein, 4g Sugar, 3g Fiber, Dairy Free, Plant Based Protein Powder, 1.1LB"
+  },
+  {
+   "advertised": false,
+   "asin": "B0013OSS4M",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 1256,
+   "organic_rank": 45,
+   "position": 57,
+   "price": 26.99,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "Now Sports, Soy Protein Isolate 20g, Unflavored Powder, 2 lbs"
+  },
+  {
+   "advertised": false,
+   "asin": "B088STMCYJ",
+   "badges": [],
+   "bought_past_month": "4K+",
+   "n_ratings": 2513,
+   "organic_rank": 46,
+   "position": 58,
+   "price": 34.99,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "Orgain Organic Simple 20g Vegan Protein Powder, Chocolate, 1.25lb USDA Organic"
+  },
+  {
+   "advertised": false,
+   "asin": "B0GGYDM9KS",
+   "badges": [],
+   "bought_past_month": "500+",
+   "n_ratings": 72,
+   "organic_rank": 47,
+   "position": 59,
+   "price": 49.95,
+   "rating": 4.4,
+   "sponsored": false,
+   "title": "Grass Fed Beef Protein Powder Chocolate \u2013 Prime Animal Protein Isolate, 23g Protein, 3 Ingredients, Monk Fruit, No Stevia, Dairy Lactose Free, Keto Paleo Carnivore AIP, 25 Servings \u2013 AutoimmuniTea"
+  },
+  {
+   "advertised": false,
+   "asin": "B0FY2N9KG9",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 203,
+   "organic_rank": 48,
+   "position": 60,
+   "price": 21.99,
+   "rating": 4,
+   "sponsored": false,
+   "title": "Vegan 20g Protein Powder with 9B CFU Probiotics, Fiber, Enzymes &Superfoods"
+  },
+  {
+   "advertised": true,
+   "asin": "B084Z637KV",
+   "badges": [
+    "Save 18%"
+   ],
+   "bought_past_month": null,
+   "n_ratings": 355,
+   "organic_rank": null,
+   "position": 1,
+   "price": 37,
+   "rating": 4.4,
+   "sponsored": true,
+   "title": "Steel Supplements Veg-PRO Vegan Protein Powder, Peanut Butter, 1.65lbs"
+  },
+  {
+   "advertised": true,
+   "asin": "B0CQ8TYV1G",
+   "badges": [],
+   "bought_past_month": "200+",
+   "n_ratings": 2344,
+   "organic_rank": null,
+   "position": 2,
+   "price": 94.99,
+   "rating": 4.1,
+   "sponsored": true,
+   "title": "BIRDMAN Falcon Performance Vegan Protein Powder, 31g Protein, 5g Creatine, 5g BCAA, Probiotics, Electrolytes, Pre Workout, Low Carb, Sugar Free & Dairy Free, Plant Based Vanilla Protein - 49 Servings"
+  },
+  {
+   "advertised": true,
+   "asin": "B0DY9PYB81",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "100+",
+   "n_ratings": 17,
+   "organic_rank": null,
+   "position": 3,
+   "price": 37.58,
+   "rating": 4.8,
+   "sponsored": true,
+   "title": "Amy Myers MD The Myers Way Paleo Protein Unflavored - Supports Gut Barrier Function & Daily Protein Needs - Collagen-Based, Grass-Fed - 21.59 oz (20 Servings)"
+  },
+  {
+   "advertised": true,
+   "asin": "B09GYSJZ4K",
+   "badges": [],
+   "bought_past_month": "900+",
+   "n_ratings": 518,
+   "organic_rank": null,
+   "position": 4,
+   "price": 41.99,
+   "rating": 4.2,
+   "sponsored": true,
+   "title": "NAKED Shake - Vanilla Protein Powder - Plant Based Protein Shake with MCT Oil, NSF Certified, Gluten-Free, Soy-Free, No GMOs Or Artificial Sweeteners - 30 Servings"
+  },
+  {
+   "advertised": true,
+   "asin": "B07G37255G",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "100+",
+   "n_ratings": 168,
+   "organic_rank": null,
+   "position": 11,
+   "price": 31.99,
+   "rating": 4.2,
+   "sponsored": true,
+   "title": "26G Grass Fed Beef Protein Powder Isolate, Dairy & Gluten Free (Mocha)"
+  },
+  {
+   "advertised": true,
+   "asin": "B07CJ66NM9",
+   "badges": [],
+   "bought_past_month": "400+",
+   "n_ratings": 144,
+   "organic_rank": null,
+   "position": 12,
+   "price": 29.95,
+   "rating": 4.7,
+   "sponsored": true,
+   "title": "Plant Based Almond Protein Powder Unflavored 20 Grams - Vegan Protein Powder, All Natural Ingredients, Non-GMO, Gluten Free, Kosher, Peanut Free, Soy Free, Dairy Free (Unflavored)"
+  },
+  {
+   "advertised": true,
+   "asin": "B0052ONXQM",
+   "badges": [],
+   "bought_past_month": null,
+   "n_ratings": 659,
+   "organic_rank": null,
+   "position": 19,
+   "price": 25.29,
+   "rating": 4.4,
+   "sponsored": true,
+   "title": "MRM Nutrition Veggie Protein with Superfoods - 22g of Protein - 15 Servings"
+  },
+  {
+   "advertised": true,
+   "asin": "B0CW8KB98Y",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "2K+",
+   "n_ratings": 3593,
+   "organic_rank": null,
+   "position": 20,
+   "price": 21.6,
+   "rating": 4.6,
+   "sponsored": true,
+   "title": "BUBS Naturals Unflavored Collagen Peptides Powder, Best Proteins for Joints & Skin, Pasture Raised Grass Fed, Paleo and Keto Friendly, Whole30 Approved, Non-GMO Dairy & Gluten Free, 10oz, 14 Servings"
+  },
+  {
+   "advertised": true,
+   "asin": "B0D22RH3V1",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "1K+",
+   "n_ratings": 311,
+   "organic_rank": null,
+   "position": 21,
+   "price": 46.73,
+   "rating": 4,
+   "sponsored": true,
+   "title": "Flip My Life FLIP 7 Vegan Protein Powder Meal Replacement, Vanilla"
+  },
+  {
+   "advertised": true,
+   "asin": "B07HCGMWFL",
+   "badges": [],
+   "bought_past_month": "1K+",
+   "n_ratings": 2570,
+   "organic_rank": null,
+   "position": 22,
+   "price": 45.99,
+   "rating": 4.4,
+   "sponsored": true,
+   "title": "EarthChimp Organic Vegan Protein Powder, Plant Based, Vanilla, 2lb USDA Organic"
+  }
+ ],
+ "features": {
+  "B00K0FTJ1Q": {
+   "features": [
+    {
+     "mentions": 335,
+     "name": "ingredients",
+     "negative": 93,
+     "positive": 242,
+     "quotes": [
+      "The product has good ingredients except that, after using this product continuously for 4 days it did upset my tummy & it got worse and worse....",
+      "Checks all the boxes - plant based, good flavor, mixes well, and most importantly the serving size is 1 scoop (vs 2 scoops for most other brands).",
+      "It tastes so bad and artificial though! It completely overwhelmed my smoothie (I didn't even use a whole scoop) so I threw it out....",
+      "No weird after taste, blends up smooth and great ingredients that don\u2019t upset my stomach."
+     ],
+     "summary": "Customers appreciate the protein powder's ingredients, highlighting its organic and plant-based nature, with one customer noting it's a great alternative to whey."
+    },
+    {
+     "mentions": 118,
+     "name": "versatility",
+     "negative": 8,
+     "positive": 110,
+     "quotes": [
+      "Super sweet. Great for baking, but I found it to taste too much like slim fast for a shake.",
+      "My kids like this protein, I added a couple bananas to the shake and it was drunk very quickly.",
+      "I'm doing the Keto Diet and this is a great meal replacement. I would definitely recommend this flavor, French Vanilla....",
+      "I'm lactose intolerant and hypoglycemic and this was perfect for me."
+     ],
+     "summary": "Customers find the protein powder versatile, using it in various ways including smoothies, shakes, and as a meal replacement, with one customer noting it works well with oatmeal and baked goods."
+    },
+    {
+     "mentions": 1720,
+     "name": "taste",
+     "negative": 849,
+     "positive": 871,
+     "quotes": [
+      "Great taste and mixes with water well. Other protein shakes I have tried doesn't mix well with water and don't taste as good....",
+      "I found this vanilla flavor just awful. It was too sweet and did not taste like vanilla, and did not mix well.",
+      "It's delicious and blends well; I mix it with a collagen protein, pb2, half a banana and unsweetened almond milk. Helps for after my workouts!",
+      "Bad taste. Will not purchase again. Not even the other smoothie ingredients like bananas and blueberries can disguise this bad powder taste. Yuck."
+     ],
+     "summary": "Customers have mixed opinions about the protein powder's taste, with some loving it while others find it terrible and too sweet."
+    },
+    {
+     "mentions": 1097,
+     "name": "quality",
+     "negative": 352,
+     "positive": 745,
+     "quotes": [
+      "Five Stars",
+      "Great product, but the new container opening is smaller and is difficult to get the product out for my husband who has a larger hand.",
+      "Disgusting , gritty , horrible sweet flavor in vanilla , does not mix with liquid at all",
+      "Good product but the flavor is very chalky and leaves an after taste."
+     ],
+     "summary": "Customers have mixed opinions about the protein powder, with some finding it really good and their favorite, while others consider it terrible."
+    },
+    {
+     "mentions": 444,
+     "name": "value for money",
+     "negative": 164,
+     "positive": 280,
+     "quotes": [
+      "Great price, blends easily and has a wonderful taste. It has sugar in it and I think that could be replaced with stevia....",
+      "This has an awful taste. Don't waste your money, unless you like the artificial sugar taste.",
+      "I like that it is organic and vegan. It is a great value. It mixes up very well, with no lumps. I add it to my smoothies.",
+      "A good price but the flavor & texture is disgusting. I added it to a bowl of oatmeal (with a lot of cinnamon & vanilla) and couldn\u2019t even finish it...."
+     ],
+     "summary": "Customers have mixed opinions about the protein powder's value for money, with some finding it good value and great for the price, while others say they would never buy it again and warn not to waste money on it."
+    },
+    {
+     "mentions": 421,
+     "name": "blendability",
+     "negative": 144,
+     "positive": 277,
+     "quotes": [
+      "Checks all the boxes - plant based, good flavor, mixes well, and most importantly the serving size is 1 scoop (vs 2 scoops for most other brands).",
+      "Simply one of the most disgusting things I've ever tasted and does not blend well. It tasted and felt like I was drinking dry wall plaster.",
+      "This blends well and offers a pleasant taste without an overwhelming aftertaste or artificial sweetness that is often found in protein powders....",
+      "Easy to mix, keeps you satisfied and full. I use daily, mixed with almond milk and coffee for a breakfast drink"
+     ],
+     "summary": "Customers have mixed experiences with the protein powder's blendability, with some reporting it mixes well with just about anything and blends instantly, while others find it doesn't mix well."
+    },
+    {
+     "mentions": 339,
+     "name": "texture",
+     "negative": 231,
+     "positive": 108,
+     "quotes": [
+      "Taste is difficult to describe, not vanilla and too sweet. Thick and chalky. Will not purchase again.",
+      "Gritty, wet cardboard texture/flavor threw me over the edge. Sadly, for me, this is not drinkable.",
+      "It tastes so smooth and creamy. I am normally a chocolate person when it comes to my daily protein shakes, but I really like flavor too!...",
+      "This product is very chalky and not flavorful. If you blend it with enough fruit etc., it\u2019s okay, but I won\u2019t be purchasing it again...."
+     ],
+     "summary": "Customers have mixed opinions about the texture of the protein powder, with some finding it creamy and grit-free, while others describe it as chalky and grainy."
+    },
+    {
+     "mentions": 273,
+     "name": "digestibility",
+     "negative": 113,
+     "positive": 160,
+     "quotes": [
+      "PROS: Doesn't upset my stomach. Comes with scoop. Mine was dairy free (as compared to some other reviews) CONS: Extremely sweet....",
+      "Allegedly diary free but gave me severe gas and bloating. Only subsided after adding lactase enzyme to the shake. Deceitful labeling....",
+      "It\u2019s also easy on the stomach",
+      "It\u2019s a good protein and the price is great however it has milk and made me sick ."
+     ],
+     "summary": "Customers have mixed experiences with the protein powder's digestibility, with some reporting it keeps them feeling full and good, while others experience nausea, bloating, and diarrhea."
+    }
+   ],
+   "stars": {
+    "1": 8,
+    "2": 4,
+    "3": 9,
+    "4": 15,
+    "5": 64
+   }
+  },
+  "B01COARRFE": {
+   "features": [
+    {
+     "mentions": 830,
+     "name": "quality",
+     "negative": 140,
+     "positive": 690,
+     "quotes": [
+      "Great product,the taste is very light and can mix well with other ingredients such as fruits. No bloating or bad after taste...",
+      "Still, this is a good product. If it weren't for the broken zipper on the bags, I would give it a 4.5 or 5 star rating....",
+      "Love it! Dissolves easily. I mix a serving into my cereal to give me my protein for the meal. I do add some sweetener to take away the pea taste....",
+      "For those in the market for an unflavored vegan protein, this one is great! It is affordable and mixes well. Highly recommend!..."
+     ],
+     "summary": "Customers find this protein powder to be fantastic and recommend it, praising its quality."
+    },
+    {
+     "mentions": 365,
+     "name": "value for money",
+     "negative": 38,
+     "positive": 327,
+     "quotes": [
+      "This protein powder is a good value, but it doesn't dissolve well in beverages. I will not order it again.",
+      "Great protein powder and great value. I've been making breakfast smoothies with 1/4 cup of this product blended in and they keep me full all morning....",
+      "I use it in pancakes and smoothies daily for the family. Great price, fast shipping and good quality. Very fine and smooth....",
+      "I thought this was a good price, and I like that it is smoother and less chalky than a different brand I have purchased in the past...."
+     ],
+     "summary": "Customers find the protein powder to be excellent value, noting it's one of the least expensive options available and comes in a good size bag for the price."
+    },
+    {
+     "mentions": 284,
+     "name": "blendability",
+     "negative": 60,
+     "positive": 224,
+     "quotes": [
+      "It is affordable and mixes well. Highly recommend! The only area of improvement would be the bag seal....",
+      "I put this in my oatmeal every morning for a protein boost. Blends well, doesn't change the taste of the oatmeal....",
+      "I like that it blends well. I found it a little gritty, but not so much that it was bothersome. Would definitely purchase again.",
+      "Gritty, hard to blend and tastes like peas."
+     ],
+     "summary": "Customers find that the protein powder blends well with various products, including smoothies, baked goods, and shakes."
+    },
+    {
+     "mentions": 167,
+     "name": "protein content",
+     "negative": 25,
+     "positive": 142,
+     "quotes": [
+      "In terms of macro counting it\u2019s one of the best for vegans. High protein, no fat and barely any carbs....",
+      "Blends well in my morning smoothie. No sweetners, great, exactly what I needed....",
+      "Good source of protein.",
+      "Cheap, zero carb, high protein content - perfect. It has a neutral, ever so slightly bitter pea taste which I don't mind...."
+     ],
+     "summary": "Customers appreciate the protein content of this supplement, noting it provides 8 grams per tablespoon and can be easily added to meals. One customer mentions it hits all necessary amino acid benchmarks."
+    },
+    {
+     "mentions": 123,
+     "name": "effectiveness",
+     "negative": 16,
+     "positive": 107,
+     "quotes": [
+      "I needed a fill product for protein shakes. This gets the job done. I add my own chocolate flavoring and it tastes wonderful!",
+      "Does the job but it\u2019s like drinking sawdust in water. Letting it soak a minute and adding a little maple syrup helps a lot.",
+      "Not a big fan of the bag container but... It works. Would like it if they sold a bigger version. No scooper inside. Fyi",
+      "I use it in smoothies. Works great!"
+     ],
+     "summary": "Customers find the protein powder effective, working well in smoothies, cooking, and as a flour alternative, with one customer noting it performs well in oatmeal, muffins, and other recipes."
+    },
+    {
+     "mentions": 927,
+     "name": "taste",
+     "negative": 381,
+     "positive": 546,
+     "quotes": [
+      "I really like using this in soups. It has no flavor but makes a creamy texture and boost the protein content.",
+      "This is chalky and tasteless in my smoothies. And I realize I should have checked, but each serving only has 8 g of protein.",
+      "Flavorless and has no chalky texture to it! I swear by this protein powder! I use it in overnight oats and it is perfect!",
+      "This protein does the job but tastes awful, even when Incorporated into a fruit smoothie...."
+     ],
+     "summary": "Customers have mixed opinions about the protein powder's taste, with some finding it fine while others describe it as horrible and disgusting."
+    },
+    {
+     "mentions": 219,
+     "name": "texture",
+     "negative": 110,
+     "positive": 109,
+     "quotes": [
+      "Gritty, hard to blend and tastes like peas.",
+      "I use it in my smoothies in the morning. It's smooth and blends in nicely giving me the plant protein I need to get my day started.",
+      "That amount in a protein shake is nearly inedible. Grainy, chalky, and completely overpowers the fruit with it's wet cardboard taste....",
+      "This did have a mild flavor, not bad and while it was not gritty, it was very chalky. Couldn\u2019t use it and ended up tossing it."
+     ],
+     "summary": "Customers have mixed opinions about the protein powder's texture, with some finding it very fine and super creamy, while others report an unpleasant gritty or chalky feel."
+    },
+    {
+     "mentions": 149,
+     "name": "nutritional content",
+     "negative": 46,
+     "positive": 103,
+     "quotes": [
+      "This is the least chalky pea protein I\u2019ve found. It is unflavored and blends well in smoothies.",
+      "Flavor-free, healthy, dissolves well, helps with my daily morning breakfast fruit-and-veggie shakes.",
+      "This is not unflavored. A very chalky PEAsy after taste. Yes, this is PEA protein and so the taste of PEA is VERY strong....",
+      "I use this protein in my smoothie. It blends well, no sugar, and taste just blends with smoothie. Good value too."
+     ],
+     "summary": "Customers have mixed opinions about the protein powder's nutritional content, with some finding it nutritious and appreciating that it's unflavored with no artificial sweeteners, while others criticize its high sodium levels and unacceptably high levels of glyphosate."
+    }
+   ],
+   "stars": {
+    "1": 6,
+    "2": 3,
+    "3": 6,
+    "4": 14,
+    "5": 71
+   }
+  },
+  "B0178ENI4K": {
+   "features": [
+    {
+     "mentions": 1309,
+     "name": "taste",
+     "negative": 265,
+     "positive": 1044,
+     "quotes": [
+      "Delicious, not too dry for an energy bar, vegan, gluten free, great fiber. I have a sensitive stomach, and I tolerate these bars very well....",
+      "They are relatively low in sugar, have a great taste and texture, and are surprisingly filling. Best protein bar I\u2019ve tried!",
+      "These are chewy and tasty and don't have a chalky aftertaste! I eat them as a snack or occasionally as an on-the-go breakfast....",
+      "These are terrible. Gummy and not very flavorful. Sorry I don\u2019t wasted my money."
+     ],
+     "summary": "Customers find these protein bars delicious and satisfying, noting they are not too sweet."
+    },
+    {
+     "mentions": 320,
+     "name": "ingredients",
+     "negative": 32,
+     "positive": 288,
+     "quotes": [
+      "I buy these for on the go or for my son's breakfast. They have clean ingredients & will satisfy your hunger for hours. Staple in our home!",
+      "Plus it has great ingredients and makes me feel full. Been having 1 of these with a banana every morning for months and have never felt better....",
+      "Quality ingredients? Yes 100%. Amazing taste ehh could be better, seems a bit chalky compared to some other protein/nutrition bars out there.",
+      "Good vegan protein bar with good ingredients that tastes decent. Kind of on the gooey side but that's not a bad thing."
+     ],
+     "summary": "Customers appreciate the clean ingredients of these protein bars, particularly the peanut butter and chocolate powder, with one customer noting the absence of artificial colors and sweeteners."
+    },
+    {
+     "mentions": 255,
+     "name": "protein content",
+     "negative": 15,
+     "positive": 240,
+     "quotes": [
+      "I enjoy it more than the peanut butter cup bar. Low sugar and high protein. Good texture. Comparable to my go to brand..",
+      "This is my favorite protein bar. It tastes great, is satisfying, and doesn't have any objectionable ingredients. Bobby approves!",
+      "Great protein bar and flavor! These are perfect for a high protein snack or even meal replacement depending on your calorie needs....",
+      "These are great protein bars"
+     ],
+     "summary": "Customers appreciate the protein content of these bars, which contain 14 grams per bar, with one customer noting that it provides about one-third of their daily requirement."
+    },
+    {
+     "mentions": 176,
+     "name": "digestibility",
+     "negative": 37,
+     "positive": 139,
+     "quotes": [
+      "These are filling, but no burst of energy. What I did discover was that these are perfect to have for supper the night before a tournament....",
+      "Low in sugar and carbs AND they taste amazing and are very filling. I eat 1/2 bar for my mid day snack.",
+      "This bar has great flavor. I eat one almost daily. Keeps you full.",
+      "I do not recommend these bars. They are not very filling and not tasty at all."
+     ],
+     "summary": "Customers find the protein bar highly digestible, reporting that it keeps them full between meals and doesn't cause bloating."
+    },
+    {
+     "mentions": 148,
+     "name": "nutritional value",
+     "negative": 2,
+     "positive": 146,
+     "quotes": [
+      "I love this bar. It's healthy and easy for a vegan meal on days when I run out of time to eat (mom of four little kids)....",
+      "These are much more tasty that most protein bars and good for you. I've liked all the Aloha Bars I've tried but many are very expensive....",
+      "Ingredients are very healthy and nutritious with 3 grams of added sugar. It was a great deal during PRIME day.",
+      "These are incredibly tasty and satisfying, as well as being a healthy alternative to grabbing a candy bar off the rack...."
+     ],
+     "summary": "Customers appreciate the nutritional value of these protein bars, noting they are healthier than macro bars and compare them to chewy chocolate chip cookies. One customer mentions they provide needed vitamins."
+    },
+    {
+     "mentions": 121,
+     "name": "sugar content",
+     "negative": 14,
+     "positive": 107,
+     "quotes": [
+      "I enjoy it more than the peanut butter cup bar. Low sugar and high protein. Good texture. Comparable to my go to brand..",
+      "They\u2019re filling, low in sugar, and don\u2019t upset my stomach. I keep one in my bag for long shifts or when I\u2019m out running errands....",
+      "High protein, quality ingredients, no sugar alcohols. Excellent taste and texture.",
+      "I like the low sugar content and chocolates chips inside--nice burst of flavor."
+     ],
+     "summary": "Customers appreciate the bar's sugar content, noting it contains just 5 grams of sugars and 14 grams of protein, with no artificial sweeteners or sugar alcohols."
+    },
+    {
+     "mentions": 226,
+     "name": "value for money",
+     "negative": 108,
+     "positive": 118,
+     "quotes": [
+      "Great price. I think this is my favorite flavor. Great chunks of nuts and chocolate chips. Perfect consistency, especially out of the fridge....",
+      "Yuck! These are not worth the price, too expensive and it took a while for me to eat them all. Horrible flavor.",
+      "This flavor tastes great, and Aloha has a good value if it\u2019s on sale for at least 20% off.",
+      "The flavor is easy on the pallet as well as texture. All bars are a little pricey but under $2 for 14g of protein is fair and competitive...."
+     ],
+     "summary": "Customers have mixed opinions about the protein bar's value for money, with some finding it worth the price while others feel it's not worth the cost."
+    },
+    {
+     "mentions": 218,
+     "name": "texture",
+     "negative": 70,
+     "positive": 148,
+     "quotes": [
+      "The flavor is easy on the pallet as well as texture. All bars are a little pricey but under $2 for 14g of protein is fair and competitive....",
+      "I am a post Sleeve gal and these agree with me really well. They are soft and thinner so I put them in my purse, glovebox, etc. for a pick me up.",
+      "SO NASTY! They are chalky and taste like nothing. I usually am not too picky about protein bars but these are nasty.",
+      "If I go a day without one I miss them. Great flavor, great texture, very consistent, and they\u2019re healthy. Not too sweet, not too salty, just right...."
+     ],
+     "summary": "Customers have mixed opinions about the texture of the protein bar, with some finding it soft and chewy while others express dissatisfaction with it."
+    }
+   ],
+   "stars": {
+    "1": 4,
+    "2": 2,
+    "3": 7,
+    "4": 14,
+    "5": 73
+   }
+  },
+  "B0CW8KB98Y": {
+   "features": [
+    {
+     "mentions": 563,
+     "name": "effectiveness",
+     "negative": 57,
+     "positive": 506,
+     "quotes": [
+      "Great product! Mixes well in morning coffee, no detectable taste. I like it so much better than the previous brand I was using!",
+      "Good product. Horrible packaging. Packets busted and leaked all over in box and into mailing envelope. Huge mess",
+      "Does not mix easily; otherwise, great!",
+      "Love it, I add either to my coffee or fruit smoothie. It mixes in well. Definitely have been noticing my nails getting stronger...."
+     ],
+     "summary": "Customers find the collagen powder effective, describing it as excellent and a quality product that does what it claims."
+    },
+    {
+     "mentions": 313,
+     "name": "taste",
+     "negative": 49,
+     "positive": 264,
+     "quotes": [
+      "I have tried SO MANY collagen powders and this one truly disappears! NO taste, NO weird clumps\u2026no need for anything but a spoon....",
+      "Blends perfectly!! No clumps, tasteless, odorless. Doesn't have the \"weird mouth feel\" of that first cup, either....",
+      "High quality ingredients. Flavorless, but mixes well with anything. Noticeable difference in joints within weeks.",
+      "There is NO flavor which is perfect because I put it in my smoothie. It mixes excellent."
+     ],
+     "summary": "Customers like the taste of the collagen powder, noting that it is flavorless and mixes well."
+    },
+    {
+     "mentions": 152,
+     "name": "solubility",
+     "negative": 21,
+     "positive": 131,
+     "quotes": [
+      "Dissolves easily with no change to flavor. I\u2019m on my 3rd canister and have gifted to fam members as well.",
+      "Dissolves well and does not change the flavor of my coffee.",
+      "Great collagen! I add it to my coffee every morning. Dissolves quickly. I've been taking it about 2 weeks now and I can definitely tell a difference....",
+      "Purchased this a few times. It dissolves easily in my morning coffee and I can tell the difference in my skin, nails and hair."
+     ],
+     "summary": "Customers report that the collagen powder dissolves instantly, particularly in hot beverages and coffee, without leaving any sediment and without affecting the taste."
+    },
+    {
+     "mentions": 139,
+     "name": "skin benefits",
+     "negative": 8,
+     "positive": 131,
+     "quotes": [
+      "The best collagen. I have tried several different brands over the past 5 years and I am very impressed with Bubs. This is my 3rd reorder....",
+      "I really like how it mixes, no lumps and no taste. My skin looks better and nails are growing. Texted good. A little more money but well worth it.",
+      "This collagen is great! I've used other products in the past that don't dissolve too well even in hot beverages....",
+      "This is a great option for collagen, you can mix it into anything and not even know it's there, and your getting in your daily collagen."
+     ],
+     "summary": "Customers report positive effects on their skin and hair, noting improved texture, smoother appearance, and healthier nails."
+    },
+    {
+     "mentions": 121,
+     "name": "mixability",
+     "negative": 14,
+     "positive": 107,
+     "quotes": [
+      "Im really loving this! Its tasteless and mixes well. Its been 2 maybe 3 weeks and I can tell my nails are growing really fast.",
+      "I've taken about half the container so far. It mixes easily with very little taste but I've noticed no benefits or changes in anything....",
+      "Mixes well with coffee, no clumping just melts into the coffee.",
+      "for the last six months I put it in my protein shake every morning it mixes well."
+     ],
+     "summary": "Customers find that the collagen powder mixes well, particularly in hot or cold drinks, and can be added to various beverages including coffee, instant oatmeal, smoothies, and post-workout shakes."
+    },
+    {
+     "mentions": 89,
+     "name": "collagen quality",
+     "negative": 0,
+     "positive": 89,
+     "quotes": [
+      "Best collagen, it dissolves better in drinks.",
+      "Great collagen! I add it to my coffee every morning. Dissolves quickly. I've been taking it about 2 weeks now and I can definitely tell a difference....",
+      "Love this collagen. Mixes instantly in my morning tea. No weird taste. Hair, skin, and nails have looked better since using it. Highly recommend!...",
+      "Best collagen peptides I've ever tried! Dissolves completely in hot coffee and the results are unmatched."
+     ],
+     "summary": "Customers love this collagen supplement, particularly its ability to be used in coffee, and one customer notes it provides essential amino acids."
+    },
+    {
+     "mentions": 83,
+     "name": "side effects",
+     "negative": 12,
+     "positive": 71,
+     "quotes": [
+      "It gives me energy and I feel great but I haven\u2019t found something to mix it with that hides the taste and coffee makes me sick so I can\u2019t use coffee....",
+      "Have slowly incorporated this into my diet so far no major side effects.",
+      "I just keep going. No pain. Increased Energy....",
+      "This stuff makes my stomach feel better. I have gastritis and it normally hurts very badly, but over time this stuff has improved my pains greatly...."
+     ],
+     "summary": "Customers report positive side effects from taking this collagen supplement, including reduced body aches, pain-free experience, and improved hand comfort in the morning, while also noting it doesn't upset their stomach."
+    },
+    {
+     "mentions": 82,
+     "name": "value for money",
+     "negative": 40,
+     "positive": 42,
+     "quotes": [
+      "A bit pricey but worth it!",
+      "I\u2019ve tried with a mixer and a shaker, same thing happens. Not worth the money at all! If you happen to get a glob in your mouth it taste gross!",
+      "Repeat buyer. Great price",
+      "Nope. Waste of money for me."
+     ],
+     "summary": "Customers have mixed opinions about the value for money of the collagen powder supplement, with some finding it worth the price while others express disappointment with the cost."
+    }
+   ],
+   "stars": {
+    "1": 3,
+    "2": 1,
+    "3": 4,
+    "4": 9,
+    "5": 83
+   }
+  },
+  "B00XQ2XGAA": {
+   "features": [
+    {
+     "mentions": 16759,
+     "name": "effectiveness",
+     "negative": 1633,
+     "positive": 15126,
+     "quotes": [
+      "Great product! Noticed a difference in the softness of my skin within a few days and my joints don\u2019t seem to \u201cclick\u201d as much as they did before.",
+      "That being said I am giving this five stars because my face is almost wrinkle-free now!!...",
+      "Good product. However when I open it the power spills all over the counter. Pretty messy. I'm on my second one....",
+      "Love this product and have felt a difference in just 1 month! I have rheumatoid arthritis and it truly has helped my inflammation."
+     ],
+     "summary": "Customers find the collagen powder effective and highly recommend it, with multiple customers noting they are very satisfied with the results."
+    },
+    {
+     "mentions": 9875,
+     "name": "tasteless",
+     "negative": 1642,
+     "positive": 8233,
+     "quotes": [
+      "This has no taste and dissolves quickly in coffee. But after taking it every day until it was gone, I had no improvement in skin, nails, or hair.",
+      "Tasteless, desolves in both hot and cold liquids. After one bottle I have noticed thicker hair and has improved my joint pain!",
+      "I use it with my coffee every morning, it dissolves right into it, no flavor, and I feel like my skin looks better because of it after a few months.",
+      "Flavorless and dissolves well in my coffee. I use it daily because it seems to help the pain in my hands, which is what I notice the most...."
+     ],
+     "summary": "Customers find the collagen powder has a very slight taste."
+    },
+    {
+     "mentions": 4231,
+     "name": "joint pain",
+     "negative": 327,
+     "positive": 3904,
+     "quotes": [
+      "This has been a great addition to my morning protein shake. My joints feel better, my nails are growing like crazy, and my hair feels extra soft....",
+      "When I'm consistent with use (one scoop a day), I notice less joint pain and more flexibility. I've also noticed stronger nails and thicker hair.",
+      "I can see a difference in my hair and skin. I feel better and knees do not crack as much when I squat!",
+      "Just finishing with second one. Joint pain relief, skin better, nails growing faster, and even lab work better!<br />And I am 71."
+     ],
+     "summary": "Customers report positive effects on their joints, feeling less pain and better overall."
+    },
+    {
+     "mentions": 3997,
+     "name": "skin benefits",
+     "negative": 309,
+     "positive": 3688,
+     "quotes": [
+      "Changed my life! Great for skin and joint pain is gone.",
+      "I notice the benefits - better skin, hair, nails, but I can't get past the taste. It doesn't blend well either....",
+      "After consistently using it for 3 months I have noticed a difference in my skin, hair quality has improved and also a slight increase in energy....",
+      "Really like this product, helps my skin, nails, and hair. I exercise a lot and it keeps my joints from hurting."
+     ],
+     "summary": "Customers report positive effects on their skin and hair, noting improved appearance and reduced wrinkles."
+    },
+    {
+     "mentions": 3827,
+     "name": "dissolvability",
+     "negative": 392,
+     "positive": 3435,
+     "quotes": [
+      "Compared to other brands I used in the past, I love how this dissolves easily and no bad taste at all. I have ordered my third bottle already.",
+      "Add it to my morning coffee, has no taste, dissolves quickly. Family members have been using it for months, seems to be effective as advertised....",
+      "Dissolves well, no flavor. Excellent addition to daily diet for both the added protein and the collagen (especially good for someone with bad knees).",
+      "Using to increase collagen for upcoming surgery. Dissolves completely, makes coffee smooth and I\u2019ve done away with using creamer"
+     ],
+     "summary": "Customers find that the collagen powder dissolves easily, particularly in coffee."
+    },
+    {
+     "mentions": 3756,
+     "name": "hair and nail growth",
+     "negative": 170,
+     "positive": 3586,
+     "quotes": [
+      "I have noticed a difference in my eye lashes and hair growth as well as just feeling stronger and healthier than when I miss taking this for a week.",
+      "After about a month, my splitting nails have healed and my hair is growing faster. Easy to use, no taste, dissolves fast.",
+      "My skin is radiant, nails growing, my hair is growing, and most importantly my body aches are gone. I take this every morning with my coffee....",
+      "My skin feels softer, my nails are stronger and my hair is healthier! This is an awesome product. I even noticed that my first aging signs faded away."
+     ],
+     "summary": "Customers report positive effects on their hair and nails, noting faster growth, fuller appearance, and improved health, with some mentioning it helped with hair loss."
+    },
+    {
+     "mentions": 3632,
+     "name": "mixability",
+     "negative": 237,
+     "positive": 3395,
+     "quotes": [
+      "Tasteless, mixes well, and I'm seeing a noticeable difference in my skin. I just picked up my third tub of collagen.",
+      "Use it in my coffee every morning. Mixes easily, no clumping and does not affect the taste. Easy way to add collagen.",
+      "Easy to mix in my morning and evening tea. No taste, no clumping, no achy joints, and I feel like running again on these 56-year-old joints!",
+      "I put it in my protein shakes after a workout. It mixes well. No clumps hanging around on the top.. even if I'm in a hurry and stir with a spoon...."
+     ],
+     "summary": "Customers find that the collagen powder mixes well, particularly in coffee and hot liquids."
+    },
+    {
+     "mentions": 3283,
+     "name": "joint health",
+     "negative": 137,
+     "positive": 3146,
+     "quotes": [
+      "Our skin seems tighter, healthier and more vibrant. My joints have also been less sore and seem to move with more ease than before taking collagen.",
+      "Helps my joints, ligaments and wrinkles. I have used this product for several years and everything I just listed has improved tremendously",
+      "I have heard this product is great for joints. However, it takes 2 months. But it also helps skin. I love the way my skin is looking younger.",
+      "We love this product! Zero flavor, great benefits. We put a scoop in our morning tea, doesn't alter the flavor at all."
+     ],
+     "summary": "Customers report positive effects on joint health, noting improvements in their knees and skin, with one customer mentioning it helps with recovery from workouts."
+    }
+   ],
+   "stars": {
+    "1": 2,
+    "2": 1,
+    "3": 6,
+    "4": 13,
+    "5": 78
+   }
+  }
+ },
+ "fetch_log": [
+  {
+   "asin": "B00K0FTJ1Q",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 1992
+  },
+  {
+   "asin": "B01COARRFE",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 1774
+  },
+  {
+   "asin": "B0178ENI4K",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 2083
+  },
+  {
+   "asin": "B0CW8KB98Y",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 1868
+  },
+  {
+   "asin": "B00XQ2XGAA",
+   "status": "fetched",
+   "n_features": 8,
+   "ms": 2122
+  }
+ ],
+ "result": {
+  "best_value": {
+   "advertised": false,
+   "asin": "B01BGQ1HMQ",
+   "badges": [],
+   "bought_past_month": "6K+",
+   "n_ratings": 6038,
+   "organic_rank": 8,
+   "position": 16,
+   "price": 19.98,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Orgain Organic Vegan 21g Protein Powder, Vanilla Bean, 1.02 lb USDA Organic",
+   "fair_rating": 4.499,
+   "why": "4.50\u2605 fair rating vs 4.60\u2605 for the top-rated, for $6.38 less, $15.07 under the median price.",
+   "warn": null,
+   "risk": [],
+   "ad": false,
+   "unchecked": false
+  },
+  "best_price": {
+   "advertised": false,
+   "asin": "B00K0FTJ1Q",
+   "badges": [
+    "Black Friday Deal"
+   ],
+   "bought_past_month": "4K+",
+   "n_ratings": 13467,
+   "organic_rank": 18,
+   "position": 30,
+   "price": 15.22,
+   "rating": 4.2,
+   "sponsored": false,
+   "title": "Purely Inspired Plant-Based Protein Powder, Creamy French Vanilla USDA Organic",
+   "features": [
+    {
+     "mentions": 335,
+     "name": "ingredients",
+     "negative": 93,
+     "positive": 242,
+     "quotes": [
+      "The product has good ingredients except that, after using this product continuously for 4 days it did upset my tummy & it got worse and worse....",
+      "Checks all the boxes - plant based, good flavor, mixes well, and most importantly the serving size is 1 scoop (vs 2 scoops for most other brands).",
+      "It tastes so bad and artificial though! It completely overwhelmed my smoothie (I didn't even use a whole scoop) so I threw it out....",
+      "No weird after taste, blends up smooth and great ingredients that don\u2019t upset my stomach."
+     ],
+     "summary": "Customers appreciate the protein powder's ingredients, highlighting its organic and plant-based nature, with one customer noting it's a great alternative to whey."
+    },
+    {
+     "mentions": 118,
+     "name": "versatility",
+     "negative": 8,
+     "positive": 110,
+     "quotes": [
+      "Super sweet. Great for baking, but I found it to taste too much like slim fast for a shake.",
+      "My kids like this protein, I added a couple bananas to the shake and it was drunk very quickly.",
+      "I'm doing the Keto Diet and this is a great meal replacement. I would definitely recommend this flavor, French Vanilla....",
+      "I'm lactose intolerant and hypoglycemic and this was perfect for me."
+     ],
+     "summary": "Customers find the protein powder versatile, using it in various ways including smoothies, shakes, and as a meal replacement, with one customer noting it works well with oatmeal and baked goods."
+    },
+    {
+     "mentions": 1720,
+     "name": "taste",
+     "negative": 849,
+     "positive": 871,
+     "quotes": [
+      "Great taste and mixes with water well. Other protein shakes I have tried doesn't mix well with water and don't taste as good....",
+      "I found this vanilla flavor just awful. It was too sweet and did not taste like vanilla, and did not mix well.",
+      "It's delicious and blends well; I mix it with a collagen protein, pb2, half a banana and unsweetened almond milk. Helps for after my workouts!",
+      "Bad taste. Will not purchase again. Not even the other smoothie ingredients like bananas and blueberries can disguise this bad powder taste. Yuck."
+     ],
+     "summary": "Customers have mixed opinions about the protein powder's taste, with some loving it while others find it terrible and too sweet."
+    },
+    {
+     "mentions": 1097,
+     "name": "quality",
+     "negative": 352,
+     "positive": 745,
+     "quotes": [
+      "Five Stars",
+      "Great product, but the new container opening is smaller and is difficult to get the product out for my husband who has a larger hand.",
+      "Disgusting , gritty , horrible sweet flavor in vanilla , does not mix with liquid at all",
+      "Good product but the flavor is very chalky and leaves an after taste."
+     ],
+     "summary": "Customers have mixed opinions about the protein powder, with some finding it really good and their favorite, while others consider it terrible."
+    },
+    {
+     "mentions": 444,
+     "name": "value for money",
+     "negative": 164,
+     "positive": 280,
+     "quotes": [
+      "Great price, blends easily and has a wonderful taste. It has sugar in it and I think that could be replaced with stevia....",
+      "This has an awful taste. Don't waste your money, unless you like the artificial sugar taste.",
+      "I like that it is organic and vegan. It is a great value. It mixes up very well, with no lumps. I add it to my smoothies.",
+      "A good price but the flavor & texture is disgusting. I added it to a bowl of oatmeal (with a lot of cinnamon & vanilla) and couldn\u2019t even finish it...."
+     ],
+     "summary": "Customers have mixed opinions about the protein powder's value for money, with some finding it good value and great for the price, while others say they would never buy it again and warn not to waste money on it."
+    },
+    {
+     "mentions": 421,
+     "name": "blendability",
+     "negative": 144,
+     "positive": 277,
+     "quotes": [
+      "Checks all the boxes - plant based, good flavor, mixes well, and most importantly the serving size is 1 scoop (vs 2 scoops for most other brands).",
+      "Simply one of the most disgusting things I've ever tasted and does not blend well. It tasted and felt like I was drinking dry wall plaster.",
+      "This blends well and offers a pleasant taste without an overwhelming aftertaste or artificial sweetness that is often found in protein powders....",
+      "Easy to mix, keeps you satisfied and full. I use daily, mixed with almond milk and coffee for a breakfast drink"
+     ],
+     "summary": "Customers have mixed experiences with the protein powder's blendability, with some reporting it mixes well with just about anything and blends instantly, while others find it doesn't mix well."
+    },
+    {
+     "mentions": 339,
+     "name": "texture",
+     "negative": 231,
+     "positive": 108,
+     "quotes": [
+      "Taste is difficult to describe, not vanilla and too sweet. Thick and chalky. Will not purchase again.",
+      "Gritty, wet cardboard texture/flavor threw me over the edge. Sadly, for me, this is not drinkable.",
+      "It tastes so smooth and creamy. I am normally a chocolate person when it comes to my daily protein shakes, but I really like flavor too!...",
+      "This product is very chalky and not flavorful. If you blend it with enough fruit etc., it\u2019s okay, but I won\u2019t be purchasing it again...."
+     ],
+     "summary": "Customers have mixed opinions about the texture of the protein powder, with some finding it creamy and grit-free, while others describe it as chalky and grainy."
+    },
+    {
+     "mentions": 273,
+     "name": "digestibility",
+     "negative": 113,
+     "positive": 160,
+     "quotes": [
+      "PROS: Doesn't upset my stomach. Comes with scoop. Mine was dairy free (as compared to some other reviews) CONS: Extremely sweet....",
+      "Allegedly diary free but gave me severe gas and bloating. Only subsided after adding lactase enzyme to the shake. Deceitful labeling....",
+      "It\u2019s also easy on the stomach",
+      "It\u2019s a good protein and the price is great however it has milk and made me sick ."
+     ],
+     "summary": "Customers have mixed experiences with the protein powder's digestibility, with some reporting it keeps them feeling full and good, while others experience nausea, bloating, and diarrhea."
+    }
+   ],
+   "complaints": [
+    "taste 49% negative (849/1720)",
+    "quality 32% negative (352/1097)",
+    "value for money 37% negative (164/444)",
+    "blendability 34% negative (144/421)",
+    "texture 68% negative (231/339)",
+    "digestibility 41% negative (113/273)"
+   ],
+   "neg_share": 0.412,
+   "low_star_pct": 21,
+   "fair_rating": 4.204,
+   "warn": "taste 49% negative (849/1720)",
+   "risk": [
+    "taste 49% negative (849/1720)",
+    "quality 32% negative (352/1097)",
+    "value for money 37% negative (164/444)",
+    "blendability 34% negative (144/421)",
+    "texture 68% negative (231/339)",
+    "digestibility 41% negative (113/273)"
+   ],
+   "ad": false,
+   "unchecked": false
+  },
+  "amazon_pick": {
+   "advertised": false,
+   "asin": "B00J074W7Q",
+   "badges": [
+    "Overall Pick"
+   ],
+   "bought_past_month": "60K+",
+   "n_ratings": 62809,
+   "organic_rank": 1,
+   "position": 5,
+   "price": 31.98,
+   "rating": 4.5,
+   "sponsored": false,
+   "title": "Orgain Organic Vegan 21g Protein Powder, Vanilla Bean, 2.03 lb USDA Organic",
+   "fair_rating": 4.5,
+   "warn": null,
+   "risk": [],
+   "ad": false,
+   "unchecked": false,
+   "pick_reason": "badge"
+  },
+  "stats": {
+   "items": 56,
+   "avg_rating": 4.37,
+   "median_price": 35.05,
+   "ads": 12
+  }
+ }
+}
