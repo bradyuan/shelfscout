@@ -93,12 +93,13 @@ async def run(cfg: dict, searches: int = 3, per_search: int = 20, holder: list |
     return r.id
 
 
-def race_svg(seq_s: float, con_s: float, checks: int, model: str, loop_s: float = 20.0) -> str:
-    """Animated SVG for the README: both bars on the same (sped-up) clock, so the gap is honest."""
+def race_svg(seq_s: float, con_s: float, checks: int, model: str, speed: float = 100.0) -> str:
+    """Animated SVG for the README: both bars on the same clock sped up `speed`x, so the gap is honest."""
     W, X0, BAR = 720, 150, 470
-    scale = seq_s / loop_s                   # real seconds per animation second
+    scale = speed                            # real seconds per animation second
+    loop_s = seq_s / speed
     con_d = max(con_s / scale, 0.25)
-    total = loop_s + 3                       # hold the finished state for 3 s, then replay
+    total = round(loop_s + 3, 2)                      # hold the finished state for 3 s, then replay
     def fmt(sec):
         return f"{sec:,.0f} s ({sec / 60:.0f} min)" if sec >= 120 else f"{sec:,.0f} s"
     def bar(y, label, dur, color, end_text):
