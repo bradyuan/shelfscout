@@ -67,10 +67,13 @@ flowchart LR
 
 ### Benchmark: latency
 
-The off-topic filter run two ways, one at a time vs all at once, on the same products with `gemini-3.8-flash`:
-29 saved Amazon searches × 5 products each = 145 checks each mode.
+**Problem:** calling the agents one by one spends a huge amount of time just waiting for the AI provider to answer.
+**Solution:** run all the calls concurrently.
 
 ![Bar race: all at once finishes in 72 s while one at a time takes 19 min](docs/latency-race.svg)
+
+The off-topic filter run two ways, one at a time vs all at once, on the same products with `gemini-3.8-flash`:
+29 saved Amazon searches × 5 products each = 145 checks each mode.
 
 | Mode | Wall time | Per check p50 / p95 | Throughput | Errors |
 |---|---|---|---|---|
